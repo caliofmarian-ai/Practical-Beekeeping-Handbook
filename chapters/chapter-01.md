@@ -26,31 +26,6 @@ By the end of this handbook, the reader should possess the knowledge necessary t
 
 ---
 
-## The History of Beekeeping
-
-The relationship between humans and honey bees began thousands of years before the first organised civilisations appeared. Long before people learned to cultivate crops or domesticate livestock, they searched forests, cliffs, and hollow trees for wild honey. Honey was one of the first natural sweeteners available to humans and represented an important source of carbohydrates, minerals, and energy.
-
-Some of the earliest evidence of honey hunting is found in prehistoric cave paintings in Spain, dating back approximately 8,000 years. These paintings depict a person climbing vines or ropes to collect honey from a wild bee colony while surrounded by flying bees. This demonstrates that honey collection was already an established activity during prehistoric times.
-
-Ancient Egyptians were among the first people known to practice organised beekeeping. Around 2400 BC, they kept honey bee colonies in clay hives placed along the Nile River. Egyptian beekeepers even transported hives by boat to follow the flowering season, allowing colonies to forage continuously as different plants bloomed. Honey was highly valued not only as food but also for medicine, religious ceremonies, and embalming.
-
-In Ancient Greece, philosophers such as Aristotle carefully observed honey bee behaviour and described many aspects of colony life. Although some conclusions were later proven incorrect, his work laid important foundations for the scientific study of bees.
-
-The Romans further developed beekeeping techniques and recognised the economic importance of honey and beeswax. Beeswax became an essential material for candles, writing tablets, waterproofing, and numerous household applications.
-
-Throughout the Middle Ages, monasteries played a major role in preserving beekeeping knowledge. Monks maintained apiaries to produce honey for food and beeswax for church candles. During this period, beekeeping spread widely across Europe.
-
-For centuries, most colonies were kept in fixed-comb hives made from straw, woven baskets, hollow logs, or clay. Harvesting honey often required destroying the colony because the combs could not be removed individually.
-
-A major breakthrough occurred in 1851 when Reverend Lorenzo Lorraine Langstroth discovered the principle of "bee space." He recognised that honey bees consistently leave a gap of approximately 6 to 9 millimetres between combs. This discovery led to the invention of the movable-frame hive, allowing beekeepers to inspect colonies without destroying the comb.
-
-Modern beekeeping is built upon this invention. Today, movable-frame hives enable colony inspections, disease monitoring, queen management, honey harvesting, and sustainable long-term colony care while minimising disturbance to the bees.
-
-Although equipment and scientific knowledge have advanced considerably, the fundamental principles of successful beekeeping remain unchanged: understanding bee biology, respecting natural colony behaviour, and providing suitable conditions for healthy colony development.
-
-
----
-
 ## The Importance of Beekeeping Today
 
 Modern beekeeping extends far beyond the production of honey. Healthy honey bee colonies are an essential component of global agriculture and natural ecosystems. Millions of hectares of crops depend, either directly or indirectly, on insect pollination to achieve good yields and produce high-quality fruits and seeds.
