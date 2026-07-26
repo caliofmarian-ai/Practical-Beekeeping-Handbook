@@ -1,27 +1,48 @@
 # Start Here
 
-This folder contains the working structure for the **Practical Beekeeping Handbook**.
+This repository contains the working source for the Practical Beekeeping Handbook.
 
-## How to work on the phone
+## Official Workflow
 
-1. Extract this ZIP into your phone's internal storage.
-2. Open the folder with QuickEdit.
-3. Save each chapter inside `chapters/`.
-4. Save illustrations and photos inside the matching folders under `assets/`.
-5. Periodically upload or synchronize the entire project with GitHub.
+1. Work from the repository root.
+2. Save official manuscript chapters inside chapters/.
+3. Follow the chapter order in docs/BOOK_OUTLINE.md.
+4. Follow all rules inside docs/standards/.
+5. Use figure placeholders during manuscript drafting.
+6. Add final illustrations during the illustration and layout stage.
+7. Commit and push every completed issue.
 
-## Chapter naming format
+## Official Chapter Naming Format
 
-`chapters/Chapter-01-Introduction-to-Beekeeping.md`
+- chapters/chapter-01.md
+- chapters/chapter-02.md
+- chapters/chapter-03.md
 
-## Image naming format
+## Official Image Naming Format
 
-`assets/illustrations/chapter-01-figure-01.png`
+- assets/illustrations/chapter-01-figure-01.png
 
-## Markdown image reference
+## Markdown Image Reference
 
-```md
-![Figure description](../assets/illustrations/chapter-01-figure-01.png)
+![External anatomy of a worker honey bee](assets/illustrations/chapter-06-figure-01.png)
 
-*Figure 1.1 — Figure caption.*
-```
+*Figure 6.1 — External anatomy of a worker honey bee.*
+
+## Manuscript Rule
+
+ASCII diagrams are not permitted in the final manuscript.
+
+During drafting, use a figure placeholder:
+
+> **Figure 6.1 — External anatomy of a worker honey bee.**
+> *Professional illustration to be added during the illustration and layout stage.*
+
+## Canonical Documents
+
+- README.md
+- docs/BOOK_OUTLINE.md
+- docs/REPOSITORY_STRUCTURE.md
+- docs/standards/WRITING_STANDARDS.md
+- docs/standards/ILLUSTRATION_STANDARDS.md
+- docs/standards/TABLE_STANDARDS.md
+- docs/standards/CITATION_GUIDE.md
