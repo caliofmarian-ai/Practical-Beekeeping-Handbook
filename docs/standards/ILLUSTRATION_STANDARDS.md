@@ -159,6 +159,467 @@ assets/
 
 Retain editable source files where possible.
 
+
+## Visual Composition and Hierarchy
+
+Every visual must have one clear educational purpose.
+
+The most important subject must be visually dominant. Secondary details must support the explanation without competing with the main subject.
+
+Use:
+
+- clear spacing between components;
+- consistent alignment;
+- logical grouping;
+- a clear reading order;
+- sufficient empty space around labels;
+- visual emphasis only where it improves understanding.
+
+Avoid placing unrelated information in the same figure merely to save space.
+
+Complex subjects should be divided into multiple figures rather than compressed into one crowded image.
+
+## Reading Direction
+
+The preferred reading directions are:
+
+- left to right for sequences and workflows;
+- top to bottom for vertical processes;
+- outside to inside for hive cross-sections;
+- chronological order for biological and seasonal cycles.
+
+Arrows, numbering, and panel labels must make the intended order unmistakable.
+
+Where a visual uses an unusual reading direction, explain it in the caption.
+
+## Colour Palette
+
+The handbook should use a restrained and consistent colour palette.
+
+Recommended functional colours include:
+
+- charcoal or near-black for text and principal outlines;
+- honey gold for wax, honey, and highlighted beekeeping elements;
+- natural green for vegetation, forage, or acceptable biological conditions;
+- muted blue for water, airflow, ventilation, or environmental context;
+- amber or orange for caution;
+- red for immediate hazards, severe disease signs, or prohibited actions;
+- light grey for secondary structures and neutral backgrounds.
+
+Colour must communicate meaning rather than serve only as decoration.
+
+The same colour must not represent conflicting meanings in different visuals.
+
+Every visual must remain understandable:
+
+- in grayscale;
+- to readers with colour-vision deficiencies;
+- on a low-quality screen;
+- when reduced to final handbook size.
+
+Use labels, symbols, patterns, or different line styles whenever colour communicates an important distinction.
+
+## Contrast
+
+Text, labels, arrows, and safety symbols must have strong contrast against their backgrounds.
+
+Do not place labels directly over visually complex photographs unless a solid or semi-opaque panel is used.
+
+Avoid:
+
+- light grey text on white;
+- dark text over dark photographs;
+- patterned backgrounds behind small labels;
+- low-contrast warning symbols.
+
+Safety information must remain clearly visible in both colour and grayscale.
+
+## Typography inside Visuals
+
+Use a clean sans-serif typeface for diagram labels and explanatory text.
+
+The selected typeface must:
+
+- remain readable at final publication size;
+- support all required characters and symbols;
+- permit legal use in the final publication;
+- remain consistent throughout the handbook.
+
+Use no more than two font weights in one visual.
+
+Recommended hierarchy:
+
+- internal heading: semibold;
+- principal labels: regular or medium;
+- explanatory notes: regular;
+- warnings: semibold with an appropriate warning symbol.
+
+Avoid:
+
+- decorative fonts;
+- handwritten fonts;
+- heavily condensed fonts;
+- long paragraphs inside an image;
+- labels written entirely in capital letters.
+
+All text must be tested at normal mobile size and final printed size.
+
+## Lines, Borders, and Leader Lines
+
+Use consistent line weights within each visual family.
+
+Structural outlines should be visually stronger than:
+
+- dimension lines;
+- leader lines;
+- internal detail lines;
+- movement arrows;
+- background objects.
+
+Leader lines must:
+
+- point precisely to the labelled component;
+- avoid crossing other lines where possible;
+- end clearly at the intended structure;
+- avoid passing through unrelated text.
+
+Borders should be used only when they clarify grouping or boundaries.
+
+Decorative frames and ornamental borders are not permitted.
+
+## Arrows and Movement
+
+Arrow styles must remain consistent.
+
+Use:
+
+- solid arrows for physical movement or direct process flow;
+- dashed arrows for optional, indirect, or inferred movement;
+- double-headed arrows for distance or two-way movement;
+- circular arrows only for genuine repeating cycles.
+
+Do not use an arrow without making clear what moves or changes.
+
+Airflow, bee movement, beekeeper actions, heat movement, and liquid flow should use distinct labels or styles where confusion is possible.
+
+## Scale, Proportion, and Dimensions
+
+Use realistic proportions wherever practical.
+
+Where exact scale is unnecessary, include:
+
+> Simplified diagram — not to scale.
+
+When dimensions affect construction, compatibility, bee space, safety, or operation, include verified measurements.
+
+Dimension lines must:
+
+- identify the exact points being measured;
+- use metric units;
+- remain separate from object outlines;
+- avoid unnecessary precision;
+- agree with the chapter text and relevant tables.
+
+Exploded views must preserve the correct order and relationship of components.
+
+## Perspective and Orientation
+
+Choose the viewpoint that best supports the educational purpose.
+
+Approved views include:
+
+- front view;
+- side view;
+- top view;
+- cross-section;
+- cutaway;
+- exploded view;
+- close-up detail;
+- sequential panels;
+- beekeeper point-of-view.
+
+Add orientation labels where confusion is possible, including:
+
+- front;
+- rear;
+- entrance side;
+- top;
+- inside;
+- outside;
+- brood area;
+- honey-storage area.
+
+Do not reverse the orientation of equipment between related visuals without explanation.
+
+## Bees, Brood, Comb, and Honey
+
+Representations of honey bees and colony structures must remain biologically credible.
+
+### Adult Bees
+
+Adult bees must have:
+
+- six legs;
+- two antennae;
+- correctly arranged body regions;
+- plausible wing placement;
+- caste-appropriate proportions.
+
+Worker, queen, and drone bees must not be distinguished only through arbitrary colours.
+
+### Brood
+
+Brood illustrations must distinguish, where relevant:
+
+- eggs;
+- young larvae;
+- older larvae;
+- capped worker brood;
+- capped drone brood;
+- queen cells;
+- empty cells;
+- abnormal or diseased brood.
+
+Cell contents must be positioned realistically.
+
+### Comb
+
+Comb must show credible hexagonal cell structure and natural continuity.
+
+Avoid:
+
+- biologically impossible cell orientation;
+- unrealistic attachment points;
+- perfectly uniform artificial patterns when showing natural comb;
+- brood, pollen, and stores placed without biological logic;
+- exaggerated cell dimensions.
+
+### Honey, Nectar, and Pollen
+
+Honey, nectar, pollen, and capped stores must use distinct labels, symbols, or patterns.
+
+Do not rely on colour alone to distinguish them.
+
+## Disease and Pest Illustrations
+
+Visuals concerning disease, parasites, poisoning, or colony decline require additional technical review.
+
+They must:
+
+- identify whether the visual shows a confirmed sign, a possible sign, or a comparison example;
+- avoid suggesting that one visible symptom alone proves a diagnosis;
+- distinguish normal variation from abnormal conditions;
+- include scale where pest size may be misunderstood;
+- avoid dramatic exaggeration;
+- agree with current scientific and veterinary guidance.
+
+Microscopic or magnified views must state the magnification or clearly indicate that enlargement was used.
+
+## Safety Illustrations
+
+Safety-critical visuals must clearly show the safe condition or action.
+
+Relevant subjects include:
+
+- smoker use;
+- fire prevention;
+- protective clothing;
+- lifting hive boxes;
+- chemical treatments;
+- moving colonies;
+- securing hives during transport;
+- emergency responses.
+
+Unsafe practices must not appear as neutral or acceptable examples.
+
+Where safe and unsafe actions are compared, use explicit labels such as:
+
+- Recommended
+- Not recommended
+- Correct
+- Incorrect
+- Hazard
+
+A red cross alone is not sufficient when the reason for the hazard may be unclear.
+
+## Photographs
+
+Every photograph must serve a specific educational purpose.
+
+A photograph should show:
+
+- a clearly identifiable subject;
+- adequate focus and exposure;
+- relevant scale or context;
+- safe and realistic practice;
+- no unnecessary personal information;
+- no misleading staging.
+
+Avoid photographs containing:
+
+- unreadable equipment details;
+- excessive background clutter;
+- unsafe handling presented without warning;
+- identifiable addresses or private documents;
+- visible product endorsement without editorial reason;
+- distressing content without educational necessity.
+
+## Photograph Editing
+
+Permitted editing includes:
+
+- cropping;
+- exposure correction;
+- white-balance correction;
+- minor sharpening;
+- removal of dust or sensor artefacts;
+- addition of labels, arrows, scale bars, or privacy masking.
+
+Editing must not:
+
+- add or remove biological evidence;
+- change disease signs;
+- duplicate bees, pests, cells, brood, or equipment;
+- create false colony conditions;
+- conceal unsafe practices;
+- alter measurements or proportions;
+- imply that separate photographs show one continuous event.
+
+Composite images must be clearly identified as composites.
+
+## Alt Text
+
+Alt text must communicate the educational meaning of the visual, not merely name the object.
+
+Weak example:
+
+> Beehive image.
+
+Preferred example:
+
+> Cross-section of a vertical movable-frame hive showing the floor, lower brood chamber, queen excluder, two honey supers, inner cover, and roof.
+
+Alt text should:
+
+- identify the visual type;
+- state the principal subject;
+- describe important relationships;
+- mention process direction where relevant;
+- communicate safety-critical information;
+- avoid repeating the caption word for word.
+
+Purely decorative images should normally be omitted.
+
+## Asset Metadata
+
+Every approved visual must have traceable metadata.
+
+Record, where applicable:
+
+- figure number;
+- title;
+- chapter;
+- file name;
+- visual type;
+- creator;
+- creation date;
+- revision date;
+- editable source location;
+- reference material;
+- licence;
+- required attribution;
+- AI assistance used;
+- reviewer;
+- approval status;
+- caption;
+- alt text.
+
+Metadata may be stored in an accompanying Markdown file or in a central asset register.
+
+## Visual Production Workflow
+
+Use the following workflow:
+
+1. Define the educational purpose.
+2. Select the required visual type.
+3. Check the chapter text and terminology.
+4. Collect reliable technical references.
+5. Create a rough layout.
+6. Produce the editable source.
+7. Add labels, caption, and alt text.
+8. Check technical and biological accuracy.
+9. Test readability in print and on mobile.
+10. Check grayscale and accessibility.
+11. Record source and licence information.
+12. Complete technical review.
+13. Complete editorial review.
+14. Approve and place the final asset.
+15. Reference the visual in the chapter text.
+
+No visual may move directly from generation to publication without review.
+
+## Asset Status
+
+Use one of the following statuses:
+
+- Planned
+- Research required
+- Draft
+- Technical review
+- Editorial review
+- Revision required
+- Approved
+- Published
+- Rejected
+- Replaced
+
+Only visuals marked `Approved` may be included in release exports.
+
+## Prohibited Visual Practices
+
+Do not:
+
+- copy an online image without confirmed permission;
+- trace copyrighted material to avoid attribution;
+- use an AI-generated image without technical review;
+- depict impossible bee anatomy;
+- invent equipment and present it as established practice;
+- use colour as the only information carrier;
+- publish unreadable labels;
+- conceal scientific uncertainty;
+- reuse one image for unrelated biological conditions;
+- use altered photographs as diagnostic evidence;
+- include unnecessary logos or trademarks;
+- publish an asset without source and licence records.
+
+## Additional Review Requirements
+
+Before approval, confirm that:
+
+- [ ] The visual has one clear educational purpose.
+- [ ] The composition has a clear focal point.
+- [ ] Reading direction is obvious.
+- [ ] Colour use follows the handbook standard.
+- [ ] Meaning remains clear in grayscale.
+- [ ] Fonts and labels remain readable at final size.
+- [ ] Lines, arrows, and symbols are consistent.
+- [ ] Scale and proportions are appropriate.
+- [ ] Bee anatomy and comb structure are credible.
+- [ ] Disease visuals do not imply unsupported diagnosis.
+- [ ] Safety-critical actions are represented correctly.
+- [ ] Photograph editing has not altered evidence.
+- [ ] Alt text communicates the educational purpose.
+- [ ] Asset metadata is complete.
+- [ ] The asset status is `Approved`.
+
+## Revision History
+
+| Version | Date | Summary |
+|---|---|---|
+| 1.0 | 26 July 2026 | Initial illustration standard. |
+| 1.1 | 26 July 2026 | Added technical accuracy, numbering, captions, formats, accessibility, licensing, AI review, storage, and approval rules. |
+| 1.2 | 26 July 2026 | Added composition, colour, typography, scale, biological representation, photography, safety visuals, metadata, workflow, status control, and expanded review requirements. |
+
 ## Review Checklist
 
 - [ ] Clear educational purpose
