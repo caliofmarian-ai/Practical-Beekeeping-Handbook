@@ -390,3 +390,153 @@ The internal organ systems, sensory organs, and specialised adaptations allow ho
 
 A sound understanding of honey bee biology enables beekeepers to recognise healthy colonies, interpret bee behaviour, diagnose problems more effectively, and make informed management decisions throughout the beekeeping season.
 
+
+---
+
+## Practical Anatomy Checklist
+
+During an inspection, the beekeeper does not normally examine the microscopic anatomy of individual bees. However, visible anatomical features can provide important information about colony health.
+
+Use this checklist when unusual bees are seen:
+
+- [ ] Wings are normally formed and held correctly.
+- [ ] Bees can walk and fly normally.
+- [ ] Legs and antennae are intact.
+- [ ] The abdomen has a normal shape.
+- [ ] Body hairs are present and not excessively worn.
+- [ ] No large numbers of trembling or crawling bees are present.
+- [ ] No bees with shortened or deformed wings are observed.
+- [ ] Workers are carrying pollen normally.
+- [ ] Drones appear only in numbers appropriate to the season.
+- [ ] The queen, when seen, has a normally developed abdomen and moves steadily across the comb.
+- [ ] Dead or abnormal bees are investigated rather than immediately attributed to a single cause.
+
+Anatomical abnormalities alone do not always identify a disease. Similar symptoms may result from viruses, parasites, poisoning, starvation, chilling, injury, old age, or developmental problems. Observations should be combined with brood examination, colony history, parasite monitoring, and local veterinary guidance where necessary.
+
+---
+
+## Anatomy-Based Inspection Guide
+
+| Observation | Possible Meaning | Appropriate Response |
+|---|---|---|
+| Deformed or shortened wings | Possible viral damage associated with high Varroa pressure | Assess the whole colony and measure Varroa infestation promptly |
+| Large numbers of crawling bees | Disease, poisoning, chilling, starvation, or wing damage | Examine brood, food stores, recent treatments, weather, and pesticide exposure |
+| Hairless, dark, shiny workers | Age-related wear, robbing activity, or possible disease symptoms | Compare several bees and assess colony behaviour before drawing conclusions |
+| Damaged antennae or legs on isolated bees | Normal injury or wear | Monitor; isolated injuries usually do not indicate a colony-wide problem |
+| Queen with a small abdomen and poor brood pattern | Queen failure, poor mating, disease, or food shortage | Confirm eggs and brood pattern, then evaluate whether requeening is required |
+| Workers unable to extend the proboscis normally | Injury, contamination, or severe illness | Investigate recent chemical exposure and colony condition |
+| Numerous dead drones outside the hive in autumn | Seasonal drone eviction | Usually normal if the colony is otherwise healthy |
+| Pollen baskets consistently empty during suitable weather | Limited forage, poor weather, or colony disruption | Check flowering plants, weather conditions, brood demand, and food reserves |
+
+This table is a diagnostic aid, not a substitute for a complete colony examination.
+
+---
+
+## Important Anatomical Terms
+
+| Term | Meaning |
+|---|---|
+| Abdomen | Rear body region containing major digestive, reproductive, respiratory, wax-producing, and defensive structures |
+| Antenna | Paired sensory organ used for smell, taste, touch, temperature, humidity, and communication |
+| Compound eye | Eye formed from many visual units, specialised for movement detection and navigation |
+| Corbicula | Smooth pollen basket on the hind leg of a worker bee |
+| Crop | Expandable honey stomach used to transport nectar and water |
+| Haemolymph | Circulating body fluid of insects |
+| Hamuli | Small hooks joining the forewing and hindwing during flight |
+| Mandibles | Paired mouthparts used for handling wax, food, brood, and hive materials |
+| Ocellus | One of three simple eyes that detect light intensity |
+| Proboscis | Feeding structure used to collect liquid food |
+| Spiracle | External opening through which air enters the tracheal system |
+| Thorax | Middle body region containing the legs, wings, and flight muscles |
+| Trachea | Air tube that carries oxygen directly to body tissues |
+| Wax gland | Abdominal gland that produces wax scales in worker bees |
+
+---
+
+## Common Misconceptions
+
+### “The honey stomach is the bee’s digestive stomach”
+
+The crop, commonly called the honey stomach, is primarily a transport and temporary storage organ. Nectar carried in the crop is largely kept separate from the food passing into the midgut for digestion.
+
+### “All female bees can reproduce like the queen”
+
+Workers and queens are both female, but their reproductive systems develop differently. Worker ovaries are normally suppressed by colony conditions and pheromonal signals. In a hopelessly queenless colony, some workers may lay unfertilised eggs, which develop only into drones.
+
+### “A bee breathes through its mouth”
+
+Honey bees obtain oxygen through spiracles connected to a network of tracheae. Their mouthparts are used for feeding and manipulating materials, not for lung-like breathing.
+
+### “A bee has only two wings”
+
+A honey bee has two pairs of wings. During flight, the forewing and hindwing on each side connect through the hamuli and work together.
+
+### “The sting is simply a sharp needle”
+
+The sting is a specialised apparatus involving lancets, muscles, venom glands, a venom sac, and associated structures. In workers, the barbed sting commonly remains in mammalian skin.
+
+### “Large eyes mean that drones see everything better”
+
+Drone eyes are particularly adapted to detecting and following queens during mating flights. This does not mean drones are superior to workers in every form of vision or navigation.
+
+---
+
+## Safety Note
+
+Bee anatomy is directly relevant to safe sting management. A worker sting may continue injecting venom after the bee has departed because muscles attached to the detached sting apparatus continue operating briefly.
+
+Remove an embedded sting promptly. Speed is generally more important than whether it is scraped or pinched. Avoid squeezing the venom sac unnecessarily, wash the area, and observe for symptoms of a serious allergic reaction.
+
+Difficulty breathing, swelling of the tongue or throat, dizziness, collapse, confusion, or widespread rapidly developing symptoms require emergency medical assistance.
+
+Detailed sting first aid and allergic-reaction procedures are covered in the dedicated safety chapter.
+
+---
+
+## Review Questions
+
+1. What are the three principal body regions of a honey bee?
+2. Which structures are found on the bee’s head?
+3. How do compound eyes differ from ocelli?
+4. What sensory information can the antennae detect?
+5. How are the forewings and hindwings connected during flight?
+6. Which structures allow worker bees to collect and transport pollen?
+7. What is the function of the crop or honey stomach?
+8. How does oxygen reach the bee’s internal tissues?
+9. What is haemolymph?
+10. Why are the large compound eyes of drones important?
+11. Which anatomical features distinguish workers from queens and drones?
+12. Why does a worker bee commonly die after stinging a mammal?
+13. What visible abnormalities may indicate that a colony requires investigation?
+14. Why should anatomical symptoms not be used alone to diagnose disease?
+15. How can knowledge of bee anatomy improve practical colony management?
+
+---
+
+## Figure Placeholders
+
+- **Figure 6.1:** External anatomy of a worker honey bee, showing the head, thorax, abdomen, wings, legs, antennae, and major visible structures.
+- **Figure 6.2:** Detailed structures of the honey bee head, including compound eyes, ocelli, antennae, mandibles, and proboscis.
+- **Figure 6.3:** Thorax and wing arrangement, showing the forewings, hindwings, hamuli, legs, and flight muscles.
+- **Figure 6.4:** Specialised structures of a worker bee’s hind leg, including the pollen comb, pollen press, and corbicula.
+- **Figure 6.5:** Internal digestive system, showing the oesophagus, crop, proventriculus, midgut, hindgut, and rectum.
+- **Figure 6.6:** Tracheal respiratory system and external spiracles.
+- **Figure 6.7:** Worker wax glands and the production of wax scales.
+- **Figure 6.8:** Worker sting apparatus, including the lancets, venom sac, and venom glands.
+- **Figure 6.9:** Comparative external anatomy of a queen, worker, and drone.
+- **Figure 6.10:** Anatomy-based observation pathway: observe, compare, inspect the colony, test where appropriate, and act.
+
+Illustrations will be produced during the final layout and illustration stage. No provisional ASCII diagrams are included in the manuscript.
+
+---
+
+## References and Further Reading
+
+- Carreck, N. L., Andree, M., Brent, C. S., Cox-Foster, D., Dade, H. A., Ellis, J. D., Hatjina, F., and van Englesdorp, D. “Standard Methods for Apis mellifera Anatomy and Dissection.” *Journal of Apicultural Research*, 52(4), 2013.
+- Chapman, R. F. *The Insects: Structure and Function*. Cambridge University Press.
+- Dade, H. A. *Anatomy and Dissection of the Honeybee*. International Bee Research Association.
+- Goodman, L. J. *Form and Function in the Honey Bee*. International Bee Research Association.
+- Snodgrass, R. E. *Anatomy of the Honey Bee*. United States Department of Agriculture.
+- Winston, M. L. *The Biology of the Honey Bee*. Harvard University Press.
+
+These sources provide detailed anatomical and biological information. Diagnostic and treatment decisions should additionally follow current local veterinary, regulatory, and laboratory guidance.
