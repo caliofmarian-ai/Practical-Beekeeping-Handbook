@@ -1,797 +1,692 @@
-# Chapter 54 — Comb Honey
+# Chapter 52 — Comb Honey Production
 
 ## Introduction
 
-Comb honey is honey presented to the consumer in the wax cells in which the bees stored and ripened it. It is one of the least processed hive foods and one of the most demanding to produce consistently.
+Comb honey is honey sold in the beeswax cells in which the colony stored and ripened it. It is one of the least mechanically processed hive foods and one of the most demanding products to make consistently well.
 
-Unlike extracted honey, comb honey must succeed simultaneously as honey, edible wax structure, visual product, and package component. The colony must build fresh straight comb, fill it rapidly during a strong nectar flow, cap it attractively, and avoid brood, pollen, excessive propolis, travel stain, breakage, and high-moisture honey.
+The beekeeper is asking the colony to produce three saleable qualities at the same time: mature honey, tender new wax, and an attractive finished presentation. That combination changes the production strategy. A colony that produces an excellent crop for extraction may still produce poor section honey if it builds slowly, swarms, stains finished cappings, stores pollen in the saleable comb, or fails to complete retail units before the nectar flow ends.
 
-Current European honey law defines comb honey as honey stored by bees in the cells of freshly built broodless combs or of thin comb foundation made solely of beeswax and sold in sealed whole combs or sections of such combs. Similar principles appear in Codex descriptions of honey presentations. This legal definition illustrates an important practical rule: comb intended to be eaten should be fresh, clean, and broodless.
+Comb honey therefore depends more strongly than ordinary extracted-honey production on timing. The colony must be exceptionally strong before the main flow, have a good queen, have damaging Varroa pressure controlled, possess enough young wax-producing bees, and receive the comb-honey super when nectar intake is accelerating. Strong swarm-management preparation is essential because the biological conditions that favour rapid comb construction also favour swarming.
 
-Comb honey production therefore begins before the super is placed. Strong colonies, good queens, low parasite pressure, swarm control, suitable equipment, and a dependable heavy nectar flow are prerequisites. The greatest economic risk is often not poor honey but unfinished sections: bees may start dozens of units but fail to fill and cap them before the flow ends.
+Current European honey rules define comb honey as honey stored by bees in the cells of freshly built broodless combs, or thin comb foundation made solely of beeswax, and sold in sealed whole combs or sections. Other jurisdictions use their own legal wording. Whatever the market, the practical principle is the same: edible comb should be fresh, clean, broodless, food-safe, mature, and traceable.
+
+This chapter focuses on producing the crop in the hive. Chapter 48 covers general harvest controls, Chapter 54 covers wax processing after removal from the hive, and Chapter 55 examines beeswax as a product and raw material.
 
 ## Learning Objectives
 
 After completing this chapter, the reader should be able to:
 
-- define comb honey and distinguish its major product forms;
-- explain why fresh broodless comb is essential;
-- prepare colonies for section or cut-comb production;
-- choose foundation, starter strips, or foundationless systems appropriately;
-- time comb-honey supers to the nectar flow;
-- manage congestion and swarm pressure without disrupting production;
-- recognise complete, marketable sections and common defects;
-- assess maturity using capping, moisture, and lot context;
-- harvest and remove bees without damaging delicate comb;
-- cut, drain, package, freeze or store comb honey hygienically and safely;
-- control wax moth, small hive beetle, heat, odour, and condensation risks;
-- maintain traceability and truthful product identity.
+- define comb honey and distinguish section, round, frame, cut-comb, and chunk-honey systems;
+- explain why saleable comb must be freshly built and broodless;
+- select colonies suitable for comb-honey production;
+- prepare the worker population several weeks before the main flow;
+- manage queen condition, Varroa, nutrition, and swarm pressure before adding comb-honey supers;
+- choose thin beeswax foundation, starter strips, or foundationless systems appropriately;
+- understand how hive level, spacing, temperature, and section geometry influence comb construction;
+- time super placement using nectar-flow evidence rather than fixed calendar dates;
+- recognise finished, unfinished, stained, pollen-filled, cross-combed, and heat-damaged sections;
+- assess ripeness without assuming that capping appearance is an exact moisture test;
+- remove, grade, cut, package, and protect comb honey hygienically;
+- manage wax-moth, small-hive-beetle, heat, moisture, odour, and traceability risks;
+- evaluate the economics of marketable sections rather than honey mass alone.
 
-## 54.1 What Is Comb Honey?
+## 52.1 What Makes Comb Honey Different?
 
-Comb honey is honey sold together with the edible beeswax comb in which it was produced.
+In extracted-honey production, the wax comb is primarily reusable production equipment. In comb-honey production, the wax itself becomes part of the retail product.
 
-The wax is not merely packaging. It is part of the food presentation and therefore must be managed as a food-contact and edible hive product.
+That means the beekeeper must protect:
 
-The highest-quality comb honey is generally:
+- honey maturity;
+- wax tenderness;
+- capping appearance;
+- absence of brood history;
+- absence of treatment contamination;
+- straightness and structural integrity;
+- food hygiene;
+- visual grade.
 
-- built recently;
-- free from brood history;
-- light-coloured and tender;
-- filled with mature honey;
-- well capped;
-- free from leakage, debris, and foreign odours.
+Comb honey is therefore both an apicultural crop and a presentation crop.
 
-## 54.2 Legal Product Definitions
+## 52.2 Main Product Forms
 
-Product definitions vary by market.
+Common forms include:
 
-Under the current EU honey framework, comb honey is honey stored by bees in cells of freshly built broodless comb or thin comb foundation made solely of beeswax and sold in sealed whole combs or sections.
+- square or rectangular sections;
+- round or cassette sections;
+- entire shallow frames sold as whole comb;
+- cut comb placed into retail trays or boxes;
+- chunk honey, where pieces of broodless comb are packed with liquid honey when permitted and correctly labelled.
 
-This is a legal example, not a universal wording for every country. Producers should check the standard governing the market where the product is sold.
+Each form has different labour, completion, packaging, and grading requirements.
 
-## 54.3 Product Forms
+## 52.3 Section Systems
 
-Common comb-honey formats include:
-
-- traditional square or rectangular sections;
-- round sections or cassettes;
-- full shallow frames sold whole;
-- cut comb placed in retail boxes;
-- chunks of comb packed with liquid honey where legally permitted and correctly named.
-
-Each system changes labour, completion rate, packaging, and consumer presentation.
-
-## 54.4 Section Comb Honey
-
-Section systems divide a super into small consumer-sized units.
+A section super divides the available space into small consumer-sized units.
 
 Advantages include:
 
-- little or no cutting after harvest;
 - attractive intact cappings;
-- clean presentation;
-- individual retail units.
+- no post-harvest cutting for the main unit;
+- uniform retail presentation;
+- easy individual grading.
 
 Disadvantages include:
 
 - many edges and corners that bees may leave unfinished;
-- greater equipment complexity;
-- strong dependence on a heavy flow;
-- high loss if sections are only partly completed.
+- greater equipment cost;
+- strong dependence on a rapid flow;
+- a high proportion of incomplete units in a weak year.
 
-## 54.5 Round Comb Systems
+## 52.4 Round or Cassette Systems
 
-Round plastic or food-compatible cassette systems encourage bees to build circular sections.
+Round systems use preformed rings or cassettes that guide comb construction.
 
-Benefits can include:
+They can simplify retail presentation, but performance depends on:
 
-- uniform retail shape;
-- easy packaging;
-- reduced cutting mess.
+- correct assembly;
+- colony strength;
+- correct super placement;
+- bee acceptance of the material;
+- flow intensity;
+- completion of outer units as well as central units.
 
-Limitations include:
+Reusable food-contact parts must be cleaned and replaced when damaged.
 
-- proprietary equipment;
-- incomplete outer units;
-- plastic component cleaning and replacement;
-- need for correct assembly and baiting according to the system.
+## 52.5 Cut Comb
 
-## 54.6 Cut Comb
-
-Cut comb is produced on a larger sheet or frame and later cut into retail portions.
+Cut comb is produced on a larger frame and divided after harvest.
 
 Advantages include:
 
-- fewer small section boundaries during construction;
+- fewer internal section boundaries for bees to finish;
+- simpler hive equipment;
 - flexible retail sizes;
-- simpler hive equipment.
+- easier conversion of partly irregular comb into saleable pieces.
 
 Challenges include:
 
-- sticky cutting work;
-- edge drainage;
-- exact net-weight control;
-- delicate packaging;
-- more exposed honey surfaces after cutting.
+- sticky cutting operations;
+- exposed edges that leak;
+- need for drainage before packing;
+- variable piece weight;
+- greater need for hygienic cutting surfaces.
 
-## 54.7 Why Fresh Comb Matters
+## 52.6 Fresh Broodless Comb
 
-Fresh wax is generally lighter, more tender, and more pleasant to chew than old brood comb.
+Fresh comb is essential because brood use changes wax permanently.
 
 Brood comb accumulates:
 
-- cocoons;
-- larval faecal material;
+- cocoon layers;
+- larval residues;
 - propolis;
 - pollen residues;
-- possible treatment residues;
-- darker pigments.
+- darker pigments;
+- potentially more lipophilic treatment residues.
 
-Comb that has reared brood is therefore unsuitable for premium edible comb honey.
+A brood frame does not become premium edible comb merely because the brood has emerged.
 
-## 54.8 Broodless Means Broodless
+## 52.7 Brood Exclusion
 
-Do not extract or sell a brood-containing frame as comb honey by cutting around visible brood.
+Saleable comb-honey supers should remain broodless.
 
-Brood history matters even after adults emerge because cocoons and residues remain in the cells.
+A queen excluder can help, but it is not the only management method and it does not remove the need to inspect the crop.
 
-Use dedicated comb-honey supers and prevent queen access according to the hive system.
+If brood appears in a section intended for sale as comb honey, that section should be excluded from the comb-honey product stream.
 
-## 54.9 Queen Exclusion
+## 52.8 Colony Selection
 
-A queen excluder can help maintain broodless comb-honey supers.
+The best production colonies are usually:
 
-However, an excluder can also influence bee movement and congestion.
+- very populous;
+- queenright;
+- rapidly growing before the flow;
+- healthy;
+- low in damaging Varroa pressure;
+- well supplied with young adult workers;
+- not already committed to swarming.
 
-Management options depend on:
+Weak colonies commonly produce unfinished, propolised, or irregular sections.
 
-- colony strength;
-- hive type;
-- local flow intensity;
-- section system;
-- swarm pressure.
+## 52.9 Population Must Peak at the Right Time
 
-Whatever system is used, inspect the crop and ensure brood has not entered the saleable comb.
+A worker requires about three weeks from egg to emergence and additional time before becoming a typical forager.
 
-## 54.10 Why Strong Colonies Are Essential
+Therefore, colony preparation begins several weeks before the expected crop.
 
-Comb honey requires bees to perform three energy-intensive tasks quickly:
+A colony that becomes strong after the main flow cannot recover lost production time.
 
-1. secrete wax;
-2. build a large amount of new comb;
-3. fill and ripen it before the nectar flow ends.
+## 52.10 Young Bees and Wax Production
 
-Weak colonies often start slowly, leave corners empty, or fail to cap sections completely.
+Young adult workers are especially important wax producers.
 
-Production colonies should be healthy and populous before the flow begins.
+Comb construction is favoured by:
 
-## 54.11 Colony Population Timing
+- strong nectar intake;
+- warm hive conditions;
+- a high population;
+- many young workers;
+- a clear need for additional comb.
 
-The foraging and wax-building workforce must exist when the flow starts.
+Comb honey therefore benefits from both a large field force and a large internal workforce.
 
-A worker develops from egg to adult over about three weeks and requires additional time before typical foraging age.
+## 52.11 Queen Performance
 
-Comb-honey preparation therefore begins several weeks before the expected major flow.
+A failing queen can limit the workforce long before the crop begins.
 
-## 54.12 Queen Quality
-
-A good production queen supports a large, balanced worker population.
-
-Before the crop, assess:
+Before production, examine:
 
 - brood pattern;
-- colony growth;
-- queen age/history;
-- signs of supersedure;
-- disease and Varroa status.
+- brood quantity;
+- queen age and history;
+- supersedure signs;
+- colony growth rate.
 
-Replacing a failing queen after the main flow starts is usually too late to restore that crop.
+Replacing a poor queen during the main flow is usually too late to restore maximum production that season.
 
-## 54.13 Varroa and Colony Health
+## 52.12 Varroa Control Before the Crop
 
-Comb-honey colonies should enter the production period with damaging Varroa pressure under control.
+High Varroa pressure can shorten worker lifespan and reduce colony population just when maximum labour is required.
 
-Visible deformed bees or collapsing brood patterns indicate lost productive capacity.
+Comb-honey colonies should enter production with Varroa managed according to current local guidance.
 
-Treatment planning must also protect the food crop: only authorised products and label-compliant timing may be used, and treatment restrictions around honey supers must be followed.
+Any treatment must also comply with honey-super, residue, and withdrawal restrictions. Because consumers eat the wax as well as the honey, wax-contaminating treatments deserve particular attention.
 
-## 54.14 Swarm Pressure
+## 52.13 Feeding Before Production
 
-The conditions that make a colony excellent for comb honey—large population, strong incoming nectar, crowding, abundant young bees—also favour swarming.
+Supplemental feed can support colony buildup when natural stores are inadequate, but feeding must stop or be managed so that feed syrup cannot enter the marketable honey crop.
 
-A swarm can remove much of the workforce and leave sections unfinished.
+Never create a floral-origin claim on comb that could contain stored feeding syrup.
 
-Swarm management must begin before queen cells are advanced.
+Records should distinguish colony-support feeding from natural crop production.
 
-## 54.15 Swarm Management Without Ruining the Crop
+## 52.14 Swarming Is the Major Biological Threat
 
-Possible strategies include:
+Comb-honey production requires exactly the conditions that often increase swarming:
+
+- high population;
+- strong nectar flow;
+- many young bees;
+- rapid comb occupation;
+- limited space.
+
+A swarm removes a large fraction of the workforce and can leave expensive sections unfinished.
+
+## 52.15 Swarm Prevention Must Begin Early
+
+Useful measures include:
 
 - maintaining adequate brood-nest space;
-- timely colony manipulation before the flow;
-- using proven local anti-swarm systems;
+- avoiding severe congestion before the flow;
+- using proven local pre-swarm manipulations;
 - selecting less swarm-prone stock;
-- removing or redistributing brood before production where appropriate;
-- making planned splits early enough that production colonies recover.
+- making planned splits early enough for production colonies to recover;
+- monitoring queen cells at appropriate intervals.
 
-Repeatedly tearing the hive apart during a major flow can also reduce productivity. Plan rather than react.
+Repeatedly dismantling colonies during peak flow can also reduce production. Preparation is better than constant reaction.
 
-## 54.16 A Strong Nectar Flow Is the Main Engine
+## 52.16 Nectar Flow Requirements
 
-Comb honey is most successful during a rapid, concentrated nectar flow.
+A concentrated strong flow is ideal because bees must build and fill new wax rapidly.
 
-A strong flow encourages:
+Strong flows encourage:
 
 - wax secretion;
-- rapid comb extension;
-- cell filling;
-- quick ripening;
-- clean white cappings.
+- rapid cell building;
+- fast filling;
+- ripening;
+- clean new cappings.
 
-A weak, intermittent flow often produces partially finished sections and stained comb.
+Weak intermittent flows often result in incomplete sections and heavy propolisation.
 
-## 54.17 Why Minor Flows Are Difficult
+## 52.17 Use Phenology, Not a Fixed Date
 
-During a weak flow, bees may:
+Super timing should use:
 
-- build only the centre of sections;
-- propolise edges;
-- use space for pollen;
-- stop construction during dearth;
-- consume earlier stores;
-- resume later with uneven comb.
+- flowering stage;
+- weather;
+- scale-hive weight gain;
+- fresh nectar in the colony;
+- increasing white-wax production;
+- local historical records.
 
-The resulting product can be safe but commercially unattractive.
+A date that worked last year can be wrong after a cold spring, drought, or unusually early bloom.
 
-## 54.18 Flow Forecasting
+## 52.18 When to Add the Comb-Honey Super
 
-Use the methods from Chapter 47:
-
-- local phenology;
-- weather forecast;
-- scale-hive trends;
-- field observation;
-- historical bloom records.
-
-Place expensive section equipment because evidence indicates a flow is beginning—not simply because the calendar says so.
-
-## 54.19 Timing the Super
-
-Place the comb-honey super when the colony is strong and nectar intake is beginning to accelerate.
+Add the super when the colony is strong and a useful flow is beginning or imminent.
 
 Too early:
 
-- bees may ignore the super;
-- wax remains unbuilt;
-- propolis accumulates;
-- the colony has extra volume to heat.
+- bees may ignore the equipment;
+- propolis can accumulate;
+- the colony must heat unused volume;
+- sections can become travel-stained before filling.
 
 Too late:
 
-- the brood nest backfills;
-- swarm pressure increases;
-- peak nectar is lost before cells exist.
+- nectar backfills the brood nest;
+- swarm pressure rises;
+- peak flow is lost before cells are available.
 
-## 54.20 Baiting the Super
+## 52.19 Drawn Comb Is Usually Not the Saleable Product
 
-Some systems use a small amount of drawn light comb or a previously started section to encourage bees upward.
+Premium comb honey should generally be built as fresh comb for that crop.
 
-For a product legally intended as fresh broodless comb, any bait material must not compromise product identity or introduce old brood comb into the saleable unit.
+Old drawn comb can be used elsewhere in the hive for management, but placing old brood or heavily stained drawn comb in the saleable section defeats the purpose of the product.
 
-Follow the design of the section system and applicable standard.
+## 52.20 Thin Beeswax Foundation
 
-## 54.21 Foundation Choices
+Very thin foundation can guide construction while leaving only a small amount of pre-manufactured wax in the edible comb.
 
-Comb-honey systems can use:
+It should be:
 
-- very thin pure beeswax foundation;
-- narrow starter strips;
-- foundationless guides;
-- proprietary section inserts designed for the system.
-
-The correct choice depends on desired wax thickness, straightness, labour, and legal/product requirements.
-
-## 54.22 Thin Beeswax Foundation
-
-Thin foundation provides a guide while reducing the amount of pre-existing wax consumers must chew.
-
-Quality matters.
-
-Foundation should be:
-
-- genuine beeswax where the product definition requires it;
+- genuine beeswax where required by product definition;
 - clean;
-- free from objectionable odours;
+- free of strong foreign odours;
 - appropriately thin;
-- stored away from heat and contamination.
+- protected from heat and contamination.
 
-## 54.23 Foundation Adulteration
+## 52.21 Foundation Authenticity
 
-Beeswax foundation can be adulterated with paraffin, stearin, or other waxes.
+Beeswax foundation can be adulterated with paraffin, stearin, or other materials.
 
-This can alter:
+Possible consequences include:
 
-- comb strength;
-- acceptance by bees;
-- melting behaviour;
-- product authenticity.
+- altered comb strength;
+- poor acceptance;
+- abnormal sagging;
+- misleading product identity.
 
-Use trusted wax sources and quality controls, especially when the comb itself will be eaten.
+Use trusted foundation and consider laboratory verification when commercial risk justifies it.
 
-## 54.24 Starter Strips
+## 52.22 Starter Strips
 
-A narrow starter strip allows bees to construct most of the comb naturally.
+A starter strip provides a small guide from which bees build most of the comb naturally.
 
-Advantages:
+Advantages include:
 
-- very tender new wax;
-- minimal purchased foundation;
-- natural construction.
+- tender newly secreted wax;
+- reduced purchased foundation;
+- natural comb construction.
 
-Risks:
+Risks include:
 
 - cross-comb;
 - curved comb;
-- attachment failure;
-- uneven section filling.
+- weak attachment;
+- uneven filling.
 
-Hive level and guide alignment become critical.
+## 52.23 Foundationless Guides
 
-## 54.25 Foundationless Comb
+Foundationless systems can produce excellent edible comb but require good equipment geometry and hive levelling.
 
-Foundationless comb can produce excellent edible wax but is mechanically delicate.
+Fresh unsupported comb is mechanically delicate, especially when warm and full of honey.
 
-Support requirements depend on:
+## 52.24 Hive Level
 
-- section dimensions;
-- temperature;
-- comb attachment;
-- transport.
+Bees use gravity during comb construction.
 
-Do not tilt warm unsupported fresh comb horizontally.
+If a hive is badly tilted relative to the intended comb plane, natural comb can drift away from guides and cross neighbouring spaces.
 
-## 54.26 Hive Levelling
+Level the hive appropriately before foundationless construction begins.
 
-Bees use gravity while constructing comb.
+## 52.25 Correct Spacing
 
-A badly tilted hive can encourage comb that drifts away from guides.
+Spacing determines bee passage and comb thickness.
 
-Level the hive appropriately for the frame orientation before a foundationless or starter-strip super is built.
+Poor spacing can create:
 
-## 54.27 Spacing
-
-Correct section and frame spacing helps bees build straight comb of usable thickness.
-
-Too much or too little space can cause:
-
-- bulges;
-- cross-comb;
+- bulged comb;
 - brace comb;
-- narrow passages;
-- poorly filled edges.
+- irregular thickness;
+- cross-comb;
+- unfinished corners.
 
-Use the dimensions specified by the equipment system.
+Use the dimensions intended for the section or frame system.
 
-## 54.28 Warmth and Wax Building
+## 52.26 Section Geometry
 
-Wax secretion and construction are strongest when:
+Bees often begin building in the warm central area and finish outer units later.
 
-- the colony is populous;
-- nectar is abundant;
-- young wax-producing bees are present;
-- hive temperature supports wax work.
+Corners and narrow spaces are more likely to remain incomplete.
 
-This is another reason small colonies struggle with comb-honey supers.
+A beekeeper should evaluate not only total super weight but the percentage of units reaching marketable completion.
 
-## 54.29 White Wax
+## 52.27 Occupation of the Super
 
-Fresh wax is normally pale, often nearly white when first produced.
+Signs of useful occupation include:
 
-It can become darker through:
+- bees covering most units;
+- white wax appearing at edges;
+- fresh nectar in newly built cells;
+- rapid increase in super weight.
 
-- propolis;
-- pollen;
-- age;
-- handling;
-- smoke;
-- contact with old equipment.
+A few bees exploring the super does not mean production has truly started.
 
-Premium comb honey benefits from keeping saleable comb away from stained hive parts.
+## 52.28 Avoid Over-Inspection
 
-## 54.30 Capping Appearance
+Comb-honey colonies need enough inspection to manage swarming and space, but excessive manipulation:
 
-Comb honey may show:
+- breaks wax;
+- chills brood;
+- interrupts foraging;
+- crushes bees;
+- damages cappings.
 
-- dry white cappings with an air space beneath the wax;
-- wetter translucent cappings where wax contacts honey;
-- mixed patterns.
+Use focused inspections with a defined purpose.
 
-Capping appearance is influenced by genetics and honey type as well as management.
+## 52.29 Super Position
 
-A white dry capping is often preferred commercially but is not by itself a measure of honey purity.
+Some systems place new comb-honey supers above existing supers, while others position them closer to the brood nest to encourage occupation.
 
-## 54.31 Capping Completeness
+The best method depends on hive design, colony strength, and local experience.
 
-A premium section is usually almost completely filled and capped.
+Any manipulation should avoid splitting brood or creating temperature stress.
 
-Unfilled cells or large uncapped areas reduce:
+## 52.30 White Wax as a Flow Indicator
 
-- visual grade;
-- net weight;
-- storage stability confidence.
+Fresh white wax often accompanies strong incoming nectar and active construction.
 
-However, capping alone is not an exact moisture test.
+It is a useful field sign but can also be stimulated by feeding, so interpret it with crop history and records.
 
-## 54.32 Moisture
+## 52.31 Unfinished Sections
 
-As with extracted honey, moisture is central to stability.
+Common reasons for incomplete sections include:
 
-If sections contain substantial uncapped honey or were produced during humid interrupted weather, use representative refractometer checks from comparable comb or sacrificial samples according to the quality system.
+- flow ended;
+- colony too weak;
+- swarming;
+- queen failure;
+- poor super timing;
+- excessive number of units;
+- cold weather;
+- section geometry;
+- low bee acceptance.
 
-Do not damage every retail section merely to obtain a moisture reading.
+Diagnose the cause rather than assuming the colony was simply “lazy”.
 
-## 54.33 Representative Moisture Strategy
+## 52.32 Travel Stain
 
-Possible strategies include:
+Travel stain is discoloration of cappings caused by bees walking repeatedly over completed comb.
 
-- sampling companion frames produced in the same super and period;
-- testing edge sections from a production batch;
-- sampling cut-comb offcuts;
-- using retained sections for destructive quality checks.
+It increases when finished sections remain on a populous hive too long.
 
-Document how the sample represents the saleable lot.
+Harvest promptly once the crop is mature and removal conditions are suitable.
 
-## 54.34 Legal Moisture Limits
+## 52.33 Propolis Staining
 
-The legal compositional moisture standard depends on market and honey type.
+Bees may propolise section edges when nectar intake is weak or when gaps invite sealing.
 
-Current EU rules generally use a 20% maximum for ordinary honey with named exceptions.
+Heavy propolis reduces visual grade and increases cleaning labour.
 
-As elsewhere in this handbook, a legal maximum is not a universal recommendation to harvest at that value.
+Rapid completion during a strong flow is the best preventive strategy.
 
-## 54.35 Brood, Pollen, and Propolis Defects
+## 52.34 Pollen in Saleable Comb
 
-Premium comb honey should avoid:
+A small amount of pollen is natural in the hive, but pollen-packed cells reduce the expected comb-honey presentation and chewing quality.
 
-- brood or brood cocoons;
-- large pollen areas;
-- heavy propolis;
-- bee parts;
-- dirt.
+Strong nectar flows generally encourage nectar storage over pollen storage in dedicated honey supers.
 
-A small amount of naturally occurring pollen in honey is normal, but pollen-packed cells reduce the expected product presentation.
+## 52.35 Capping Appearance
 
-## 54.36 Travel Stain
+Cappings can appear:
 
-Travel stain describes discoloration of cappings from bees walking over finished comb.
+- white and dry, with an air space beneath;
+- translucent or wet-looking, where wax contacts honey;
+- mixed.
 
-It increases when completed sections remain on a populous colony for too long.
+Genetics and geometry influence capping appearance.
 
-Harvest finished units promptly when the crop and moisture conditions permit.
+White cappings are often preferred commercially but are not a purity test.
 
-## 54.37 Why Finished Sections Should Not Linger
+## 52.36 Capping Completeness
 
-Delaying harvest can lead to:
+A premium section is usually nearly completely filled and capped.
 
-- travel stain;
-- propolis deposition;
-- damage from handling;
-- robbing risk later;
-- wax moth or beetle exposure after colony weakening;
-- mixing with a later floral flow.
+Incomplete capping reduces visual grade and increases uncertainty about ripeness.
 
-Do not remove immature honey merely to avoid stain; balance both factors.
+However, capping percentage alone is not an exact moisture measurement.
 
-## 54.38 Removing Bees
+## 52.37 Honey Moisture
 
-Comb honey is more fragile than extracted-honey comb.
+Comb honey is still honey and must meet applicable compositional and stability requirements.
 
-Suitable bee-removal methods include:
+If weather has been humid, the flow was interrupted, or many cells remain uncapped, use a representative quality-control strategy rather than guessing.
+
+## 52.38 Representative Moisture Sampling
+
+Because destructive sampling damages a retail section, operators can use:
+
+- companion frames from the same super and period;
+- edge or lower-grade sections;
+- cut-comb offcuts;
+- retained samples from representative units.
+
+The method should be documented so the sample can reasonably represent the lot.
+
+## 52.39 Legal Limits Are Not Harvest Targets
+
+Current EU rules generally use a maximum moisture of 20% for ordinary honey, with named exceptions.
+
+That is a legal compositional example, not a recommendation that every comb-honey lot should be harvested at 20%.
+
+Lower moisture often gives a larger fermentation-safety margin.
+
+## 52.40 Removing Bees
+
+Methods include:
 
 - bee escapes;
 - gentle brushing;
-- careful shaking where structure allows;
-- controlled blower systems in larger operations.
+- carefully controlled shaking;
+- clean blowers in larger operations.
 
-Avoid methods that contaminate wax or crush delicate sections.
+Comb-honey wax is fragile, so the least damaging effective method should be chosen.
 
-## 54.39 Bee Escapes
+## 52.41 Bee Escapes
 
-Escapes are attractive for section honey because they reduce direct mechanical contact.
+Bee escapes can remove most bees without direct mechanical disturbance.
 
-They require:
+They work best when:
 
-- bee-tight placement;
-- no brood in the super;
-- appropriate timing;
-- protection against pests and temperature extremes.
+- the super contains no brood;
+- equipment is bee-tight;
+- timing is appropriate;
+- the crop will not be left exposed to pests or heat for too long.
 
-Do not leave completed sections unattended for unnecessarily long periods.
-
-## 54.40 Brushing
+## 52.42 Brushing
 
 Use a clean soft brush dedicated to food-honey work.
 
-Brush gently from section surfaces without breaking cappings.
+A brush that contacts soil, dirty floors, fuel, or chemicals should not immediately return to food contact.
 
-A brush dropped on soil or a dirty floor should not return directly to food contact.
+## 52.43 Shaking
 
-## 54.41 Shaking
+A strong frame can sometimes be shaken to remove bees, but new natural comb can tear under sudden acceleration.
 
-Shaking can remove bees quickly from strong framed cut-comb units, but unsupported fresh comb can tear.
+Consider:
 
-Assess:
-
-- comb attachment;
+- comb age;
 - temperature;
-- frame design;
-- honey weight.
+- attachment;
+- honey weight;
+- frame design.
 
-Do not use the same force appropriate for wired extracted-honey comb.
+## 52.44 Blowers
 
-## 54.42 Blowers
-
-Blowers can be fast, but air must be clean.
+Blowers can increase harvest speed but must deliver clean air.
 
 Avoid:
 
-- combustion exhaust on product;
-- excessive pressure that breaks cappings;
-- blowing dust from floors or boxes into honey.
+- combustion exhaust;
+- floor dust;
+- excessive pressure;
+- capping damage.
 
-## 54.43 Smoke
+## 52.45 Smoke
 
 Use the minimum clean smoke necessary.
 
-Comb honey is eaten with its wax, making smoke taint and soot particularly undesirable.
+Because comb wax is eaten, smoke taint and soot are particularly undesirable.
 
 Never use painted, treated, plastic, oily, or chemically contaminated smoker fuel.
 
-## 54.44 Handling Completed Sections
+## 52.46 Handling Fresh Comb
 
 Fresh filled comb is heavy and soft.
 
-Handle sections:
+Handle:
 
-- upright where practical;
-- with clean dry hands/gloves as appropriate;
-- by rigid edges rather than cappings;
-- away from heat;
+- upright where possible;
+- by rigid section edges;
+- with clean hands or appropriate gloves;
+- away from direct sun and heat;
 - in covered food-grade trays.
 
-## 54.45 Heat Damage
+## 52.47 Heat Damage
 
-Warm wax softens dramatically.
+Beeswax softens well below its full melting point.
 
-A closed vehicle in sunlight can cause:
+A hot closed vehicle can cause:
 
-- comb sagging;
+- sagging;
 - cell rupture;
 - leakage;
-- collapsed sections.
+- total comb collapse.
 
-Transport promptly under controlled conditions.
+Protect the crop during transport.
 
-## 54.46 Receiving the Crop
+## 52.48 Grading
 
-At the honey room:
+Grade criteria can include:
 
-1. verify lot identity;
-2. inspect for leakage and brood;
-3. segregate damaged or suspect units;
-4. protect from bees and pests;
-5. move finished sections toward grading/packing promptly.
-
-Comb honey generally needs less mechanical processing than extracted honey but more visual handling.
-
-## 54.47 Grading
-
-A grading system can evaluate:
-
-- degree of filling;
+- degree of fill;
 - capping completeness;
-- capping colour/cleanliness;
-- comb straightness;
-- leakage;
-- pollen/propolis;
+- capping cleanliness;
 - travel stain;
+- comb straightness;
+- pollen/propolis;
+- leakage;
 - section weight;
-- damage;
 - foreign material.
 
-Use written grades if multiple workers pack the crop.
+Use written criteria when more than one person grades the crop.
 
-## 54.48 Premium Grade
+## 52.49 Premium Grade
 
-A premium section typically has:
+A premium unit usually has:
 
-- nearly complete fill;
-- attractive capping;
-- little or no stain;
-- no brood;
+- near-complete filling;
+- attractive intact cappings;
+- tender new wax;
+- no brood history;
+- little staining;
 - no leakage;
-- clean tender wax;
-- good retail weight.
+- acceptable net quantity;
+- good sensory quality.
 
-Exact commercial grades vary by buyer and country.
+Commercial buyer standards may be stricter.
 
-## 54.49 Lower Grades
+## 52.50 Lower Grades
 
-Partly incomplete but sound comb may be suitable for:
+Sound but incomplete product may be suitable for:
 
-- cut-comb packs;
+- cut comb;
 - chunk honey;
-- local direct sale under truthful grading;
-- extraction if structure and product status allow.
+- direct sale under truthful grading;
+- extraction where the equipment/system permits.
 
-Do not mislabel a lower-grade product as premium whole-section comb.
+Do not misrepresent lower-grade sections as premium.
 
-## 54.50 The Economics of Unfinished Sections
-
-Section systems multiply the number of boundaries bees must finish.
-
-A super that is 80% full by honey mass can still contain many retail units too incomplete for premium sale.
-
-Track:
-
-- percentage of sections fully marketable;
-- average retail weight;
-- labour per section;
-- equipment cost;
-- downgrade rate.
-
-## 54.51 Cutting Cut Comb
+## 52.51 Cutting Comb
 
 For cut comb:
 
-- work on a clean food-grade cutting surface;
-- use a clean sharp knife or cutter;
-- cut when wax is firm enough to handle but not brittle;
-- minimise crushing of cappings;
-- separate damaged product.
+1. work on a clean food-grade surface;
+2. use a clean sharp cutter;
+3. cut when wax is firm but not brittle;
+4. minimise crushing;
+5. weigh pieces;
+6. drain edges under protected conditions;
+7. pack promptly.
 
-Warm water may help clean tools between cuts, but tools must be dried so water is not introduced into honey.
+## 52.52 Water and Cutting Tools
 
-## 54.52 Cut Size
+Warm water can help clean sticky cutting tools, but the tool must be dried before returning to the product.
 
-Cut to the intended package and net quantity rather than relying on visual size alone.
+Water introduced at cut edges can increase local moisture and microbial risk.
 
-Natural comb varies in cell depth and honey weight.
+## 52.53 Net Quantity
 
-Use a verified scale for commercial packing.
+Comb honey is a variable-density natural product.
 
-## 54.53 Edge Drainage
+Use a verified scale for packing rather than estimating mass from dimensions.
 
-Fresh cut edges leak honey.
+Follow current legal-metrology requirements in the market of sale.
 
-Allow pieces to drain on clean food-grade racks or screens under protected conditions before final packing.
+## 52.54 Packaging
 
-Do not leave exposed comb in a humid, dusty, or insect-accessible room.
+Packaging should protect against:
 
-## 54.54 Offcuts
+- crushing;
+- leakage;
+- insects;
+- dust;
+- odours;
+- moisture exchange;
+- rough transport.
 
-Clean offcuts can be:
+Use materials approved for food contact.
 
-- packed as smaller comb pieces;
-- used for chunk honey where lawful;
-- drained for honey;
-- rendered as clean cappings-quality wax depending on source.
+## 52.55 Clear Packaging
 
-Maintain food hygiene and lot identity.
+Clear packs display the comb attractively but expose it to light and solar heating.
 
-## 54.55 Packaging
+Store clear packs in cartons or protected shelves away from direct sunlight and hot windows.
 
-Comb honey packaging should:
+## 52.56 Lot Traceability
 
-- protect wax from crushing;
-- contain leakage;
-- exclude insects;
-- reduce moisture and odour exchange;
-- present the product visibly where desired;
-- support the declared net quantity.
-
-Use food-contact materials approved for the intended market.
-
-## 54.56 Clear Packaging
-
-Clear packs showcase the comb but expose it to light and heat.
-
-Store cartons away from direct sunlight and hot retail windows.
-
-A transparent container is not a substitute for secondary light protection in storage.
-
-## 54.57 Net Quantity
-
-Comb honey includes edible wax as part of the sold product unless local rules specify otherwise.
-
-Pack and declare net quantity according to current legal-metrology and labelling requirements.
-
-Do not estimate by section dimensions alone.
-
-## 54.58 Lot Labelling
-
-Internal lot identity should connect the retail pack to:
+Each retail lot should connect to:
 
 - apiary;
 - harvest date;
-- section system or batch;
-- moisture/quality checks;
+- section or frame batch;
 - treatment status;
+- quality/moisture records;
 - packing date.
 
-This supports complaints and recalls.
+Traceability should begin at harvest, not after the labels are printed.
 
-## 54.59 Storage Temperature
+## 52.57 Wax Moth Risk
 
-Comb honey needs conditions that protect both honey and wax.
+Wax moth larvae prefer comb containing pollen and brood residues, but clean comb can still be damaged when eggs or larvae are present and conditions are favourable.
 
-Avoid:
+Comb honey must be protected using food-safe physical or officially authorised methods.
 
-- high heat that softens comb;
-- severe temperature cycling;
-- direct sunlight;
-- damp storage;
-- strong odours.
+## 52.58 Freezing as Physical Pest Control
 
-Specific commercial temperature targets depend on product and pest-control strategy.
+Freezing can kill wax-moth life stages when the actual product reaches a sufficiently low temperature for sufficient time.
 
-## 54.60 Wax Moth Risk
+Do not rely only on the freezer dial or a folklore duration. Package size, product starting temperature, freezer performance, and air circulation influence exposure.
 
-Wax moth larvae prefer comb containing brood residues and pollen, but they can still damage stored clean comb if eggs or larvae are present and conditions permit.
+## 52.59 Thawing Frozen Comb
 
-Comb honey must therefore be protected from moth infestation without contaminating the food.
+Condensation is the main handling risk.
 
-## 54.61 Freezing for Wax Moth Control
+Allow sealed packages to equilibrate appropriately before opening so moisture is less likely to condense directly on the product.
 
-Freezing is a useful physical method for killing wax moth life stages in comb products when applied with a validated time–temperature procedure.
+Very cold wax can also be brittle.
 
-Exact exposure requirements depend on:
+## 52.60 Small Hive Beetle
 
-- freezer temperature;
-- package size;
-- product starting temperature;
-- air circulation;
-- pest stage.
+In regions where small hive beetle is established, unprotected comb honey can be damaged by beetle activity, especially when pollen is present or processing is delayed.
 
-Do not rely on a rigid folklore duration without validating that the centre of the product reaches the required condition.
+Where the beetle is exotic or regulated, detection can require official reporting rather than routine pest control.
 
-## 54.62 Freezing and Honey Quality
+## 52.61 Other Storage Pests
 
-Proper freezing generally preserves honey well because chemical reactions slow strongly at low temperature.
-
-The main handling risks are:
-
-- condensation during thawing;
-- package damage;
-- wax brittleness when very cold.
-
-Keep sealed packs protected until temperature equilibrates.
-
-## 54.63 Thawing
-
-Move frozen packaged comb into a clean controlled environment.
-
-Where practical, allow sealed packages to warm before opening so atmospheric moisture condenses on the package rather than on the comb.
-
-Inspect for leakage or cracked wax after thawing.
-
-## 54.64 Small Hive Beetle
-
-In regions where small hive beetle is established, unprotected comb honey can be damaged by beetle adults and larvae.
-
-Risk increases with:
-
-- delayed processing;
-- pollen contamination;
-- warm storage;
-- accessible supers.
-
-Where the beetle is exotic or regulated, detection can require official reporting rather than ordinary pest control.
-
-## 54.65 Ants, Rodents, and Other Pests
-
-Retail comb honey can attract:
+Protect packaged product from:
 
 - ants;
 - rodents;
@@ -799,229 +694,142 @@ Retail comb honey can attract:
 - cockroaches;
 - stored-product insects.
 
-Use physical exclusion and hygienic storage rather than pesticide contamination of exposed food.
+Use exclusion and hygiene rather than contaminating exposed food with pesticides.
 
-## 54.66 Odour Absorption
+## 52.62 Odour Absorption
 
-Wax and honey can absorb foreign odours.
+Wax and honey can retain foreign odours.
 
-Do not store comb honey near:
+Keep comb honey away from:
 
 - fuel;
 - paint;
 - solvents;
 - pesticides;
-- strong spices;
-- smoke.
+- smoke;
+- strong spices and fragrances.
 
-Odour damage can occur without visible contamination.
+## 52.63 Crystallisation in Comb
 
-## 54.67 Moisture Exchange
+Honey can crystallise naturally inside the cells.
 
-Exposed cut edges can exchange moisture with humid air more readily than sealed cells.
+This is not spoilage, but it may alter consumer preference and texture.
 
-This is another reason cut comb should be packed promptly in a good barrier package.
+Do not overheat comb to restore liquidity; wax can collapse before crystals fully dissolve.
 
-## 54.68 Leaking Packs
+## 52.64 Floral Source and Crystallisation
 
-Leakage can result from:
+Rapid-crystallising floral sources can be difficult to sell as clear comb honey.
 
-- heat-softened wax;
-- crushed comb;
-- incomplete drainage after cutting;
-- damaged packaging;
-- rough transport.
+The same source may be excellent for creamed honey.
 
-Leaking packs should be segregated, cleaned externally, and assessed rather than placed directly on sale.
+Local knowledge of the crop's physical behaviour should influence product choice.
 
-## 54.69 Crystallisation in Comb
+## 52.65 Chunk Honey
 
-Honey can crystallise while still in comb.
+Chunk honey combines pieces of fresh broodless comb with liquid honey where permitted.
 
-This is natural, but consumers may prefer a liquid appearance depending on the product.
+Both components must be:
 
-Do not overheat comb to restore liquidity; wax may collapse before all crystals dissolve.
+- safe;
+- traceable;
+- compliant;
+- correctly labelled.
 
-## 54.70 Rapid-Crystallising Floral Sources
+The liquid portion cannot be used to hide defective comb.
 
-Some floral honeys crystallise so quickly that they are difficult to market as clear comb honey.
+## 52.66 Foundation Residues
 
-Local floral knowledge is therefore part of crop selection.
+Consumers eat wax in comb honey, so source wax deserves extra attention.
 
-A honey source excellent for extracted creamed honey may be less convenient for transparent comb presentation.
+Recycled foundation can carry:
 
-## 54.71 Heather and Gel-Like Honeys
+- acaricide residues;
+- agricultural pesticide residues;
+- adulterant waxes.
 
-Thixotropic or gel-like honeys can remain in comb and may have distinctive regional comb-honey traditions.
+Freshly built comb does not guarantee clean chemistry if the foundation itself is poor quality.
 
-Product handling should follow the honey's specific physical behaviour and local quality norms.
+## 52.67 Product Claims
 
-## 54.72 Chunk Honey
+Claims such as:
 
-Chunk honey generally combines pieces of comb honey with liquid honey in the same package.
+- organic;
+- monofloral;
+- local;
+- raw;
+- protected geographical origin
 
-Where produced:
+must satisfy the same evidence and legal requirements as extracted honey, plus comb-specific product conditions where applicable.
 
-- both components must be food-safe and traceable;
-- the liquid portion must be suitable for sale;
-- label terminology must follow local law;
-- comb pieces must remain broodless and clean.
+## 52.68 Sensory Evaluation
 
-## 54.73 Comb Honey and Pollen
+Assess:
 
-Small incidental pollen content is natural in honey, but pollen-packed cells change product appearance and chewing quality.
-
-Production during a strong nectar flow generally reduces the tendency for comb-honey sections to be used mainly as pollen storage.
-
-## 54.74 Comb Thickness
-
-Very thick comb can be visually impressive but increases wax chewing and may not fit retail packs.
-
-Very thin uneven comb can collapse.
-
-Correct spacing and section design help control thickness.
-
-## 54.75 Drone-Sized Cells
-
-Foundationless comb may include drone-sized cells depending on colony conditions.
-
-Cell size itself does not make honey unsafe, but irregular cell patterns can influence visual grading.
-
-Brood must still be excluded.
-
-## 54.76 Propolis on Sections
-
-Bees may propolise wooden or plastic section edges, especially when production slows.
-
-Heavy propolis:
-
-- stains appearance;
-- adds flavour/odour;
-- increases cleaning labour.
-
-Rapid completion during a strong flow reduces some of this problem.
-
-## 54.77 Cleaning Section Hardware
-
-Reusable non-food-contact outer hardware can be cleaned according to material and manufacturer guidance.
-
-Food-contact section components must not retain:
-
-- old honey;
-- cleaning chemical;
-- mould;
-- pest debris.
-
-Do not use strong chemicals that taint wax or food.
-
-## 54.78 Reusing Comb-Honey Sections
-
-Many consumer section units are single-use because the comb is sold with them or because reuse compromises cleanliness.
-
-If a system uses reusable cassettes, follow food-contact cleaning requirements and replace scratched or damaged parts.
-
-## 54.79 Honey-Super Treatments
-
-Never expose saleable comb honey to unauthorised hive treatments.
-
-Because consumers eat the wax, lipophilic residues in wax deserve particular attention.
-
-Follow product labels, withdrawal periods, and super restrictions exactly.
-
-## 54.80 Wax Residue Considerations
-
-Beeswax can accumulate residues of some acaricides and environmental contaminants.
-
-Using fresh wax does not guarantee absence of contaminants if foundation was made from contaminated recycled wax.
-
-Source quality matters.
-
-## 54.81 Organic and Specialty Claims
-
-Claims such as organic, local, raw, monofloral, or protected-origin comb honey require the same evidence and legal compliance as corresponding extracted honey, plus any comb-specific rules.
-
-Fresh appearance alone does not prove a certification claim.
-
-## 54.82 Sensory Quality
-
-Evaluate:
-
-- honey aroma and flavour;
+- honey aroma;
+- honey flavour;
 - wax tenderness;
 - capping cleanliness;
 - mouthfeel;
-- foreign odours;
+- foreign odour;
 - crystallisation;
-- fermentation.
+- fermentation signs.
 
-The wax should support, not dominate, the eating experience.
+The wax should support rather than dominate the eating experience.
 
-## 54.83 Consumer Education
+## 52.69 Consumer Education
 
-Some consumers do not know beeswax comb is edible.
+Consumers unfamiliar with comb honey may not know the wax is edible.
 
-Accurate education can explain:
+Accurate instructions can explain that the comb can be chewed or swallowed and that natural crystallisation may occur.
 
-- the comb can be chewed or swallowed;
-- texture varies naturally;
-- crystallisation is normal;
-- storage away from heat protects the wax.
+Avoid unsupported health claims.
 
-Do not attach unsupported health claims.
+## 52.70 Production Economics
 
-## 54.84 Economics
-
-Comb honey can command a premium price but also has high rejection and labour risk.
+Comb honey often commands a premium price but also produces higher grading losses.
 
 Track:
 
-- section completion percentage;
-- production per colony;
+- number of sections placed;
+- percentage completely marketable;
+- downgraded units;
+- labour hours;
 - packaging cost;
-- labour;
-- wax/foundation cost;
-- damaged product;
-- retail price;
-- unsold inventory.
+- foundation/section cost;
+- average retail weight;
+- selling price.
 
-Premium price does not guarantee premium profit.
+## 52.71 Why Honey Mass Is Not Enough
 
-## 54.85 When to Abandon a Section Crop
+A super can be heavy while many individual sections remain only partly completed.
 
-If a nectar flow ends before sections finish, options may include:
+For section systems, the key economic metric is the proportion of retail units that reach the target grade.
 
-- leaving colonies temporarily if another flow is imminent and robbing risk is controlled;
-- converting sound comb into cut comb;
-- extracting suitable frames where equipment allows;
-- returning incomplete food to colonies;
-- downgrading product honestly.
+## 52.72 When the Flow Ends Early
 
-Do not hold weak unfinished supers indefinitely in deteriorating conditions.
+If sections remain unfinished:
 
-## 54.86 Emergency: Comb Collapse
+- assess whether another flow is imminent;
+- protect against robbing;
+- consider converting suitable material to cut comb;
+- extract suitable framed product where possible;
+- return non-saleable food to colonies when appropriate;
+- downgrade honestly.
 
-If heat causes collapse:
+Do not leave weak unfinished supers indefinitely.
 
-1. cool the affected boxes promptly without contaminating food;
+## 52.73 Emergency: Comb Collapse
+
+If heat damages the crop:
+
+1. cool boxes promptly without contaminating food;
 2. segregate leaking units;
 3. protect from bees and pests;
 4. salvage only hygienically sound product;
-5. investigate transport/storage temperature.
+5. investigate transport or storage temperature.
 
-## 54.87 Emergency: Broken Retail Section
-
-Remove the unit from premium sale.
-
-If honey remains hygienically sound, it may be redirected to:
-
-- cut-comb pack;
-- chunk honey;
-- extraction;
-- internal quality sample.
-
-Maintain lot identity.
-
-## 54.88 Emergency: Suspected Fermentation
+## 52.74 Emergency: Fermentation Suspected
 
 Hold the lot and assess:
 
@@ -1031,243 +839,244 @@ Hold the lot and assess:
 - phase separation;
 - storage temperature.
 
-Do not mask fermentation by mixing with fresh comb honey.
+Do not blend defective comb honey into fresh product.
 
-## 54.89 Emergency: Pest Discovery
+## 52.75 Emergency: Storage Pest Found
 
-If wax moth or beetle activity is found:
+If wax moth or beetle activity is discovered:
 
-- isolate affected stock;
+- isolate the stock;
 - identify the pest;
-- inspect adjacent product;
-- use food-safe physical control or official guidance;
-- dispose of contaminated material appropriately.
+- inspect adjacent lots;
+- use validated food-safe physical control or official guidance;
+- dispose of damaged material appropriately.
 
-If the pest is regulated locally, follow reporting requirements.
+## 52.76 Decision Table
 
-## 54.90 Decision Table
-
-| Observation | Interpretation | Response |
+| Observation | Likely interpretation | Response |
 |---|---|---|
-| Sections rapidly built and capped during strong flow | Ideal production conditions | Harvest when mature and quality checks pass |
-| Centre completed, corners empty | Flow too weak/colony reluctant/section geometry issue | Assess flow and completion economics |
-| Brood found in section super | Product identity failure | Exclude affected comb from comb-honey sale |
-| Heavy travel stain | Sections left too long after completion | Downgrade if needed; harvest future lots earlier when mature |
-| High moisture/uncapped honey | Incomplete ripening | Delay or segregate; do not rely on appearance alone |
-| Cross-comb | Guide/level/spacing problem | Correct setup for future; salvage only sound product |
-| Wax moth evidence in stored packs | Storage pest | Isolate and apply validated physical/official control |
-| Comb soft/leaking after transport | Heat damage | Cool, segregate, investigate transport conditions |
+| Rapid white-wax building and weight gain | Strong flow and good occupation | Maintain space and swarm surveillance |
+| Centre sections full, outer sections empty | Colony/flow/geometry limitation | Assess whether more time is economically justified |
+| Brood in saleable unit | Product identity failure | Remove from comb-honey product stream |
+| Heavy travel stain | Finished sections remained on colony too long | Downgrade if needed; harvest future mature sections sooner |
+| Many uncapped cells, high moisture | Incomplete ripening | Delay or segregate |
+| Cross-comb | Level/guide/spacing problem | Correct equipment before next production round |
+| Soft sagging wax | Heat exposure | Cool and segregate damaged units |
+| Wax moth evidence | Storage-pest exposure | Isolate and apply validated food-safe control |
 
-## 54.91 Practical Production Procedure
+## 52.77 Practical Production Programme
 
-### Before the flow
+### Four to six weeks before the expected flow
 
-- select strongest healthy colonies;
-- confirm queen performance;
-- control Varroa before food supers;
-- prepare swarm-management plan;
-- assemble clean section/cut-comb equipment;
-- verify genuine suitable foundation where used;
-- level hives and prepare storage/packaging.
+- identify strongest colonies;
+- evaluate queen performance;
+- monitor/manage Varroa;
+- ensure adequate stores and brood space;
+- prepare swarm-control plan;
+- assemble section/cut-comb equipment;
+- verify foundation quality.
 
 ### At flow onset
 
-1. confirm sustained nectar intake;
-2. place comb-honey supers at the appropriate time;
-3. monitor occupation without excessive disturbance;
-4. control swarm pressure;
-5. add/remove units according to completion and flow.
+- confirm fresh nectar and rising weight;
+- place comb-honey supers;
+- ensure colonies occupy them rapidly;
+- monitor swarm condition;
+- avoid unnecessary disturbance.
 
-### Harvest
+### During the flow
 
-6. verify maturity and treatment status;
-7. remove bees gently;
-8. cover and transport upright/cool;
-9. grade and segregate;
-10. cut/drain where applicable;
-11. freeze or otherwise protect from storage pests using validated food-safe methods;
-12. package and label;
-13. store under stable protected conditions.
+- watch section completion;
+- add or rearrange space only when needed;
+- maintain broodless product zone;
+- remove finished mature units when appropriate.
 
-## 54.92 Scientific Notes
+### After harvest
+
+- remove bees gently;
+- cover product immediately;
+- transport cool and upright;
+- grade and segregate;
+- cut/drain where applicable;
+- apply validated storage-pest protection;
+- package, label, and store under stable conditions.
+
+## 52.78 Scientific Notes
 
 ### Wax production is metabolically expensive
 
-Comb honey requires colonies to convert incoming carbohydrate into both stored honey and new wax. This is why drawn-comb honey production can yield more immediately extractable honey than a comparable comb-honey crop.
+The colony converts carbohydrate energy into both wax and stored honey. For that reason, a colony given drawn comb can often store more immediately extractable honey than one required to build an equivalent new comb crop.
 
-### Section geometry changes bee behaviour
+### Section geometry is behavioural engineering
 
-Edges, corners, narrow passages, and small cavities influence where bees start and stop building. Commercial section design is therefore behavioural engineering as well as packaging design.
+Bees respond to gap size, warmth, airflow, edges, and colony traffic. Section design therefore influences construction behaviour, not merely retail shape.
 
-### Fresh wax is mechanically temperature-sensitive
+### Beeswax softens before melting
 
-Beeswax softens as temperature rises well below its full melting range. Heavy honey loads can deform fresh comb before the wax visibly melts.
+Fresh comb can deform under honey load at temperatures far below the complete melting point of bulk beeswax. Mechanical stability is a temperature-dependent property.
 
-### Cappings are a phenotype
+### Capping phenotype varies
 
-Dry versus wet capping appearance is influenced partly by worker genetics and comb/honey geometry, so appearance should not be used as a direct chemical purity test.
+Dry and wet capping patterns are influenced partly by genetics and cell geometry. Capping appearance should not be interpreted as direct evidence of purity or exact moisture.
 
-### Freezing is a physical pest-control tool
+### Pest-control exposure must reach the pest
 
-The lethal effect depends on the actual temperature reached by the pest stage inside the product, not simply the freezer dial or nominal time.
+For freezer treatment, the relevant measurement is the temperature/time achieved inside the product, not just the appliance setting.
 
-## 54.93 Comb-Honey Checklist
+## 52.79 Comb-Honey Checklist
 
-- [ ] Production colony is strong and healthy.
-- [ ] Varroa control completed before restricted honey-super period.
-- [ ] Queen performance verified.
-- [ ] Swarm plan in place.
-- [ ] Major nectar flow expected/confirmed.
-- [ ] Saleable comb will be freshly built and broodless.
-- [ ] Foundation/starter material is suitable and traceable.
-- [ ] Hive/section equipment correctly levelled and spaced.
-- [ ] Supers placed before severe congestion but not excessively early.
-- [ ] Brood excluded from product.
-- [ ] Sections monitored for completion without over-inspection.
+- [ ] Production colony strong and queenright.
+- [ ] Varroa pressure managed before food-super restrictions apply.
+- [ ] Main nectar flow expected or confirmed.
+- [ ] Swarm plan active.
+- [ ] Saleable comb will be fresh and broodless.
+- [ ] Foundation/starter material suitable and traceable.
+- [ ] Hive properly levelled and section spacing correct.
+- [ ] Super added before severe congestion but not excessively early.
+- [ ] Bees occupying units rapidly.
+- [ ] Brood excluded from crop.
 - [ ] Moisture/ripeness assessed by representative method.
-- [ ] Completed sections removed before excessive travel stain where possible.
-- [ ] Bee removal is gentle and food-safe.
+- [ ] Completed sections removed before avoidable staining.
+- [ ] Bee-removal method gentle and clean.
 - [ ] Product protected from heat during transport.
-- [ ] Grade criteria documented.
-- [ ] Cut comb drained and packed hygienically.
-- [ ] Storage-pest control uses validated food-safe methods.
-- [ ] Lot identity retained through packaging.
-- [ ] Final product protected from heat, moisture, odour, and pests.
+- [ ] Grading criteria documented.
+- [ ] Cut comb handled on food-grade surfaces.
+- [ ] Storage-pest method validated and food-safe.
+- [ ] Lot identity retained through packing.
+- [ ] Final product protected from odour, moisture, heat, and pests.
+- [ ] Completion percentage and true production economics recorded.
 
 ## Key Takeaways
 
-- Comb honey is both honey and edible wax structure, so appearance and wax quality matter alongside honey chemistry.
+- Comb honey requires mature honey, tender new wax, and attractive presentation at the same time.
 - Fresh broodless comb is the fundamental product requirement.
-- Very strong colonies and a strong concentrated nectar flow are the basis of profitable comb-honey production.
-- Unfinished sections are one of the main economic risks.
-- Thin foundation, starter strips, or foundationless guides each have advantages and structural risks.
-- Comb-honey colonies are highly swarm-prone because production requires maximum population and congestion pressure.
-- Capping appearance is useful for grading but is not a direct purity or moisture test.
-- Representative moisture assessment remains important, especially after interrupted or humid flows.
-- Fresh comb is vulnerable to heat, crushing, travel stain, wax moth, small hive beetle, and foreign odours.
-- Freezing can be an effective physical pest-control method when the actual product time–temperature exposure is validated.
+- Very strong colonies and a strong concentrated nectar flow are the foundation of reliable production.
+- Worker population and swarm control must be prepared weeks before the crop.
+- Thin beeswax foundation, starter strips, and foundationless guides all require good source control and geometry.
+- Capping appearance is useful for grading but is not an exact moisture or purity test.
+- Unfinished retail sections are one of the largest economic risks.
+- Fresh comb is vulnerable to heat, rough handling, odour, and storage pests.
+- Freezing is a useful physical pest-control tool only when the actual product exposure is validated.
+- The correct performance measure is marketable units and quality, not only total honey weight.
 
 ## Chapter Summary
 
-Comb honey is a premium product because the beekeeper asks the colony to manufacture the honey, the edible wax container, and much of the final presentation at the same time. That efficiency for the consumer creates difficulty for the producer. The crop requires exceptional colony strength, a good queen, low parasite pressure, accurate super timing, swarm control, and a heavy nectar flow.
+Comb-honey production is the deliberate creation of a finished food package inside the colony. The bees must build new wax, fill it with natural nectar, ripen the honey, and cap it before the flow ends. That makes strong colony preparation and accurate timing more important than in ordinary extracted-honey production.
 
-Fresh broodless comb is central. Thin pure-beeswax foundation, starter strips, or foundationless systems can all work, but the comb must remain straight, tender, clean, and structurally sound. Old brood comb, contaminated recycled wax, excessive pollen storage, or brood in the super undermines product quality.
+Production starts weeks before the super is added. Queen performance, worker population, Varroa management, brood space, and swarm prevention determine whether the colony can exploit the crop. At flow onset, thin foundation, starter strips, or foundationless systems can be used to produce new broodless comb, but hive level, spacing, and section geometry must guide construction.
 
-Harvest quality depends on completion and maturity. Attractive cappings help grade the crop, but capping is not an exact moisture measurement. Completed comb should be removed carefully, protected from heat, graded, and packaged with minimal handling. Cut comb requires hygienic cutting and edge drainage; whole sections need protection from travel stain and crushing.
+The beekeeper then manages completion rather than simply weight. Finished sections should be mature, clean, straight, attractive, and harvested before avoidable travel stain. Moisture remains a real quality parameter and should be assessed representatively where uncertainty exists.
 
-Storage is primarily a wax-and-pest challenge layered on top of normal honey quality. Stable cool conditions, food-safe packaging, physical protection, validated freezing or other appropriate pest control, and careful thawing preserve both honey and fragile comb. The producer's economic record should include not just honey mass but the percentage of sections that reach premium saleable grade.
+After harvest, comb honey requires gentle handling and strong environmental control. Fresh wax softens with heat, absorbs odours, and can be attacked by storage pests. Food-safe packaging, validated pest-control methods, traceability, and honest grading preserve the premium value created by the colony.
 
 ## Review Questions
 
 1. What is comb honey?
-2. Why is the wax part of the product rather than only packaging?
-3. What does the current EU definition emphasise about comb honey?
-4. Why must comb-honey comb be broodless?
-5. What are common commercial forms of comb honey?
+2. Why is comb honey both a honey product and a wax product?
+3. What does the current EU definition emphasise about saleable comb?
+4. Why must premium comb honey be broodless?
+5. Name four common comb-honey product forms.
 6. What is section comb honey?
-7. What is one advantage of section systems?
-8. What is their main economic disadvantage?
-9. What is a round comb system?
-10. What is cut comb?
-11. Why can cut comb be easier for bees to complete than many small sections?
-12. Why is fresh wax preferred for edible comb?
-13. What accumulates in brood comb?
-14. Why is cutting around brood not enough to make old brood comb suitable?
-15. How can a queen excluder support production?
-16. Why can an excluder also affect congestion?
-17. Why are strong colonies essential?
-18. What three major tasks must bees perform during comb-honey production?
-19. Why must workforce development begin weeks before the flow?
-20. How does queen quality affect crop potential?
-21. Why should Varroa be controlled before comb-honey production?
-22. Why are treatment restrictions especially important for edible wax comb?
-23. Why is swarm pressure high in comb-honey colonies?
-24. How does swarming affect section completion?
-25. Why should swarm management be planned before advanced queen cells appear?
-26. What kind of nectar flow is most favourable?
-27. Why do weak intermittent flows produce poor sections?
-28. Which tools can forecast a flow?
-29. What can happen if the super is placed too early?
-30. What can happen if it is placed too late?
-31. What is baiting a super?
-32. Why must bait material not compromise fresh broodless product identity?
-33. Name three comb-honey foundation/guide options.
-34. What are the advantages of thin beeswax foundation?
+7. What is one major advantage of section systems?
+8. What is one major disadvantage?
+9. What is cut comb?
+10. Why may cut comb be easier for colonies to complete than many small sections?
+11. Why is fresh wax preferred?
+12. What remains in comb after brood emerges?
+13. Why does brood history matter even without visible brood?
+14. How can a queen excluder help?
+15. Why is an excluder not sufficient by itself?
+16. What colony characteristics favour comb-honey production?
+17. Why do weak colonies often produce poor sections?
+18. Why must population development begin weeks before the flow?
+19. Which workers are especially important for wax secretion?
+20. What conditions favour wax construction?
+21. Why is queen performance important before the crop?
+22. Why is Varroa control linked to honey yield?
+23. Why are treatment restrictions especially relevant to edible wax?
+24. How can supplemental feeding contaminate product identity?
+25. Why is swarming a major comb-honey risk?
+26. Which comb-honey conditions also favour swarming?
+27. Why should swarm prevention begin before the main flow?
+28. What type of nectar flow is best for comb honey?
+29. Why are weak intermittent flows difficult?
+30. Which observations help predict flow onset?
+31. What can happen if the super is placed too early?
+32. What can happen if it is placed too late?
+33. Why is old drawn brood comb unsuitable as the saleable product?
+34. What qualities should thin foundation have?
 35. Why does foundation authenticity matter?
 36. Which adulterants can occur in beeswax foundation?
 37. What is a starter strip?
-38. What risks come with starter strips?
-39. Why is foundationless comb mechanically delicate?
-40. Why should a hive be correctly levelled?
-41. How can poor spacing affect comb shape?
-42. Which colony conditions favour wax building?
-43. Why is new wax usually pale?
-44. What can darken new comb?
-45. What are dry cappings?
-46. What are wet cappings?
-47. Is dry white capping proof of superior chemical purity?
-48. Why is capping completeness important commercially?
-49. Why is capping not a precise moisture test?
-50. How can comb-honey moisture be sampled without destroying every section?
-51. What is the general current EU moisture maximum for ordinary honey?
-52. Why is that legal maximum not a universal harvest target?
-53. Which non-honey materials reduce premium comb-honey grade?
-54. What is travel stain?
-55. Why does travel stain increase when sections remain on a colony too long?
-56. Why should mature completed sections be harvested promptly?
-57. Name three bee-removal methods suitable for comb honey.
-58. Why can bee escapes be attractive for section production?
-59. Why must a food brush be kept clean?
-60. Why is shaking fresh natural comb risky?
-61. What contamination risk can a blower create?
-62. Why should smoke be minimal and clean?
-63. How should completed sections be handled?
-64. Why can a hot vehicle destroy a comb-honey crop?
-65. What should happen when supers arrive at the honey room?
-66. Which characteristics can be used in grading?
-67. What commonly defines a premium section?
-68. What can be done with lower-grade but sound comb?
-69. Why can a super with high total honey mass still have poor section economics?
-70. Which economic metrics should be recorded?
-71. How should cut comb be cut hygienically?
-72. Why must a wet knife be dried before returning to honey?
-73. Why should cut pieces be weighed rather than judged only by dimensions?
-74. Why are freshly cut edges allowed to drain?
-75. What can be done with clean offcuts?
-76. What should packaging protect against?
-77. What trade-off comes with clear packaging?
-78. Why must net quantity follow legal metrology rather than section size alone?
-79. What should lot identity connect to?
-80. Why must comb honey be protected from high heat during storage?
-81. Can wax moth damage clean comb honey?
-82. Why is freezing useful for wax moth control?
-83. Why should a freezer dial and folklore duration not be the only validation?
-84. What are the main risks when thawing frozen comb honey?
-85. How should sealed frozen packs be brought back toward room temperature?
-86. How can small hive beetle affect stored comb honey?
-87. What changes if small hive beetle is regulated or exotic locally?
-88. Why should pesticides not be sprayed around exposed comb honey?
-89. How can foreign odours damage product quality?
-90. Why can cut edges increase moisture exchange?
-91. What causes leaking retail packs?
-92. Is crystallised honey in comb necessarily spoiled?
-93. Why are some floral sources poor choices for clear comb honey?
-94. What is chunk honey in general terms?
-95. Why can pollen-packed cells reduce expected comb-honey quality?
-96. How can heavy propolis on sections be reduced indirectly?
-97. Why does foundation residue history matter?
-98. What should be done when a section crop remains unfinished after the flow?
-99. What should happen after wax moth or beetle is found in stored product?
-100. What are the core biological, quality, and economic requirements for successful comb-honey production?
+38. What are its advantages?
+39. What are its risks?
+40. Why is foundationless comb mechanically delicate?
+41. Why should the hive be level?
+42. How can spacing affect comb shape?
+43. Why do centre sections often finish first?
+44. Why should completion percentage be tracked?
+45. What signs show genuine super occupation?
+46. Why can over-inspection reduce production?
+47. Why is fresh white wax only a supporting flow indicator?
+48. Name four causes of unfinished sections.
+49. What is travel stain?
+50. Why should mature finished sections not remain on colonies unnecessarily?
+51. Why can propolis reduce section grade?
+52. Why are pollen-filled cells undesirable in premium comb honey?
+53. What are dry cappings?
+54. What are wet cappings?
+55. Does white capping prove low moisture?
+56. Why does capping completeness matter commercially?
+57. Why is capping percentage not an exact moisture test?
+58. How can moisture be assessed without destroying every retail unit?
+59. What is the general current EU moisture maximum for ordinary honey?
+60. Why is that value not a universal harvest target?
+61. Name three bee-removal methods.
+62. When are bee escapes especially useful?
+63. Why must food brushes remain clean?
+64. Why can shaking fresh comb be dangerous?
+65. What contamination risk applies to blowers?
+66. Why should smoker fuel be clean?
+67. How should filled fresh comb be handled?
+68. Why can a hot vehicle destroy comb honey?
+69. What factors belong in a grading system?
+70. What commonly defines premium grade?
+71. What can be done with lower-grade but sound comb?
+72. Why should cut-comb pieces be weighed?
+73. Why must cutting tools be dried after washing?
+74. Why should cut edges be allowed to drain under protected conditions?
+75. What should packaging protect against?
+76. What trade-off comes with clear packaging?
+77. What records should lot identity connect?
+78. Why can wax moth still damage apparently clean comb?
+79. Why can freezing be useful?
+80. Why is freezer setpoint alone inadequate validation?
+81. What is the main thawing risk?
+82. How can small hive beetle affect stored comb honey?
+83. What changes if small hive beetle is exotic locally?
+84. Why should pesticides not be sprayed around exposed comb honey?
+85. Why is odour segregation important?
+86. Is crystallisation in comb automatically spoilage?
+87. Why can floral source determine suitability for clear comb honey?
+88. What is chunk honey?
+89. Why does recycled foundation deserve residue scrutiny?
+90. Which specialty claims require separate evidence?
+91. What should sensory evaluation include?
+92. Why can consumer education improve comb-honey use?
+93. Which economic records should be kept?
+94. Why can a heavy super still be economically poor?
+95. What options exist when the flow ends before sections finish?
+96. What should happen after heat-induced comb collapse?
+97. What should happen if fermentation is suspected?
+98. What should happen if a storage pest is found?
+99. Why is section geometry considered behavioural engineering?
+100. What combination of colony biology, flow timing, food quality, and grading makes comb-honey production profitable?
 
 ## References
 
-- Council Directive 2001/110/EC relating to honey, consolidated version applicable from 14 June 2026, including the EU definition of comb honey.
+- Council Directive 2001/110/EC relating to honey, consolidated version applicable from 14 June 2026, including the definition of comb honey.
 - Codex Alimentarius Commission. *Standard for Honey*, CXS 12-1981, current text amended through 2022.
-- University of Georgia Cooperative Extension. *Comb Honey Production* and related practical section-comb guidance.
-- Utah State University Extension. Practical guidance on colony preparation and comb-honey production.
-- University of Florida IFAS Extension. Comb-honey and hive-product production resources.
+- University and cooperative-extension guidance on section comb, cut comb, swarm management, colony preparation, wax-moth control, and honey handling.
 - Graham, J. M., editor. *The Hive and the Honey Bee*. Dadant & Sons.
-- Root, A. I. and later practical apicultural literature on section honey, colony strength, swarm control, and nectar-flow timing.
-- Scientific and extension literature on beeswax adulteration, comb construction, wax moth biology, and food-safe physical control of stored comb pests.
-- Current national food-hygiene, veterinary-medicine, labelling, legal-metrology, pest-control, and regulated-pest requirements must be verified for the target market.
+- Scientific literature on wax production, comb mechanics, beeswax adulteration, residue accumulation, honey moisture, and stored-comb pests.
+- Current national food-hygiene, veterinary-medicine, food-contact-material, legal-metrology, labelling, organic/certification, and regulated-pest requirements must be checked for the target market.
