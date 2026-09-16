@@ -1,63 +1,64 @@
-# Chapter 54 — Comb Honey: Illustration Plan
+# Chapter 54 — Wax Processing: Illustration Plan
 
 Status: planned for final layout. No provisional artwork is embedded in the reader-facing manuscript.
 
 ## Planned Figures
 
-### Figure 54.1 — Comb Honey Product Forms
-Show square section, round section/cassette, whole shallow frame, cut comb and chunk-honey presentation. Keep product naming jurisdiction-neutral in the illustration.
+### Figure 54.1 — Wax Source Streams
+Cappings wax, light honey-super comb, old brood comb, propolis-rich scrapings, and disease/chemical-suspect material shown as separate streams before processing.
 
-### Figure 54.2 — Fresh Broodless Comb Versus Old Brood Comb
-Side-by-side cell cutaways showing tender new wax compared with dark brood comb containing cocoons and residue. Caption: brood history, not only current visible brood, makes old comb unsuitable for premium edible comb honey.
+### Figure 54.2 — New Comb Versus Old Brood Comb
+Cell cutaway showing clean wax compared with repeated cocoon layers, propolis, pollen residues, and debris. Caption: visible comb mass is not the same as recoverable wax mass.
 
-### Figure 54.3 — Colony Preparation Timeline
-Healthy queen, low Varroa, strong brood population and swarm management developing several weeks before the expected main flow, then comb-honey super placement at flow onset.
+### Figure 54.3 — Rendering Methods Compared
+Solar melter, hot-water rendering, purpose-built steam melter, and thermostatically controlled indirect dry melter, with principal advantages, limitations, and hazards.
 
-### Figure 54.4 — Section Completion Economics
-A super with high total honey mass but many partly finished retail sections compared with a more completely finished super. Emphasise percentage of marketable sections rather than honey mass alone.
+### Figure 54.4 — Water Rendering Separation
+Molten wax/water/debris mixture separating into floating wax, water, and dense slumgum, followed by a cooled wax cake with dirty underside.
 
-### Figure 54.5 — Foundation and Guide Options
-Very thin beeswax foundation, narrow starter strip and foundationless guide, with advantages and structural risks.
+### Figure 54.5 — Safe Steam Rendering
+Purpose-built vented steam equipment, hot-condensate controls, PPE, and open relief path. Explicitly prohibit improvised sealed pressure vessels.
 
-### Figure 54.6 — Hive Level and Straight Comb
-Correctly levelled hive producing comb aligned with guides versus tilted/cross-comb development.
+### Figure 54.6 — Water and Overheated Wax Hazard
+Conceptual safety diagram showing water flashing to steam beneath very hot wax and causing dangerous splashing. No DIY extinguishing instructions.
 
-### Figure 54.7 — Dry Versus Wet Cappings
-Magnified cells showing air-spaced white “dry” cappings and translucent “wet” cappings, with caption that genetics/geometry influence appearance and neither is a stand-alone purity test.
+### Figure 54.7 — Safe Wax Workstation
+Stable indirect heat, temperature measurement, heat-resistant PPE, ventilation, clear floor, dry moulds, and pre-planned fire equipment.
 
-### Figure 54.8 — Comb-Honey Quality Defect Atlas
-Incomplete corners, travel stain, pollen cells, propolis, brood evidence, leakage, crushed cappings, cross-comb and heat-softened wax.
+### Figure 54.8 — Coarse and Fine Physical Filtration
+Two-stage filtration removing physical debris, with a separate note that dissolved lipophilic residues/adulterants remain a chemical-quality question.
 
-### Figure 54.9 — Representative Moisture Assessment
-Companion-frame/edge-section/offcut sampling concept showing how a batch can be checked without destroying every retail section.
+### Figure 54.9 — Wax Block Cooling
+Clean mould fill → cooling contraction → normal central depression → underside debris removal → weighed/labelled block.
 
-### Figure 54.10 — Gentle Bee Removal
-Bee escape, clean brush and controlled blower panels with special emphasis on fragile fresh wax and contamination avoidance.
+### Figure 54.10 — Mass Balance
+Incoming cappings/comb → recovered honey → recovered wax → slumgum/waste, showing why cappings and brood-comb yields differ.
 
-### Figure 54.11 — Cut-Comb Workflow
-Whole broodless comb → food-grade cutting surface → weighed retail piece → protected edge drainage → sealed food-grade package.
+### Figure 54.11 — Processing Is Not Chemical Purification
+Physical debris removed by rendering/filtration while pesticide residues or foreign waxes can remain in the wax phase.
 
-### Figure 54.12 — Heat Damage During Transport
-Upright intact comb in controlled transport versus sagged/leaking comb in a hot vehicle. Show fresh wax softening under load before full melting.
+### Figure 54.12 — End-Use Decision
+Foundation, candles/crafts, cosmetics, and specification-controlled food-additive material branching from a traceable wax lot, each with different quality evidence.
 
-### Figure 54.13 — Physical Storage-Pest Control
-Packaged comb honey entering validated freezer treatment, then sealed thaw/equilibration to avoid condensation. Do not hard-code one universal time/temperature recipe.
+### Figure 54.13 — Authenticity Testing
+Paraffin/stearin adulteration leading to FTIR/ATR, DSC, chromatography, and classical wax indices; cross out melting point/colour as stand-alone proof.
 
-### Figure 54.14 — Storage Pest Decision
-Wax moth/small hive beetle evidence → isolate → identify → inspect adjacent product → validated food-safe physical or competent-authority response if regulated.
+### Figure 54.14 — Emergency Response Panels
+Smoking melter, abnormal steam pressure, dirty-water contamination, unidentified wax addition, and disease-suspect comb—each leading to stop/segregate/investigate rather than continue blending.
 
 ## Accuracy Requirements
 
-- Comb shown for sale must be freshly built and broodless.
-- Foundation intended to remain in edible comb must be represented as suitable beeswax where required by the governing product definition.
-- Do not imply dry white cappings prove lower moisture or greater authenticity.
-- Do not hard-code universal freezer times/temperatures.
-- No pesticide spray should be shown around exposed comb honey.
-- Fresh comb must be depicted as mechanically vulnerable to heat and rough handling.
-- Moisture checks should be representative and should not imply every section must be destroyed for testing.
+- Do not depict all dark wax as chemically contaminated; darkening has multiple biological causes.
+- Do not imply ordinary rendering removes lipophilic residues or guarantees AFB-spore destruction.
+- No figure may show unattended open-flame wax melting.
+- Steam equipment must be visibly vented and purpose-built.
+- Do not hard-code one melting point as proof of authenticity.
+- Water must never be portrayed as a safe improvised response to overheated molten wax.
+- E901 or other regulated end uses must be shown as specification-controlled rather than automatic after rendering.
 
 ## Accessibility
 
-- Use labels, patterns and symbols in addition to colour.
-- Defect panels should remain interpretable in greyscale.
-- Temperature/pest-control figures should include text cues, not colour-only safe/unsafe signals.
+- Use labels, textures, arrows, and patterns in addition to colour.
+- Safety graphics must not rely on red/green alone.
+- Analytical-method figures should pair technical terms with plain-language captions.
+- Flow diagrams must remain legible in greyscale.
