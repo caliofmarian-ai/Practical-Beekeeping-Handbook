@@ -1146,7 +1146,7 @@ A near miss is an event that could have caused contamination but was caught in t
 
 Examples:
 
-- unlabeled chemical found beside jars before use;
+- unlabelled chemical found beside jars before use;
 - cracked plastic scoop replaced before fragments broke off;
 - wrong label detected before dispatch;
 - wet tank discovered before filling.

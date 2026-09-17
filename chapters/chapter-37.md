@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Most beekeeping failures are not caused by one dramatic event. They usually develop from several small mistakes made too early, too late, or without enough information. A colony may survive an imperfect inspection, a delayed super, or a poorly placed feeder, but repeated errors can gradually reduce its strength, disturb its organization, increase disease pressure, or leave it unprepared for winter.
+Most beekeeping failures are not caused by one dramatic event. They usually develop from several small mistakes made too early, too late, or without enough information. A colony may survive an imperfect inspection, a delayed super, or a poorly placed feeder, but repeated errors can gradually reduce its strength, disturb its organisation, increase disease pressure, or leave it unprepared for winter.
 
 Beginners often make mistakes because they are trying to help. They inspect too frequently because they want reassurance. They feed when feeding is unnecessary because they fear starvation. They add equipment too early because they want the colony to grow. They remove queen cells without understanding why the colony produced them. They delay parasite monitoring because the colony appears strong. They harvest too much because the hive feels heavy.
 
 The purpose of this chapter is not to discourage new beekeepers. Mistakes are part of learning. The goal is to identify the most common avoidable errors, explain why they occur, show the signs that they are developing, and provide practical ways to prevent or correct them.
 
-Good beekeeping does not mean never making an error. It means recognizing uncertainty, observing carefully, using records, acting at the correct time, and learning from outcomes.
+Good beekeeping does not mean never making an error. It means recognising uncertainty, observing carefully, using records, acting at the correct time, and learning from outcomes.
 
 ## Learning Objectives
 
@@ -17,7 +17,7 @@ After completing this chapter, the reader should be able to:
 - identify common mistakes made by new beekeepers;
 - explain why well-intended actions can harm colonies;
 - distinguish urgent problems from normal colony variation;
-- recognize errors involving inspections, feeding, queen management, swarming, health, harvesting, and winter preparation;
+- recognise errors involving inspections, feeding, queen management, swarming, health, harvesting, and winter preparation;
 - prevent avoidable colony stress;
 - correct mistakes without creating additional problems;
 - use records to identify repeated management failures;
@@ -94,7 +94,7 @@ This can lead to:
 - unnecessary debt;
 - difficulty changing systems later.
 
-Begin with a standardized system and enough spare equipment for likely needs. Expansion should follow experience and colony growth.
+Begin with a standardised system and enough spare equipment for likely needs. Expansion should follow experience and colony growth.
 
 Cheap equipment can also become expensive if it warps, leaks, breaks, or cannot be cleaned properly.
 
@@ -132,7 +132,7 @@ Before opening the hive, prepare tools, equipment, and a clear inspection object
 
 ## 37.6 Inspecting Too Frequently
 
-Frequent inspections can disrupt temperature, scent organization, brood care, nectar processing, and queen movement.
+Frequent inspections can disrupt temperature, scent organisation, brood care, nectar processing, and queen movement.
 
 Possible consequences include:
 
@@ -189,7 +189,7 @@ Smoke is a tool, not a method of forcing bees into submission.
 
 Excessive smoke can:
 
-- disrupt colony organization;
+- disrupt colony organisation;
 - contaminate honey;
 - drive the queen;
 - cause bees to gorge heavily;
@@ -245,7 +245,7 @@ Frames should be returned in their correct order and spacing. Missing frames sho
 
 ## 37.13 Rearranging the Brood Nest Unnecessarily
 
-The brood nest is organized for temperature, feeding, and bee movement.
+The brood nest is organised for temperature, feeding, and bee movement.
 
 Unnecessary rearrangement can:
 
@@ -257,7 +257,7 @@ Unnecessary rearrangement can:
 
 Any brood-nest manipulation should have a defined purpose and suit colony strength and weather.
 
-## 37.14 Failing to Recognize Queenright Evidence
+## 37.14 Failing to Recognise Queenright Evidence
 
 Beginners often spend too long searching for the queen.
 
@@ -876,7 +876,7 @@ Record:
 
 ## 37.63 Scientific Notes
 
-### Disturbance and colony organization
+### Disturbance and colony organisation
 
 Hive opening alters temperature, air movement, scent distribution, and worker activity. Repeated disturbance has cumulative effects.
 

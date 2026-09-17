@@ -115,7 +115,7 @@ This document defines the professional visual material to be produced during the
 
 ### Illustration 34.7 — Seasonal Equipment Readiness
 
-**Type:** Organized equipment plate
+**Type:** Organised equipment plate
 
 **Groups:**
 

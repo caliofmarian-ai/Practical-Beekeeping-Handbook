@@ -316,6 +316,7 @@ The current EU framework permits feeding only where colony survival is endangere
 Permitted feed is limited to defined organic materials such as:
 
 - organic honey;
+- organic pollen;
 - organic sugar syrups;
 - organic sugar.
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Beekeeping is governed by biological seasons rather than by dates alone. A colony responds to day length, temperature, rainfall, forage availability, brood-rearing conditions, food reserves, queen performance, disease pressure, and its own population structure. For that reason, a useful beekeeping calendar must do more than assign tasks to months. It must teach the beekeeper how to recognize the colony’s present phase and prepare for the phase that comes next.
+Beekeeping is governed by biological seasons rather than by dates alone. A colony responds to day length, temperature, rainfall, forage availability, brood-rearing conditions, food reserves, queen performance, disease pressure, and its own population structure. For that reason, a useful beekeeping calendar must do more than assign tasks to months. It must teach the beekeeper how to recognise the colony’s present phase and prepare for the phase that comes next.
 
 The same calendar date can represent very different conditions in different locations. Colonies in a mild maritime climate may rear brood during much of the winter, while colonies in a continental or northern climate may remain tightly clustered for long periods. Spring buildup may begin in January in one region and in April in another. Drought may end a nectar flow that normally lasts several weeks. An unusually warm autumn can extend brood production and increase parasite reproduction. Local flowering sequences may also shift from year to year.
 
@@ -25,7 +25,7 @@ After completing this chapter, the reader should be able to:
 
 - explain why colony biology is more useful than fixed dates when planning seasonal work;
 - identify the principal phases of an annual colony cycle;
-- recognize the signs that a colony is entering a new management phase;
+- recognise the signs that a colony is entering a new management phase;
 - prepare equipment, feed, space, queens, and treatments before they are urgently needed;
 - distinguish necessary seasonal work from unnecessary disturbance;
 - coordinate swarm management, honey production, feeding, queen management, and health control;
@@ -135,7 +135,7 @@ The beekeeper’s objectives are to:
 - preserve a dry and stable hive environment;
 - prevent starvation;
 - protect entrances from obstruction;
-- minimize unnecessary disturbance;
+- minimise unnecessary disturbance;
 - monitor external signs of trouble;
 - prepare for late-winter needs.
 
@@ -332,7 +332,7 @@ The beekeeper should:
 
 - provide adequate storage space before it is needed;
 - maintain colony health and queen function;
-- minimize disruption;
+- minimise disruption;
 - prevent avoidable swarming;
 - monitor super filling and ripening;
 - protect honey from contamination;
@@ -365,7 +365,7 @@ Honey should be harvested only when sufficiently ripened. Capped comb is useful 
 
 The end of a principal nectar flow is a major transition. Incoming nectar decreases, robbing risk may rise, and parasite pressure can become increasingly important.
 
-### 34.8.1 Recognizing the end of a flow
+### 34.8.1 Recognising the end of a flow
 
 Signs may include:
 
@@ -385,7 +385,7 @@ Before removing honey:
 - identify any supers affected by treatment restrictions;
 - prepare clean food-contact equipment;
 - plan bee removal;
-- minimize open exposure of honey;
+- minimise open exposure of honey;
 - prevent robbing;
 - retain adequate colony stores;
 - record the source and harvest date.
@@ -518,7 +518,7 @@ The following framework is based on colony phases rather than universal dates.
 | Late-winter transition | Cleansing flights, pollen intake, rising consumption | Confirm survival, food, queenright status, and equipment readiness | Isolation starvation, chilled brood, premature stimulation |
 | Spring buildup | Rapid brood expansion and rising bee population | Support balanced growth and prepare swarm-control resources | Food shortage, disease, insufficient space |
 | Swarm-development period | Drones, congestion, queen cells, backfilled brood comb | Prevent unmanaged swarming and maintain queen function | Colony loss, reduced harvest, queen failure |
-| Principal nectar flow | Strong foraging and rapid storage | Provide supers, preserve health, and minimize disruption | Space shortage, swarming, unripe harvest |
+| Principal nectar flow | Strong foraging and rapid storage | Provide supers, preserve health, and minimise disruption | Space shortage, swarming, unripe harvest |
 | Post-flow transition | Reduced weight gain and increased robbing pressure | Harvest safely and monitor health | Robbing, starvation, rising parasite load |
 | Late-season preparation | Population begins contracting | Produce healthy winter bees and establish stores | Late treatment, queen failure, inadequate food |
 | Winter entry | Brood reduction and declining flight | Finalize food, equipment, pest protection, and records | Disturbance, inaccessible stores, weather damage |
@@ -598,7 +598,7 @@ Possible priorities:
 Possible priorities:
 
 - manage supers during principal flows;
-- minimize unnecessary brood disturbance;
+- minimise unnecessary brood disturbance;
 - inspect for swarming where risk remains;
 - ensure ventilation and water access;
 - monitor honey maturity;
@@ -1028,7 +1028,7 @@ Pollen quality and diversity influence brood production and worker health. Visib
 
 ### Parasite dynamics
 
-Parasite populations may increase while the colony also increases, making damage difficult to recognize. When the adult bee population later declines, the ratio of parasites to bees can rise rapidly.
+Parasite populations may increase while the colony also increases, making damage difficult to recognise. When the adult bee population later declines, the ratio of parasites to bees can rise rapidly.
 
 ### Winter-bee physiology
 
@@ -1067,7 +1067,7 @@ Even nearby apiaries can differ because of altitude, shade, soil, forage, wind, 
 ## Key Takeaways
 
 - A beekeeping calendar must follow colony biology, weather, and forage rather than fixed dates alone.
-- The annual colony cycle can be organized into practical management phases.
+- The annual colony cycle can be organised into practical management phases.
 - Preparation should occur before congestion, starvation, parasite damage, or harvest pressure becomes urgent.
 - Late winter and the post-flow period are especially important risk transitions.
 - Healthy winter bees must be protected before they are produced, not after damage is visible.
@@ -1079,7 +1079,7 @@ Even nearby apiaries can differ because of altitude, shade, soil, forage, wind, 
 
 ## Chapter Summary
 
-Seasonal beekeeping is the practice of matching management to the colony’s changing biological needs. Although month-based schedules can help organize work, they become useful only when interpreted through local climate, flowering patterns, weather, colony population, brood production, stores, queen performance, and health status.
+Seasonal beekeeping is the practice of matching management to the colony’s changing biological needs. Although month-based schedules can help organise work, they become useful only when interpreted through local climate, flowering patterns, weather, colony population, brood production, stores, queen performance, and health status.
 
 The colony year can be understood as a sequence of winter survival, late-winter transition, spring buildup, swarm development, nectar flow, post-flow transition, late-season preparation, and winter entry. Each phase has distinct objectives and risks.
 
