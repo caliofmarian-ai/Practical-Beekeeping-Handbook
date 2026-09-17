@@ -25,7 +25,7 @@ After completing this chapter, the reader should be able to:
 - maintain harvest and product traceability;
 - compare paper and digital systems;
 - protect records through backup and access control;
-- analyze records to identify trends and management priorities;
+- analyse records to identify trends and management priorities;
 - determine which records may be legally required;
 - create a simple record-keeping system suitable for a small or growing apiary.
 
@@ -81,7 +81,7 @@ Every entry should identify the colony, apiary, date, and person responsible.
 
 ### Legible
 
-Paper records must be readable. Digital entries must use clear fields and standardized wording.
+Paper records must be readable. Digital entries must use clear fields and standardised wording.
 
 ### Protected
 
@@ -695,7 +695,7 @@ Disadvantages include:
 - limited backup;
 - storage volume.
 
-Use waterproof covers, pencils or suitable pens, and standardized forms.
+Use waterproof covers, pencils or suitable pens, and standardised forms.
 
 ## 36.24 Digital Records
 
@@ -786,7 +786,7 @@ Every photograph should be linked to:
 - apiary;
 - purpose.
 
-Voice notes can be useful when writing is difficult, but they must be transcribed or stored in an organized system. Unlabelled recordings soon become unusable.
+Voice notes can be useful when writing is difficult, but they must be transcribed or stored in an organised system. Unlabelled recordings soon become unusable.
 
 ## 36.28 Data Quality
 

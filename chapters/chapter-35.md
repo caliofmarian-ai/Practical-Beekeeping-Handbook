@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A seasonal calendar explains how a honey bee colony changes through the year. Monthly management converts that biological understanding into organized fieldwork. The beekeeper must know not only what the colony is likely to be doing, but also what equipment must be prepared, what observations must be recorded, which risks require attention, and which actions should be postponed.
+A seasonal calendar explains how a honey bee colony changes through the year. Monthly management converts that biological understanding into organised fieldwork. The beekeeper must know not only what the colony is likely to be doing, but also what equipment must be prepared, what observations must be recorded, which risks require attention, and which actions should be postponed.
 
 Monthly plans are useful because they reduce forgotten tasks and last-minute decisions. However, dates must never override colony condition. January in a mild coastal region may resemble March in a colder inland region. A late frost, drought, prolonged rain, early nectar flow, queen failure, or sudden rise in parasite pressure can shift the entire working schedule.
 
@@ -14,15 +14,15 @@ The month-by-month plan should be used as an operational checklist. The beekeepe
 
 After completing this chapter, the reader should be able to:
 
-- organize beekeeping work through a twelve-month operating plan;
+- organise beekeeping work through a twelve-month operating plan;
 - distinguish calendar planning from biological decision-making;
 - identify the principal management objectives for each month;
 - prepare equipment before it becomes urgently necessary;
 - schedule colony inspections according to weather and purpose;
 - integrate feeding, swarm control, queen management, honey production, and health monitoring;
-- recognize seasonal warning signs that require immediate action;
+- recognise seasonal warning signs that require immediate action;
 - adapt the monthly schedule to local climate and hemisphere;
-- organize workshop, storage, purchasing, and record-keeping tasks;
+- organise workshop, storage, purchasing, and record-keeping tasks;
 - create a monthly checklist for an individual apiary;
 - review annual results and improve the following year’s plan.
 
@@ -112,7 +112,7 @@ January is suitable for:
 - checking feeders;
 - cleaning protective clothing;
 - servicing extractors;
-- organizing storage.
+- organising storage.
 
 Do not reuse suspect disease-contaminated equipment without following appropriate legal and veterinary guidance.
 
@@ -253,7 +253,7 @@ Do not dismantle the entire brood nest without purpose. Weak colonies can be chi
 
 ### Queen assessment
 
-Evidence of a functioning queen includes eggs, larvae, and an organized brood pattern. The queen herself does not always need to be found.
+Evidence of a functioning queen includes eggs, larvae, and an organised brood pattern. The queen herself does not always need to be found.
 
 Possible concerns include:
 
@@ -518,7 +518,7 @@ A strong population can hide growing parasite pressure. Continue monitoring acco
 ### June checklist
 
 - maintain adequate super space;
-- minimize unnecessary brood disturbance;
+- minimise unnecessary brood disturbance;
 - monitor maturity;
 - provide water;
 - prepare extraction equipment;
@@ -544,7 +544,7 @@ Before removing honey:
 
 ### Removing supers
 
-Use a method appropriate to the apiary and local rules. Minimize:
+Use a method appropriate to the apiary and local rules. Minimise:
 
 - open honey exposure;
 - bee crushing;
@@ -802,7 +802,7 @@ Inspect stored comb for pests. Keep honey equipment dry, clean, and protected fr
 ### October checklist
 
 - perform final winter-readiness checks;
-- minimize disturbance;
+- minimise disturbance;
 - secure equipment;
 - inspect stored comb;
 - prepare emergency feed;
@@ -834,7 +834,7 @@ Do not open colonies without a justified need.
 - service smokers;
 - repair protective clothing;
 - service extraction equipment;
-- organize storage;
+- organise storage;
 - dispose of unusable material responsibly;
 - separate suspect equipment.
 
@@ -881,7 +881,7 @@ Order or budget for:
 - repair equipment;
 - review annual performance;
 - calculate replacement needs;
-- organize storage;
+- organise storage;
 - update next season’s plan.
 
 ## 35.13 December — Annual Review and Emergency Readiness
@@ -969,7 +969,7 @@ Prepare the next year’s:
 
 - maintain emergency readiness;
 - complete annual colony summaries;
-- analyze costs and production;
+- analyse costs and production;
 - revise the apiary calendar;
 - set realistic goals;
 - prepare orders and repair schedules.
@@ -1240,11 +1240,11 @@ Flowering dates vary among years. Soil moisture, frost, temperature, plant varie
 
 ### Management disturbance
 
-Opening a hive changes temperature, scent distribution, and colony organization. The benefits of inspection must justify the disturbance.
+Opening a hive changes temperature, scent distribution, and colony organisation. The benefits of inspection must justify the disturbance.
 
 ## Key Takeaways
 
-- Monthly planning organizes practical work but does not replace biological judgment.
+- Monthly planning organises practical work but does not replace biological judgment.
 - Every task must be adapted to colony condition, weather, forage, and location.
 - Late-winter starvation, spring congestion, post-flow parasite pressure, and autumn preparation are major management transitions.
 - Equipment should be ready before it is needed.
@@ -1257,9 +1257,9 @@ Opening a hive changes temperature, scent distribution, and colony organization.
 
 ## Chapter Summary
 
-Monthly management transforms the annual colony cycle into an organized work system. The beekeeper uses each month to plan colony inspections, food assessment, health monitoring, equipment preparation, queen management, swarm control, honey production, winter preparation, and record keeping.
+Monthly management transforms the annual colony cycle into an organised work system. The beekeeper uses each month to plan colony inspections, food assessment, health monitoring, equipment preparation, queen management, swarm control, honey production, winter preparation, and record keeping.
 
-The calendar must remain flexible. Dates are useful for organization, but colony biology determines action. January may require emergency feeding in one region and routine brood management in another. Southern Hemisphere timing is broadly shifted, while tropical management may be based on rainfall and forage rather than winter.
+The calendar must remain flexible. Dates are useful for organisation, but colony biology determines action. January may require emergency feeding in one region and routine brood management in another. Southern Hemisphere timing is broadly shifted, while tropical management may be based on rainfall and forage rather than winter.
 
 Good monthly management works ahead of the colony. Supers are prepared before the flow, swarm-control equipment before queen cells mature, health intervention before winter bees are damaged, and winter stores before cold weather prevents processing.
 
@@ -1350,7 +1350,7 @@ The final purpose of the monthly plan is not to create more inspections. It is t
 81. What type of work is appropriate in November?
 82. Which external signs should be checked after storms?
 83. What equipment can be repaired in the workshop?
-84. Which annual records should be analyzed?
+84. Which annual records should be analysed?
 85. Why should purchases be planned before spring?
 86. What should be included in a December colony summary?
 87. Which apiary-location factors should be reviewed annually?
