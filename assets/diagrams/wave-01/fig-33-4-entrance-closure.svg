@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 33.4 — Correct and Incorrect Entrance Closure</title>
+<desc id="desc">Comparison of a secure ventilated entrance closure with airtight or blocked transport closure.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 33.4 — Correct and Incorrect Entrance Closure</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">A transport closure must restrain bees while preserving adequate ventilation.</text>
+<rect class="box2" x="70" y="190" width="500" height="95" rx="22" ry="22"/>
+<text class="label" x="94" y="228" text-anchor="start">Ventilated closure</text>
+<rect class="stop" x="630" y="190" width="500" height="95" rx="22" ry="22"/>
+<text class="label" x="654" y="228" text-anchor="start">Airtight / blocked closure</text>
+<rect class="box" x="70" y="330" width="500" height="145" rx="22" ry="22"/>
+<text class="label" x="94" y="368" text-anchor="start">Mesh / screened closure</text>
+<text class="body" x="94" y="407" text-anchor="start">Securely fitted; air path remains open.</text>
+<rect class="stop" x="630" y="330" width="500" height="145" rx="22" ry="22"/>
+<text class="label" x="654" y="368" text-anchor="start">Solid sealed entrance</text>
+<text class="body" x="654" y="407" text-anchor="start">Populous colony can accumulate heat</text>
+<text class="body" x="654" y="434" text-anchor="start">rapidly.</text>
+<rect class="box" x="70" y="510" width="500" height="145" rx="22" ry="22"/>
+<text class="label" x="94" y="548" text-anchor="start">Airflow around screen</text>
+<text class="body" x="94" y="587" text-anchor="start">No boxes, fabric or clustered debris</text>
+<text class="body" x="94" y="614" text-anchor="start">block the ventilation surface.</text>
+<rect class="stop" x="630" y="510" width="500" height="145" rx="22" ry="22"/>
+<text class="label" x="654" y="548" text-anchor="start">Blocked screen</text>
+<text class="body" x="654" y="587" text-anchor="start">Ventilation area exists on paper but is</text>
+<text class="body" x="654" y="614" text-anchor="start">ineffective in practice.</text>
+<rect class="box" x="70" y="690" width="500" height="145" rx="22" ry="22"/>
+<text class="label" x="94" y="728" text-anchor="start">Recheck during delay</text>
+<text class="body" x="94" y="767" text-anchor="start">Heat and bee clustering can change</text>
+<text class="body" x="94" y="794" text-anchor="start">ventilation demand during transport.</text>
+<rect class="stop" x="630" y="690" width="500" height="145" rx="22" ry="22"/>
+<text class="label" x="654" y="728" text-anchor="start">Action</text>
+<text class="body" x="654" y="767" text-anchor="start">Stop and correct the ventilation hazard</text>
+<text class="body" x="654" y="794" text-anchor="start">before continued transport.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Ventilation design must match colony strength, weather, duration and vehicle conditions; it</text>
+<text class="small" x="85" y="1535" text-anchor="start">is not a one-size opening area.</text>
+</svg>

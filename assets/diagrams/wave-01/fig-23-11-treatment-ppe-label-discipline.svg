@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 23.11 — Chemical-Treatment PPE and Label Discipline</title>
+<desc id="desc">Treatment safety flow from authorisation and PPE through labelled application, wash-up, storage and disposal.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 23.11 — Chemical-Treatment PPE and Label Discipline</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">The product label and current authorisation determine PPE, use conditions, storage and</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">disposal.</text>
+<rect class="legal" x="210" y="210" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="248" text-anchor="start">Confirm authorised product/use</text>
+<text class="body" x="234" y="287" text-anchor="start">Check jurisdiction, target pest/disease, colony/product</text>
+<text class="body" x="234" y="314" text-anchor="start">conditions and current label.</text>
+<path class="arrow" d="M600,335 L600,380"/>
+<rect class="legal" x="210" y="390" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="428" text-anchor="start">Read PPE and environmental limits</text>
+<text class="body" x="234" y="467" text-anchor="start">Gloves, eye/respiratory protection and temperature/ventilation</text>
+<text class="body" x="234" y="494" text-anchor="start">needs are product-specific.</text>
+<path class="arrow" d="M600,515 L600,560"/>
+<rect class="box" x="210" y="570" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="608" text-anchor="start">Prepare clean treatment zone</text>
+<text class="body" x="234" y="647" text-anchor="start">Keep food/honey away; organise spill control,</text>
+<text class="body" x="234" y="674" text-anchor="start">measuring/application equipment and secure original container.</text>
+<path class="arrow" d="M600,695 L600,740"/>
+<rect class="stop" x="210" y="750" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="788" text-anchor="start">Apply only as labelled</text>
+<text class="body" x="234" y="827" text-anchor="start">No improvised dose, unapproved mixture, or unlabeled transfer</text>
+<text class="body" x="234" y="854" text-anchor="start">container.</text>
+<path class="arrow" d="M600,875 L600,920"/>
+<rect class="box" x="210" y="930" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="968" text-anchor="start">Wash / decontaminate appropriately</text>
+<text class="body" x="234" y="1007" text-anchor="start">Follow label and equipment instructions; prevent residues</text>
+<text class="body" x="234" y="1034" text-anchor="start">entering honey or food-contact tools.</text>
+<path class="arrow" d="M600,1055 L600,1100"/>
+<rect class="box2" x="210" y="1110" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="1148" text-anchor="start">Store/dispose securely</text>
+<text class="body" x="234" y="1187" text-anchor="start">Original labelled container, inaccessible storage, and compliant</text>
+<text class="body" x="234" y="1214" text-anchor="start">waste/disposal route.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">The diagram is intentionally product-generic. Always follow the actual authorised label and</text>
+<text class="small" x="85" y="1535" text-anchor="start">current local rules.</text>
+</svg>

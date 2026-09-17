@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 45.1 — Infection Versus Clinical Disease</title>
+<desc id="desc">Layered pathway from virus detection through subclinical infection and modifiers to possible overt disease and integrated interpretation.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 45.1 — Infection Versus Clinical Disease</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Virus detection and visible disease are related but not synonymous.</text>
+<rect class="box2" x="210" y="210" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="248" text-anchor="start">Virus detected</text>
+<text class="body" x="234" y="287" text-anchor="start">RNA/virus evidence may be present in a bee or colony without</text>
+<text class="body" x="234" y="314" text-anchor="start">obvious clinical signs.</text>
+<path class="arrow" d="M600,335 L600,380"/>
+<rect class="box" x="210" y="390" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="428" text-anchor="start">Covert / subclinical infection</text>
+<text class="body" x="234" y="467" text-anchor="start">Bees may appear normal while infection exists; prevalence/load</text>
+<text class="body" x="234" y="494" text-anchor="start">and biological meaning vary.</text>
+<path class="arrow" d="M600,515 L600,560"/>
+<rect class="box" x="210" y="570" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="608" text-anchor="start">Modifiers change risk</text>
+<text class="body" x="234" y="647" text-anchor="start">Varroa/vectoring, viral load, bee age, nutrition, genetics,</text>
+<text class="body" x="234" y="674" text-anchor="start">coinfection and other stress can alter expression.</text>
+<path class="arrow" d="M600,695 L600,740"/>
+<rect class="stop" x="210" y="750" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="788" text-anchor="start">Overt clinical disease</text>
+<text class="body" x="234" y="827" text-anchor="start">Visible or behavioural syndrome can emerge, but similar signs can</text>
+<text class="body" x="234" y="854" text-anchor="start">have other causes.</text>
+<path class="arrow" d="M600,875 L600,920"/>
+<rect class="legal" x="210" y="930" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="968" text-anchor="start">Diagnosis / management</text>
+<text class="body" x="234" y="1007" text-anchor="start">Integrate phenotype, colony context, Varroa level and appropriate</text>
+<text class="body" x="234" y="1034" text-anchor="start">laboratory evidence; do not infer causation from PCR alone.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Visible disease can underestimate total infection burden, while a positive molecular result</text>
+<text class="small" x="85" y="1535" text-anchor="start">does not automatically prove the detected virus caused the signs.</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 23.3 — Hierarchy of Controls for Beekeeping</title>
+<desc id="desc">Hierarchy from avoiding a hazard through substitution, engineering or site controls, procedures and PPE, with beekeeping examples.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 23.3 — Hierarchy of Controls for Beekeeping</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Use the most effective practical controls first. PPE is important but should not be the only</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">control.</text>
+<rect class="box2" x="110" y="200" width="980" height="180" rx="22" ry="22"/>
+<text class="label" x="134" y="238" text-anchor="start">1. Avoid / eliminate</text>
+<text class="body" x="134" y="277" text-anchor="start">Do not perform the hazardous task when it is unnecessary or conditions are</text>
+<text class="body" x="134" y="304" text-anchor="start">unsafe.</text>
+<rect class="box" x="175" y="420" width="850" height="180" rx="22" ry="22"/>
+<text class="label" x="199" y="458" text-anchor="start">2. Substitute</text>
+<text class="body" x="199" y="497" text-anchor="start">Choose a safer method, tool, handling route or timing when equivalent</text>
+<text class="body" x="199" y="524" text-anchor="start">work can be done with less risk.</text>
+<rect class="box" x="240" y="640" width="720" height="180" rx="22" ry="22"/>
+<text class="label" x="264" y="678" text-anchor="start">3. Engineering / site controls</text>
+<text class="body" x="264" y="717" text-anchor="start">Stable stands, barriers, lifting aids, ventilation,</text>
+<text class="body" x="264" y="744" text-anchor="start">fire-safe smoker area, secure vehicle restraint.</text>
+<rect class="box" x="305" y="860" width="590" height="180" rx="22" ry="22"/>
+<text class="label" x="329" y="898" text-anchor="start">4. Procedures / administrative controls</text>
+<text class="body" x="329" y="937" text-anchor="start">Training, check-in plans, task limits,</text>
+<text class="body" x="329" y="964" text-anchor="start">weather/fire checks, labels, records, work order.</text>
+<rect class="box" x="370" y="1080" width="460" height="180" rx="22" ry="22"/>
+<text class="label" x="394" y="1118" text-anchor="start">5. PPE</text>
+<text class="body" x="394" y="1157" text-anchor="start">Veil/suit/gloves/footwear and</text>
+<text class="body" x="394" y="1184" text-anchor="start">task-specific chemical or eye</text>
+<text class="body" x="394" y="1211" text-anchor="start">protection as required.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">A lower-level control does not cancel the need for higher-level controls when those controls</text>
+<text class="small" x="85" y="1535" text-anchor="start">are practical and appropriate.</text>
+</svg>

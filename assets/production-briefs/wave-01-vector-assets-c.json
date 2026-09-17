@@ -1,0 +1,175 @@
+{
+  "asset_count": 17,
+  "assets": [
+    {
+      "path": "assets/diagrams/wave-01/fig-23-2-risk-assessment-sequence.svg",
+      "title": "Figure 23.2 — Simple Risk-Assessment Sequence",
+      "alt_text": "Seven-step risk-assessment flow from hazard identification to review, including a stop-work gate if risk is not acceptable.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-23-3-hierarchy-of-controls.svg",
+      "title": "Figure 23.3 — Hierarchy of Controls for Beekeeping",
+      "alt_text": "Hierarchy from avoiding a hazard through substitution, engineering or site controls, procedures and PPE, with beekeeping examples.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-23-11-treatment-ppe-label-discipline.svg",
+      "title": "Figure 23.11 — Chemical-Treatment PPE and Label Discipline",
+      "alt_text": "Treatment safety flow from authorisation and PPE through labelled application, wash-up, storage and disposal.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-33-4-entrance-closure.svg",
+      "title": "Figure 33.4 — Correct and Incorrect Entrance Closure",
+      "alt_text": "Comparison of a secure ventilated entrance closure with airtight or blocked transport closure.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-33-7-manual-handling.svg",
+      "title": "Figure 33.7 — Manual Handling During Colony Moves",
+      "alt_text": "Manual-handling comparison of route planning, aid/team lift and stable stance versus twisting, solo overload and unstable footing.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-33-12-emergency-box-separation.svg",
+      "title": "Figure 33.12 — Emergency Box Separation",
+      "alt_text": "Seven-step emergency sequence for separated hive boxes during transport.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-2-starvation-versus-accessible-stores.svg",
+      "title": "Figure 38.2 — Starvation Versus Accessible Stores",
+      "alt_text": "Hive cutaway comparison of a winter cluster touching stores versus a small cold cluster separated from remaining stores, with an emergency-feed placement zone adjacent to the cluster.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-6-storm-damaged-hive-recovery.svg",
+      "title": "Figure 38.6 — Storm-Damaged Hive Recovery",
+      "alt_text": "Storm-damage recovery flow from site safety through reassembly, securing, spill control and follow-up.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-6-nosema-microscopy-workflow.svg",
+      "title": "Figure 42.6 — Microscopy Workflow",
+      "alt_text": "Microscopy workflow from representative adult-bee sample through homogenisation, counting chamber, microscope and interpretation.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-8-microscopy-vs-pcr.svg",
+      "title": "Figure 42.8 — Microscopy Versus PCR/qPCR",
+      "alt_text": "Comparison table of light microscopy and PCR/qPCR for Nosema/Vairimorpha investigation.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-9-positive-result-not-equal-cause.svg",
+      "title": "Figure 42.9 — A Positive Result Does Not Equal Cause",
+      "alt_text": "Decision flow interpreting a positive Nosema/Vairimorpha test without equating detection with cause.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-11-nosema-management-framework.svg",
+      "title": "Figure 42.11 — Nosema Management Framework",
+      "alt_text": "Hub-and-spoke Nosema management framework covering nutrition, moisture, Varroa, hygiene, comb management, diagnosis and legal treatment check.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-1-infection-versus-clinical-disease.svg",
+      "title": "Figure 45.1 — Infection Versus Clinical Disease",
+      "alt_text": "Layered pathway from virus detection through subclinical infection and modifiers to possible overt disease and integrated interpretation.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-2-viral-transmission-routes.svg",
+      "title": "Figure 45.2 — Viral Transmission Routes",
+      "alt_text": "Hub diagram of food/contact, queen/offspring, brood cannibalism, Varroa, drifting/robbing, colony movement and indirect routes in honey-bee virus ecology.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-9-rt-pcr-workflow.svg",
+      "title": "Figure 45.9 — RT-PCR Workflow",
+      "alt_text": "RT-PCR workflow from labelled sample through RNA extraction, reverse transcription, amplification, result and contextual interpretation.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-10-pooled-vs-individual-sampling.svg",
+      "title": "Figure 45.10 — Pooled Versus Individual Sampling",
+      "alt_text": "Comparison of pooled virus surveillance samples with individual phenotype-targeted sampling.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-12-virus-management-framework.svg",
+      "title": "Figure 45.12 — Practical Virus-Management Framework",
+      "alt_text": "Hub diagram of practical honey-bee virus risk management through Varroa control, nutrition, stock, robbing/drifting reduction, movement biosecurity, exposure investigation and testing.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    }
+  ]
+}
