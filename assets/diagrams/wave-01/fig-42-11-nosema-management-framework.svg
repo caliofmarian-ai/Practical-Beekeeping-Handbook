@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 42.11 — Nosema Management Framework</title>
+<desc id="desc">Hub-and-spoke Nosema management framework covering nutrition, moisture, Varroa, hygiene, comb management, diagnosis and legal treatment check.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 42.11 — Nosema Management Framework</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Management centres on colony resilience, hygiene, correct diagnosis and legal treatment</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">checks rather than one universal medicine threshold.</text>
+<circle class="hub" cx="600" cy="790" r="145"/>
+<text class="hubtext" x="600" y="780" text-anchor="middle">Colony-level</text>
+<text class="hubtext" x="600" y="810" text-anchor="middle">Nosema</text>
+<text class="hubtext" x="600" y="840" text-anchor="middle">management</text>
+<rect class="box" x="465" y="195" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="489" y="233" text-anchor="start">Nutrition</text>
+<text class="body" x="489" y="272" text-anchor="start">Adequate, appropriate</text>
+<text class="body" x="489" y="299" text-anchor="start">food and forage.</text>
+<path class="arrow" d="M600,270 L600,790"/>
+<rect class="box" x="830" y="395" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="854" y="433" text-anchor="start">Moisture /</text>
+<text class="label" x="854" y="462" text-anchor="start">environment</text>
+<text class="body" x="854" y="501" text-anchor="start">Reduce chronic</text>
+<text class="body" x="854" y="528" text-anchor="start">damp/stress where hive</text>
+<text class="body" x="854" y="555" text-anchor="start">design and climate</text>
+<text class="body" x="854" y="582" text-anchor="start">allow.</text>
+<path class="arrow" d="M965,470 L600,790"/>
+<rect class="box" x="875" y="805" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="899" y="843" text-anchor="start">Varroa control</text>
+<text class="body" x="899" y="882" text-anchor="start">Address major</text>
+<text class="body" x="899" y="909" text-anchor="start">concurrent</text>
+<text class="body" x="899" y="936" text-anchor="start">parasite/virus</text>
+<text class="body" x="899" y="963" text-anchor="start">pressure.</text>
+<path class="arrow" d="M1010,880 L600,790"/>
+<rect class="box" x="655" y="1115" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="679" y="1153" text-anchor="start">Feeder / water</text>
+<text class="label" x="679" y="1182" text-anchor="start">hygiene</text>
+<text class="body" x="679" y="1221" text-anchor="start">Avoid avoidable</text>
+<text class="body" x="679" y="1248" text-anchor="start">contamination and</text>
+<text class="body" x="679" y="1275" text-anchor="start">shared dirty</text>
+<text class="body" x="679" y="1302" text-anchor="start">equipment.</text>
+<path class="arrow" d="M790,1190 L600,790"/>
+<rect class="box" x="275" y="1115" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="299" y="1153" text-anchor="start">Comb / equipment</text>
+<text class="body" x="299" y="1192" text-anchor="start">Biosecurity and</text>
+<text class="body" x="299" y="1219" text-anchor="start">sensible</text>
+<text class="body" x="299" y="1246" text-anchor="start">comb/equipment</text>
+<text class="body" x="299" y="1273" text-anchor="start">management.</text>
+<path class="arrow" d="M410,1190 L600,790"/>
+<rect class="box" x="55" y="805" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="79" y="843" text-anchor="start">Diagnosis</text>
+<text class="body" x="79" y="882" text-anchor="start">Representative</text>
+<text class="body" x="79" y="909" text-anchor="start">sampling and</text>
+<text class="body" x="79" y="936" text-anchor="start">appropriate testing.</text>
+<path class="arrow" d="M190,880 L600,790"/>
+<rect class="box" x="100" y="395" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="124" y="433" text-anchor="start">Legal treatment</text>
+<text class="label" x="124" y="462" text-anchor="start">check</text>
+<text class="body" x="124" y="501" text-anchor="start">Only authorised</text>
+<text class="body" x="124" y="528" text-anchor="start">options under current</text>
+<text class="body" x="124" y="555" text-anchor="start">jurisdiction; verify</text>
+<text class="body" x="124" y="582" text-anchor="start">outcome.</text>
+<path class="arrow" d="M235,470 L600,790"/>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">No universal spores-per-bee treatment threshold is embedded because interpretation and</text>
+<text class="small" x="85" y="1535" text-anchor="start">authorised options vary by context and jurisdiction.</text>
+</svg>

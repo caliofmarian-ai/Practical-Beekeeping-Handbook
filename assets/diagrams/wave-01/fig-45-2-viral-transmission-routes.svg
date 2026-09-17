@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 45.2 — Viral Transmission Routes</title>
+<desc id="desc">Hub diagram of food/contact, queen/offspring, brood cannibalism, Varroa, drifting/robbing, colony movement and indirect routes in honey-bee virus ecology.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 45.2 — Viral Transmission Routes</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Honey-bee viruses can move by several pathways; the importance of each pathway differs by</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">virus and context.</text>
+<circle class="hub" cx="600" cy="790" r="145"/>
+<text class="hubtext" x="600" y="780" text-anchor="middle">Virus</text>
+<text class="hubtext" x="600" y="810" text-anchor="middle">transmission /</text>
+<text class="hubtext" x="600" y="840" text-anchor="middle">maintenance</text>
+<rect class="box" x="465" y="195" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="489" y="233" text-anchor="start">Food / contact</text>
+<text class="body" x="489" y="272" text-anchor="start">Horizontal exposure</text>
+<text class="body" x="489" y="299" text-anchor="start">among nestmates.</text>
+<path class="arrow" d="M600,270 L600,790"/>
+<rect class="box" x="830" y="395" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="854" y="433" text-anchor="start">Queen / offspring</text>
+<text class="body" x="854" y="472" text-anchor="start">Vertical or</text>
+<text class="body" x="854" y="499" text-anchor="start">reproductive-associated</text>
+<text class="body" x="854" y="526" text-anchor="start">pathways for some</text>
+<text class="body" x="854" y="553" text-anchor="start">viruses.</text>
+<path class="arrow" d="M965,470 L600,790"/>
+<rect class="box" x="875" y="805" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="899" y="843" text-anchor="start">Brood cannibalism</text>
+<text class="body" x="899" y="882" text-anchor="start">Exposure during</text>
+<text class="body" x="899" y="909" text-anchor="start">removal/consumption of</text>
+<text class="body" x="899" y="936" text-anchor="start">affected brood.</text>
+<path class="arrow" d="M1010,880 L600,790"/>
+<rect class="box" x="655" y="1115" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="679" y="1153" text-anchor="start">Varroa-mediated</text>
+<text class="body" x="679" y="1192" text-anchor="start">Direct</text>
+<text class="body" x="679" y="1219" text-anchor="start">vectoring/inoculation</text>
+<text class="body" x="679" y="1246" text-anchor="start">and amplification;</text>
+<text class="body" x="679" y="1273" text-anchor="start">especially important</text>
+<text class="body" x="679" y="1300" text-anchor="start">for DWV ecology.</text>
+<path class="arrow" d="M790,1190 L600,790"/>
+<rect class="box" x="275" y="1115" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="299" y="1153" text-anchor="start">Drifting / robbing</text>
+<text class="body" x="299" y="1192" text-anchor="start">Bee movement between</text>
+<text class="body" x="299" y="1219" text-anchor="start">colonies can connect</text>
+<text class="body" x="299" y="1246" text-anchor="start">infection networks.</text>
+<path class="arrow" d="M410,1190 L600,790"/>
+<rect class="box" x="55" y="805" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="79" y="843" text-anchor="start">Colony movement</text>
+<text class="body" x="79" y="882" text-anchor="start">Managed movement and</text>
+<text class="body" x="79" y="909" text-anchor="start">introduced bees can</text>
+<text class="body" x="79" y="936" text-anchor="start">spread infected</text>
+<text class="body" x="79" y="963" text-anchor="start">hosts/vectors.</text>
+<path class="arrow" d="M190,880 L600,790"/>
+<rect class="box" x="100" y="395" width="270" height="150" rx="22" ry="22"/>
+<text class="label" x="124" y="433" text-anchor="start">Environment /</text>
+<text class="label" x="124" y="462" text-anchor="start">equipment</text>
+<text class="body" x="124" y="501" text-anchor="start">Potential indirect</text>
+<text class="body" x="124" y="528" text-anchor="start">routes vary by virus;</text>
+<text class="body" x="124" y="555" text-anchor="start">do not assume equal</text>
+<text class="body" x="124" y="582" text-anchor="start">importance.</text>
+<path class="arrow" d="M235,470 L600,790"/>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Arrows indicate possible transmission routes, not identical efficiency or proof that every</text>
+<text class="small" x="85" y="1535" text-anchor="start">virus uses every route to the same degree.</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 42.8 — Microscopy Versus PCR/qPCR</title>
+<desc id="desc">Comparison table of light microscopy and PCR/qPCR for Nosema/Vairimorpha investigation.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 42.8 — Microscopy Versus PCR/qPCR</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">The methods answer overlapping but different questions and have different resource</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">requirements.</text>
+<rect class="box2" x="55" y="225" width="245" height="100" rx="22" ry="22"/>
+<text class="label" x="79" y="263" text-anchor="start">Feature</text>
+<rect class="box2" x="300" y="225" width="422" height="100" rx="22" ry="22"/>
+<text class="label" x="324" y="263" text-anchor="start">Light microscopy</text>
+<rect class="box2" x="722" y="225" width="422" height="100" rx="22" ry="22"/>
+<text class="label" x="746" y="263" text-anchor="start">PCR / qPCR</text>
+<rect class="box2" x="55" y="345" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="79" y="383" text-anchor="start">Detects</text>
+<text class="label" x="79" y="412" text-anchor="start">compatible</text>
+<text class="label" x="79" y="441" text-anchor="start">spores</text>
+<rect class="box" x="300" y="345" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="324" y="383" text-anchor="start">Yes</text>
+<rect class="box" x="722" y="345" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="746" y="383" text-anchor="start">Detects target nucleic acid</text>
+<text class="label" x="746" y="412" text-anchor="start">rather than visual spores</text>
+<rect class="box2" x="55" y="567" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="79" y="605" text-anchor="start">Species</text>
+<text class="label" x="79" y="634" text-anchor="start">discrimination</text>
+<rect class="box" x="300" y="567" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="324" y="605" text-anchor="start">Generally unreliable by</text>
+<text class="label" x="324" y="634" text-anchor="start">morphology alone</text>
+<rect class="box" x="722" y="567" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="746" y="605" text-anchor="start">Can discriminate targets</text>
+<text class="label" x="746" y="634" text-anchor="start">when assay is validated</text>
+<rect class="box2" x="55" y="789" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="79" y="827" text-anchor="start">Quantification</text>
+<rect class="box" x="300" y="789" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="324" y="827" text-anchor="start">Possible spore count with</text>
+<text class="label" x="324" y="856" text-anchor="start">defined method</text>
+<rect class="box" x="722" y="789" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="746" y="827" text-anchor="start">qPCR can estimate target</text>
+<text class="label" x="746" y="856" text-anchor="start">quantity; units/standards</text>
+<text class="label" x="746" y="885" text-anchor="start">depend on assay</text>
+<rect class="box2" x="55" y="1011" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="79" y="1049" text-anchor="start">Equipment</text>
+<rect class="box" x="300" y="1011" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="324" y="1049" text-anchor="start">Microscope + counting method</text>
+<rect class="box" x="722" y="1011" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="746" y="1049" text-anchor="start">Molecular laboratory</text>
+<text class="label" x="746" y="1078" text-anchor="start">workflow</text>
+<rect class="box2" x="55" y="1233" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="79" y="1271" text-anchor="start">Main limitation</text>
+<rect class="box" x="300" y="1233" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="324" y="1271" text-anchor="start">Observer/sample preparation</text>
+<text class="label" x="324" y="1300" text-anchor="start">and poor species</text>
+<text class="label" x="324" y="1329" text-anchor="start">discrimination</text>
+<rect class="box" x="722" y="1233" width="422" height="210" rx="22" ry="22"/>
+<text class="label" x="746" y="1271" text-anchor="start">Assay target, inhibitors,</text>
+<text class="label" x="746" y="1300" text-anchor="start">extraction and detection do</text>
+<text class="label" x="746" y="1329" text-anchor="start">not automatically prove</text>
+<text class="label" x="746" y="1358" text-anchor="start">clinical causation</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Neither method should be interpreted without sample identity, colony signs and the decision</text>
+<text class="small" x="85" y="1535" text-anchor="start">being asked of the test.</text>
+</svg>
