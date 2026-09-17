@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 23.6 — Local Reaction Versus Emergency Warning Signs</title>
+<desc id="desc">Clinical-awareness comparison between local sting effects and systemic emergency warning patterns with an explicit emergency-assistance action.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 23.6 — Local Reaction Versus Emergency Warning Signs</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Recognise escalation cues without attempting to diagnose anaphylaxis from one isolated sign.</text>
+<rect class="box" x="70" y="190" width="500" height="100" rx="22" ry="22"/>
+<text class="label" x="94" y="228" text-anchor="start">Limited local reaction</text>
+<rect class="legal" x="630" y="190" width="500" height="100" rx="22" ry="22"/>
+<text class="label" x="654" y="228" text-anchor="start">Emergency warning pattern</text>
+<rect class="box" x="70" y="340" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="94" y="378" text-anchor="start">Near the sting site</text>
+<text class="body" x="94" y="417" text-anchor="start">Pain, redness and local swelling can</text>
+<text class="body" x="94" y="444" text-anchor="start">occur around the sting.</text>
+<rect class="legal" x="630" y="340" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="654" y="378" text-anchor="start">Breathing difficulty / throat or</text>
+<text class="label" x="654" y="407" text-anchor="start">tongue swelling</text>
+<text class="body" x="654" y="446" text-anchor="start">Treat as an emergency warning pattern.</text>
+<rect class="box" x="70" y="485" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="94" y="523" text-anchor="start">Monitor</text>
+<text class="body" x="94" y="562" text-anchor="start">Remove retained stinger promptly when</text>
+<text class="body" x="94" y="589" text-anchor="start">present; follow normal first-aid guidance</text>
+<text class="body" x="94" y="616" text-anchor="start">and personal medical advice.</text>
+<rect class="legal" x="630" y="485" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="654" y="523" text-anchor="start">Widespread hives or rapid</text>
+<text class="label" x="654" y="552" text-anchor="start">generalised reaction</text>
+<text class="body" x="654" y="591" text-anchor="start">Systemic symptoms require urgent</text>
+<text class="body" x="654" y="618" text-anchor="start">attention.</text>
+<rect class="box" x="70" y="630" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="94" y="668" text-anchor="start">Escalate if pattern changes</text>
+<text class="body" x="94" y="707" text-anchor="start">Rapid progression, widespread symptoms or</text>
+<text class="body" x="94" y="734" text-anchor="start">breathing/circulatory symptoms move the</text>
+<text class="body" x="94" y="761" text-anchor="start">situation out of the &#x27;local&#x27; column.</text>
+<rect class="legal" x="630" y="630" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="654" y="668" text-anchor="start">Collapse, faintness, severe</text>
+<text class="label" x="654" y="697" text-anchor="start">dizziness</text>
+<text class="body" x="654" y="736" text-anchor="start">Possible systemic emergency.</text>
+<rect class="legal" x="630" y="775" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="654" y="813" text-anchor="start">Action</text>
+<text class="body" x="654" y="852" text-anchor="start">Seek emergency medical assistance and</text>
+<text class="body" x="654" y="879" text-anchor="start">follow the person&#x27;s prescribed emergency</text>
+<text class="body" x="654" y="906" text-anchor="start">plan/medication instructions where</text>
+<text class="body" x="654" y="933" text-anchor="start">applicable.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">This figure is for emergency awareness, not self-diagnosis. Severe or rapidly worsening</text>
+<text class="small" x="85" y="1535" text-anchor="start">symptoms require urgent medical assistance.</text>
+</svg>

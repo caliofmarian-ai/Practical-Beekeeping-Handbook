@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 46.9 — Mode of Action and Resistance Selection</title>
+<desc id="desc">Conceptual population sequence showing selective removal of susceptible mites and disproportionate survival/reproduction of resistant mites after repeated use of one mode of action.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 46.9 — Mode of Action and Resistance Selection</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Repeated selection with the same relevant mode of action can increase the proportion of</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">resistant survivors.</text>
+<rect class="box2" x="70" y="260" width="220" height="420" rx="22" ry="22"/>
+<text class="label" x="94" y="298" text-anchor="start">Before control</text>
+<text class="body" x="94" y="337" text-anchor="start">Mostly susceptible</text>
+<text class="body" x="94" y="364" text-anchor="start">population with a</text>
+<text class="body" x="94" y="391" text-anchor="start">small resistant</text>
+<text class="body" x="94" y="418" text-anchor="start">fraction.</text>
+<rect x="97" y="492" width="16" height="16" transform="rotate(45 105 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="142" y="492" width="16" height="16" transform="rotate(45 150 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<circle cx="195" cy="500" r="8" fill="#777"/>
+<circle cx="240" cy="500" r="8" fill="#777"/>
+<circle cx="105" cy="545" r="8" fill="#777"/>
+<circle cx="150" cy="545" r="8" fill="#777"/>
+<circle cx="195" cy="545" r="8" fill="#777"/>
+<circle cx="240" cy="545" r="8" fill="#777"/>
+<circle cx="105" cy="590" r="8" fill="#777"/>
+<circle cx="150" cy="590" r="8" fill="#777"/>
+<circle cx="195" cy="590" r="8" fill="#777"/>
+<circle cx="240" cy="590" r="8" fill="#777"/>
+<path class="arrow" d="M290,470 L350,470"/>
+<rect class="box" x="350" y="260" width="220" height="420" rx="22" ry="22"/>
+<text class="label" x="374" y="298" text-anchor="start">After one</text>
+<text class="label" x="374" y="327" text-anchor="start">control</text>
+<text class="body" x="374" y="366" text-anchor="start">Many susceptible</text>
+<text class="body" x="374" y="393" text-anchor="start">mites removed;</text>
+<text class="body" x="374" y="420" text-anchor="start">resistant</text>
+<text class="body" x="374" y="447" text-anchor="start">survivors are</text>
+<text class="body" x="374" y="474" text-anchor="start">over-represented.</text>
+<rect x="377" y="492" width="16" height="16" transform="rotate(45 385 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="422" y="492" width="16" height="16" transform="rotate(45 430 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="467" y="492" width="16" height="16" transform="rotate(45 475 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="512" y="492" width="16" height="16" transform="rotate(45 520 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="377" y="537" width="16" height="16" transform="rotate(45 385 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<circle cx="430" cy="545" r="8" fill="#777"/>
+<circle cx="475" cy="545" r="8" fill="#777"/>
+<circle cx="520" cy="545" r="8" fill="#777"/>
+<circle cx="385" cy="590" r="8" fill="#777"/>
+<circle cx="430" cy="590" r="8" fill="#777"/>
+<circle cx="475" cy="590" r="8" fill="#777"/>
+<circle cx="520" cy="590" r="8" fill="#777"/>
+<path class="arrow" d="M570,470 L630,470"/>
+<rect class="box" x="630" y="260" width="220" height="420" rx="22" ry="22"/>
+<text class="label" x="654" y="298" text-anchor="start">Reproduction /</text>
+<text class="label" x="654" y="327" text-anchor="start">next</text>
+<text class="label" x="654" y="356" text-anchor="start">generation</text>
+<text class="body" x="654" y="395" text-anchor="start">Survivors</text>
+<text class="body" x="654" y="422" text-anchor="start">contribute</text>
+<text class="body" x="654" y="449" text-anchor="start">disproportionately</text>
+<text class="body" x="654" y="476" text-anchor="start">to future</text>
+<text class="body" x="654" y="503" text-anchor="start">population.</text>
+<rect x="657" y="492" width="16" height="16" transform="rotate(45 665 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="702" y="492" width="16" height="16" transform="rotate(45 710 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="747" y="492" width="16" height="16" transform="rotate(45 755 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="792" y="492" width="16" height="16" transform="rotate(45 800 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="657" y="537" width="16" height="16" transform="rotate(45 665 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="702" y="537" width="16" height="16" transform="rotate(45 710 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="747" y="537" width="16" height="16" transform="rotate(45 755 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<circle cx="800" cy="545" r="8" fill="#777"/>
+<circle cx="665" cy="590" r="8" fill="#777"/>
+<circle cx="710" cy="590" r="8" fill="#777"/>
+<circle cx="755" cy="590" r="8" fill="#777"/>
+<circle cx="800" cy="590" r="8" fill="#777"/>
+<path class="arrow" d="M850,470 L910,470"/>
+<rect class="box" x="910" y="260" width="220" height="420" rx="22" ry="22"/>
+<text class="label" x="934" y="298" text-anchor="start">Repeated same</text>
+<text class="label" x="934" y="327" text-anchor="start">mode of action</text>
+<text class="body" x="934" y="366" text-anchor="start">Resistance</text>
+<text class="body" x="934" y="393" text-anchor="start">frequency can rise</text>
+<text class="body" x="934" y="420" text-anchor="start">further if</text>
+<text class="body" x="934" y="447" text-anchor="start">selection</text>
+<text class="body" x="934" y="474" text-anchor="start">continues without</text>
+<text class="body" x="934" y="501" text-anchor="start">effective</text>
+<text class="body" x="934" y="528" text-anchor="start">rotation/strategy.</text>
+<rect x="937" y="492" width="16" height="16" transform="rotate(45 945 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="982" y="492" width="16" height="16" transform="rotate(45 990 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="1027" y="492" width="16" height="16" transform="rotate(45 1035 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="1072" y="492" width="16" height="16" transform="rotate(45 1080 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="937" y="537" width="16" height="16" transform="rotate(45 945 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="982" y="537" width="16" height="16" transform="rotate(45 990 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="1027" y="537" width="16" height="16" transform="rotate(45 1035 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="1072" y="537" width="16" height="16" transform="rotate(45 1080 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="937" y="582" width="16" height="16" transform="rotate(45 945 590)" fill="#fff" stroke="#111" stroke-width="3"/>
+<circle cx="990" cy="590" r="8" fill="#777"/>
+<circle cx="1035" cy="590" r="8" fill="#777"/>
+<circle cx="1080" cy="590" r="8" fill="#777"/>
+<text class="label" x="110" y="780" text-anchor="start">● susceptible example    ◇ resistant example</text>
+<rect class="box2" x="130" y="880" width="940" height="270" rx="22" ry="22"/>
+<text class="label" x="154" y="918" text-anchor="start">Key management lesson</text>
+<text class="body" x="154" y="957" text-anchor="start">Changing product brand names is not necessarily changing the relevant mode of</text>
+<text class="body" x="154" y="984" text-anchor="start">action. Resistance management still requires monitoring, authorised choices,</text>
+<text class="body" x="154" y="1011" text-anchor="start">correct application and verification.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">This conceptual figure does not predict resistance speed for a specific product or</text>
+<text class="small" x="85" y="1535" text-anchor="start">population and does not authorise unlabelled rotation/combination schemes.</text>
+</svg>
