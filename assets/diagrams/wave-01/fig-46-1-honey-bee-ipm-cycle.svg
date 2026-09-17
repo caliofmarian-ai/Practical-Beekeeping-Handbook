@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 46.1 — The Honey Bee IPM Cycle</title>
+<desc id="desc">Circular IPM cycle from prevention through monitoring, identification, risk interpretation, control selection, authorised application, verification and records/review back to prevention.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 46.1 — The Honey Bee IPM Cycle</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">IPM is a repeated evidence loop, not a one-time treatment event.</text>
+<rect class="box" x="470" y="195" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="494" y="233" text-anchor="start">Prevention</text>
+<path class="arrow" d="M600,295 L895,295"/>
+<rect class="box" x="765" y="285" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="789" y="323" text-anchor="start">Surveillance /</text>
+<text class="label" x="789" y="352" text-anchor="start">monitoring</text>
+<path class="arrow" d="M895,385 L1010,575"/>
+<rect class="box" x="880" y="565" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="904" y="603" text-anchor="start">Identification</text>
+<path class="arrow" d="M1010,665 L930,885"/>
+<rect class="box" x="800" y="875" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="824" y="913" text-anchor="start">Risk</text>
+<text class="label" x="824" y="942" text-anchor="start">interpretation</text>
+<path class="arrow" d="M930,975 L650,1085"/>
+<rect class="box" x="520" y="1075" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="544" y="1113" text-anchor="start">Control selection</text>
+<path class="arrow" d="M650,1085 L350,1145"/>
+<rect class="box2" x="220" y="1045" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="244" y="1083" text-anchor="start">Authorised</text>
+<text class="label" x="244" y="1112" text-anchor="start">application</text>
+<path class="arrow" d="M350,1055 L145,890"/>
+<rect class="box" x="15" y="790" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="39" y="828" text-anchor="start">Verification</text>
+<path class="arrow" d="M145,800 L165,565"/>
+<rect class="box" x="35" y="465" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="59" y="503" text-anchor="start">Records / review</text>
+<path class="arrow" d="M165,475 L365,365"/>
+<rect class="box" x="235" y="265" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="259" y="303" text-anchor="start">Return to</text>
+<text class="label" x="259" y="332" text-anchor="start">prevention</text>
+<path class="arrow" d="M365,275 L600,295"/>
+<circle class="hub" cx="600" cy="770" r="115"/>
+<text class="hubtext" x="600" y="758" text-anchor="middle">Integrated</text>
+<text class="hubtext" x="600" y="788" text-anchor="middle">Pest</text>
+<text class="hubtext" x="600" y="818" text-anchor="middle">Management</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Statutory disease and exotic-pest pathways can require immediate authority action rather</text>
+<text class="small" x="85" y="1535" text-anchor="start">than ordinary economic-threshold logic.</text>
+</svg>

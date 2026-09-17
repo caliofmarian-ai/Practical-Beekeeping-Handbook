@@ -1,0 +1,137 @@
+{
+  "asset_count": 12,
+  "assets": [
+    {
+      "path": "assets/diagrams/wave-01/fig-23-9-heat-cold-dehydration-prevention.svg",
+      "title": "Figure 23.9 — Heat, Cold and Dehydration Prevention",
+      "alt_text": "Flow diagram showing pre-work preparation, prevention during work, stop-work cues and escalation to urgent medical help for severe symptoms.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-24-9-first-inspection-decision-timeline.svg",
+      "title": "Figure 24.9 — First-Inspection Decision Timeline",
+      "alt_text": "Timeline from installation through settling, targeted first inspection and setting the next check according to starting unit and conditions.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-25-3-inspection-questions-before-opening.svg",
+      "title": "Figure 25.3 — Inspection Questions Before Opening",
+      "alt_text": "Seven-question pre-inspection decision card covering queen status, brood, food, space, warning signs, action and follow-up.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-1-emergency-triage-sequence.svg",
+      "title": "Figure 38.1 — Emergency Triage Sequence",
+      "alt_text": "Emergency decision flow from people safety through hazard control, colony stabilisation, containment, evidence preservation, diagnosis, correction and recovery verification.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-13-monitoring-method-matches-question.svg",
+      "title": "Figure 40.13 — Monitoring Method Matches the Question",
+      "alt_text": "Four-way decision diagram linking Varroa pressure estimation, control verification, exotic Tropilaelaps detection and tracheal-mite investigation to appropriate method classes.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-9-thresholds-contextual.svg",
+      "title": "Figure 41.9 — Why Thresholds Are Contextual",
+      "alt_text": "Decision wheel surrounding a measured Varroa result with season, brood, climate, virus pressure, reinvasion, authorised options, management goal and local guidance.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-13-afb-response-decision-flow.svg",
+      "title": "Figure 43.13 — AFB Response Decision Flow",
+      "alt_text": "AFB decision flow from suspicious signs to movement stop, evidence preservation, authority contact, validated confirmation, official control, contact-colony inspection and follow-up.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-8-efb-sampling-diagnostic-pathway.svg",
+      "title": "Figure 44.8 — EFB Sampling and Diagnostic Pathway",
+      "alt_text": "EFB diagnostic pathway from representative larva and labelled sample to validated test, integrated interpretation, legal management decision and follow-up.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-1-honey-bee-ipm-cycle.svg",
+      "title": "Figure 46.1 — The Honey Bee IPM Cycle",
+      "alt_text": "Circular IPM cycle from prevention through monitoring, identification, risk interpretation, control selection, authorised application, verification and records/review back to prevention.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-10-treatment-failure-investigation.svg",
+      "title": "Figure 46.10 — Treatment Failure Investigation",
+      "alt_text": "Decision tree for investigating a high post-control pest result without automatic dose escalation.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-12-established-vs-exotic-regulated-pest.svg",
+      "title": "Figure 46.12 — Established Pest Versus Exotic Regulated Pest",
+      "alt_text": "Two-column pathway comparing routine Varroa monitoring and IPM management with evidence preservation, movement restraint and authority notification for suspected exotic regulated pests.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-13-pre-treatment-safety-check.svg",
+      "title": "Figure 41.13 — Honey-Super and Temperature Decision Check",
+      "alt_text": "Pre-treatment checklist covering authorisation, honey-super status, brood, weather, PPE, resistance history and follow-up monitoring.",
+      "format": "SVG",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial publication permitted subject to project ownership",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "colour_dependency": "none; greyscale-safe",
+      "external_font_dependency": "none"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 40.13 — Monitoring Method Matches the Question</title>
+<desc id="desc">Four-way decision diagram linking Varroa pressure estimation, control verification, exotic Tropilaelaps detection and tracheal-mite investigation to appropriate method classes.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 40.13 — Monitoring Method Matches the Question</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Select a monitoring or diagnostic method according to the biological question—not because</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">one test is familiar.</text>
+<rect class="box2" x="320" y="180" width="560" height="115" rx="22" ry="22"/>
+<text class="label" x="344" y="218" text-anchor="start">What are you trying to learn?</text>
+<text class="body" x="344" y="257" text-anchor="start">Choose the question before choosing the</text>
+<text class="body" x="344" y="284" text-anchor="start">method.</text>
+<rect class="box" x="75" y="410" width="500" height="260" rx="22" ry="22"/>
+<text class="label" x="99" y="448" text-anchor="start">Estimate Varroa pressure</text>
+<text class="body" x="99" y="487" text-anchor="start">Use a validated adult-bee quantitative</text>
+<text class="body" x="99" y="514" text-anchor="start">sampling method appropriate to local</text>
+<text class="body" x="99" y="541" text-anchor="start">guidance; record the denominator and</text>
+<text class="body" x="99" y="568" text-anchor="start">result.</text>
+<path class="arrow" d="M600,295 L325,410"/>
+<rect class="box" x="625" y="410" width="500" height="260" rx="22" ry="22"/>
+<text class="label" x="649" y="448" text-anchor="start">Confirm control performance</text>
+<text class="body" x="649" y="487" text-anchor="start">Use a comparable pre/post quantitative</text>
+<text class="body" x="649" y="514" text-anchor="start">method and an appropriate verification</text>
+<text class="body" x="649" y="541" text-anchor="start">interval; separate efficacy from later</text>
+<text class="body" x="649" y="568" text-anchor="start">reinvasion.</text>
+<path class="arrow" d="M600,295 L875,410"/>
+<rect class="box" x="75" y="830" width="500" height="260" rx="22" ry="22"/>
+<text class="label" x="99" y="868" text-anchor="start">Detect suspected exotic</text>
+<text class="label" x="99" y="897" text-anchor="start">Tropilaelaps</text>
+<text class="body" x="99" y="936" text-anchor="start">Preserve evidence, restrict movement and</text>
+<text class="body" x="99" y="963" text-anchor="start">use competent-authority</text>
+<text class="body" x="99" y="990" text-anchor="start">surveillance/identification pathways; do</text>
+<text class="body" x="99" y="1017" text-anchor="start">not rely on Varroa thresholds.</text>
+<path class="arrow" d="M600,295 L325,830"/>
+<rect class="box" x="625" y="830" width="500" height="260" rx="22" ry="22"/>
+<text class="label" x="649" y="868" text-anchor="start">Investigate tracheal mites</text>
+<text class="body" x="649" y="907" text-anchor="start">Use adult-bee sampling and validated</text>
+<text class="body" x="649" y="934" text-anchor="start">dissection/microscopy or current</text>
+<text class="body" x="649" y="961" text-anchor="start">laboratory methods; wing posture alone is</text>
+<text class="body" x="649" y="988" text-anchor="start">not diagnostic.</text>
+<path class="arrow" d="M600,295 L875,830"/>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">The figure intentionally contains no fixed treatment threshold or distribution claim that</text>
+<text class="small" x="85" y="1535" text-anchor="start">can become obsolete.</text>
+</svg>
