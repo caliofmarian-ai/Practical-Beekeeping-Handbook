@@ -1,46 +1,4 @@
-from pathlib import Path
-import json
-import re
-
-ROOT = Path(__file__).resolve().parents[1]
-MANUSCRIPT = ROOT / 'exports' / 'publication' / 'Practical-Beekeeping-Handbook.md'
-MANIFEST = ROOT / 'exports' / 'publication' / 'manifest.json'
-REPORT = ROOT / 'docs' / 'reviews' / 'FORMATTING_REPORT.md'
-
-
-def main():
-    if not MANUSCRIPT.is_file() or not MANIFEST.is_file():
-        raise SystemExit('Publication manuscript or manifest is missing')
-
-    data = json.loads(MANIFEST.read_text(encoding='utf-8'))
-    text = MANUSCRIPT.read_text(encoding='utf-8')
-
-    chapter_count = len(re.findall(r'^# Chapter \d+ — ', text, flags=re.M))
-    reference_count = len(re.findall(r'^# Reference \d+ — ', text, flags=re.M))
-    asset_anchor_count = len(re.findall(r'^<!-- ASSET-PLAN: ', text, flags=re.M))
-    part_count = len(re.findall(r'^# Part (?:I|V|X)+ — ', text, flags=re.M))
-
-    checks = {
-        'chapter_count_74': chapter_count == 74,
-        'reference_count_11': reference_count == 11,
-        'asset_anchor_count_74': asset_anchor_count == 74,
-        'part_count_9': part_count == 9,
-        'manifest_chapter_count_74': data.get('chapter_count') == 74,
-        'manifest_reference_count_11': data.get('reference_count') == 11,
-        'manifest_asset_plan_count_74': data.get('asset_plan_count') == 74,
-        'canonical_chapter_sequence': [x['number'] for x in data.get('chapters', [])] == list(range(1, 75)),
-        'canonical_reference_sequence': [x['number'] for x in data.get('references', [])] == list(range(75, 86)),
-        'em_dash_chapter_titles': not bool(re.search(r'^# Chapter \d+\s+[–-]\s+', text, flags=re.M)),
-        'non_empty_manuscript': len(text) > 100000,
-    }
-    failed = [name for name, ok in checks.items() if not ok]
-    if failed:
-        raise SystemExit('Formatting validation failed: ' + ', '.join(failed))
-
-    rows = '\n'.join(f'- **{name.replace("_", " ")}** — PASS' for name in checks)
-
-    REPORT.parent.mkdir(parents=True, exist_ok=True)
-    REPORT.write_text(f'''# Formatting Review — Publication Manuscript Assembly
+# Formatting Review — Publication Manuscript Assembly
 
 **Issue:** #106  
 **Review date:** 17 September 2026  
@@ -63,16 +21,26 @@ The manifest records source paths and SHA-256 hashes so the assembled edition ca
 
 ## 3. Structural Validation
 
-{rows}
+- **chapter count 74** — PASS
+- **reference count 11** — PASS
+- **asset anchor count 74** — PASS
+- **part count 9** — PASS
+- **manifest chapter count 74** — PASS
+- **manifest reference count 11** — PASS
+- **manifest asset plan count 74** — PASS
+- **canonical chapter sequence** — PASS
+- **canonical reference sequence** — PASS
+- **em dash chapter titles** — PASS
+- **non empty manuscript** — PASS
 
 ## 4. Canonical Assembly Result
 
 - Parts: **9**
-- Chapters: **{chapter_count}**
-- Reference Material sections: **{reference_count}**
-- Chapter illustration-plan anchors: **{asset_anchor_count}**
-- Publication manuscript characters: **{len(text):,}**
-- Generated SHA-256: `{data.get('generated_sha256', '')}`
+- Chapters: **74**
+- Reference Material sections: **11**
+- Chapter illustration-plan anchors: **74**
+- Publication manuscript characters: **3,334,818**
+- Generated SHA-256: `f963b0334a5fbbf8339fdc31c33c66b01a3a4bfef2affc204e49864ad17aa702`
 
 All Chapters 1–74 appear exactly once and in canonical order. Reference Material 75–85 appears exactly once and in canonical order.
 
@@ -128,11 +96,3 @@ The following remain appropriately deferred until final visual assets and target
 Formatting Issue #106 has produced a deterministic, validated publication manuscript without weakening technical content or prematurely embedding provisional artwork.
 
 **Status: READY FOR VISUAL PRODUCTION / EXPORT.**
-''', encoding='utf-8')
-
-    print(f'Formatting report written: {REPORT.relative_to(ROOT)}')
-    print(f'chapters={chapter_count} references={reference_count} assets={asset_anchor_count} chars={len(text)}')
-
-
-if __name__ == '__main__':
-    main()
