@@ -1,0 +1,671 @@
+{
+  "edition": "2026",
+  "author": "Marian Caliof",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Chapter 1 — Introduction to Beekeeping",
+      "source": "chapters/chapter-01.md",
+      "source_sha256": "5de9d18422f8419c02eb9d774569854e43813eaa88d0629040f886b956a8ea07",
+      "asset_plan": "docs/illustration-plans/chapter-01-illustration-plan.md"
+    },
+    {
+      "number": 2,
+      "title": "Chapter 2 — History of Beekeeping",
+      "source": "chapters/chapter-02.md",
+      "source_sha256": "119c228c764151ada87439dceb01479cfda1f03e7fb646e7600b73cafe85253a",
+      "asset_plan": "docs/illustration-plans/chapter-02-illustration-plan.md"
+    },
+    {
+      "number": 3,
+      "title": "Chapter 3 — Importance of Honey Bees",
+      "source": "chapters/chapter-03.md",
+      "source_sha256": "0cda4e87e069546d85ad18c826feff806f339c6514905a5329dae161ef682d61",
+      "asset_plan": "docs/illustration-plans/chapter-03-illustration-plan.md"
+    },
+    {
+      "number": 4,
+      "title": "Chapter 4 — Products of the Hive",
+      "source": "chapters/chapter-04.md",
+      "source_sha256": "a372c4ef5db53aadce7c327416d41f346a91cfe75b270385048187451c2f1754",
+      "asset_plan": "docs/illustration-plans/chapter-04-illustration-plan.md"
+    },
+    {
+      "number": 5,
+      "title": "Chapter 5 — Modern Beekeeping",
+      "source": "chapters/chapter-05.md",
+      "source_sha256": "d6b26bd65f404a6e18804164291e3b649e9e5b0e76cc8d6eba0904b06fb80148",
+      "asset_plan": "docs/illustration-plans/chapter-05-illustration-plan.md"
+    },
+    {
+      "number": 6,
+      "title": "Chapter 6 — Bee Anatomy",
+      "source": "chapters/chapter-06.md",
+      "source_sha256": "d1a12484967bafdf2ac064aa08ac738128a40a86e8e76c824cfea24428bfbda4",
+      "asset_plan": "docs/illustration-plans/chapter-06-illustration-plan.md"
+    },
+    {
+      "number": 7,
+      "title": "Chapter 7 — Honey Bee Life Cycle",
+      "source": "chapters/chapter-07.md",
+      "source_sha256": "9e9a7d7483833ba37a6f2192259a78352848396b4e5f8ab24726b7a333346bef",
+      "asset_plan": "docs/illustration-plans/chapter-07-illustration-plan.md"
+    },
+    {
+      "number": 8,
+      "title": "Chapter 8 — The Queen",
+      "source": "chapters/chapter-08.md",
+      "source_sha256": "4bc229926d89eef424d7f17e46c828918d6b5464b3f26d8aca264ef41212c7a7",
+      "asset_plan": "docs/illustration-plans/chapter-08-illustration-plan.md"
+    },
+    {
+      "number": 9,
+      "title": "Chapter 9 — Worker Bees",
+      "source": "chapters/chapter-09.md",
+      "source_sha256": "43bbf2b0db9c78ff3ddc3e6d9d6f101f2e2e4142839c6ff7bbc2204abc3cf8a8",
+      "asset_plan": "docs/illustration-plans/chapter-09-illustration-plan.md"
+    },
+    {
+      "number": 10,
+      "title": "Chapter 10 — Drones",
+      "source": "chapters/chapter-10.md",
+      "source_sha256": "4b88caff2e49b4c75d4245ebb3534dd86c634735d82bbe879a5008818e43aaa6",
+      "asset_plan": "docs/illustration-plans/chapter-10-illustration-plan.md"
+    },
+    {
+      "number": 11,
+      "title": "Chapter 11 — Communication Inside the Colony",
+      "source": "chapters/chapter-11.md",
+      "source_sha256": "1e32d8a93b65cfaba6e6d0c0f9925828a38f436afa63551fed1d1f6def56cee1",
+      "asset_plan": "docs/illustration-plans/chapter-11-illustration-plan.md"
+    },
+    {
+      "number": 12,
+      "title": "Chapter 12 — Bee Behaviour",
+      "source": "chapters/chapter-12.md",
+      "source_sha256": "b57725497e4ab03ae1ae38dcbcb2637dd207995f86f100b06acc90dd55e018fe",
+      "asset_plan": "docs/illustration-plans/chapter-12-illustration-plan.md"
+    },
+    {
+      "number": 13,
+      "title": "Chapter 13 — Colony Structure",
+      "source": "chapters/chapter-13.md",
+      "source_sha256": "55c21a79cc58510e15478130287bc8beb64a87cae42b6734e042551d91e9f336",
+      "asset_plan": "docs/illustration-plans/chapter-13-illustration-plan.md"
+    },
+    {
+      "number": 14,
+      "title": "Chapter 14 — Seasonal Colony Development",
+      "source": "chapters/chapter-14.md",
+      "source_sha256": "fecff4a9cedb237938269cd1e5df30a509b3ea338f80a56ac50b1cec23c3a7e9",
+      "asset_plan": "docs/illustration-plans/chapter-14-illustration-plan.md"
+    },
+    {
+      "number": 15,
+      "title": "Chapter 15 — Choosing an Apiary Location",
+      "source": "chapters/chapter-15.md",
+      "source_sha256": "3373cf6817e8b6a70c36164e3f4beb8b3921daa166a51cd03cca1457b7f19ae8",
+      "asset_plan": "docs/illustration-plans/chapter-15-illustration-plan.md"
+    },
+    {
+      "number": 16,
+      "title": "Chapter 16 — Planning the Apiary",
+      "source": "chapters/chapter-16.md",
+      "source_sha256": "0167f7f53bc554f389ac245bd50f6a77a6aef138d74163cd97daf8cce7ae12ab",
+      "asset_plan": "docs/illustration-plans/chapter-16-illustration-plan.md"
+    },
+    {
+      "number": 17,
+      "title": "Chapter 17 — Hive Types",
+      "source": "chapters/chapter-17.md",
+      "source_sha256": "582ee5275dc15dc77e0f733607b5e9c788f7626636c3175c568bec5e15120935",
+      "asset_plan": "docs/illustration-plans/chapter-17-illustration-plan.md"
+    },
+    {
+      "number": 18,
+      "title": "Chapter 18 — Hive Components",
+      "source": "chapters/chapter-18.md",
+      "source_sha256": "069c489a718aad3d9b2f4e57b8c1527570c138667a35c7e5c5833fb10deb82b2",
+      "asset_plan": "docs/illustration-plans/chapter-18-illustration-plan.md"
+    },
+    {
+      "number": 19,
+      "title": "Chapter 19 — Frames and Foundation",
+      "source": "chapters/chapter-19.md",
+      "source_sha256": "4a99fabcbfd11d444921a9db3d6a3deb70db93cda0a4da8e7e741aaa46f68bee",
+      "asset_plan": "docs/illustration-plans/chapter-19-illustration-plan.md"
+    },
+    {
+      "number": 20,
+      "title": "Chapter 20 — Essential Equipment",
+      "source": "chapters/chapter-20.md",
+      "source_sha256": "f86f43811417ff9c0567c0e5e95628f3f96d0d5ff9ad32192a43d2e3ee450b3c",
+      "asset_plan": "docs/illustration-plans/chapter-20-illustration-plan.md"
+    },
+    {
+      "number": 21,
+      "title": "Chapter 21 — Protective Clothing",
+      "source": "chapters/chapter-21.md",
+      "source_sha256": "fb1145d72ff3d33a281c2e26976384c88adb776d1e05bed939814a3afac9ffa9",
+      "asset_plan": "docs/illustration-plans/chapter-21-illustration-plan.md"
+    },
+    {
+      "number": 22,
+      "title": "Chapter 22 — Smokers and Hive Tools",
+      "source": "chapters/chapter-22.md",
+      "source_sha256": "3911013dd8c33e7c5f0d76ce5adc02b567bbcedb0ecd3ce6fe80adbd6f7b3c96",
+      "asset_plan": "docs/illustration-plans/chapter-22-illustration-plan.md"
+    },
+    {
+      "number": 23,
+      "title": "Chapter 23 — Beekeeping Safety and First Aid",
+      "source": "chapters/chapter-23.md",
+      "source_sha256": "432993621f29e2cd94c56d4af1d4c843c590487635f22198442a0f6167b86995",
+      "asset_plan": "docs/illustration-plans/chapter-23-illustration-plan.md"
+    },
+    {
+      "number": 24,
+      "title": "Chapter 24 — Installing Bees",
+      "source": "chapters/chapter-24.md",
+      "source_sha256": "67b1124dcb9b4ac2adeb7404b9e62c2300eb2ae30a8c3795809b735aab63760e",
+      "asset_plan": "docs/illustration-plans/chapter-24-illustration-plan.md"
+    },
+    {
+      "number": 25,
+      "title": "Chapter 25 — Routine Hive Inspections",
+      "source": "chapters/chapter-25.md",
+      "source_sha256": "2cb722052f47c5873f017f97b206c07ed729e9181d9a1f177e276a55be4a7bf7",
+      "asset_plan": "docs/illustration-plans/chapter-25-illustration-plan.md"
+    },
+    {
+      "number": 26,
+      "title": "Chapter 26 — Feeding Bees",
+      "source": "chapters/chapter-26.md",
+      "source_sha256": "51ab736adfb439de20011c43ab5eb1e45c87ea54a64b23bfcd6fdc25db2f6b78",
+      "asset_plan": "docs/illustration-plans/chapter-26-illustration-plan.md"
+    },
+    {
+      "number": 27,
+      "title": "Chapter 27 — Emergency and Winter Feeding",
+      "source": "chapters/chapter-27.md",
+      "source_sha256": "e40cf23da9d0c4dac6cedc81b96df364a5fa7efd4375dd4da6c2bf171976bce0",
+      "asset_plan": "docs/illustration-plans/chapter-27-illustration-plan.md"
+    },
+    {
+      "number": 28,
+      "title": "Chapter 28 — Swarm Prevention",
+      "source": "chapters/chapter-28.md",
+      "source_sha256": "699d7d66356419c247e89e54e7fe755d3227d01547b8ad3ac67a90d5716a614f",
+      "asset_plan": "docs/illustration-plans/chapter-28-illustration-plan.md"
+    },
+    {
+      "number": 29,
+      "title": "Chapter 29 — Swarm Capture",
+      "source": "chapters/chapter-29.md",
+      "source_sha256": "e644e052b2f5e76121c0e25d180c3ef9b2e116794e85e92299d5b5131e5c069e",
+      "asset_plan": "docs/illustration-plans/chapter-29-illustration-plan.md"
+    },
+    {
+      "number": 30,
+      "title": "Chapter 30 — Splitting Colonies",
+      "source": "chapters/chapter-30.md",
+      "source_sha256": "f6337d2bff3f055188ef43ff06f7356bd7666cb3ce397e5d2ad44075c90f0385",
+      "asset_plan": "docs/illustration-plans/chapter-30-illustration-plan.md"
+    },
+    {
+      "number": 31,
+      "title": "Chapter 31 — Requeening",
+      "source": "chapters/chapter-31.md",
+      "source_sha256": "33343bf80aa3ed116105decf1c27f3754d58bf900c0d7e8bf8e145d76ef4d3d6",
+      "asset_plan": "docs/illustration-plans/chapter-31-illustration-plan.md"
+    },
+    {
+      "number": 32,
+      "title": "Chapter 32 — Queen Rearing",
+      "source": "chapters/chapter-32.md",
+      "source_sha256": "6792a0fc1f23fff21e0aba038cef58804b006ed46ac19520461dd4ada3c920b3",
+      "asset_plan": "docs/illustration-plans/chapter-32-illustration-plan.md"
+    },
+    {
+      "number": 33,
+      "title": "Chapter 33 — Moving Colonies",
+      "source": "chapters/chapter-33.md",
+      "source_sha256": "5dc63732a87cb26db70cc00766303fd33c24eb1bdcd20f19857cb8816d0e141e",
+      "asset_plan": "docs/illustration-plans/chapter-33-illustration-plan.md"
+    },
+    {
+      "number": 34,
+      "title": "Chapter 34 — Seasonal Beekeeping Calendar",
+      "source": "chapters/chapter-34.md",
+      "source_sha256": "1383b526af7fa7c0f32d9603367e8e061db87084b115268e87b3c757754331d7",
+      "asset_plan": "docs/illustration-plans/chapter-34-illustration-plan.md"
+    },
+    {
+      "number": 35,
+      "title": "Chapter 35 — Monthly Management Tasks",
+      "source": "chapters/chapter-35.md",
+      "source_sha256": "b8648e839bc65431c422c01706a1846f745c6c279daceb9c8e165823bca3b010",
+      "asset_plan": "docs/illustration-plans/chapter-35-illustration-plan.md"
+    },
+    {
+      "number": 36,
+      "title": "Chapter 36 — Record Keeping",
+      "source": "chapters/chapter-36.md",
+      "source_sha256": "ffbb29bae75d4f8d252d7265d63c2dfca9b8bb6623dd8bce2a61538693063cc5",
+      "asset_plan": "docs/illustration-plans/chapter-36-illustration-plan.md"
+    },
+    {
+      "number": 37,
+      "title": "Chapter 37 — Common Beginner Mistakes",
+      "source": "chapters/chapter-37.md",
+      "source_sha256": "fcdcd17dbcd7b3cdbcba89bced878cc84336ea48183019e2081e9b8139f308c0",
+      "asset_plan": "docs/illustration-plans/chapter-37-illustration-plan.md"
+    },
+    {
+      "number": 38,
+      "title": "Chapter 38 — Emergency Colony Problems",
+      "source": "chapters/chapter-38.md",
+      "source_sha256": "161323fef3f1c7851b04b260653166e60de656911d40a39712424f716b842e73",
+      "asset_plan": "docs/illustration-plans/chapter-38-illustration-plan.md"
+    },
+    {
+      "number": 39,
+      "title": "Chapter 39 — Diseases",
+      "source": "chapters/chapter-39.md",
+      "source_sha256": "1fae0ef4257d27849c733af06980a003caa3997a5b751f07633acc3d5fb0e10d",
+      "asset_plan": "docs/illustration-plans/chapter-39-illustration-plan.md"
+    },
+    {
+      "number": 40,
+      "title": "Chapter 40 — Parasites",
+      "source": "chapters/chapter-40.md",
+      "source_sha256": "bf9b015bdd723170bd048730f486548994568527711f3bd6f21c03285fa1a525",
+      "asset_plan": "docs/illustration-plans/chapter-40-illustration-plan.md"
+    },
+    {
+      "number": 41,
+      "title": "Chapter 41 — Varroa Destructor",
+      "source": "chapters/chapter-41.md",
+      "source_sha256": "fdc1c14241bdff794cfe904ae9dd9bf8569432f80df54afcfbb27e15eddaec76",
+      "asset_plan": "docs/illustration-plans/chapter-41-illustration-plan.md"
+    },
+    {
+      "number": 42,
+      "title": "Chapter 42 — Nosema",
+      "source": "chapters/chapter-42.md",
+      "source_sha256": "2d87762d0f04654652dd7c0bd385303ae9ea9fb6662bae8e8d43cf57c14f99e4",
+      "asset_plan": "docs/illustration-plans/chapter-42-illustration-plan.md"
+    },
+    {
+      "number": 43,
+      "title": "Chapter 43 — American Foulbrood",
+      "source": "chapters/chapter-43.md",
+      "source_sha256": "5c36cd085f1c2c2004a02e5c24005167f24d9dd67bfb6628b1ead101e3937874",
+      "asset_plan": "docs/illustration-plans/chapter-43-illustration-plan.md"
+    },
+    {
+      "number": 44,
+      "title": "Chapter 44 — European Foulbrood",
+      "source": "chapters/chapter-44.md",
+      "source_sha256": "66da3cedccbe1bbde97c3eac16c83b6067940430502b5bc845a114df74448d84",
+      "asset_plan": "docs/illustration-plans/chapter-44-illustration-plan.md"
+    },
+    {
+      "number": 45,
+      "title": "Chapter 45 — Viruses",
+      "source": "chapters/chapter-45.md",
+      "source_sha256": "292e4627cf8e8ed1481ca98c74f219b270c5cb04ef04f46dc9a630d738367629",
+      "asset_plan": "docs/illustration-plans/chapter-45-illustration-plan.md"
+    },
+    {
+      "number": 46,
+      "title": "Chapter 46 — Integrated Pest Management",
+      "source": "chapters/chapter-46.md",
+      "source_sha256": "d488d8ca20fe183b3308100f1a34d5cd7421dcd368027f7425952e6fd0cea1c0",
+      "asset_plan": "docs/illustration-plans/chapter-46-illustration-plan.md"
+    },
+    {
+      "number": 47,
+      "title": "Chapter 47 — Nectar Flow",
+      "source": "chapters/chapter-47.md",
+      "source_sha256": "fe3a88d3ea3823291d37c77b4397007644927246f222689f2d1972be693da13c",
+      "asset_plan": "docs/illustration-plans/chapter-47-illustration-plan.md"
+    },
+    {
+      "number": 48,
+      "title": "Chapter 48 — Honey Harvesting",
+      "source": "chapters/chapter-48.md",
+      "source_sha256": "ec44d2aa7fbd3b2d8bcda3c4be1c1e020aea2817f2d12af662f87be91e660cb7",
+      "asset_plan": "docs/illustration-plans/chapter-48-illustration-plan.md"
+    },
+    {
+      "number": 49,
+      "title": "Chapter 49 — Honey Extraction",
+      "source": "chapters/chapter-49.md",
+      "source_sha256": "3f7a178b7f052e9dfa0f10536e67ebb19d4e71de30ca2b28b4a7e62131c933c7",
+      "asset_plan": "docs/illustration-plans/chapter-49-illustration-plan.md"
+    },
+    {
+      "number": 50,
+      "title": "Chapter 50 — Honey Processing",
+      "source": "chapters/chapter-50.md",
+      "source_sha256": "32439098390eff4a2a09a1df61d23f98d338565cca9ef6f78830b5144f1369a5",
+      "asset_plan": "docs/illustration-plans/chapter-50-illustration-plan.md"
+    },
+    {
+      "number": 51,
+      "title": "Chapter 51 — Honey Storage",
+      "source": "chapters/chapter-51.md",
+      "source_sha256": "795fe72c7aadd5ae043603e76fef0b721aa71e06124ace02eb4d9f7766511933",
+      "asset_plan": "docs/illustration-plans/chapter-51-illustration-plan.md"
+    },
+    {
+      "number": 52,
+      "title": "Chapter 52 — Comb Honey Production",
+      "source": "chapters/chapter-52.md",
+      "source_sha256": "8a558d835c14797fca5f444f7348ffa7734e32e7d9496d76998487fb3b8577f6",
+      "asset_plan": "docs/illustration-plans/chapter-52-illustration-plan.md"
+    },
+    {
+      "number": 53,
+      "title": "Chapter 53 — Creamed Honey",
+      "source": "chapters/chapter-53.md",
+      "source_sha256": "ba8a7a5b5470b5ad8cf96c2f862653e08fbbbdd03a4d1c9ccf07c0995d378eb4",
+      "asset_plan": "docs/illustration-plans/chapter-53-illustration-plan.md"
+    },
+    {
+      "number": 54,
+      "title": "Chapter 54 — Wax Processing",
+      "source": "chapters/chapter-54.md",
+      "source_sha256": "64767a91c30ce972b2996d97391ad18cde6a8dbb64e7a9fc6c9ae087a6c959c8",
+      "asset_plan": "docs/illustration-plans/chapter-54-illustration-plan.md"
+    },
+    {
+      "number": 55,
+      "title": "Chapter 55 — Beeswax",
+      "source": "chapters/chapter-55.md",
+      "source_sha256": "752ad0311d901a26f25836809052d8788f8313b7ae0d122c3981cf822160a477",
+      "asset_plan": "docs/illustration-plans/chapter-55-illustration-plan.md"
+    },
+    {
+      "number": 56,
+      "title": "Chapter 56 — Pollen",
+      "source": "chapters/chapter-56.md",
+      "source_sha256": "34e05aa4898841b046cfa583babd3dbcc91343aec686ea3526eb86a6bfecd05d",
+      "asset_plan": "docs/illustration-plans/chapter-56-illustration-plan.md"
+    },
+    {
+      "number": 57,
+      "title": "Chapter 57 — Propolis",
+      "source": "chapters/chapter-57.md",
+      "source_sha256": "5cf0f76a1cde9d48d6c1105d2aff44e146e92643888abccbf53032122e3384c1",
+      "asset_plan": "docs/illustration-plans/chapter-57-illustration-plan.md"
+    },
+    {
+      "number": 58,
+      "title": "Chapter 58 — Royal Jelly",
+      "source": "chapters/chapter-58.md",
+      "source_sha256": "86e87a6c671eab9fe3e3d20aebc6da6e799302927c3eb902a7e737ac2e2797b7",
+      "asset_plan": "docs/illustration-plans/chapter-58-illustration-plan.md"
+    },
+    {
+      "number": 59,
+      "title": "Chapter 59 — Bee Venom",
+      "source": "chapters/chapter-59.md",
+      "source_sha256": "6e14601477d0b9bb42b8405c01c6051537cce5a1a4e62f2590e3055396a65cc2",
+      "asset_plan": "docs/illustration-plans/chapter-59-illustration-plan.md"
+    },
+    {
+      "number": 60,
+      "title": "Chapter 60 — Starting a Beekeeping Business",
+      "source": "chapters/chapter-60.md",
+      "source_sha256": "f5ba8d29b19af7a661dbe42ee7d89684db71ea40b73668bf039edd47f9b983cc",
+      "asset_plan": "docs/illustration-plans/chapter-60-illustration-plan.md"
+    },
+    {
+      "number": 61,
+      "title": "Chapter 61 — Equipment Costs",
+      "source": "chapters/chapter-61.md",
+      "source_sha256": "cd8464829ea577bec82b79769b88800311f87bc1a05b4870a197008590c23e3c",
+      "asset_plan": "docs/illustration-plans/chapter-61-illustration-plan.md"
+    },
+    {
+      "number": 62,
+      "title": "Chapter 62 — Marketing",
+      "source": "chapters/chapter-62.md",
+      "source_sha256": "a7ae7ecf2ee49266ed8700368a13b5002158fc2edbfcbb1feffff8b52635f23e",
+      "asset_plan": "docs/illustration-plans/chapter-62-illustration-plan.md"
+    },
+    {
+      "number": 63,
+      "title": "Chapter 63 — Branding",
+      "source": "chapters/chapter-63.md",
+      "source_sha256": "fc5bf8fa2986b0b1c0c812a6027e47eb9893c30afe1c6c265da35effad2338c8",
+      "asset_plan": "docs/illustration-plans/chapter-63-illustration-plan.md"
+    },
+    {
+      "number": 64,
+      "title": "Chapter 64 — Online Sales",
+      "source": "chapters/chapter-64.md",
+      "source_sha256": "e54a767eccfcdd2a346ae57e1242a36302c28794d125f7025262466b0995ef30",
+      "asset_plan": "docs/illustration-plans/chapter-64-illustration-plan.md"
+    },
+    {
+      "number": 65,
+      "title": "Chapter 65 — Farmers Markets",
+      "source": "chapters/chapter-65.md",
+      "source_sha256": "a643c4096b6f8c1f75e8e6eb5c172715311fad894eb521c163b6fc76438450ff",
+      "asset_plan": "docs/illustration-plans/chapter-65-illustration-plan.md"
+    },
+    {
+      "number": 66,
+      "title": "Chapter 66 — Food Safety",
+      "source": "chapters/chapter-66.md",
+      "source_sha256": "e1921d6a469ca742de706bff4f9151d8ab71a6350dfb46628684ffd414b48343",
+      "asset_plan": "docs/illustration-plans/chapter-66-illustration-plan.md"
+    },
+    {
+      "number": 67,
+      "title": "Chapter 67 — Traceability",
+      "source": "chapters/chapter-67.md",
+      "source_sha256": "cf179c4be777f15b190fe596c6cd2b5ce6fa2708e280669594b2a5a47d7a1860",
+      "asset_plan": "docs/illustration-plans/chapter-67-illustration-plan.md"
+    },
+    {
+      "number": 68,
+      "title": "Chapter 68 — Legal Requirements",
+      "source": "chapters/chapter-68.md",
+      "source_sha256": "5ccbc0f51b8d4c086cae5e2ef7f1d5e9867c54d748a3f42010c51913a99a80c9",
+      "asset_plan": "docs/illustration-plans/chapter-68-illustration-plan.md"
+    },
+    {
+      "number": 69,
+      "title": "Chapter 69 — Insurance",
+      "source": "chapters/chapter-69.md",
+      "source_sha256": "9686b4c04aab52820c671ad0449e313fda76e49924ccff381f72b68abe79b2e1",
+      "asset_plan": "docs/illustration-plans/chapter-69-illustration-plan.md"
+    },
+    {
+      "number": 70,
+      "title": "Chapter 70 — Organic Beekeeping",
+      "source": "chapters/chapter-70.md",
+      "source_sha256": "c6e4e4b2789ea122ab59f5fcddab915c8b7ee7dc16e1c4b83c1315d8a457d2b1",
+      "asset_plan": "docs/illustration-plans/chapter-70-illustration-plan.md"
+    },
+    {
+      "number": 71,
+      "title": "Chapter 71 — Biodiversity",
+      "source": "chapters/chapter-71.md",
+      "source_sha256": "52c2ed00e82859790bbd3c79078a172f99f35115c3db1972b44f19c28093800f",
+      "asset_plan": "docs/illustration-plans/chapter-71-illustration-plan.md"
+    },
+    {
+      "number": 72,
+      "title": "Chapter 72 — Pollinator Conservation",
+      "source": "chapters/chapter-72.md",
+      "source_sha256": "7cb69048f0b933940520d0ea914a345b6f693aea35938a17a3f4ae68e828359a",
+      "asset_plan": "docs/illustration-plans/chapter-72-illustration-plan.md"
+    },
+    {
+      "number": 73,
+      "title": "Chapter 73 — Scientific Research",
+      "source": "chapters/chapter-73.md",
+      "source_sha256": "bb6fe49d1eeccb9047b097ae560d074e517d1a78dea3810457e52ac5542933ef",
+      "asset_plan": "docs/illustration-plans/chapter-73-illustration-plan.md"
+    },
+    {
+      "number": 74,
+      "title": "Chapter 74 — Future of Beekeeping",
+      "source": "chapters/chapter-74.md",
+      "source_sha256": "e28047fbaa04b381bea6875285bb3a97978bce3e3c8cf1b9a2183907105bdc73",
+      "asset_plan": "docs/illustration-plans/chapter-74-illustration-plan.md"
+    }
+  ],
+  "references": [
+    {
+      "number": 75,
+      "title": "Glossary",
+      "source": "glossary/glossary.md",
+      "source_sha256": "15e79094e59bce90db3df16f0315265977dee524259fc74fb0ebd2a01e4253f6"
+    },
+    {
+      "number": 76,
+      "title": "Bibliography",
+      "source": "bibliography/bibliography.md",
+      "source_sha256": "37580a3db274c2187b252e7f65ca717a62f3c75b75b1da64b6ea80e44d04a5b9"
+    },
+    {
+      "number": 77,
+      "title": "Recommended Books",
+      "source": "references/recommended-books.md",
+      "source_sha256": "1f823b9e812682f6f29589c707804aa7ab9512667632411d02b2f0913b4fe8b8"
+    },
+    {
+      "number": 78,
+      "title": "Beekeeping Organizations",
+      "source": "references/beekeeping-organizations.md",
+      "source_sha256": "eb1a47a20eac49a86daf1a0bb4738efc87b14c2e56e4d5041f46a2a21c18bdd0"
+    },
+    {
+      "number": 79,
+      "title": "Useful Websites",
+      "source": "references/useful-websites.md",
+      "source_sha256": "81626daf95a6f7d8a167589e8fc0e16ed2f487de91eb471f7aaeec8094f8cdff"
+    },
+    {
+      "number": 80,
+      "title": "Appendices",
+      "source": "appendices/appendices.md",
+      "source_sha256": "3aea18ab4aba58980deb1e589766482934dc0b8a6375d2c3e380caa97695a623"
+    },
+    {
+      "number": 81,
+      "title": "Tables",
+      "source": "references/tables.md",
+      "source_sha256": "e364b6ea9c05b9e08be24ddb3d24ef7131a0a8dd65ccd1c808257fe4eef9aa16"
+    },
+    {
+      "number": 82,
+      "title": "Illustrations",
+      "source": "references/illustrations.md",
+      "source_sha256": "9050afc44528c23698c8d8ffb076ce642c2c252317079db932817d0d253818be"
+    },
+    {
+      "number": 83,
+      "title": "Diagrams",
+      "source": "references/diagrams.md",
+      "source_sha256": "7f86ec2f0c7e3df9a5a4ab21530de4e8e4d6e0a4f14ea4ee9e430fa0fead3351"
+    },
+    {
+      "number": 84,
+      "title": "Photographs",
+      "source": "references/photographs.md",
+      "source_sha256": "9470a73e02d7e1f8e7621a42382451dab3e3a5788373248abd9381736b4404e6"
+    },
+    {
+      "number": 85,
+      "title": "Index",
+      "source": "references/index.md",
+      "source_sha256": "2d593a28b69c06fca04e0e6c65e7ca24c56cf7eb6f1e8495aa4b70a888a7b615"
+    }
+  ],
+  "parts": [
+    {
+      "part": "Part I",
+      "title": "Foundations",
+      "chapters": [
+        1,
+        5
+      ]
+    },
+    {
+      "part": "Part II",
+      "title": "Honey Bee Biology",
+      "chapters": [
+        6,
+        14
+      ]
+    },
+    {
+      "part": "Part III",
+      "title": "Starting an Apiary",
+      "chapters": [
+        15,
+        23
+      ]
+    },
+    {
+      "part": "Part IV",
+      "title": "Colony Management",
+      "chapters": [
+        24,
+        38
+      ]
+    },
+    {
+      "part": "Part V",
+      "title": "Bee Health",
+      "chapters": [
+        39,
+        46
+      ]
+    },
+    {
+      "part": "Part VI",
+      "title": "Honey Production",
+      "chapters": [
+        47,
+        54
+      ]
+    },
+    {
+      "part": "Part VII",
+      "title": "Other Hive Products",
+      "chapters": [
+        55,
+        59
+      ]
+    },
+    {
+      "part": "Part VIII",
+      "title": "Beekeeping Business",
+      "chapters": [
+        60,
+        69
+      ]
+    },
+    {
+      "part": "Part IX",
+      "title": "Sustainability",
+      "chapters": [
+        70,
+        74
+      ]
+    }
+  ],
+  "generated_file": "exports/publication/Practical-Beekeeping-Handbook.md",
+  "generated_sha256": "f963b0334a5fbbf8339fdc31c33c66b01a3a4bfef2affc204e49864ad17aa702",
+  "chapter_count": 74,
+  "reference_count": 11,
+  "asset_plan_count": 74
+}
