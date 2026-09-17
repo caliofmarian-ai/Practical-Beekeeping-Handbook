@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 43.11 — Why Antibiotics Do Not Eradicate AFB</title>
+<desc id="desc">Conceptual diagram separating vegetative bacterial growth from durable Paenibacillus larvae spores, showing that suppression of vegetative bacteria does not remove spores from comb or equipment.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 43.11 — Why Antibiotics Do Not Eradicate AFB</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">AFB control fails if vegetative-bacteria suppression is mistaken for elimination of durable</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">spores.</text>
+<rect class="box" x="80" y="270" width="460" height="820" rx="22" ry="22"/>
+<text class="label" x="104" y="308" text-anchor="start">Vegetative bacterial phase</text>
+<text class="body" x="104" y="347" text-anchor="start">Actively multiplying bacterial cells</text>
+<text class="body" x="104" y="374" text-anchor="start">occur during disease development in</text>
+<text class="body" x="104" y="401" text-anchor="start">susceptible larvae. Where</text>
+<text class="body" x="104" y="428" text-anchor="start">antimicrobials are legally used in</text>
+<text class="body" x="104" y="455" text-anchor="start">some jurisdictions, they target</text>
+<text class="body" x="104" y="482" text-anchor="start">susceptible active bacterial</text>
+<text class="body" x="104" y="509" text-anchor="start">processes—not durable dormant spores.</text>
+<rect class="stop" x="660" y="270" width="460" height="820" rx="22" ry="22"/>
+<text class="label" x="684" y="308" text-anchor="start">Durable spore phase</text>
+<text class="body" x="684" y="347" text-anchor="start">Spores can persist in dried scale,</text>
+<text class="body" x="684" y="374" text-anchor="start">comb, honey/equipment contamination</text>
+<text class="body" x="684" y="401" text-anchor="start">and remain a long-term source of</text>
+<text class="body" x="684" y="428" text-anchor="start">reinfection. Spore persistence is</text>
+<text class="body" x="684" y="455" text-anchor="start">central to AFB biosecurity and</text>
+<text class="body" x="684" y="482" text-anchor="start">official control.</text>
+<path class="arrow" d="M540,620 L660,620"/>
+<rect class="legal" x="285" y="1180" width="630" height="155" rx="22" ry="22"/>
+<text class="label" x="309" y="1218" text-anchor="start">Key lesson</text>
+<text class="body" x="309" y="1257" text-anchor="start">Clinical suppression or temporary improvement does</text>
+<text class="body" x="309" y="1284" text-anchor="start">not equal eradication. Follow current</text>
+<text class="body" x="309" y="1311" text-anchor="start">competent-authority AFB control requirements.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">This figure does not recommend antibiotic use. Legal status, permitted products and control</text>
+<text class="small" x="85" y="1535" text-anchor="start">strategy vary by jurisdiction.</text>
+</svg>

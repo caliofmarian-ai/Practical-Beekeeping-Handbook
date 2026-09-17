@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 21.3 — Clothing Selection by Task</title>
+<desc id="desc">Matrix matching protective clothing considerations to routine inspections, defensive colonies, swarm collection, hot weather and honey-room work.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 21.3 — Clothing Selection by Task</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">PPE intensity should reflect task, colony behaviour, heat load and consequences of failure.</text>
+<rect class="box2" x="55" y="225" width="250" height="95" rx="22" ry="22"/>
+<text class="label" x="79" y="263" text-anchor="start">Task / context</text>
+<rect class="box2" x="305" y="225" width="280" height="95" rx="22" ry="22"/>
+<text class="label" x="329" y="263" text-anchor="start">Veil/body</text>
+<text class="label" x="329" y="292" text-anchor="start">protection</text>
+<rect class="box2" x="585" y="225" width="280" height="95" rx="22" ry="22"/>
+<text class="label" x="609" y="263" text-anchor="start">Gloves / hands</text>
+<rect class="box2" x="865" y="225" width="280" height="95" rx="22" ry="22"/>
+<text class="label" x="889" y="263" text-anchor="start">Extra</text>
+<text class="label" x="889" y="292" text-anchor="start">consideration</text>
+<rect class="box2" x="55" y="340" width="250" height="185" rx="22" ry="22"/>
+<text class="label" x="79" y="378" text-anchor="start">Routine calm</text>
+<text class="label" x="79" y="407" text-anchor="start">inspection</text>
+<rect class="box" x="305" y="340" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="329" y="378" text-anchor="start">Secure veil +</text>
+<text class="label" x="329" y="407" text-anchor="start">suitable</text>
+<text class="label" x="329" y="436" text-anchor="start">jacket/suit for</text>
+<text class="label" x="329" y="465" text-anchor="start">beekeeper/colony</text>
+<rect class="box" x="585" y="340" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="609" y="378" text-anchor="start">Optional or light</text>
+<text class="label" x="609" y="407" text-anchor="start">protection</text>
+<text class="label" x="609" y="436" text-anchor="start">according to</text>
+<text class="label" x="609" y="465" text-anchor="start">skill/risk</text>
+<rect class="box" x="865" y="340" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="889" y="378" text-anchor="start">Maintain</text>
+<text class="label" x="889" y="407" text-anchor="start">dexterity; check</text>
+<text class="label" x="889" y="436" text-anchor="start">heat load</text>
+<rect class="box2" x="55" y="535" width="250" height="185" rx="22" ry="22"/>
+<text class="label" x="79" y="573" text-anchor="start">Persistently</text>
+<text class="label" x="79" y="602" text-anchor="start">defensive colony</text>
+<rect class="box" x="305" y="535" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="329" y="573" text-anchor="start">Higher-coverage</text>
+<text class="label" x="329" y="602" text-anchor="start">secure suit/veil</text>
+<rect class="box" x="585" y="535" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="609" y="573" text-anchor="start">Appropriate gloves</text>
+<rect class="box" x="865" y="535" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="889" y="573" text-anchor="start">Requeen/manage</text>
+<text class="label" x="889" y="602" text-anchor="start">cause; PPE alone</text>
+<text class="label" x="889" y="631" text-anchor="start">does not solve</text>
+<text class="label" x="889" y="660" text-anchor="start">temperament</text>
+<rect class="box2" x="55" y="730" width="250" height="185" rx="22" ry="22"/>
+<text class="label" x="79" y="768" text-anchor="start">Swarm collection</text>
+<rect class="box" x="305" y="730" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="329" y="768" text-anchor="start">Secure veil/body</text>
+<text class="label" x="329" y="797" text-anchor="start">protection</text>
+<rect class="box" x="585" y="730" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="609" y="768" text-anchor="start">Task-appropriate</text>
+<text class="label" x="609" y="797" text-anchor="start">gloves</text>
+<rect class="box" x="865" y="730" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="889" y="768" text-anchor="start">Ladder/traffic/public</text>
+<text class="label" x="889" y="797" text-anchor="start">hazards may</text>
+<text class="label" x="889" y="826" text-anchor="start">dominate</text>
+<rect class="box2" x="55" y="925" width="250" height="185" rx="22" ry="22"/>
+<text class="label" x="79" y="963" text-anchor="start">Hot-weather work</text>
+<rect class="box" x="305" y="925" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="329" y="963" text-anchor="start">Minimum safe sting</text>
+<text class="label" x="329" y="992" text-anchor="start">protection</text>
+<rect class="box" x="585" y="925" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="609" y="963" text-anchor="start">Balance</text>
+<text class="label" x="609" y="992" text-anchor="start">dexterity/sting</text>
+<text class="label" x="609" y="1021" text-anchor="start">risk</text>
+<rect class="box" x="865" y="925" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="889" y="963" text-anchor="start">Hydration, shade,</text>
+<text class="label" x="889" y="992" text-anchor="start">shorter task; stop</text>
+<text class="label" x="889" y="1021" text-anchor="start">for heat symptoms</text>
+<rect class="box2" x="55" y="1120" width="250" height="185" rx="22" ry="22"/>
+<text class="label" x="79" y="1158" text-anchor="start">Honey-room work</text>
+<rect class="box" x="305" y="1120" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="329" y="1158" text-anchor="start">Food-hygiene</text>
+<text class="label" x="329" y="1187" text-anchor="start">clothing; bees may</text>
+<text class="label" x="329" y="1216" text-anchor="start">be absent</text>
+<rect class="box" x="585" y="1120" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="609" y="1158" text-anchor="start">Clean</text>
+<text class="label" x="609" y="1187" text-anchor="start">food-handling</text>
+<text class="label" x="609" y="1216" text-anchor="start">gloves where task</text>
+<text class="label" x="609" y="1245" text-anchor="start">requires</text>
+<rect class="box" x="865" y="1120" width="280" height="185" rx="22" ry="22"/>
+<text class="label" x="889" y="1158" text-anchor="start">Separate apiary</text>
+<text class="label" x="889" y="1187" text-anchor="start">PPE contamination</text>
+<text class="label" x="889" y="1216" text-anchor="start">from food area</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">No clothing configuration guarantees zero stings. Choose PPE together with behavioural, site</text>
+<text class="small" x="85" y="1535" text-anchor="start">and task controls.</text>
+</svg>
