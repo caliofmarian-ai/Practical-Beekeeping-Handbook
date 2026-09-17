@@ -38,10 +38,10 @@ def classify(title, description):
         ('map_landscape', ('map', 'landscape', 'apiary layout', 'site plan')),
         ('chart_data', ('chart', 'graph', 'curve', 'dashboard', 'matrix')),
         ('life_cycle', ('life cycle', 'reproductive cycle', 'development cycle')),
-        ('comparison', (' versus ', ' vs ', 'comparison', 'compared', 'healthy versus')),
+        ('comparison', (' versus ', ' vs ', 'comparison', 'compared', 'before-and-after', 'before and after')),
         ('anatomical', ('anatomy', 'anatomical', 'gland', 'trachea', 'external morphology')),
         ('technical_cutaway', ('cutaway', 'cross-section', 'cross section', 'section view')),
-        ('process', ('procedure', 'sequence', 'workflow', 'process', 'sampling', 'installation', 'handling')),
+        ('process', ('procedure', 'sequence', 'workflow', 'process', 'sampling', 'installation', 'handling', 'step-by-step')),
     ]
     for label, words in tests:
         if any(w in s for w in words):
@@ -57,28 +57,54 @@ def production_size(visual_type):
     return 'single-or-double-column'
 
 
+def parse_plan_heading(text, path):
+    m = re.match(r'# Chapter (\d+)\s+[—–-]\s+(.+?): Illustration Plan', text)
+    if not m:
+        raise ValueError(f'Unexpected illustration-plan heading: {path}')
+    return int(m.group(1)), m.group(2).strip()
+
+
+def visual_matches(text, chapter):
+    """Return normalised matches for both modern Figure headings and legacy Visual headings."""
+    modern = re.compile(r'^### Figure (\d+)\.(\d+)\s+[—–-]\s+(.+?)\s*$', re.M)
+    legacy = re.compile(r'^## Visual (\d+)\s+[—–-]\s+(.+?)\s*$', re.M)
+    found = []
+    for m in modern.finditer(text):
+        found.append({
+            'start': m.start(), 'end': m.end(),
+            'chapter': int(m.group(1)), 'seq': int(m.group(2)), 'title': m.group(3).strip(),
+            'style': 'figure',
+        })
+    for m in legacy.finditer(text):
+        found.append({
+            'start': m.start(), 'end': m.end(),
+            'chapter': chapter, 'seq': int(m.group(1)), 'title': m.group(2).strip(),
+            'style': 'legacy-visual',
+        })
+    found.sort(key=lambda x: x['start'])
+    return found
+
+
 def parse_figures(path):
     text = path.read_text(encoding='utf-8')
-    chapter_match = re.match(r'# Chapter (\d+)\s+[—–-]\s+(.+?): Illustration Plan', text)
-    if not chapter_match:
-        raise ValueError(f'Unexpected illustration-plan heading: {path}')
-    chapter = int(chapter_match.group(1))
-    chapter_title = chapter_match.group(2).strip()
-    heading_re = re.compile(r'^### Figure (\d+)\.(\d+)\s+[—–-]\s+(.+?)\s*$', re.M)
-    matches = list(heading_re.finditer(text))
+    chapter, chapter_title = parse_plan_heading(text, path)
+    matches = visual_matches(text, chapter)
     figures = []
+
     for i, m in enumerate(matches):
-        start = m.end()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        start = m['end']
+        end = matches[i + 1]['start'] if i + 1 < len(matches) else len(text)
         block = text[start:end].strip()
-        # Stop description before Accuracy/Accessibility sections if this is final figure.
-        block = re.split(r'^##\s+', block, maxsplit=1, flags=re.M)[0].strip()
+        # Remove book-level sections after the last visual while retaining subheadings
+        # such as Format / Content / Accuracy Requirement inside a legacy brief.
+        if i + 1 == len(matches):
+            block = re.split(r'^## (?:Accuracy Requirements|Accessibility|Accessibility and Layout|Final-Layout Notes|Final Layout Notes)\s*$', block, maxsplit=1, flags=re.M)[0].strip()
         description = re.sub(r'\s+', ' ', block)
-        figure_ch = int(m.group(1))
-        seq = int(m.group(2))
-        if figure_ch != chapter:
-            raise ValueError(f'Figure chapter mismatch in {path}: {m.group(0)}')
-        title = m.group(3).strip()
+
+        if m['chapter'] != chapter:
+            raise ValueError(f'Figure chapter mismatch in {path}: chapter {m["chapter"]}')
+        title = m['title']
+        seq = m['seq']
         visual_type = classify(title, description)
         figures.append({
             'asset_id': f'F{chapter:02d}.{seq:02d}',
@@ -90,6 +116,7 @@ def parse_figures(path):
             'brief': description,
             'visual_type': visual_type,
             'source_plan': str(path.relative_to(ROOT)),
+            'source_heading_style': m['style'],
             'production_status': 'BRIEF_READY',
             'provenance_plan': 'original_for_handbook',
             'rights_status': 'TO_BE_CREATED_OR_COMMISSIONED',
@@ -99,8 +126,15 @@ def parse_figures(path):
             'final_asset_path': None,
             'revision_id': None,
         })
+
     if not figures:
-        raise ValueError(f'No Figure headings parsed from {path}')
+        raise ValueError(f'No Figure/Visual headings parsed from {path}')
+
+    # Every sequence within a chapter must be unique; gaps are allowed because some
+    # plans may intentionally consolidate or retire a number later.
+    seqs = [x['seq'] for x in matches]
+    if len(seqs) != len(set(seqs)):
+        raise ValueError(f'Duplicate figure/visual sequence in {path}: {seqs}')
     return figures
 
 
@@ -157,7 +191,6 @@ def main():
     for path in expected:
         figures.extend(parse_figures(path))
 
-    # IDs must be unique and per-chapter sequence must be monotonic/unique.
     ids = [x['figure_id'] for x in figures]
     if len(ids) != len(set(ids)):
         dupes = sorted({x for x in ids if ids.count(x) > 1})
@@ -188,8 +221,11 @@ def main():
     update_illustration_register(len(figures))
 
     type_counts = {}
+    legacy_count = 0
     for item in figures:
         type_counts[item['visual_type']] = type_counts.get(item['visual_type'], 0) + 1
+        if item['source_heading_style'] == 'legacy-visual':
+            legacy_count += 1
     type_lines = '\n'.join(f'- {k}: **{v}**' for k, v in sorted(type_counts.items()))
 
     REPORT.parent.mkdir(parents=True, exist_ok=True)
@@ -206,7 +242,8 @@ This preflight converts the 74 chapter illustration plans and the photographic s
 ## 2. Inventory
 
 - canonical chapter illustration plans found: **74 / 74**
-- parsed planned figures: **{len(figures)}**
+- parsed planned figures/visuals: **{len(figures)}**
+- legacy `Visual N` headings normalised to figure IDs in the manifest: **{legacy_count}**
 - duplicate figure IDs: **0**
 - parsed planned photographs: **{len(photos)}**
 - duplicate photograph IDs: **0**
@@ -274,7 +311,7 @@ The semantic index already exists and correctly uses chapter/reference locators 
 Visual inventory and pre-production routing are now deterministic. The next work is actual illustration/diagram production and photograph sourcing/rights review, followed by placement and final pagination.
 ''', encoding='utf-8')
 
-    print(f'figures={len(figures)} photos={len(photos)}')
+    print(f'figures={len(figures)} photos={len(photos)} legacy_visuals={legacy_count}')
     print(type_counts)
 
 
