@@ -1,0 +1,135 @@
+{
+  "asset_count": 13,
+  "assets": [
+    {
+      "path": "assets/diagrams/wave-01/fig-23-1-apiary-hazard-map.svg",
+      "title": "Figure 23.1 — Apiary Hazard Map",
+      "alt_text": "Plan-view apiary hazard map showing flight paths, public access, vehicle route, livestock, uneven ground, smoker/fire zone, treatment chemical zone, lifting points and emergency access.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-23-10-smoker-vegetation-fire-safety.svg",
+      "title": "Figure 23.10 — Smoker and Vegetation-Fire Safety",
+      "alt_text": "Fire-safety sequence for smoker use near vegetation from restrictions and resting area through extinguishing and transport.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-24-7-swarm-installation.svg",
+      "title": "Figure 24.7 — Swarm Installation",
+      "alt_text": "High-level swarm installation process from prepared hive through transfer, ventilation, optional feeding and targeted follow-up.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-25-5-queenright-evidence.svg",
+      "title": "Figure 25.5 — Queenright Evidence Without Finding the Queen",
+      "alt_text": "Three-panel decision aid showing eggs and young larvae as evidence of recent queen function and discouraging unnecessary queen searching.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-25-11-swarm-preparation-evidence.svg",
+      "title": "Figure 25.11 — Swarm-Preparation Evidence",
+      "alt_text": "Evidence ladder from empty queen cup through charged and advanced queen cells plus congestion to planned swarm control.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-33-14-post-move-inspection.svg",
+      "title": "Figure 33.14 — Post-Move Inspection",
+      "alt_text": "Post-move inspection flow from arrival stability and orientation through targeted check and follow-up record.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-7-sudden-mortality-evidence-map.svg",
+      "title": "Figure 38.7 — Sudden Mortality Evidence Map",
+      "alt_text": "Matrix relating four mortality distributions to investigation questions while stating that distribution is not diagnosis.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-6-adult-bee-wash-procedure.svg",
+      "title": "Figure 41.6 — Adult-Bee Wash Procedure",
+      "alt_text": "Numbered adult-bee Varroa wash procedure emphasising queen exclusion and distinction between measurement and intervention decision.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-4-dysentery-not-diagnosis.svg",
+      "title": "Figure 42.4 — Dysentery Is Not a Diagnosis",
+      "alt_text": "Three-panel concept separating faecal staining from Nosema/Vairimorpha detection and clinical significance.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-6-afb-differential-diagnosis.svg",
+      "title": "Figure 43.6 — AFB Differential Diagnosis",
+      "alt_text": "Differential diagnosis matrix for AFB, EFB, sacbrood, chilled brood and Varroa-associated brood removal.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-5-efb-differential-diagnosis.svg",
+      "title": "Figure 44.5 — EFB Differential Diagnosis",
+      "alt_text": "Differential matrix comparing EFB with chilling, sacbrood, queen-pattern failure, nutritional brood loss and Varroa-associated brood removal.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-11-viral-differential-diagnosis.svg",
+      "title": "Figure 45.11 — Viral Differential Diagnosis",
+      "alt_text": "Differential matrix for deformed wings, trembling/crawling adults, shiny adults, mortality and dead brood across viral and non-viral causes.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-4-ipm-thresholds-contextual.svg",
+      "title": "Figure 46.4 — Thresholds Are Contextual",
+      "alt_text": "IPM threshold decision wheel with pest identity, season, brood, climate, colony strength, virus pressure, management objective, next monitoring/local guidance and a separate statutory-control note.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    }
+  ]
+}

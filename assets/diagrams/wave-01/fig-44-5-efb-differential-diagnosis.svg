@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 44.5 — EFB Differential Diagnosis</title>
+<desc id="desc">Differential matrix comparing EFB with chilling, sacbrood, queen-pattern failure, nutritional brood loss and Varroa-associated brood removal.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 44.5 — EFB Differential Diagnosis</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Open-brood loss has multiple possible causes; EFB is an infectious diagnosis, not a synonym</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">for stressed larvae.</text>
+<rect class="box2" x="55" y="225" width="250" height="95" rx="22" ry="22"/>
+<text class="label" x="79" y="263" text-anchor="start">Condition</text>
+<rect class="box2" x="305" y="225" width="420" height="95" rx="22" ry="22"/>
+<text class="label" x="329" y="263" text-anchor="start">Clues to investigate</text>
+<rect class="box2" x="725" y="225" width="420" height="95" rx="22" ry="22"/>
+<text class="label" x="749" y="263" text-anchor="start">Important distinction</text>
+<rect class="box2" x="55" y="340" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="378" text-anchor="start">EFB</text>
+<rect class="box" x="305" y="340" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="378" text-anchor="start">Young larvae abnormal in</text>
+<text class="label" x="329" y="407" text-anchor="start">colour/position; open brood</text>
+<text class="label" x="329" y="436" text-anchor="start">often prominent</text>
+<rect class="box" x="725" y="340" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="378" text-anchor="start">M. plutonius is the</text>
+<text class="label" x="749" y="407" text-anchor="start">infectious cause; confirm</text>
+<text class="label" x="749" y="436" text-anchor="start">with accepted pathway</text>
+<rect class="box2" x="55" y="520" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="558" text-anchor="start">Chilled brood</text>
+<rect class="box" x="305" y="520" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="558" text-anchor="start">Distribution/history</text>
+<text class="label" x="329" y="587" text-anchor="start">consistent with temperature</text>
+<text class="label" x="329" y="616" text-anchor="start">exposure</text>
+<rect class="box" x="725" y="520" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="558" text-anchor="start">Non-infectious temperature</text>
+<text class="label" x="749" y="587" text-anchor="start">injury</text>
+<rect class="box2" x="55" y="700" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="738" text-anchor="start">Sacbrood</text>
+<rect class="box" x="305" y="700" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="738" text-anchor="start">Sac-like larval</text>
+<text class="label" x="329" y="767" text-anchor="start">skin/raised-head pattern can</text>
+<text class="label" x="329" y="796" text-anchor="start">occur</text>
+<rect class="box" x="725" y="700" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="738" text-anchor="start">Virus-associated syndrome;</text>
+<text class="label" x="749" y="767" text-anchor="start">not bacterial EFB</text>
+<rect class="box2" x="55" y="880" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="918" text-anchor="start">Queen-pattern</text>
+<text class="label" x="79" y="947" text-anchor="start">failure</text>
+<rect class="box" x="305" y="880" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="918" text-anchor="start">Irregular brood distribution</text>
+<text class="label" x="329" y="947" text-anchor="start">without characteristic</text>
+<text class="label" x="329" y="976" text-anchor="start">larval disease</text>
+<rect class="box" x="725" y="880" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="918" text-anchor="start">Reproductive/queen</text>
+<text class="label" x="749" y="947" text-anchor="start">assessment needed</text>
+<rect class="box2" x="55" y="1060" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="1098" text-anchor="start">Nutritional</text>
+<text class="label" x="79" y="1127" text-anchor="start">brood loss</text>
+<rect class="box" x="305" y="1060" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="1098" text-anchor="start">Forage/nurse-bee shortage</text>
+<text class="label" x="329" y="1127" text-anchor="start">may impair brood survival</text>
+<rect class="box" x="725" y="1060" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="1098" text-anchor="start">Nutrition can modify EFB</text>
+<text class="label" x="749" y="1127" text-anchor="start">expression but is not the</text>
+<text class="label" x="749" y="1156" text-anchor="start">infectious cause</text>
+<rect class="box2" x="55" y="1240" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="1278" text-anchor="start">Varroa-associated</text>
+<text class="label" x="79" y="1307" text-anchor="start">brood removal</text>
+<rect class="box" x="305" y="1240" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="1278" text-anchor="start">Patchiness/removal with</text>
+<text class="label" x="329" y="1307" text-anchor="start">mite/virus context</text>
+<rect class="box" x="725" y="1240" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="1278" text-anchor="start">Requires parasite assessment</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Treat visual findings as investigation prompts. Smell or one larval position is not</text>
+<text class="small" x="85" y="1535" text-anchor="start">diagnostic proof of EFB.</text>
+</svg>

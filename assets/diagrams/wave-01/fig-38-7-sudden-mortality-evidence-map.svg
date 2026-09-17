@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 38.7 — Sudden Mortality Evidence Map</title>
+<desc id="desc">Matrix relating four mortality distributions to investigation questions while stating that distribution is not diagnosis.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 38.7 — Sudden Mortality Evidence Map</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Where dead or impaired bees are found is evidence about the event, but distribution alone is</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">not a diagnosis.</text>
+<rect class="box2" x="55" y="225" width="250" height="95" rx="22" ry="22"/>
+<text class="label" x="79" y="263" text-anchor="start">Observed</text>
+<text class="label" x="79" y="292" text-anchor="start">distribution</text>
+<rect class="box2" x="305" y="225" width="420" height="95" rx="22" ry="22"/>
+<text class="label" x="329" y="263" text-anchor="start">Possible questions raised</text>
+<rect class="box2" x="725" y="225" width="420" height="95" rx="22" ry="22"/>
+<text class="label" x="749" y="263" text-anchor="start">What it cannot prove</text>
+<rect class="box2" x="55" y="340" width="250" height="185" rx="22" ry="22"/>
+<text class="label" x="79" y="378" text-anchor="start">Large entrance</text>
+<text class="label" x="79" y="407" text-anchor="start">accumulation</text>
+<rect class="box" x="305" y="340" width="420" height="185" rx="22" ry="22"/>
+<text class="label" x="329" y="378" text-anchor="start">Acute mortality,</text>
+<text class="label" x="329" y="407" text-anchor="start">poisoning/exposure, disease,</text>
+<text class="label" x="329" y="436" text-anchor="start">weather or removal from</text>
+<text class="label" x="329" y="465" text-anchor="start">inside hive?</text>
+<rect class="box" x="725" y="340" width="420" height="185" rx="22" ry="22"/>
+<text class="label" x="749" y="378" text-anchor="start">Specific cause without</text>
+<text class="label" x="749" y="407" text-anchor="start">history/sampling</text>
+<rect class="box2" x="55" y="535" width="250" height="185" rx="22" ry="22"/>
+<text class="label" x="79" y="573" text-anchor="start">Bees head-first</text>
+<text class="label" x="79" y="602" text-anchor="start">in empty cells</text>
+<rect class="box" x="305" y="535" width="420" height="185" rx="22" ry="22"/>
+<text class="label" x="329" y="573" text-anchor="start">Starvation/access-to-food</text>
+<text class="label" x="329" y="602" text-anchor="start">problem possible</text>
+<rect class="box" x="725" y="535" width="420" height="185" rx="22" ry="22"/>
+<text class="label" x="749" y="573" text-anchor="start">That all colony deaths were</text>
+<text class="label" x="749" y="602" text-anchor="start">starvation</text>
+<rect class="box2" x="55" y="730" width="250" height="185" rx="22" ry="22"/>
+<text class="label" x="79" y="768" text-anchor="start">Mortality after</text>
+<text class="label" x="79" y="797" text-anchor="start">transport</text>
+<rect class="box" x="305" y="730" width="420" height="185" rx="22" ry="22"/>
+<text class="label" x="329" y="768" text-anchor="start">Heat, ventilation, crushing,</text>
+<text class="label" x="329" y="797" text-anchor="start">stress or pre-existing</text>
+<text class="label" x="329" y="826" text-anchor="start">health?</text>
+<rect class="box" x="725" y="730" width="420" height="185" rx="22" ry="22"/>
+<text class="label" x="749" y="768" text-anchor="start">Single transport mechanism</text>
+<rect class="box2" x="55" y="925" width="250" height="185" rx="22" ry="22"/>
+<text class="label" x="79" y="963" text-anchor="start">Scattered</text>
+<text class="label" x="79" y="992" text-anchor="start">crawling/trembling</text>
+<text class="label" x="79" y="1021" text-anchor="start">adults</text>
+<rect class="box" x="305" y="925" width="420" height="185" rx="22" ry="22"/>
+<text class="label" x="329" y="963" text-anchor="start">Virus, toxic exposure,</text>
+<text class="label" x="329" y="992" text-anchor="start">temperature, ageing or other</text>
+<text class="label" x="329" y="1021" text-anchor="start">adult-bee disorder?</text>
+<rect class="box" x="725" y="925" width="420" height="185" rx="22" ry="22"/>
+<text class="label" x="749" y="963" text-anchor="start">One disease from behaviour</text>
+<text class="label" x="749" y="992" text-anchor="start">alone</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Preserve photographs, sample identity, time/weather/treatment/exposure history and escalate</text>
+<text class="small" x="85" y="1535" text-anchor="start">suspected chemical/notifiable incidents appropriately.</text>
+</svg>
