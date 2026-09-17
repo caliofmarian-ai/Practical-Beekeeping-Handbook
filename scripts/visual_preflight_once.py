@@ -30,6 +30,15 @@ def part_for(chapter):
     raise ValueError(chapter)
 
 
+def chapter_title(chapter):
+    path = ROOT / 'chapters' / f'chapter-{chapter:02d}.md'
+    first = path.read_text(encoding='utf-8').splitlines()[0].strip()
+    m = re.match(r'^#\s+Chapter\s+(\d+)\s+[—–-]\s+(.+?)\s*$', first)
+    if not m or int(m.group(1)) != chapter:
+        raise ValueError(f'Cannot derive canonical chapter title from {path}: {first!r}')
+    return m.group(2).strip()
+
+
 def classify(title, description):
     s = (title + ' ' + description).lower()
     tests = [
@@ -57,37 +66,34 @@ def production_size(visual_type):
     return 'single-or-double-column'
 
 
-def parse_plan_heading(text, path):
-    m = re.match(r'# Chapter (\d+)\s+[—–-]\s+(.+?): Illustration Plan', text)
-    if not m:
-        raise ValueError(f'Unexpected illustration-plan heading: {path}')
-    return int(m.group(1)), m.group(2).strip()
-
-
 def visual_matches(text, chapter):
-    """Return normalised matches for both modern Figure headings and legacy Visual headings."""
-    modern = re.compile(r'^### Figure (\d+)\.(\d+)\s+[—–-]\s+(.+?)\s*$', re.M)
-    legacy = re.compile(r'^## Visual (\d+)\s+[—–-]\s+(.+?)\s*$', re.M)
+    # Supports all manuscript-era plan conventions:
+    #   ### Figure 41.1 — Title
+    #   ### Illustration 34.1 — Title
+    #   ## Visual 1 — Title
+    #   ### Visual 41.1 — Title
+    heading = re.compile(
+        r'^(#{2,4})\s+(Figure|Illustration|Visual)\s+(?:(\d+)\.)?(\d+)\s+[—–-]\s+(.+?)\s*$',
+        re.M,
+    )
     found = []
-    for m in modern.finditer(text):
+    for m in heading.finditer(text):
+        explicit_chapter = int(m.group(3)) if m.group(3) else chapter
+        seq = int(m.group(4))
         found.append({
-            'start': m.start(), 'end': m.end(),
-            'chapter': int(m.group(1)), 'seq': int(m.group(2)), 'title': m.group(3).strip(),
-            'style': 'figure',
+            'start': m.start(),
+            'end': m.end(),
+            'chapter': explicit_chapter,
+            'seq': seq,
+            'title': m.group(5).strip(),
+            'style': m.group(2).lower(),
         })
-    for m in legacy.finditer(text):
-        found.append({
-            'start': m.start(), 'end': m.end(),
-            'chapter': chapter, 'seq': int(m.group(1)), 'title': m.group(2).strip(),
-            'style': 'legacy-visual',
-        })
-    found.sort(key=lambda x: x['start'])
     return found
 
 
-def parse_figures(path):
+def parse_figures(path, chapter):
     text = path.read_text(encoding='utf-8')
-    chapter, chapter_title = parse_plan_heading(text, path)
+    title = chapter_title(chapter)
     matches = visual_matches(text, chapter)
     figures = []
 
@@ -95,24 +101,24 @@ def parse_figures(path):
         start = m['end']
         end = matches[i + 1]['start'] if i + 1 < len(matches) else len(text)
         block = text[start:end].strip()
-        # Remove book-level sections after the last visual while retaining subheadings
-        # such as Format / Content / Accuracy Requirement inside a legacy brief.
         if i + 1 == len(matches):
-            block = re.split(r'^## (?:Accuracy Requirements|Accessibility|Accessibility and Layout|Final-Layout Notes|Final Layout Notes)\s*$', block, maxsplit=1, flags=re.M)[0].strip()
+            block = re.split(
+                r'^## (?:Accuracy Requirements|Accessibility|Accessibility and Layout|Final-Layout Notes|Final Layout Notes|Production Notes|General Requirements)\s*$',
+                block,
+                maxsplit=1,
+                flags=re.M,
+            )[0].strip()
         description = re.sub(r'\s+', ' ', block)
-
         if m['chapter'] != chapter:
-            raise ValueError(f'Figure chapter mismatch in {path}: chapter {m["chapter"]}')
-        title = m['title']
-        seq = m['seq']
-        visual_type = classify(title, description)
+            raise ValueError(f'Visual chapter mismatch in {path}: {m["chapter"]} != {chapter}')
+        visual_type = classify(m['title'], description)
         figures.append({
-            'asset_id': f'F{chapter:02d}.{seq:02d}',
-            'figure_id': f'{chapter}.{seq}',
+            'asset_id': f'F{chapter:02d}.{m["seq"]:02d}',
+            'figure_id': f'{chapter}.{m["seq"]}',
             'chapter': chapter,
-            'chapter_title': chapter_title,
+            'chapter_title': title,
             'part': part_for(chapter),
-            'working_title': title,
+            'working_title': m['title'],
             'brief': description,
             'visual_type': visual_type,
             'source_plan': str(path.relative_to(ROOT)),
@@ -128,27 +134,23 @@ def parse_figures(path):
         })
 
     if not figures:
-        raise ValueError(f'No Figure/Visual headings parsed from {path}')
-
-    # Every sequence within a chapter must be unique; gaps are allowed because some
-    # plans may intentionally consolidate or retire a number later.
+        raise ValueError(f'No Figure/Illustration/Visual headings parsed from {path}')
     seqs = [x['seq'] for x in matches]
     if len(seqs) != len(set(seqs)):
-        raise ValueError(f'Duplicate figure/visual sequence in {path}: {seqs}')
+        raise ValueError(f'Duplicate visual sequence in {path}: {seqs}')
     return figures
 
 
 def parse_photos(path):
     text = path.read_text(encoding='utf-8')
-    heading_re = re.compile(r'^### Photo (\d+)\.(\d+)\s+[—–-]\s+(.+?)\s*$', re.M)
-    matches = list(heading_re.finditer(text))
+    heading = re.compile(r'^### Photo (\d+)\.(\d+)\s+[—–-]\s+(.+?)\s*$', re.M)
+    matches = list(heading.finditer(text))
     photos = []
     for i, m in enumerate(matches):
         start = m.end()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
         block = text[start:end].strip()
         block = re.split(r'^##\s+', block, maxsplit=1, flags=re.M)[0].strip()
-        description = re.sub(r'\s+', ' ', block)
         chapter, seq = int(m.group(1)), int(m.group(2))
         photos.append({
             'asset_id': f'P{chapter:02d}.{seq:02d}',
@@ -156,7 +158,7 @@ def parse_photos(path):
             'chapter': chapter,
             'part': part_for(chapter),
             'working_title': m.group(3).strip(),
-            'shot_brief': description,
+            'shot_brief': re.sub(r'\s+', ' ', block),
             'source_register': str(path.relative_to(ROOT)),
             'production_status': 'PLANNED',
             'preferred_provenance': 'original_or_clearly_licensed',
@@ -182,14 +184,14 @@ def update_illustration_register(figure_count):
 
 
 def main():
-    expected = [PLANS / f'chapter-{n:02d}-illustration-plan.md' for n in range(1, 75)]
-    missing = [str(p.relative_to(ROOT)) for p in expected if not p.exists()]
+    expected = [(n, PLANS / f'chapter-{n:02d}-illustration-plan.md') for n in range(1, 75)]
+    missing = [str(p.relative_to(ROOT)) for _, p in expected if not p.exists()]
     if missing:
         raise SystemExit('Missing plans:\n' + '\n'.join(missing))
 
     figures = []
-    for path in expected:
-        figures.extend(parse_figures(path))
+    for chapter, path in expected:
+        figures.extend(parse_figures(path, chapter))
 
     ids = [x['figure_id'] for x in figures]
     if len(ids) != len(set(ids)):
@@ -203,8 +205,7 @@ def main():
 
     ASSETS.mkdir(parents=True, exist_ok=True)
     (ASSETS / 'visual-production-manifest.json').write_text(
-        json.dumps({'figure_count': len(figures), 'figures': figures}, indent=2, ensure_ascii=False) + '\n',
-        encoding='utf-8'
+        json.dumps({'figure_count': len(figures), 'figures': figures}, indent=2, ensure_ascii=False) + '\n', encoding='utf-8'
     )
     with (ASSETS / 'visual-production-manifest.csv').open('w', encoding='utf-8', newline='') as f:
         fields = ['asset_id','figure_id','chapter','chapter_title','part','working_title','visual_type','production_status','rights_status','accuracy_status','recommended_print_size','source_plan']
@@ -212,21 +213,19 @@ def main():
         writer.writeheader()
         for row in figures:
             writer.writerow({k: row.get(k) for k in fields})
-
     (ASSETS / 'photo-production-manifest.json').write_text(
-        json.dumps({'photo_count': len(photos), 'photos': photos}, indent=2, ensure_ascii=False) + '\n',
-        encoding='utf-8'
+        json.dumps({'photo_count': len(photos), 'photos': photos}, indent=2, ensure_ascii=False) + '\n', encoding='utf-8'
     )
 
     update_illustration_register(len(figures))
 
     type_counts = {}
-    legacy_count = 0
+    style_counts = {}
     for item in figures:
         type_counts[item['visual_type']] = type_counts.get(item['visual_type'], 0) + 1
-        if item['source_heading_style'] == 'legacy-visual':
-            legacy_count += 1
+        style_counts[item['source_heading_style']] = style_counts.get(item['source_heading_style'], 0) + 1
     type_lines = '\n'.join(f'- {k}: **{v}**' for k, v in sorted(type_counts.items()))
+    style_lines = '\n'.join(f'- {k}: **{v}**' for k, v in sorted(style_counts.items()))
 
     REPORT.parent.mkdir(parents=True, exist_ok=True)
     REPORT.write_text(f'''# Visual Production Preflight — References 82–85
@@ -237,47 +236,47 @@ def main():
 
 ## 1. Purpose
 
-This preflight converts the 74 chapter illustration plans and the photographic shot register into machine-readable production manifests before final asset creation. It does not mark unproduced assets as approved.
+This preflight converts the 74 chapter illustration plans and photographic shot register into machine-readable production manifests before final asset creation. It does not mark unproduced assets as approved.
 
 ## 2. Inventory
 
 - canonical chapter illustration plans found: **74 / 74**
-- parsed planned figures/visuals: **{len(figures)}**
-- legacy `Visual N` headings normalised to figure IDs in the manifest: **{legacy_count}**
+- parsed planned figures/illustrations/visuals: **{len(figures)}**
 - duplicate figure IDs: **0**
 - parsed planned photographs: **{len(photos)}**
 - duplicate photograph IDs: **0**
-- pre-layout semantic index: **present** (`references/index.md`)
-- master diagram register: **present** (`references/diagrams.md`)
-- master illustration register: **present** (`references/illustrations.md`)
-- photograph shot register: **present** (`references/photographs.md`)
+- semantic index: **present** (`references/index.md`)
+- diagram register: **present** (`references/diagrams.md`)
+- illustration register: **present** (`references/illustrations.md`)
+- photograph register: **present** (`references/photographs.md`)
 
-## 3. Generated Production Manifests
+## 3. Source-Heading Normalisation
+
+The historical plans used several harmless heading conventions. The production manifest normalises all of them to chapter-scoped `Figure chapter.sequence` IDs:
+
+{style_lines}
+
+This changes production metadata only; manuscript wording is not altered.
+
+## 4. Generated Production Manifests
 
 - `assets/visual-production-manifest.json` — complete figure briefs and production metadata
 - `assets/visual-production-manifest.csv` — production-board friendly figure index
 - `assets/photo-production-manifest.json` — photograph sourcing/rights queue
 
-All generated figure records remain at **BRIEF_READY** / **PENDING_ASSET_REVIEW** until an actual asset exists and passes accuracy, rights, accessibility and proof gates.
+All figure records remain at **BRIEF_READY** / **PENDING_ASSET_REVIEW** until actual assets pass accuracy, rights, accessibility and proof gates.
 
-## 4. Figure-Type Distribution
+## 5. Figure-Type Distribution
 
 {type_lines}
 
-Classification is a production-routing aid based on the approved brief text; technical review of each finished visual remains mandatory.
+Classification is a production-routing aid; each finished visual still requires technical review.
 
-## 5. Corrective Finding Resolved
+## 6. Corrective Finding Resolved
 
-Formatting validation exposed a real pre-production gap: standard dedicated illustration-plan files for Chapters 22–25 were missing even though older planning material existed. Standard professional plans were created for:
+Formatting validation exposed a pre-production gap: standard dedicated illustration-plan files for Chapters 22–25 were missing even though older planning material existed. Standard professional plans were created for Chapters 22–25, and `references/illustrations.md` is updated so they are no longer legacy-filename exceptions.
 
-- Chapter 22 — Smokers and Hive Tools;
-- Chapter 23 — Beekeeping Safety and First Aid;
-- Chapter 24 — Installing Bees;
-- Chapter 25 — Routine Hive Inspections.
-
-`references/illustrations.md` has been updated so it no longer describes those plans as legacy-filename exceptions.
-
-## 6. Asset Gates
+## 7. Asset Gates
 
 No final figure or photograph can move to `APPROVED` until it passes:
 
@@ -289,12 +288,10 @@ No final figure or photograph can move to `APPROVED` until it passes:
 6. commercial print/digital rights/provenance;
 7. final-layout proof verification.
 
-## 7. Production Order
-
-Recommended order for fastest risk reduction:
+## 8. Production Order
 
 1. bee-health diagnostic/life-cycle visuals;
-2. safety and practical handling sequences;
+2. safety/practical handling sequences;
 3. anatomy/biology core plates;
 4. honey-processing and food-safety diagrams;
 5. hive-product processing/safety visuals;
@@ -302,17 +299,18 @@ Recommended order for fastest risk reduction:
 7. sustainability/research/future diagrams;
 8. field photographs with verified provenance/rights.
 
-## 8. Reference 85 Index
+## 9. Reference 85 Index
 
-The semantic index already exists and correctly uses chapter/reference locators rather than invented page numbers. Issue #103 must remain open until final PDF/print pagination is stable and page locators are generated and proofed.
+The semantic index correctly uses chapter/reference locators rather than invented page numbers. Issue #103 remains open until final print/PDF pagination is stable and page locators are generated and proofed.
 
-## 9. Conclusion
+## 10. Conclusion
 
-Visual inventory and pre-production routing are now deterministic. The next work is actual illustration/diagram production and photograph sourcing/rights review, followed by placement and final pagination.
+Visual inventory and production routing are deterministic. The next work is actual illustration/diagram production and photograph sourcing/rights review, followed by placement and final pagination.
 ''', encoding='utf-8')
 
-    print(f'figures={len(figures)} photos={len(photos)} legacy_visuals={legacy_count}')
-    print(type_counts)
+    print(f'figures={len(figures)} photos={len(photos)}')
+    print('types=', type_counts)
+    print('styles=', style_counts)
 
 
 if __name__ == '__main__':
