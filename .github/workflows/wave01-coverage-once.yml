@@ -1,0 +1,34 @@
+name: wave01-coverage-once
+
+on:
+  push:
+    branches:
+      - publishing/visual-wave-01-coverage
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publishing/visual-wave-01-coverage
+          fetch-depth: 0
+      - name: Audit Wave 01 visual coverage
+        run: python scripts/audit_wave01_visual_coverage.py
+      - name: Remove transient files
+        run: |
+          rm -f .github/workflows/wave01-coverage-once.yml
+          find scripts -type d -name __pycache__ -prune -exec rm -rf {} +
+      - name: Commit coverage report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Audit Wave 01 visual production coverage (#100 #101)"
+          git push origin HEAD:publishing/visual-wave-01-coverage
