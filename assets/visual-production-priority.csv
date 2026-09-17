@@ -1,0 +1,761 @@
+asset_id,figure_id,chapter,chapter_title,working_title,visual_type,priority_score,editorial_priority,selection_status,reuse_family,source_plan
+F01.01,1.1,1,Introduction to Beekeeping,The Managed Honey Bee System,map_landscape,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-01-illustration-plan.md
+F01.02,1.2,1,Introduction to Beekeeping,What a Colony Contains,technical_cutaway,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-01-illustration-plan.md
+F01.03,1.3,1,Introduction to Beekeeping,The Beekeeping Year at a Glance,process,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-01-illustration-plan.md
+F01.04,1.4,1,Introduction to Beekeeping,Beginner Decision Path,decision_flow,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-01-illustration-plan.md
+F02.01,2.1,2,History of Beekeeping,Timeline of Beekeeping Development,timeline,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-02-illustration-plan.md
+F02.02,2.2,2,History of Beekeeping,Historical Hive Forms,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-02-illustration-plan.md
+F02.03,2.3,2,History of Beekeeping,Movable-Frame Breakthrough,comparison,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-02-illustration-plan.md
+F02.04,2.4,2,History of Beekeeping,Global Traditions,map_landscape,3,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-02-illustration-plan.md
+F03.01,3.1,3,Importance of Honey Bees,Honey Bee Contributions,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-03-illustration-plan.md
+F03.02,3.2,3,Importance of Honey Bees,Pollination Is a Network,scientific_illustration,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-03-illustration-plan.md
+F03.03,3.3,3,Importance of Honey Bees,Managed Bees Versus Wild Pollinator Conservation,comparison,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-03-illustration-plan.md
+F03.04,3.4,3,Importance of Honey Bees,Ecosystem-Service Pathway,scientific_illustration,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-03-illustration-plan.md
+F04.01,4.1,4,Products of the Hive,Hive-Product Overview,scientific_illustration,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-04-illustration-plan.md
+F04.02,4.2,4,Products of the Hive,Product Origin Map Inside the Hive,map_landscape,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-04-illustration-plan.md
+F04.03,4.3,4,Products of the Hive,Product Risk Profiles,chart_data,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-04-illustration-plan.md
+F04.04,4.4,4,Products of the Hive,From Colony to Market,scientific_illustration,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-04-illustration-plan.md
+F05.01,5.1,5,Modern Beekeeping,Modern Beekeeping System,scientific_illustration,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-05-illustration-plan.md
+F05.02,5.2,5,Modern Beekeeping,Evidence-Based Decision Loop,decision_flow,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-05-illustration-plan.md
+F05.03,5.3,5,Modern Beekeeping,Traditional Tools and Precision Tools,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-05-illustration-plan.md
+F05.04,5.4,5,Modern Beekeeping,Modern Risk Landscape,map_landscape,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-05-illustration-plan.md
+F06.01,6.1,6,Bee Anatomy,External Worker Anatomy,anatomical,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,BEE_CASTE_ANATOMY,docs/illustration-plans/chapter-06-illustration-plan.md
+F06.02,6.2,6,Bee Anatomy,Head and Mouthparts,scientific_illustration,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-06-illustration-plan.md
+F06.03,6.3,6,Bee Anatomy,Leg Specialisations,scientific_illustration,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-06-illustration-plan.md
+F06.04,6.4,6,Bee Anatomy,Internal Systems,anatomical,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-06-illustration-plan.md
+F06.05,6.5,6,Bee Anatomy,"Worker, Queen and Drone Anatomy Comparison",comparison,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,BEE_CASTE_ANATOMY,docs/illustration-plans/chapter-06-illustration-plan.md
+F07.01,7.1,7,Honey Bee Life Cycle,Complete Development Cycle,timeline,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-07-illustration-plan.md
+F07.02,7.2,7,Honey Bee Life Cycle,Larval Growth and Feeding,scientific_illustration,3,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-07-illustration-plan.md
+F07.03,7.3,7,Honey Bee Life Cycle,Metamorphosis Under the Capping,scientific_illustration,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-07-illustration-plan.md
+F07.04,7.4,7,Honey Bee Life Cycle,Caste Development Comparison,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-07-illustration-plan.md
+F08.01,8.1,8,The Queen,Queen Anatomy and Identification,anatomical,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,BEE_CASTE_ANATOMY,docs/illustration-plans/chapter-08-illustration-plan.md
+F08.02,8.2,8,The Queen,Queen Reproductive System,anatomical,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-08-illustration-plan.md
+F08.03,8.3,8,The Queen,Mating and Sperm Storage Concept,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-08-illustration-plan.md
+F08.04,8.4,8,The Queen,Queen Pheromonal Influence,scientific_illustration,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-08-illustration-plan.md
+F08.05,8.5,8,The Queen,Queen-Life Management Timeline,timeline,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-08-illustration-plan.md
+F09.01,9.1,9,Worker Bees,Worker Task Progression,process,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-09-illustration-plan.md
+F09.02,9.2,9,Worker Bees,Worker Specialised Structures,anatomical,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-09-illustration-plan.md
+F09.03,9.3,9,Worker Bees,Forager Resource Types,scientific_illustration,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-09-illustration-plan.md
+F09.04,9.4,9,Worker Bees,Worker Longevity Context,comparison,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-09-illustration-plan.md
+F10.01,10.1,10,Drones,Drone Identification,scientific_illustration,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-10-illustration-plan.md
+F10.02,10.2,10,Drones,Drone Development,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-10-illustration-plan.md
+F10.03,10.3,10,Drones,Drone Reproductive Anatomy,anatomical,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-10-illustration-plan.md
+F10.04,10.4,10,Drones,Mating Congregation Concept,scientific_illustration,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-10-illustration-plan.md
+F10.05,10.5,10,Drones,Seasonal Drone Dynamics,scientific_illustration,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-10-illustration-plan.md
+F11.01,11.1,11,Communication Inside the Colony,Waggle Dance Geometry,scientific_illustration,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-11-illustration-plan.md
+F11.02,11.2,11,Communication Inside the Colony,Distance and Dance Tempo Concept,comparison,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-11-illustration-plan.md
+F11.03,11.3,11,Communication Inside the Colony,Multimodal Communication,scientific_illustration,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-11-illustration-plan.md
+F11.04,11.4,11,Communication Inside the Colony,Alarm and Recruitment Signals,comparison,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-11-illustration-plan.md
+F11.05,11.5,11,Communication Inside the Colony,Swarm Nest-Site Communication,scientific_illustration,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-11-illustration-plan.md
+F12.01,12.1,12,Bee Behaviour,Behavioural Repertoire,scientific_illustration,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-12-illustration-plan.md
+F12.02,12.2,12,Bee Behaviour,Orientation Flight Versus Robbing,comparison,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-12-illustration-plan.md
+F12.03,12.3,12,Bee Behaviour,Defensive Escalation,scientific_illustration,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-12-illustration-plan.md
+F12.04,12.4,12,Bee Behaviour,Grooming and Hygienic Behaviour,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-12-illustration-plan.md
+F12.05,12.5,12,Bee Behaviour,Clustering and Thermoregulation,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-12-illustration-plan.md
+F13.01,13.1,13,Colony Structure,Brood-Nest Organisation,scientific_illustration,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-13-illustration-plan.md
+F13.02,13.2,13,Colony Structure,Colony as a Superorganism,scientific_illustration,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-13-illustration-plan.md
+F13.03,13.3,13,Colony Structure,Age Structure and Workforce,scientific_illustration,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-13-illustration-plan.md
+F13.04,13.4,13,Colony Structure,Resource Flow Through the Colony,process,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-13-illustration-plan.md
+F14.01,14.1,14,Seasonal Colony Development,Annual Colony Population Cycle,timeline,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-14-illustration-plan.md
+F14.02,14.2,14,Seasonal Colony Development,Temperate Versus Warm-Climate Patterns,comparison,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-14-illustration-plan.md
+F14.03,14.3,14,Seasonal Colony Development,Winter-Bee Development,scientific_illustration,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-14-illustration-plan.md
+F14.04,14.4,14,Seasonal Colony Development,Forage–Brood Feedback,scientific_illustration,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-14-illustration-plan.md
+F15.01,15.1,15,Choosing an Apiary Location,Apiary Site Assessment,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,APIARY_SITE_SYSTEM,docs/illustration-plans/chapter-15-illustration-plan.md
+F15.02,15.2,15,Choosing an Apiary Location,Good and Poor Flight Paths,comparison,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-15-illustration-plan.md
+F15.03,15.3,15,Choosing an Apiary Location,Drainage and Stand Placement,comparison,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-15-illustration-plan.md
+F15.04,15.4,15,Choosing an Apiary Location,Landscape Forage Mosaic,map_landscape,3,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-15-illustration-plan.md
+F15.05,15.5,15,Choosing an Apiary Location,Carrying Capacity Concept,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-15-illustration-plan.md
+F16.01,16.1,16,Planning the Apiary,Small Apiary Layout,map_landscape,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,APIARY_SITE_SYSTEM,docs/illustration-plans/chapter-16-illustration-plan.md
+F16.02,16.2,16,Planning the Apiary,Growth Plan,scientific_illustration,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-16-illustration-plan.md
+F16.03,16.3,16,Planning the Apiary,Drift-Reduction Layouts,comparison,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-16-illustration-plan.md
+F16.04,16.4,16,Planning the Apiary,Equipment Flow,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-16-illustration-plan.md
+F16.05,16.5,16,Planning the Apiary,Apiary Identification System,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-16-illustration-plan.md
+F17.01,17.1,17,Hive Types,Common Movable-Frame Hive Families,scientific_illustration,2,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-17-illustration-plan.md
+F17.02,17.2,17,Hive Types,Horizontal Versus Vertical Expansion,comparison,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-17-illustration-plan.md
+F17.03,17.3,17,Hive Types,Top-Bar Hive Concept,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-17-illustration-plan.md
+F17.04,17.4,17,Hive Types,Hive-System Comparison Matrix,chart_data,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-17-illustration-plan.md
+F18.01,18.1,18,Hive Components,Exploded Modular Hive,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-18-illustration-plan.md
+F18.02,18.2,18,Hive Components,Frame Spacing and Bee Space,comparison,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-18-illustration-plan.md
+F18.03,18.3,18,Hive Components,Floor Types,comparison,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-18-illustration-plan.md
+F18.04,18.4,18,Hive Components,Entrance Management,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-18-illustration-plan.md
+F18.05,18.5,18,Hive Components,Hive Materials,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-18-illustration-plan.md
+F19.01,19.1,19,Frames and Foundation,Frame Anatomy,anatomical,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-19-illustration-plan.md
+F19.02,19.2,19,Frames and Foundation,Foundation Types,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-19-illustration-plan.md
+F19.03,19.3,19,Frames and Foundation,Wiring / Reinforcement Concept,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-19-illustration-plan.md
+F19.04,19.4,19,Frames and Foundation,Straight Natural Comb,comparison,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-19-illustration-plan.md
+F19.05,19.5,19,Frames and Foundation,Comb Age Sequence,process,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-19-illustration-plan.md
+F20.01,20.1,20,Essential Equipment,Beginner Equipment Set,scientific_illustration,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-20-illustration-plan.md
+F20.02,20.2,20,Essential Equipment,Equipment by Task,process,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-20-illustration-plan.md
+F20.03,20.3,20,Essential Equipment,Purchase Priority Matrix,chart_data,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-20-illustration-plan.md
+F20.04,20.4,20,Essential Equipment,Clean Equipment Workflow,process,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-20-illustration-plan.md
+F20.05,20.5,20,Essential Equipment,Maintenance Check,scientific_illustration,2,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-20-illustration-plan.md
+F21.01,21.1,21,Protective Clothing,Protective Clothing System,scientific_illustration,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-21-illustration-plan.md
+F21.02,21.2,21,Protective Clothing,Veil Clearance,comparison,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-21-illustration-plan.md
+F21.03,21.3,21,Protective Clothing,Clothing Selection by Task,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-21-illustration-plan.md
+F21.04,21.4,21,Protective Clothing,Pre-Inspection PPE Check,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-21-illustration-plan.md
+F21.05,21.5,21,Protective Clothing,Heat-Stress Awareness,scientific_illustration,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-21-illustration-plan.md
+F22.01,22.1,22,Smokers and Hive Tools,Smoker Anatomy,anatomical,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-22-illustration-plan.md
+F22.02,22.2,22,Smokers and Hive Tools,Airflow and Cool-Smoke Production,technical_cutaway,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-22-illustration-plan.md
+F22.03,22.3,22,Smokers and Hive Tools,Suitable Versus Unsuitable Smoker Fuels,comparison,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-22-illustration-plan.md
+F22.04,22.4,22,Smokers and Hive Tools,Smoker-Lighting Sequence,process,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-22-illustration-plan.md
+F22.05,22.5,22,Smokers and Hive Tools,Minimum Effective Smoke,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-22-illustration-plan.md
+F22.06,22.6,22,Smokers and Hive Tools,Hot-Smoker and Fire-Safety Zone,process,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-22-illustration-plan.md
+F22.07,22.7,22,Smokers and Hive Tools,Common Hive-Tool Designs,comparison,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-22-illustration-plan.md
+F22.08,22.8,22,Smokers and Hive Tools,Correct Frame Release,comparison,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-22-illustration-plan.md
+F22.09,22.9,22,Smokers and Hive Tools,Tool Hygiene Between Colonies,process,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-22-illustration-plan.md
+F22.10,22.10,22,Smokers and Hive Tools,Compact Inspection Tool Kit,scientific_illustration,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-22-illustration-plan.md
+F23.01,23.1,23,Beekeeping Safety and First Aid,Apiary Hazard Map,map_landscape,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.02,23.2,23,Beekeeping Safety and First Aid,Simple Risk-Assessment Sequence,chart_data,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.03,23.3,23,Beekeeping Safety and First Aid,Hierarchy of Controls for Beekeeping,process,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.04,23.4,23,Beekeeping Safety and First Aid,Sting Prevention and Protective Overlap,process,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.05,23.5,23,Beekeeping Safety and First Aid,Honey-Bee Stinger Removal,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.06,23.6,23,Beekeeping Safety and First Aid,Local Reaction Versus Emergency Warning Signs,comparison,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.07,23.7,23,Beekeeping Safety and First Aid,Apiary First-Aid and Emergency Kit,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.08,23.8,23,Beekeeping Safety and First Aid,Safer Super Lifting,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.09,23.9,23,Beekeeping Safety and First Aid,"Heat, Cold and Dehydration Prevention",decision_flow,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.10,23.10,23,Beekeeping Safety and First Aid,Smoker and Vegetation-Fire Safety,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.11,23.11,23,Beekeeping Safety and First Aid,Chemical-Treatment PPE and Label Discipline,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-23-illustration-plan.md
+F23.12,23.12,23,Beekeeping Safety and First Aid,Lone-Working Emergency Plan,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-23-illustration-plan.md
+F24.01,24.1,24,Installing Bees,Starting Units Compared,comparison,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.02,24.2,24,Installing Bees,Prepared Receiving Hive,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.03,24.3,24,Installing Bees,Safe Bee Transport,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.04,24.4,24,Installing Bees,Package-Bee Installation Sequence,process,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.05,24.5,24,Installing Bees,Queen Cage and Release Concepts,process,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.06,24.6,24,Installing Bees,Nucleus Transfer,scientific_illustration,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.07,24.7,24,Installing Bees,Swarm Installation,process,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.08,24.8,24,Installing Bees,Entrance Reduction and Robbing Prevention,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.09,24.9,24,Installing Bees,First-Inspection Decision Timeline,decision_flow,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.10,24.10,24,Installing Bees,Early Success and Warning Signs,comparison,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.11,24.11,24,Installing Bees,New-Colony Biosecurity,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-24-illustration-plan.md
+F24.12,24.12,24,Installing Bees,Installation Record Example,process,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-24-illustration-plan.md
+F25.01,25.1,25,Routine Hive Inspections,Inspection Depth Ladder,scientific_illustration,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.02,25.2,25,Routine Hive Inspections,Pre-Opening Observation,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.03,25.3,25,Routine Hive Inspections,Inspection Questions Before Opening,decision_flow,15,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.04,25.4,25,Routine Hive Inspections,Safe Frame-Handling Sequence,process,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.05,25.5,25,Routine Hive Inspections,Queenright Evidence Without Finding the Queen,scientific_illustration,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.06,25.6,25,Routine Hive Inspections,Healthy Brood-Age Reference,scientific_illustration,10,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,HEALTHY_BROOD_REFERENCE,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.07,25.7,25,Routine Hive Inspections,Brood Pattern Interpretation,comparison,16,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.08,25.8,25,Routine Hive Inspections,Colony Strength Estimate,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.09,25.9,25,Routine Hive Inspections,Food-Reserve Assessment,scientific_illustration,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.10,25.10,25,Routine Hive Inspections,Space and Congestion,comparison,10,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.11,25.11,25,Routine Hive Inspections,Swarm-Preparation Evidence,scientific_illustration,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.12,25.12,25,Routine Hive Inspections,Warning Signs Requiring Targeted Follow-Up,scientific_illustration,10,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.13,25.13,25,Routine Hive Inspections,Inspection Record and Follow-Up Loop,decision_flow,9,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-25-illustration-plan.md
+F25.14,25.14,25,Routine Hive Inspections,Closing the Hive Without Crushing Bees,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-25-illustration-plan.md
+F26.01,26.1,26,Feeding Bees,Natural and Supplemental Nutrition,anatomical,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-26-illustration-plan.md
+F26.02,26.2,26,Feeding Bees,Syrup Preparation by Weight,process,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-26-illustration-plan.md
+F26.03,26.3,26,Feeding Bees,Feeder Types,technical_cutaway,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-26-illustration-plan.md
+F26.04,26.4,26,Feeding Bees,Anti-Drowning Features,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-26-illustration-plan.md
+F26.05,26.5,26,Feeding Bees,Robbing Prevention During Feeding,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-26-illustration-plan.md
+F26.06,26.6,26,Feeding Bees,Brood Nest Before and After Overfeeding,comparison,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-26-illustration-plan.md
+F26.07,26.7,26,Feeding Bees,Feeding Decision Flow,decision_flow,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-26-illustration-plan.md
+F26.08,26.8,26,Feeding Bees,Protein Patty Placement,technical_cutaway,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-26-illustration-plan.md
+F26.09,26.9,26,Feeding Bees,Feeding Record Example,process,0,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-26-illustration-plan.md
+F26.10,26.10,26,Feeding Bees,Honey-Quality Safeguard,process,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-26-illustration-plan.md
+F27.01,27.1,27,Emergency and Winter Feeding,Winter Cluster and Accessible Stores,technical_cutaway,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.02,27.2,27,Emergency and Winter Feeding,Isolation Starvation,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.03,27.3,27,Emergency and Winter Feeding,Winter Feed Types,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.04,27.4,27,Emergency and Winter Feeding,Fondant Placement,technical_cutaway,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.05,27.5,27,Emergency and Winter Feeding,Incorrect Feed Placement,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.06,27.6,27,Emergency and Winter Feeding,Hive Weight Monitoring,chart_data,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.07,27.7,27,Emergency and Winter Feeding,Condensation and Moisture,technical_cutaway,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.08,27.8,27,Emergency and Winter Feeding,Emergency Feeding Sequence,process,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.09,27.9,27,Emergency and Winter Feeding,Food Frame Placement,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.10,27.10,27,Emergency and Winter Feeding,Autumn Preparation Timeline,timeline,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.11,27.11,27,Emergency and Winter Feeding,Winter Entrance Conditions,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-27-illustration-plan.md
+F27.12,27.12,27,Emergency and Winter Feeding,Winter Feeding Decision Chart,decision_flow,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-27-illustration-plan.md
+F28.01,28.1,28,Swarm Prevention,Natural Swarm Cycle,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.02,28.2,28,Swarm Prevention,Congestion Versus Empty Volume,comparison,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.03,28.3,28,Swarm Prevention,Brood-Nest Restriction,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.04,28.4,28,Swarm Prevention,Queen Cup Development,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.05,28.5,28,Swarm Prevention,Queen-Cell Types,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.06,28.6,28,Swarm Prevention,"Early, Intermediate and Advanced Preparation",scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.07,28.7,28,Swarm Prevention,Effective Supering,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.08,28.8,28,Swarm Prevention,Opening the Brood Nest,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.09,28.9,28,Swarm Prevention,Nucleus Formation,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.10,28.10,28,Swarm Prevention,Artificial Swarm,scientific_illustration,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.11,28.11,28,Swarm Prevention,Demaree-Type Arrangement,scientific_illustration,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.12,28.12,28,Swarm Prevention,Horizontal Hive Expansion,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-28-illustration-plan.md
+F28.13,28.13,28,Swarm Prevention,Post-Intervention Inspection,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-28-illustration-plan.md
+F29.01,29.1,29,Swarm Capture,Swarm Reproductive Sequence,process,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.02,29.2,29,Swarm Capture,Primary Swarm and Afterswarm,timeline,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.03,29.3,29,Swarm Capture,Capture Safety Assessment,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.04,29.4,29,Swarm Capture,Swarm Capture Equipment,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.05,29.5,29,Swarm Capture,Low Branch Capture,process,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.06,29.6,29,Swarm Capture,Wall and Fence Capture,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.07,29.7,29,Swarm Capture,Sheet-and-Ramp Method,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.08,29.8,29,Swarm Capture,Signs the Queen Is Inside,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.09,29.9,29,Swarm Capture,Ventilated Transport Box,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.10,29.10,29,Swarm Capture,Installing the Swarm,process,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.11,29.11,29,Swarm Capture,"Drawn Comb, Foundation and Natural Comb",scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.12,29.12,29,Swarm Capture,Preventing Absconding,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.13,29.13,29,Swarm Capture,Bait Hive Design,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.14,29.14,29,Swarm Capture,Bait Hive Locations,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-29-illustration-plan.md
+F29.15,29.15,29,Swarm Capture,First Inspection,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-29-illustration-plan.md
+F30.01,30.1,30,Splitting Colonies,Resources Required for a Split,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.02,30.2,30,Splitting Colonies,Donor Colony Assessment,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,HEALTHY_BROOD_REFERENCE,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.03,30.3,30,Splitting Colonies,Queen Strategy Comparison,comparison,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.04,30.4,30,Splitting Colonies,Equal and Unequal Splits,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.05,30.5,30,Splitting Colonies,Walk-Away Split,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.06,30.6,30,Splitting Colonies,Mated-Queen Split,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.07,30.7,30,Splitting Colonies,Queen-Cell Split,process,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.08,30.8,30,Splitting Colonies,Brood Balance,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.09,30.9,30,Splitting Colonies,Flying-Bee Drift,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.10,30.10,30,Splitting Colonies,Same-Apiary and Remote Movement,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.11,30.11,30,Splitting Colonies,Hive Volume,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.12,30.12,30,Splitting Colonies,Queen Development Timeline,timeline,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.13,30.13,30,Splitting Colonies,First Inspection,scientific_illustration,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.14,30.14,30,Splitting Colonies,Failed Split Decision,decision_flow,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-30-illustration-plan.md
+F30.15,30.15,30,Splitting Colonies,Overwintering Split,scientific_illustration,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-30-illustration-plan.md
+F31.01,31.1,31,Requeening,Reasons for Requeening,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.02,31.2,31,Requeening,Queen Failure Versus Other Problems,comparison,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.03,31.3,31,Requeening,Drone-Laying Queen and Laying Workers,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.04,31.4,31,Requeening,Queen Introduction Equipment,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.05,31.5,31,Requeening,Finding and Removing the Old Queen,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.06,31.6,31,Requeening,Correct Cage Placement,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.07,31.7,31,Requeening,Acceptance and Rejection Behaviour,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.08,31.8,31,Requeening,Candy Release,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.09,31.9,31,Requeening,Push-In Cage,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.10,31.10,31,Requeening,Introduction Through a Nucleus,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.11,31.11,31,Requeening,Queen Development and Status Decision,decision_flow,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.12,31.12,31,Requeening,Failed Introduction Decision,decision_flow,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.13,31.13,31,Requeening,Queen Marking,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.14,31.14,31,Requeening,Worker Replacement Timeline,timeline,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F31.15,31.15,31,Requeening,Queen Record,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-31-illustration-plan.md
+F32.01,32.1,32,Queen Rearing,Queen Development Timeline,timeline,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.02,32.2,32,Queen Rearing,Larval Age Selection,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.03,32.3,32,Queen Rearing,Breeder-Colony Selection,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.04,32.4,32,Queen Rearing,Maternal and Paternal Genetics,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.05,32.5,32,Queen Rearing,Starter and Finisher Colonies,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.06,32.6,32,Queen Rearing,Grafting Sequence,process,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.07,32.7,32,Queen Rearing,Grafting Tools,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.08,32.8,32,Queen Rearing,Accepted and Rejected Cells,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.09,32.9,32,Queen Rearing,Non-Grafting Methods,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.10,32.10,32,Queen Rearing,Queen-Cell Protection,process,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.11,32.11,32,Queen Rearing,Mating Nucleus,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.12,32.12,32,Queen Rearing,Mating-Apiary Layout,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,APIARY_SITE_SYSTEM,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.13,32.13,32,Queen Rearing,Queen Mating,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.14,32.14,32,Queen Rearing,Newly Mated Queen Evaluation,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-32-illustration-plan.md
+F32.15,32.15,32,Queen Rearing,Queen-Rearing Record,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-32-illustration-plan.md
+F33.01,33.1,33,Moving Colonies,Short and Long Moves,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.02,33.2,33,Moving Colonies,Worker Orientation,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.03,33.3,33,Moving Colonies,Hive Transport Preparation,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.04,33.4,33,Moving Colonies,Correct and Incorrect Entrance Closure,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.05,33.5,33,Moving Colonies,Natural-Comb Transport,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.06,33.6,33,Moving Colonies,Vehicle Loading,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.07,33.7,33,Moving Colonies,Manual Handling,process,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.08,33.8,33,Moving Colonies,Heat Risk,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.09,33.9,33,Moving Colonies,Destination Preparation,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.10,33.10,33,Moving Colonies,Reorientation Obstruction,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.11,33.11,33,Moving Colonies,Moving Within an Apiary,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.12,33.12,33,Moving Colonies,Emergency Box Separation,process,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.13,33.13,33,Moving Colonies,Unloading Sequence,process,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.14,33.14,33,Moving Colonies,Post-Move Inspection,scientific_illustration,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-33-illustration-plan.md
+F33.15,33.15,33,Moving Colonies,Movement Record,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-33-illustration-plan.md
+F34.01,34.1,34,Seasonal Beekeeping Calendar,The Biological Colony Year,timeline,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-34-illustration-plan.md
+F34.02,34.2,34,Seasonal Beekeeping Calendar,Seasonal Decision Framework,decision_flow,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-34-illustration-plan.md
+F34.03,34.3,34,Seasonal Beekeeping Calendar,Northern and Southern Hemisphere Calendar Comparison,timeline,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-34-illustration-plan.md
+F34.04,34.4,34,Seasonal Beekeeping Calendar,Seasonal Inspection Objectives,process,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-34-illustration-plan.md
+F34.05,34.5,34,Seasonal Beekeeping Calendar,"Population, Brood, Stores, and Parasite Pressure",chart_data,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-34-illustration-plan.md
+F34.06,34.6,34,Seasonal Beekeeping Calendar,One-Phase-Ahead Planning,chart_data,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-34-illustration-plan.md
+F34.07,34.7,34,Seasonal Beekeeping Calendar,Seasonal Equipment Readiness,timeline,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-34-illustration-plan.md
+F35.01,35.1,35,Monthly Management Tasks,Twelve-Month Management Wheel,timeline,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-35-illustration-plan.md
+F35.02,35.2,35,Monthly Management Tasks,Monthly Priority Matrix,chart_data,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-35-illustration-plan.md
+F35.03,35.3,35,Monthly Management Tasks,One-Month-Ahead Equipment Planning,chart_data,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-35-illustration-plan.md
+F35.04,35.4,35,Monthly Management Tasks,Monthly Inspection Record,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-35-illustration-plan.md
+F35.05,35.5,35,Monthly Management Tasks,Northern and Southern Month Conversion,timeline,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-35-illustration-plan.md
+F35.06,35.6,35,Monthly Management Tasks,Monthly Task Priority System,chart_data,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-35-illustration-plan.md
+F36.01,36.1,36,Record Keeping,Complete Apiary Record System,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-36-illustration-plan.md
+F36.02,36.2,36,Record Keeping,Colony Inspection Record Sheet,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-36-illustration-plan.md
+F36.03,36.3,36,Record Keeping,Identification Hierarchy,chart_data,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-36-illustration-plan.md
+F36.04,36.4,36,Record Keeping,"Paper, Digital, and Hybrid Systems",comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-36-illustration-plan.md
+F36.05,36.5,36,Record Keeping,Treatment Traceability Chain,decision_flow,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-36-illustration-plan.md
+F36.06,36.6,36,Record Keeping,Honey Batch Traceability,process,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-36-illustration-plan.md
+F36.07,36.7,36,Record Keeping,Record Review Cycle,decision_flow,13,A_CORE,SELECT_FOR_FINAL_LAYOUT,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-36-illustration-plan.md
+F37.01,37.1,37,Common Beginner Mistakes,Inspection Mistakes,process,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-37-illustration-plan.md
+F37.02,37.2,37,Common Beginner Mistakes,Space Management Errors,comparison,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-37-illustration-plan.md
+F37.03,37.3,37,Common Beginner Mistakes,Queen-Cell Decision Guide,decision_flow,13,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-37-illustration-plan.md
+F37.04,37.4,37,Common Beginner Mistakes,Feeding and Robbing Risks,chart_data,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-37-illustration-plan.md
+F37.05,37.5,37,Common Beginner Mistakes,Delayed Parasite Management,chart_data,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-37-illustration-plan.md
+F37.06,37.6,37,Common Beginner Mistakes,Harvest Mistakes,comparison,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-37-illustration-plan.md
+F37.07,37.7,37,Common Beginner Mistakes,Mistake Correction Cycle,chart_data,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-37-illustration-plan.md
+F38.01,38.1,38,Emergency Colony Problems,Emergency Triage Sequence,decision_flow,17,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-38-illustration-plan.md
+F38.02,38.2,38,Emergency Colony Problems,Starvation Versus Accessible Stores,comparison,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-38-illustration-plan.md
+F38.03,38.3,38,Emergency Colony Problems,Severe Robbing at the Entrance,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-38-illustration-plan.md
+F38.04,38.4,38,Emergency Colony Problems,Transport Overheating,comparison,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-38-illustration-plan.md
+F38.05,38.5,38,Emergency Colony Problems,Comb Collapse and Frame Handling,process,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-38-illustration-plan.md
+F38.06,38.6,38,Emergency Colony Problems,Storm-Damaged Hive Recovery,process,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-38-illustration-plan.md
+F38.07,38.7,38,Emergency Colony Problems,Sudden Mortality Evidence Map,map_landscape,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-38-illustration-plan.md
+F38.08,38.8,38,Emergency Colony Problems,Suspected Disease Biosecurity Zone,map_landscape,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,APIARY_SITE_SYSTEM,docs/illustration-plans/chapter-38-illustration-plan.md
+F38.09,38.9,38,Emergency Colony Problems,Emergency Record Sheet Example,chart_data,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-38-illustration-plan.md
+F38.10,38.10,38,Emergency Colony Problems,Recovery Monitoring Timeline,timeline,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-38-illustration-plan.md
+F39.01,39.1,39,Diseases,Disease Investigation Framework,decision_flow,16,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.02,39.2,39,Diseases,Healthy Brood Reference,comparison,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,HEALTHY_BROOD_REFERENCE,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.03,39.3,39,Diseases,Patchy Brood Has Multiple Causes,scientific_illustration,13,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.04,39.4,39,Diseases,American Foulbrood Suspicion Features,scientific_illustration,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.05,39.5,39,Diseases,European Foulbrood Suspicion Features,scientific_illustration,9,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.06,39.6,39,Diseases,AFB and EFB Comparison,chart_data,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.07,39.7,39,Diseases,Chalkbrood Progression,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.08,39.8,39,Diseases,Sacbrood Larva,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.09,39.9,39,Diseases,Adult-Bee Warning Signs,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.10,39.10,39,Diseases,Correct Sampling and Labelling,process,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.11,39.11,39,Diseases,Apiary Biosecurity Flow,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.12,39.12,39,Diseases,Routes of Disease Spread,process,11,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.13,39.13,39,Diseases,Differential Diagnosis Matrix,chart_data,14,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-39-illustration-plan.md
+F39.14,39.14,39,Diseases,Disease Event Record and Apiary Map,map_landscape,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-39-illustration-plan.md
+F40.01,40.1,40,Parasites,"Parasite, Pathogen, Pest, and Predator",chart_data,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.02,40.2,40,Parasites,Adult Female Varroa,scientific_illustration,9,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.03,40.3,40,Parasites,Varroa Reproductive Cycle,life_cycle,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,VARROA_CORE,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.04,40.4,40,Parasites,Varroa on Adult Bees,anatomical,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.05,40.5,40,Parasites,Direct and Indirect Varroa Damage,scientific_illustration,11,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.06,40.6,40,Parasites,Varroa Spread Between Colonies,scientific_illustration,11,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.07,40.7,40,Parasites,Varroa and Tropilaelaps Comparison,comparison,13,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.08,40.8,40,Parasites,Tropilaelaps Life Cycle and Brood Dependence,life_cycle,14,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.09,40.9,40,Parasites,Tropilaelaps Surveillance Map Concept,map_landscape,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.10,40.10,40,Parasites,Tracheal Mite Location,anatomical,10,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.11,40.11,40,Parasites,Tracheal Dissection Concept,comparison,11,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.12,40.12,40,Parasites,Not Every Hive Mite Is Varroa,scientific_illustration,9,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.13,40.13,40,Parasites,Monitoring Method Matches the Question,decision_flow,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-40-illustration-plan.md
+F40.14,40.14,40,Parasites,Parasite Biosecurity for Purchased Bees and Brood,scientific_illustration,9,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-40-illustration-plan.md
+F41.01,41.1,41,Varroa Destructor,Varroa Life Cycle in Worker Brood,life_cycle,14,A_CORE,SELECT_FOR_FINAL_LAYOUT,VARROA_CORE,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.02,41.2,41,Varroa Destructor,Worker Versus Drone Brood,timeline,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.03,41.3,41,Varroa Destructor,Adult-Bee Feeding Site,anatomical,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,BEE_CASTE_ANATOMY,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.04,41.4,41,Varroa Destructor,Varroa–Virus–Colony Decline Pathway,scientific_illustration,9,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.05,41.5,41,Varroa Destructor,Seasonal Mite-to-Bee Ratio,chart_data,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.06,41.6,41,Varroa Destructor,Adult-Bee Wash Procedure,process,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.07,41.7,41,Varroa Destructor,Monitoring Methods Compared,comparison,9,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.08,41.8,41,Varroa Destructor,Mites per 100 Bees Calculation,decision_flow,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.09,41.9,41,Varroa Destructor,Why Thresholds Are Contextual,decision_flow,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.10,41.10,41,Varroa Destructor,Varroa Control Categories,chart_data,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.11,41.11,41,Varroa Destructor,Treatment Failure Versus Reinvasion,timeline,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.12,41.12,41,Varroa Destructor,Acaricide Resistance Selection,process,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.13,41.13,41,Varroa Destructor,Honey-Super and Temperature Decision Check,decision_flow,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-41-illustration-plan.md
+F41.14,41.14,41,Varroa Destructor,Apiary Varroa Map,map_landscape,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-41-illustration-plan.md
+F42.01,42.1,42,Nosema,Nosema Life Cycle in an Adult Bee,life_cycle,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.02,42.2,42,Nosema,Nosema/Vairimorpha Naming,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.03,42.3,42,Nosema,Healthy Versus Heavily Affected Midgut Concept,comparison,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.04,42.4,42,Nosema,Dysentery Is Not a Diagnosis,scientific_illustration,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.05,42.5,42,Nosema,Representative Sampling,process,9,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.06,42.6,42,Nosema,Microscopy Workflow,process,9,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.07,42.7,42,Nosema,Haemocytometer Counting Concept,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.08,42.8,42,Nosema,Microscopy Versus PCR/qPCR,comparison,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.09,42.9,42,Nosema,Positive Result Does Not Equal Cause,decision_flow,14,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.10,42.10,42,Nosema,Faecal–Oral Transmission Routes,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.11,42.11,42,Nosema,Nosema Management Framework,decision_flow,14,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-42-illustration-plan.md
+F42.12,42.12,42,Nosema,Apiary-Level Pattern Chart,chart_data,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-42-illustration-plan.md
+F43.01,43.1,43,American Foulbrood,AFB Infection Cycle,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.02,43.2,43,American Foulbrood,Healthy Brood Versus Early AFB Suspicion,comparison,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,HEALTHY_BROOD_REFERENCE,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.03,43.3,43,American Foulbrood,Disease-Stage Cell Series,technical_cutaway,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.04,43.4,43,American Foulbrood,Rope Test,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.05,43.5,43,American Foulbrood,Adherent Scale and Pupal Tongue,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.06,43.6,43,American Foulbrood,AFB Differential Diagnosis,comparison,13,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.07,43.7,43,American Foulbrood,Routes of Spore Movement,scientific_illustration,9,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.08,43.8,43,American Foulbrood,Suspect-Colony Containment,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.09,43.9,43,American Foulbrood,Laboratory Confirmation Pathways,decision_flow,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.10,43.10,43,American Foulbrood,Cleaning Versus Decontamination,chart_data,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.11,43.11,43,American Foulbrood,Why Antibiotics Do Not Eradicate AFB,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.12,43.12,43,American Foulbrood,Trace-Back and Trace-Forward Map,map_landscape,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-43-illustration-plan.md
+F43.13,43.13,43,American Foulbrood,AFB Response Decision Flow,decision_flow,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-43-illustration-plan.md
+F44.01,44.1,44,European Foulbrood,EFB Infection Sequence,process,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.02,44.2,44,European Foulbrood,Healthy Versus EFB-Affected Open Brood,comparison,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.03,44.3,44,European Foulbrood,Abnormal Larval Positions,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.04,44.4,44,European Foulbrood,EFB Versus AFB,comparison,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.05,44.5,44,European Foulbrood,EFB Differential Diagnosis,scientific_illustration,13,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.06,44.6,44,European Foulbrood,Disease Expression and Colony Stress,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.07,44.7,44,European Foulbrood,EFB Transmission Routes,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.08,44.8,44,European Foulbrood,Sampling and Diagnostic Pathway,process,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.09,44.9,44,European Foulbrood,Shook-Swarm Principle,process,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.10,44.10,44,European Foulbrood,Follow-Up After Apparent Recovery,timeline,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-44-illustration-plan.md
+F44.11,44.11,44,European Foulbrood,Apiary Contact Map,map_landscape,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-44-illustration-plan.md
+F45.01,45.1,45,Viruses,Infection Versus Clinical Disease,comparison,13,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.02,45.2,45,Viruses,Viral Transmission Routes,scientific_illustration,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.03,45.3,45,Viruses,Varroa–DWV Interaction,technical_cutaway,13,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.04,45.4,45,Viruses,DWV Phenotype Spectrum,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.05,45.5,45,Viruses,CBPV Clinical Signs,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.06,45.6,45,Viruses,Acute Paralysis Virus Group,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.07,45.7,45,Viruses,Sacbrood Development,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.08,45.8,45,Viruses,Black Queen Cell Virus,technical_cutaway,11,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.09,45.9,45,Viruses,RT-PCR Workflow,process,11,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.10,45.10,45,Viruses,Pooled Versus Individual Sampling,comparison,11,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.11,45.11,45,Viruses,Viral Differential Diagnosis,chart_data,16,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-45-illustration-plan.md
+F45.12,45.12,45,Viruses,Practical Virus-Management Framework,decision_flow,14,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-45-illustration-plan.md
+F46.01,46.1,46,Integrated Pest Management,The Honey Bee IPM Cycle,decision_flow,8,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.02,46.2,46,Integrated Pest Management,IPM Control Hierarchy,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.03,46.3,46,Integrated Pest Management,Surveillance Versus Monitoring,comparison,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.04,46.4,46,Integrated Pest Management,Thresholds Are Contextual,decision_flow,14,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.05,46.5,46,Integrated Pest Management,Brood Interruption as a Biological Window,timeline,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.06,46.6,46,Integrated Pest Management,Drone-Brood Removal Sequence,process,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.07,46.7,46,Integrated Pest Management,Robbing and Drift as Area-Wide Transmission,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.08,46.8,46,Integrated Pest Management,Genetic Resistance Within IPM,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.09,46.9,46,Integrated Pest Management,Mode of Action and Resistance Selection,comparison,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.10,46.10,46,Integrated Pest Management,Treatment Failure Investigation,decision_flow,14,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.11,46.11,46,Integrated Pest Management,Food and Operator Safety Check,scientific_illustration,9,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.12,46.12,46,Integrated Pest Management,Established Pest Versus Exotic Regulated Pest,comparison,13,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.13,46.13,46,Integrated Pest Management,Annual IPM Plan,timeline,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-46-illustration-plan.md
+F46.14,46.14,46,Integrated Pest Management,Apiary-Level Dashboard Concept,chart_data,8,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-46-illustration-plan.md
+F47.01,47.1,47,Nectar Flow,From Flower to Harvestable Honey,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.02,47.2,47,Nectar Flow,Floral Nectary and Nectar Collection,technical_cutaway,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.03,47.3,47,Nectar Flow,Environmental Controls on Nectar Secretion,decision_flow,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.04,47.4,47,Nectar Flow,Phenology Rather Than Calendar,timeline,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.05,47.5,47,Nectar Flow,Forager Recruitment and Receiver Bees,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.06,47.6,47,Nectar Flow,Nectar Ripening,process,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.07,47.7,47,Nectar Flow,Typical Scale-Hive Daily Curve,chart_data,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.08,47.8,47,Nectar Flow,Scale-Hive Confounders,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.09,47.9,47,Nectar Flow,Colony Population Timing Before a Flow,timeline,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.10,47.10,47,Nectar Flow,Storage-Space Decision,decision_flow,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.11,47.11,47,Nectar Flow,"Flow, Dearth and Robbing Risk",timeline,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.12,47.12,47,Nectar Flow,Local Bloom Record Sheet,scientific_illustration,1,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-47-illustration-plan.md
+F47.13,47.13,47,Nectar Flow,Varietal-Honey Source Separation,timeline,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-47-illustration-plan.md
+F48.01,48.1,48,Honey Harvesting,Harvest Readiness Decision Flow,decision_flow,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.02,48.2,48,Honey Harvesting,"Capped, Uncapped, and Fresh Nectar",scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.03,48.3,48,Honey Harvesting,Honey Refractometer Use,process,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.04,48.4,48,Honey Harvesting,Representative Moisture Sampling,process,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.05,48.5,48,Honey Harvesting,Legal Maximum Versus Operational Target,chart_data,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.06,48.6,48,Honey Harvesting,Fermentation Risk Factors,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.07,48.7,48,Honey Harvesting,Bee-Removal Methods Compared,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.08,48.8,48,Honey Harvesting,Robbing-Safe Harvest Workflow,process,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.09,48.9,48,Honey Harvesting,Safe Manual Handling of Supers,process,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.10,48.10,48,Honey Harvesting,Food-Safe Transport,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.11,48.11,48,Honey Harvesting,Traceability Chain,scientific_illustration,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.12,48.12,48,Honey Harvesting,EU Blend-Origin Traceability Context,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-48-illustration-plan.md
+F48.13,48.13,48,Honey Harvesting,Harvest Emergency Responses,scientific_illustration,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-48-illustration-plan.md
+F49.01,49.1,49,Honey Extraction,One-Way Honey-Room Workflow,process,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.02,49.2,49,Honey Extraction,Clean and Dirty Zones,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.03,49.3,49,Honey Extraction,Uncapping Methods,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.04,49.4,49,Honey Extraction,Tangential Versus Radial Extraction,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.05,49.5,49,Honey Extraction,Staged Extraction for Fragile Comb,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.06,49.6,49,Honey Extraction,Extractor Balance,comparison,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.07,49.7,49,Honey Extraction,Comb Blow-Out Risk,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.08,49.8,49,Honey Extraction,Honey Transfer Without Excess Air,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.09,49.9,49,Honey Extraction,Straining Versus Significant Pollen Removal,comparison,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.10,49.10,49,Honey Extraction,Settling Tank,technical_cutaway,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.11,49.11,49,Honey Extraction,Cleaning and Drying Sequence,process,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.12,49.12,49,Honey Extraction,Lot Traceability Through the Line,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.13,49.13,49,Honey Extraction,Extraction Safety Hazards,process,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-49-illustration-plan.md
+F49.14,49.14,49,Honey Extraction,Emergency Response Panels,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-49-illustration-plan.md
+F50.01,50.1,50,Honey Processing,Minimal-Processing Flow,process,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.02,50.2,50,Honey Processing,Settling Tank Separation,technical_cutaway,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.03,50.3,50,Honey Processing,Straining Versus Legal “Filtered Honey”,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.04,50.4,50,Honey Processing,Time–Temperature Quality Relationship,chart_data,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.05,50.5,50,Honey Processing,Uniform Versus Localised Heating,comparison,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.06,50.6,50,Honey Processing,Drum Liquefaction Temperature Gradient,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.07,50.7,50,Honey Processing,Gentle Versus Turbulent Mixing,comparison,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.08,50.8,50,Honey Processing,Blend Traceability,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.09,50.9,50,Honey Processing,Crystallisation Factors,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.10,50.10,50,Honey Processing,Moisture-Management Options,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.11,50.11,50,Honey Processing,Honey Processing Hazard Map,map_landscape,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.12,50.12,50,Honey Processing,HMF and Diastase as Quality Evidence,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.13,50.13,50,Honey Processing,Fraud-Prevention Controls,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-50-illustration-plan.md
+F50.14,50.14,50,Honey Processing,Unsupported Home “Purity Tests”,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-50-illustration-plan.md
+F51.01,51.1,51,Honey Storage,What Changes During Storage,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.02,51.2,51,Honey Storage,"Food Safety, Quality, and Shelf Life",scientific_illustration,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.03,51.3,51,Honey Storage,Hygroscopicity and Sealing,comparison,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.04,51.4,51,Honey Storage,Headspace and Condensation,technical_cutaway,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.05,51.5,51,Honey Storage,Time–Temperature Storage Effect,chart_data,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.06,51.6,51,Honey Storage,Crystallisation and Phase Separation,process,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.07,51.7,51,Honey Storage,Fermentation Versus Surface Foam,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.08,51.8,51,Honey Storage,Bulk Container Options,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.09,51.9,51,Honey Storage,Retail Packaging Trade-Offs,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.10,51.10,51,Honey Storage,Warehouse Layout,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.11,51.11,51,Honey Storage,FIFO/FEFO and Harvest Age,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.12,51.12,51,Honey Storage,Storage Sampling,process,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.13,51.13,51,Honey Storage,Quarantine Status System,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-51-illustration-plan.md
+F51.14,51.14,51,Honey Storage,Storage Emergency Responses,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-51-illustration-plan.md
+F52.01,52.1,52,Comb Honey Production,Comb Honey Product Forms,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.02,52.2,52,Comb Honey Production,Fresh Broodless Comb Versus Used Brood Comb,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.03,52.3,52,Comb Honey Production,Colony Preparation Timeline,timeline,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.04,52.4,52,Comb Honey Production,Comb Honey and Swarm Pressure,comparison,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.05,52.5,52,Comb Honey Production,Foundation and Guide Options,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.06,52.6,52,Comb Honey Production,Hive Level and Straight Comb,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.07,52.7,52,Comb Honey Production,Section Completion Economics,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.08,52.8,52,Comb Honey Production,Dry and Wet Cappings,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.09,52.9,52,Comb Honey Production,Comb Honey Defect Atlas,scientific_illustration,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.10,52.10,52,Comb Honey Production,Representative Moisture Assessment,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.11,52.11,52,Comb Honey Production,Gentle Bee Removal,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.12,52.12,52,Comb Honey Production,Cut-Comb Workflow,process,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.13,52.13,52,Comb Honey Production,Heat Damage During Transport,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.14,52.14,52,Comb Honey Production,Physical Storage-Pest Control,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-52-illustration-plan.md
+F52.15,52.15,52,Comb Honey Production,Traceability Chain,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-52-illustration-plan.md
+F53.01,53.1,53,Creamed Honey,Controlled Versus Uncontrolled Crystallisation,comparison,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.02,53.2,53,Creamed Honey,Nucleation and Crystal Growth,comparison,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.03,53.3,53,Creamed Honey,Dyce-Style Process Principle,process,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.04,53.4,53,Creamed Honey,Seed Quality,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.05,53.5,53,Creamed Honey,Seed Premix and Tank Mixing,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.06,53.6,53,Creamed Honey,Air Incorporation Defects,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.07,53.7,53,Creamed Honey,Setting-Room Temperature Mapping,map_landscape,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.08,53.8,53,Creamed Honey,Texture Defect Atlas,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.09,53.9,53,Creamed Honey,Phase Separation and Moisture Redistribution,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.10,53.10,53,Creamed Honey,Rework Decision,decision_flow,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.11,53.11,53,Creamed Honey,Plain Versus Flavoured Product Controls,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-53-illustration-plan.md
+F53.12,53.12,53,Creamed Honey,Scale-Up Effects,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-53-illustration-plan.md
+F54.01,54.1,54,Wax Processing,Wax Source Streams,process,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.02,54.2,54,Wax Processing,New Comb Versus Old Brood Comb,comparison,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.03,54.3,54,Wax Processing,Rendering Methods Compared,comparison,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.04,54.4,54,Wax Processing,Water Rendering Separation,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.05,54.5,54,Wax Processing,Safe Steam Rendering,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.06,54.6,54,Wax Processing,Water and Overheated Wax Hazard,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.07,54.7,54,Wax Processing,Safe Wax Workstation,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.08,54.8,54,Wax Processing,Coarse and Fine Physical Filtration,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.09,54.9,54,Wax Processing,Wax Block Cooling,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.10,54.10,54,Wax Processing,Mass Balance,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.11,54.11,54,Wax Processing,Processing Is Not Chemical Purification,process,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.12,54.12,54,Wax Processing,End-Use Decision,decision_flow,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.13,54.13,54,Wax Processing,Authenticity Testing,chart_data,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-54-illustration-plan.md
+F54.14,54.14,54,Wax Processing,Emergency Response Panels,scientific_illustration,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-54-illustration-plan.md
+F55.01,55.1,55,Beeswax,Wax Production by a Worker Bee,anatomical,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.02,55.2,55,Beeswax,Wax Source Streams,decision_flow,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.03,55.3,55,Beeswax,New Comb Versus Old Brood Comb,comparison,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.04,55.4,55,Beeswax,Lipophilic Residue Accumulation,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.05,55.5,55,Beeswax,Rendering Methods Compared,comparison,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.06,55.6,55,Beeswax,Water Rendering Separation,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.07,55.7,55,Beeswax,Safe Molten-Wax Workstation,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.08,55.8,55,Beeswax,Wax Fire and Water Hazard,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.09,55.9,55,Beeswax,Coarse and Fine Physical Filtration,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.10,55.10,55,Beeswax,Wax Block Cooling and Shrinkage,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.11,55.11,55,Beeswax,End-Use Quality Ladder,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.12,55.12,55,Beeswax,Beeswax Adulteration,chart_data,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.13,55.13,55,Beeswax,EU E901 Context,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-55-illustration-plan.md
+F55.14,55.14,55,Beeswax,Wax Lot Traceability,scientific_illustration,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-55-illustration-plan.md
+F56.01,56.1,56,Pollen,From Flower to Pollen Pellet,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.02,56.2,56,Pollen,Pollen in Colony Nutrition,anatomical,10,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.03,56.3,56,Pollen,Bee Pollen Versus Bee Bread,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.04,56.4,56,Pollen,Pollen Trap Principle,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.05,56.5,56,Pollen,Colony Cost of Over-Trapping,comparison,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.06,56.6,56,Pollen,Hygienic Collection Workflow,process,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.07,56.7,56,Pollen,"Fresh, Dried, Frozen, and Freeze-Dried Pollen",scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.08,56.8,56,Pollen,Drying Control,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.09,56.9,56,Pollen,Moisture Versus Water Activity,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.10,56.10,56,Pollen,Bee-Pollen Safety Hazards,scientific_illustration,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.11,56.11,56,Pollen,Representative Sampling,process,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.12,56.12,56,Pollen,Botanical Identification,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.13,56.13,56,Pollen,Allergy and Anaphylaxis Warning,comparison,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-56-illustration-plan.md
+F56.14,56.14,56,Pollen,Traceability Chain,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-56-illustration-plan.md
+F57.01,57.1,57,Propolis,From Plant Resin to Propolis,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.02,57.2,57,Propolis,Propolis Envelope,technical_cutaway,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.03,57.3,57,Propolis,Chemical Diversity by Botanical Region,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.04,57.4,57,Propolis,Trap Collection Versus Random Scraping,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.05,57.5,57,Propolis,Cold Harvest Workflow,process,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.06,57.6,57,Propolis,Raw Propolis Defect Atlas,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.07,57.7,57,Propolis,Solvent Selectivity,scientific_illustration,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.08,57.8,57,Propolis,Ethanol Safety,process,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.09,57.9,57,Propolis,Evidence Ladder,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,EVIDENCE_LADDER,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.10,57.10,57,Propolis,Propolis Laboratory Toolbox,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.11,57.11,57,Propolis,Allergy Risk,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.12,57.12,57,Propolis,Authentication,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.13,57.13,57,Propolis,Traceability Chain,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-57-illustration-plan.md
+F57.14,57.14,57,Propolis,Standards Context,scientific_illustration,7,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-57-illustration-plan.md
+F58.01,58.1,58,Royal Jelly,Nurse-Bee Glands and Royal Jelly Production,anatomical,14,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.02,58.2,58,Royal Jelly,Queen Versus Worker Feeding,comparison,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.03,58.3,58,Royal Jelly,Commercial Production Cycle,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.04,58.4,58,Royal Jelly,Nurse Capacity Versus Cell Load,comparison,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.05,58.5,58,Royal Jelly,Safe Grafting,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.06,58.6,58,Royal Jelly,Hygienic Harvest,scientific_illustration,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.07,58.7,58,Royal Jelly,Cold Chain,process,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.08,58.8,58,Royal Jelly,Royal Jelly Quality Dimensions,scientific_illustration,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.09,58.9,58,Royal Jelly,Why 10-HDA Alone Is Not a Freshness Test,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.10,58.10,58,Royal Jelly,Storage and Freshness Risks,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.11,58.11,58,Royal Jelly,Product Forms,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.12,58.12,58,Royal Jelly,Adulteration Investigation,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.13,58.13,58,Royal Jelly,Allergy and Claims Boundary,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,EVIDENCE_LADDER,docs/illustration-plans/chapter-58-illustration-plan.md
+F58.14,58.14,58,Royal Jelly,Current Standards,decision_flow,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-58-illustration-plan.md
+F59.01,59.1,59,Bee Venom,Worker Bee Sting Apparatus,comparison,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.02,59.2,59,Bee Venom,Major Venom Components,scientific_illustration,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.03,59.3,59,Bee Venom,Sting Reaction Spectrum,scientific_illustration,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.04,59.4,59,Bee Venom,Raw Venom Versus Venom Immunotherapy,comparison,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.05,59.5,59,Bee Venom,Professional Electrical Collection Principle,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.06,59.6,59,Bee Venom,Safe Collection Site,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.07,59.7,59,Bee Venom,Pre-Use Equipment Inspection,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.08,59.8,59,Bee Venom,Dry Venom Recovery,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.09,59.9,59,Bee Venom,Occupational Exposure Routes,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.10,59.10,59,Bee Venom,Multicomponent Quality Control,scientific_illustration,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.11,59.11,59,Bee Venom,Melittin-Equivalence Concept,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.12,59.12,59,Bee Venom,Analytical Toolbox,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.13,59.13,59,Bee Venom,Colony Welfare and Recovery,scientific_illustration,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-59-illustration-plan.md
+F59.14,59.14,59,Bee Venom,Medical Evidence Boundary,scientific_illustration,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-59-illustration-plan.md
+F60.01,60.1,60,Starting a Beekeeping Business,Beekeeping Business System,process,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.02,60.2,60,Starting a Beekeeping Business,Revenue Streams and Biological Inputs,map_landscape,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.03,60.3,60,Starting a Beekeeping Business,Bottleneck Principle,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.04,60.4,60,Starting a Beekeeping Business,"Revenue, Margin, Profit, and Cash Flow",scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.05,60.5,60,Starting a Beekeeping Business,Working-Capital Season,chart_data,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.06,60.6,60,Starting a Beekeeping Business,Poor / Expected / Strong Season Scenarios,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.07,60.7,60,Starting a Beekeeping Business,Unit Economics,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.08,60.8,60,Starting a Beekeeping Business,Break-Even,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.09,60.9,60,Starting a Beekeeping Business,Compliance Map,map_landscape,9,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.10,60.10,60,Starting a Beekeeping Business,EU/Irish 2026 Example,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.11,60.11,60,Starting a Beekeeping Business,Scaling Stages,process,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.12,60.12,60,Starting a Beekeeping Business,Risk Matrix,chart_data,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-60-illustration-plan.md
+F60.13,60.13,60,Starting a Beekeeping Business,Start-Up Sequence,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-60-illustration-plan.md
+F61.01,61.1,61,Equipment Costs,Equipment System by Product Flow,process,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.02,61.2,61,Equipment Costs,Purchase Price Versus Total Cost of Ownership,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.03,61.3,61,Equipment Costs,Capacity Bottleneck Example,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.04,61.4,61,Equipment Costs,Extractor Throughput,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.05,61.5,61,Equipment Costs,Manual Versus Mechanised Cost Trade-Off,comparison,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.06,61.6,61,Equipment Costs,Used Equipment Risk Check,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.07,61.7,61,Equipment Costs,Buy / Rent / Share / Outsource Decision,decision_flow,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.08,61.8,61,Equipment Costs,Depreciation and Replacement Reserve,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.09,61.9,61,Equipment Costs,Labour-Saving Investment,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.10,61.10,61,Equipment Costs,Commercial Honey-Room Capacity Map,map_landscape,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.11,61.11,61,Equipment Costs,Critical Spares,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.12,61.12,61,Equipment Costs,Cold-Chain Equipment,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-61-illustration-plan.md
+F61.13,61.13,61,Equipment Costs,Costing Worksheet,process,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-61-illustration-plan.md
+F62.01,62.1,62,Marketing,Marketing System,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.02,62.2,62,Marketing,Customer Segments by Need,chart_data,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.03,62.3,62,Marketing,Value Proposition,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.04,62.4,62,Marketing,Product Portfolio and SKU Complexity,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.05,62.5,62,Marketing,Sales Channels Compared,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.06,62.6,62,Marketing,Origin as Marketing Evidence,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.07,62.7,62,Marketing,Floral Claim Evidence,map_landscape,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.08,62.8,62,Marketing,Health-Claim Boundary,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.09,62.9,62,Marketing,Distance-Selling Product Page,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.10,62.10,62,Marketing,Marketing Metrics Funnel,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.11,62.11,62,Marketing,Wholesale Sell Sheet,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.12,62.12,62,Marketing,90-Day Marketing Test,decision_flow,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-62-illustration-plan.md
+F62.13,62.13,62,Marketing,Complaint to Improvement Loop,process,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-62-illustration-plan.md
+F63.01,63.1,63,Branding,Brand Is More Than a Logo,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.02,63.2,63,Branding,Name / Company / Domain / Social / Trade Mark,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.03,63.3,63,Branding,Brand Naming Funnel,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.04,63.4,63,Branding,Positioning Map,map_landscape,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.05,63.5,63,Branding,Brand Proof Pyramid,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.06,63.6,63,Branding,Visual Identity System,chart_data,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.07,63.7,63,Branding,Small-Surface Test,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.08,63.8,63,Branding,Packaging Information Hierarchy,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.09,63.9,63,Branding,Brand Architecture,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.10,63.10,63,Branding,Claim Library,scientific_illustration,4,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.11,63.11,63,Branding,Truthful Origin Cues,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.12,63.12,63,Branding,Digital Brand Asset Security,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.13,63.13,63,Branding,Rebrand Cost Map,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F63.14,63.14,63,Branding,Brand Equity Measures,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-63-illustration-plan.md
+F64.01,64.1,64,Online Sales,Online Sales System,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.02,64.2,64,Online Sales,Channel Options,comparison,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.03,64.3,64,Online Sales,EU Distance-Selling Food Information,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.04,64.4,64,Online Sales,Online Product Page Anatomy,anatomical,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.05,64.5,64,Online Sales,Quality Release to Inventory,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.06,64.6,64,Online Sales,Order-to-Lot Traceability,scientific_illustration,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.07,64.7,64,Online Sales,Shipping Cost Stack,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.08,64.8,64,Online Sales,Glass Jar Packaging,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.09,64.9,64,Online Sales,Product-Specific Shipping,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.10,64.10,64,Online Sales,Cyber Security Basics,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.11,64.11,64,Online Sales,Privacy and Marketing Data,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.12,64.12,64,Online Sales,E-Commerce Economics Funnel,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.13,64.13,64,Online Sales,Online Store Build Sequence,process,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F64.14,64.14,64,Online Sales,Recall Path,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-64-illustration-plan.md
+F65.01,65.1,65,Farmers Markets,Farmers-Market Business Model,process,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.02,65.2,65,Farmers Markets,Market-Day Contribution,process,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.03,65.3,65,Farmers Markets,Safe Stall Layout,process,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.04,65.4,65,Farmers Markets,Canopy and Weather Safety,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.05,65.5,65,Farmers Markets,Product Display Hierarchy,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.06,65.6,65,Farmers Markets,Sampling Hygiene Workflow,process,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,CLEAN_ZONE_SYSTEM,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.07,65.7,65,Farmers Markets,Glass Breakage Response,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.08,65.8,65,Farmers Markets,Lot Traceability at a Temporary Stall,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,TRACEABILITY_CHAIN,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.09,65.9,65,Farmers Markets,Market Performance Dashboard,chart_data,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.10,65.10,65,Farmers Markets,Market Comparison Matrix,chart_data,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.11,65.11,65,Farmers Markets,Customer-Question Feedback Loop,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.12,65.12,65,Farmers Markets,Open-Food Risk Versus Sealed Product,comparison,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-65-illustration-plan.md
+F65.13,65.13,65,Farmers Markets,Market-Day Timeline,timeline,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-65-illustration-plan.md
+F66.01,66.1,66,Food Safety,Hive-to-Consumer Food-Safety Chain,process,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.02,66.2,66,Food Safety,Four Hazard Categories,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.03,66.3,66,Food Safety,Product-Risk Comparison,comparison,12,A_CORE,SELECT_FOR_FINAL_LAYOUT,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.04,66.4,66,Food Safety,Prerequisite Programmes Supporting HACCP,scientific_illustration,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.05,66.5,66,Food Safety,HACCP Decision Cycle,decision_flow,7,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.06,66.6,66,Food Safety,Honey-Room Hygiene Zoning,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.07,66.7,66,Food Safety,Cleaning Versus Sanitation,comparison,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.08,66.8,66,Food Safety,Glass Breakage Response,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.09,66.9,66,Food Safety,Product-Specific Controls,scientific_illustration,6,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,HONEY_QUALITY_FAMILY,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.10,66.10,66,Food Safety,HOLD / RELEASED / REJECTED,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.11,66.11,66,Food Safety,Recall Triangle,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-66-illustration-plan.md
+F66.12,66.12,66,Food Safety,Mock Recall Dashboard,chart_data,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-66-illustration-plan.md
+F67.01,67.1,67,Traceability,Backward and Forward Traceability,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.02,67.2,67,Traceability,One Step Back / One Step Forward,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.03,67.3,67,Traceability,Internal Lot Architecture,scientific_illustration,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.04,67.4,67,Traceability,Example Lot-Code System,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.05,67.5,67,Traceability,Blend Country Percentages,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.06,67.6,67,Traceability,Mass-Balance Equation,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.07,67.7,67,Traceability,Farmers-Market Lot Reconciliation,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.08,67.8,67,Traceability,Online Order-to-Lot Link,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.09,67.9,67,Traceability,Retained Sample and Chain of Custody,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.10,67.10,67,Traceability,Mock Recall Dashboard,chart_data,3,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.11,67.11,67,Traceability,Label Version Control,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-67-illustration-plan.md
+F67.12,67.12,67,Traceability,Digital Traceability Resilience,scientific_illustration,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-67-illustration-plan.md
+F68.01,68.1,68,Legal Requirements,Beekeeping Compliance Map,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.02,68.2,68,Legal Requirements,Compliance Matrix Example,chart_data,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.03,68.3,68,Legal Requirements,Registration / Approval / Licence / Notification / Certification,comparison,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.04,68.4,68,Legal Requirements,Primary Production Versus Processing/Packing,comparison,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.05,68.5,68,Legal Requirements,Honey Label Compliance Layers,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.06,68.6,68,Legal Requirements,EU 2026 Blend-Origin Record Path,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.07,68.7,68,Legal Requirements,Online Sale Legal Layers,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.08,68.8,68,Legal Requirements,Bee Health and Medicine Compliance,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.09,68.9,68,Legal Requirements,Product Category Changes,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.10,68.10,68,Legal Requirements,Law Versus Contract Versus Voluntary Certification,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-68-illustration-plan.md
+F68.11,68.11,68,Legal Requirements,Legal Change Management,process,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-68-illustration-plan.md
+F69.01,69.1,69,Insurance,Risk Treatment Framework,decision_flow,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.02,69.2,69,Insurance,Insurance Coverage Map,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.03,69.3,69,Insurance,Public Liability Versus Product Liability,comparison,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.04,69.4,69,Insurance,Liability Versus Recall Cost,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.05,69.5,69,Insurance,Seasonal Stock Exposure,chart_data,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.06,69.6,69,Insurance,Business Interruption and Biological Seasonality,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.07,69.7,69,Insurance,Policy Anatomy,anatomical,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.08,69.8,69,Insurance,Occurrence Versus Claims-Made,timeline,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.09,69.9,69,Insurance,Contract and Insurance Mismatch,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.10,69.10,69,Insurance,Claim Evidence Pack,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.11,69.11,69,Insurance,Food Incident and Insurance Coordination,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-69-illustration-plan.md
+F69.12,69.12,69,Insurance,Annual Insurance Review,decision_flow,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-69-illustration-plan.md
+F70.01,70.1,70,Organic Beekeeping,Organic Beekeeping as a System,scientific_illustration,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,APIARY_SITE_SYSTEM,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.02,70.2,70,Organic Beekeeping,"Organic, Natural, Local and Treatment-Free Are Different",scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.03,70.3,70,Organic Beekeeping,EU Apiary Siting Example,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.04,70.4,70,Organic Beekeeping,Wax Traceability,scientific_illustration,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.05,70.5,70,Organic Beekeeping,Organic Feeding Decision,decision_flow,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.06,70.6,70,Organic Beekeeping,Two Checks Before Varroa Treatment,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.07,70.7,70,Organic Beekeeping,Organic Varroa IPM,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.08,70.8,70,Organic Beekeeping,Welfare Versus Certification Status,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.09,70.9,70,Organic Beekeeping,Organic/Conventional Segregation,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.10,70.10,70,Organic Beekeeping,Organic Audit Trail,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-70-illustration-plan.md
+F70.11,70.11,70,Organic Beekeeping,Organic Certification Economics,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-70-illustration-plan.md
+F71.01,71.1,71,Biodiversity,Levels of Biodiversity,map_landscape,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.02,71.2,71,Biodiversity,Managed Honey Bee Versus Wild Pollinator Community,comparison,8,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.03,71.3,71,Biodiversity,Season-Long Forage Calendar,timeline,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.04,71.4,71,Biodiversity,Nesting Resources,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.05,71.5,71,Biodiversity,Connected Landscape,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.06,71.6,71,Biodiversity,All-Ireland Pollinator Plan 2026–2030 Example,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.07,71.7,71,Biodiversity,Pesticide Pathways,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.08,71.8,71,Biodiversity,Apiary Density and Shared Resources,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.09,71.9,71,Biodiversity,Competition Is Context Dependent,decision_flow,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.10,71.10,71,Biodiversity,Biodiversity Monitoring Toolkit,map_landscape,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-71-illustration-plan.md
+F71.11,71.11,71,Biodiversity,Conservation Action Hierarchy,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-71-illustration-plan.md
+F72.01,72.1,72,Pollinator Conservation,Pollinator Life-Cycle Needs,scientific_illustration,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.02,72.2,72,Pollinator Conservation,Conservation Hierarchy,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.03,72.3,72,Pollinator Conservation,Pollinator Groups and Different Habitat Needs,scientific_illustration,4,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.04,72.4,72,Pollinator Conservation,Season-Long Flower Resource,timeline,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.05,72.5,72,Pollinator Conservation,Hedgerow and Field-Margin Management,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.06,72.6,72,Pollinator Conservation,Mowing Regimes,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.07,72.7,72,Pollinator Conservation,Nesting Habitat Mosaic,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.08,72.8,72,Pollinator Conservation,Pesticide-Risk Hierarchy,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.09,72.9,72,Pollinator Conservation,Managed Hive Stocking Near Sensitive Habitat,decision_flow,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.10,72.10,72,Pollinator Conservation,AIPP 2026–2030 Connectivity Example,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.11,72.11,72,Pollinator Conservation,Monitoring Before and After,map_landscape,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-72-illustration-plan.md
+F72.12,72.12,72,Pollinator Conservation,Symbolic Versus Measurable Conservation,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-72-illustration-plan.md
+F73.01,73.1,73,Scientific Research,Evidence Pathway,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.02,73.2,73,Scientific Research,Study Designs Compared,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.03,73.3,73,Scientific Research,Biological Replication Versus Pseudoreplication,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.04,73.4,73,Scientific Research,Effect Size and Confidence Interval,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.05,73.5,73,Scientific Research,Statistical Versus Practical Significance,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.06,73.6,73,Scientific Research,Evidence Hierarchy by Question,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,EVIDENCE_LADDER,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.07,73.7,73,Scientific Research,AI Data Split and Leakage,comparison,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.08,73.8,73,Scientific Research,Confusion Matrix for Disease Detection,chart_data,5,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.09,73.9,73,Scientific Research,Research Frontiers Map,map_landscape,11,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.10,73.10,73,Scientific Research,Technology Readiness,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.11,73.11,73,Scientific Research,Honey Authentication Toolbox,chart_data,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-73-illustration-plan.md
+F73.12,73.12,73,Scientific Research,Paper-Appraisal Checklist,decision_flow,5,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-73-illustration-plan.md
+F74.01,74.1,74,Future of Beekeeping,"Five-, Ten-, and Twenty-Year Scenario Horizons",scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.02,74.2,74,Future of Beekeeping,Technology-Adoption Framework,decision_flow,7,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.03,74.3,74,Future of Beekeeping,Precision Apiary Architecture,chart_data,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.04,74.4,74,Future of Beekeeping,AI Decision Support Versus Autonomous Action,decision_flow,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.05,74.5,74,Future of Beekeeping,Climate Adaptation Toolbox,timeline,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.06,74.6,74,Future of Beekeeping,Emerging Pest Pathway,chart_data,5,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.07,74.7,74,Future of Beekeeping,Breeding and Genomic Selection,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.08,74.8,74,Future of Beekeeping,Reduced-Chemical-Dependence IPM,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.09,74.9,74,Future of Beekeeping,Molecular Diagnostics Pipeline,scientific_illustration,4,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.10,74.10,74,Future of Beekeeping,Honey Authenticity and Digital Traceability,scientific_illustration,6,A_CORE,SELECT_FOR_FINAL_LAYOUT,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.11,74.11,74,Future of Beekeeping,Automation and Robotics Opportunities,process,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.12,74.12,74,Future of Beekeeping,Data Governance Map,map_landscape,3,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.13,74.13,74,Future of Beekeeping,Future Business Models,process,6,B_SUPPORTING,SELECT_IF_LAYOUT_ALLOWS,,docs/illustration-plans/chapter-74-illustration-plan.md
+F74.14,74.14,74,Future of Beekeeping,Future-Readiness Checklist,scientific_illustration,2,C_OPTIONAL_MERGE,MERGE_CROSS_REFERENCE_OR_OMIT_UNLESS_NEEDED,,docs/illustration-plans/chapter-74-illustration-plan.md
