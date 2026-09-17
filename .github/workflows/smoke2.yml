@@ -1,0 +1,9 @@
+name: language-review-smoke-2
+on:
+  push:
+    branches: ['review/language-pass-1']
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo ok
