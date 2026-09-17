@@ -1,0 +1,69 @@
+production_order,asset_id,figure_id,chapter,chapter_title,working_title,visual_type,reuse_family,recommended_print_size,production_status,source_plan
+1,F21.01,21.1,21,Protective Clothing,Protective Clothing System,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-21-illustration-plan.md
+2,F21.02,21.2,21,Protective Clothing,Veil Clearance,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-21-illustration-plan.md
+3,F21.03,21.3,21,Protective Clothing,Clothing Selection by Task,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-21-illustration-plan.md
+4,F21.04,21.4,21,Protective Clothing,Pre-Inspection PPE Check,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-21-illustration-plan.md
+5,F22.01,22.1,22,Smokers and Hive Tools,Smoker Anatomy,anatomical,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-22-illustration-plan.md
+6,F22.03,22.3,22,Smokers and Hive Tools,Suitable Versus Unsuitable Smoker Fuels,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-22-illustration-plan.md
+7,F22.04,22.4,22,Smokers and Hive Tools,Smoker-Lighting Sequence,process,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-22-illustration-plan.md
+8,F22.06,22.6,22,Smokers and Hive Tools,Hot-Smoker and Fire-Safety Zone,process,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-22-illustration-plan.md
+9,F23.01,23.1,23,Beekeeping Safety and First Aid,Apiary Hazard Map,map_landscape,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-23-illustration-plan.md
+10,F23.06,23.6,23,Beekeeping Safety and First Aid,Local Reaction Versus Emergency Warning Signs,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-23-illustration-plan.md
+11,F23.09,23.9,23,Beekeeping Safety and First Aid,"Heat, Cold and Dehydration Prevention",decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-23-illustration-plan.md
+12,F23.10,23.10,23,Beekeeping Safety and First Aid,Smoker and Vegetation-Fire Safety,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-23-illustration-plan.md
+13,F24.01,24.1,24,Installing Bees,Starting Units Compared,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-24-illustration-plan.md
+14,F24.07,24.7,24,Installing Bees,Swarm Installation,process,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-24-illustration-plan.md
+15,F24.09,24.9,24,Installing Bees,First-Inspection Decision Timeline,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-24-illustration-plan.md
+16,F24.10,24.10,24,Installing Bees,Early Success and Warning Signs,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-24-illustration-plan.md
+17,F25.03,25.3,25,Routine Hive Inspections,Inspection Questions Before Opening,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-25-illustration-plan.md
+18,F25.05,25.5,25,Routine Hive Inspections,Queenright Evidence Without Finding the Queen,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-25-illustration-plan.md
+19,F25.07,25.7,25,Routine Hive Inspections,Brood Pattern Interpretation,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-25-illustration-plan.md
+20,F25.11,25.11,25,Routine Hive Inspections,Swarm-Preparation Evidence,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-25-illustration-plan.md
+21,F33.06,33.6,33,Moving Colonies,Vehicle Loading,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-33-illustration-plan.md
+22,F33.07,33.7,33,Moving Colonies,Manual Handling,process,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-33-illustration-plan.md
+23,F33.12,33.12,33,Moving Colonies,Emergency Box Separation,process,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-33-illustration-plan.md
+24,F33.14,33.14,33,Moving Colonies,Post-Move Inspection,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-33-illustration-plan.md
+25,F38.01,38.1,38,Emergency Colony Problems,Emergency Triage Sequence,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-38-illustration-plan.md
+26,F38.02,38.2,38,Emergency Colony Problems,Starvation Versus Accessible Stores,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-38-illustration-plan.md
+27,F38.04,38.4,38,Emergency Colony Problems,Transport Overheating,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-38-illustration-plan.md
+28,F38.07,38.7,38,Emergency Colony Problems,Sudden Mortality Evidence Map,map_landscape,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-38-illustration-plan.md
+29,F39.01,39.1,39,Diseases,Disease Investigation Framework,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-39-illustration-plan.md
+30,F39.02,39.2,39,Diseases,Healthy Brood Reference,comparison,HEALTHY_BROOD_REFERENCE,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-39-illustration-plan.md
+31,F39.03,39.3,39,Diseases,Patchy Brood Has Multiple Causes,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-39-illustration-plan.md
+32,F39.04,39.4,39,Diseases,American Foulbrood Suspicion Features,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-39-illustration-plan.md
+33,F39.13,39.13,39,Diseases,Differential Diagnosis Matrix,chart_data,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-39-illustration-plan.md
+34,F40.03,40.3,40,Parasites,Varroa Reproductive Cycle,life_cycle,VARROA_CORE,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-40-illustration-plan.md
+35,F40.04,40.4,40,Parasites,Varroa on Adult Bees,anatomical,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-40-illustration-plan.md
+36,F40.07,40.7,40,Parasites,Varroa and Tropilaelaps Comparison,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-40-illustration-plan.md
+37,F40.08,40.8,40,Parasites,Tropilaelaps Life Cycle and Brood Dependence,life_cycle,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-40-illustration-plan.md
+38,F40.13,40.13,40,Parasites,Monitoring Method Matches the Question,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-40-illustration-plan.md
+39,F41.01,41.1,41,Varroa Destructor,Varroa Life Cycle in Worker Brood,life_cycle,VARROA_CORE,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-41-illustration-plan.md
+40,F41.03,41.3,41,Varroa Destructor,Adult-Bee Feeding Site,anatomical,BEE_CASTE_ANATOMY,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-41-illustration-plan.md
+41,F41.06,41.6,41,Varroa Destructor,Adult-Bee Wash Procedure,process,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-41-illustration-plan.md
+42,F41.09,41.9,41,Varroa Destructor,Why Thresholds Are Contextual,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-41-illustration-plan.md
+43,F41.10,41.10,41,Varroa Destructor,Varroa Control Categories,chart_data,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-41-illustration-plan.md
+44,F42.01,42.1,42,Nosema,Nosema Life Cycle in an Adult Bee,life_cycle,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-42-illustration-plan.md
+45,F42.03,42.3,42,Nosema,Healthy Versus Heavily Affected Midgut Concept,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-42-illustration-plan.md
+46,F42.04,42.4,42,Nosema,Dysentery Is Not a Diagnosis,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-42-illustration-plan.md
+47,F42.09,42.9,42,Nosema,Positive Result Does Not Equal Cause,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-42-illustration-plan.md
+48,F42.11,42.11,42,Nosema,Nosema Management Framework,decision_flow,HONEY_QUALITY_FAMILY,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-42-illustration-plan.md
+49,F43.02,43.2,43,American Foulbrood,Healthy Brood Versus Early AFB Suspicion,comparison,HEALTHY_BROOD_REFERENCE,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-43-illustration-plan.md
+50,F43.03,43.3,43,American Foulbrood,Disease-Stage Cell Series,technical_cutaway,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-43-illustration-plan.md
+51,F43.06,43.6,43,American Foulbrood,AFB Differential Diagnosis,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-43-illustration-plan.md
+52,F43.09,43.9,43,American Foulbrood,Laboratory Confirmation Pathways,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-43-illustration-plan.md
+53,F43.13,43.13,43,American Foulbrood,AFB Response Decision Flow,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-43-illustration-plan.md
+54,F44.02,44.2,44,European Foulbrood,Healthy Versus EFB-Affected Open Brood,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-44-illustration-plan.md
+55,F44.04,44.4,44,European Foulbrood,EFB Versus AFB,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-44-illustration-plan.md
+56,F44.05,44.5,44,European Foulbrood,EFB Differential Diagnosis,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-44-illustration-plan.md
+57,F44.08,44.8,44,European Foulbrood,Sampling and Diagnostic Pathway,process,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-44-illustration-plan.md
+58,F44.09,44.9,44,European Foulbrood,Shook-Swarm Principle,process,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-44-illustration-plan.md
+59,F45.01,45.1,45,Viruses,Infection Versus Clinical Disease,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-45-illustration-plan.md
+60,F45.02,45.2,45,Viruses,Viral Transmission Routes,scientific_illustration,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-45-illustration-plan.md
+61,F45.03,45.3,45,Viruses,Varroa–DWV Interaction,technical_cutaway,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-45-illustration-plan.md
+62,F45.11,45.11,45,Viruses,Viral Differential Diagnosis,chart_data,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-45-illustration-plan.md
+63,F45.12,45.12,45,Viruses,Practical Virus-Management Framework,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-45-illustration-plan.md
+64,F46.03,46.3,46,Integrated Pest Management,Surveillance Versus Monitoring,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-46-illustration-plan.md
+65,F46.04,46.4,46,Integrated Pest Management,Thresholds Are Contextual,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-46-illustration-plan.md
+66,F46.06,46.6,46,Integrated Pest Management,Drone-Brood Removal Sequence,process,,single-or-double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-46-illustration-plan.md
+67,F46.10,46.10,46,Integrated Pest Management,Treatment Failure Investigation,decision_flow,,double-column-or-full-page,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-46-illustration-plan.md
+68,F46.12,46.12,46,Integrated Pest Management,Established Pest Versus Exotic Regulated Pest,comparison,,double-column,READY_FOR_ASSET_CREATION,docs/illustration-plans/chapter-46-illustration-plan.md
