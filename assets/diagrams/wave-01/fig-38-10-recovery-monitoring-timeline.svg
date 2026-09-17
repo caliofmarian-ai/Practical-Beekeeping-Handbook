@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 38.10 — Recovery Monitoring Timeline</title>
+<desc id="desc">Recovery timeline from immediate stabilisation through short follow-up, biological response interval and final verification.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 38.10 — Recovery Monitoring Timeline</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Recovery must be judged on a biologically meaningful timescale rather than immediately after</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">intervention.</text>
+<rect class="stop" x="210" y="210" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="248" text-anchor="start">Immediate stabilisation</text>
+<text class="body" x="234" y="287" text-anchor="start">Stop active hazard and restore critical needs such as</text>
+<text class="body" x="234" y="314" text-anchor="start">ventilation, physical integrity or accessible food.</text>
+<path class="arrow" d="M600,335 L600,380"/>
+<rect class="box" x="210" y="390" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="428" text-anchor="start">Short follow-up</text>
+<text class="body" x="234" y="467" text-anchor="start">Confirm the emergency has not recurred and that the</text>
+<text class="body" x="234" y="494" text-anchor="start">colony/equipment remains stable.</text>
+<path class="arrow" d="M600,515 L600,560"/>
+<rect class="box2" x="210" y="570" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="608" text-anchor="start">Biological response interval</text>
+<text class="body" x="234" y="647" text-anchor="start">Allow enough time for the variable being assessed—brood, queen</text>
+<text class="body" x="234" y="674" text-anchor="start">function, food, mortality or pest level—to change meaningfully.</text>
+<path class="arrow" d="M600,695 L600,740"/>
+<rect class="box" x="210" y="750" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="788" text-anchor="start">Targeted reinspection / measurement</text>
+<text class="body" x="234" y="827" text-anchor="start">Repeat the relevant observation or validated monitoring method.</text>
+<path class="arrow" d="M600,875 L600,920"/>
+<rect class="box2" x="210" y="930" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="968" text-anchor="start">Final verification / continued plan</text>
+<text class="body" x="234" y="1007" text-anchor="start">Record recovery, further action or escalation; continue normal</text>
+<text class="body" x="234" y="1034" text-anchor="start">monitoring when stable.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">The interval is problem-dependent. The figure intentionally does not assign one universal</text>
+<text class="small" x="85" y="1535" text-anchor="start">number of days to every emergency.</text>
+</svg>

@@ -1,0 +1,175 @@
+{
+  "asset_count": 17,
+  "assets": [
+    {
+      "path": "assets/diagrams/wave-01/fig-21-1-protective-clothing-system.svg",
+      "title": "Figure 21.1 — Protective Clothing System",
+      "alt_text": "Body-map diagram showing veil, suit or jacket, wrist and ankle closures, gloves and footwear as overlapping layers rather than a guarantee of no stings.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-21-3-clothing-selection-by-task.svg",
+      "title": "Figure 21.3 — Clothing Selection by Task",
+      "alt_text": "Matrix matching protective clothing considerations to routine inspections, defensive colonies, swarm collection, hot weather and honey-room work.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-21-4-pre-inspection-ppe-check.svg",
+      "title": "Figure 21.4 — Pre-Inspection PPE Check",
+      "alt_text": "Six-point pre-inspection protective-clothing check.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-22-1-smoker-anatomy.svg",
+      "title": "Figure 22.1 — Smoker Anatomy",
+      "alt_text": "Labelled technical schematic of a bee smoker showing lid and nozzle, fire chamber, internal grate, heat shield, bellows, air inlet and hanging hook.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-24-2-prepared-receiving-hive.svg",
+      "title": "Figure 24.2 — Prepared Receiving Hive",
+      "alt_text": "Prepared hive setup showing stable level stand, frames, cover, entrance, optional appropriate feeder and clear working space before bees arrive.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-24-11-new-colony-biosecurity.svg",
+      "title": "Figure 24.11 — New-Colony Biosecurity",
+      "alt_text": "New-colony biosecurity flow from traceable source and baseline assessment to risk-based segregation and routine integration.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-25-1-inspection-depth-ladder.svg",
+      "title": "Figure 25.1 — Inspection Depth Ladder",
+      "alt_text": "Five-level ladder from external observation to emergency inspection, with information need and colony disturbance increasing together.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-25-13-inspection-record-follow-up-loop.svg",
+      "title": "Figure 25.13 — Inspection Record and Follow-Up Loop",
+      "alt_text": "Circular record and follow-up loop from objective observation through action and verification back to trend-informed inspection.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-8-suspected-disease-biosecurity-zone.svg",
+      "title": "Figure 38.8 — Suspected-Disease Biosecurity Zone",
+      "alt_text": "Suspected disease biosecurity workflow showing clean-to-suspect work order, separate tools, movement restriction, sample labelling and authority escalation.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-10-recovery-monitoring-timeline.svg",
+      "title": "Figure 38.10 — Recovery Monitoring Timeline",
+      "alt_text": "Recovery timeline from immediate stabilisation through short follow-up, biological response interval and final verification.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-10-cleaning-versus-decontamination.svg",
+      "title": "Figure 43.10 — Cleaning Versus Decontamination",
+      "alt_text": "Two-stage concept showing physical removal of wax, propolis and debris before an approved AFB spore-targeting decontamination or disposition process.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-11-antibiotics-do-not-eradicate-afb.svg",
+      "title": "Figure 43.11 — Why Antibiotics Do Not Eradicate AFB",
+      "alt_text": "Conceptual diagram separating vegetative bacterial growth from durable Paenibacillus larvae spores, showing that suppression of vegetative bacteria does not remove spores from comb or equipment.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-12-afb-trace-back-trace-forward.svg",
+      "title": "Figure 43.12 — Trace-Back and Trace-Forward Map",
+      "alt_text": "Network map for AFB trace-back and trace-forward through purchases, transfers, movements, sales, equipment and robbing/drifting contacts.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-4-efb-versus-afb.svg",
+      "title": "Figure 44.4 — EFB Versus AFB",
+      "alt_text": "Comparison matrix of European foulbrood and American foulbrood by common stage, larval position, cappings, remains, spore biology and field-sign limitations.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-6-efb-disease-expression-colony-stress.svg",
+      "title": "Figure 44.6 — Disease Expression and Colony Stress",
+      "alt_text": "Conceptual network separating Melissococcus plutonius infection as the infectious cause from nutritional, weather, workforce and concurrent-stress modifiers.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-9-shook-swarm-principle.svg",
+      "title": "Figure 44.9 — Shook-Swarm Principle",
+      "alt_text": "High-level shook-swarm principle for EFB control, explicitly subject to competent-authority requirements.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-11-efb-apiary-contact-map.svg",
+      "title": "Figure 44.11 — Apiary Contact Map",
+      "alt_text": "Apiary contact map around an EFB index case including frame transfers, shared equipment, robbing, drifting, introductions and movements.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    }
+  ]
+}

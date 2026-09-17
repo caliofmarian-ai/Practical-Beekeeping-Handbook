@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 21.1 — Protective Clothing System</title>
+<desc id="desc">Body-map diagram showing veil, suit or jacket, wrist and ankle closures, gloves and footwear as overlapping layers rather than a guarantee of no stings.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 21.1 — Protective Clothing System</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Protection works as an overlapping system: gaps between components matter as much as the</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">material itself.</text>
+<circle cx="600" cy="350" r="90" fill="#eee" stroke="#222" stroke-width="4"/>
+<rect x="505" y="440" width="190" height="400" rx="60" fill="#f7f7f7" stroke="#222" stroke-width="4"/>
+<line x1="515" y1="520" x2="350" y2="760" stroke="#222" stroke-width="28"/>
+<line x1="685" y1="520" x2="850" y2="760" stroke="#222" stroke-width="28"/>
+<line x1="555" y1="830" x2="490" y2="1130" stroke="#222" stroke-width="34"/>
+<line x1="645" y1="830" x2="710" y2="1130" stroke="#222" stroke-width="34"/>
+<path d="M480,250 Q600,145 720,250 L750,480 L450,480 Z" fill="none" stroke="#111" stroke-width="5" stroke-dasharray="10 7"/>
+<text class="label" x="150" y="260" text-anchor="start">Veil clearance</text>
+<path class="arrow" d="M330,250 L470,320"/>
+<text class="label" x="110" y="500" text-anchor="start">Closed neck/zip overlap</text>
+<path class="arrow" d="M290,490 L480,500"/>
+<text class="label" x="80" y="760" text-anchor="start">Glove/cuff overlap</text>
+<path class="arrow" d="M260,750 L350,760"/>
+<text class="label" x="870" y="760" text-anchor="start">Glove/cuff overlap</text>
+<path class="arrow" d="M860,750 L850,760"/>
+<text class="label" x="120" y="1130" text-anchor="start">Trouser/boot overlap</text>
+<path class="arrow" d="M300,1120 L500,1100"/>
+<text class="label" x="820" y="1130" text-anchor="start">Trouser/boot overlap</text>
+<path class="arrow" d="M810,1120 L700,1100"/>
+<rect class="box2" x="185" y="1250" width="830" height="135" rx="22" ry="22"/>
+<text class="label" x="209" y="1288" text-anchor="start">Pre-use check</text>
+<text class="body" x="209" y="1327" text-anchor="start">Zips/closures secure; no holes; veil held off face; footwear stable;</text>
+<text class="body" x="209" y="1354" text-anchor="start">PPE matched to colony/task and heat load.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Protective clothing reduces exposure but does not guarantee zero stings. Colony temperament,</text>
+<text class="small" x="85" y="1535" text-anchor="start">calm handling, weather and task planning remain essential controls.</text>
+</svg>

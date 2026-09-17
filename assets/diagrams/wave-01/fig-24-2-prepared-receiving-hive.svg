@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 24.2 — Prepared Receiving Hive</title>
+<desc id="desc">Prepared hive setup showing stable level stand, frames, cover, entrance, optional appropriate feeder and clear working space before bees arrive.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 24.2 — Prepared Receiving Hive</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Prepare the site and equipment before bees arrive so installation can be calm, brief and</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">controlled.</text>
+<line x1="190" y1="1180" x2="1010" y2="1180" stroke="#555" stroke-width="6"/>
+<rect x="390" y="690" width="420" height="410" fill="#f7f7f7" stroke="#222" stroke-width="5"/>
+<rect x="360" y="625" width="480" height="70" fill="#eee" stroke="#222" stroke-width="5"/>
+<rect x="410" y="1090" width="380" height="55" fill="#eee" stroke="#222" stroke-width="5"/>
+<rect x="485" y="1145" width="230" height="25" fill="#fff" stroke="#222" stroke-width="4"/>
+<rect x="415" y="720" width="32" height="330" fill="#fff" stroke="#777" stroke-width="2"/>
+<rect x="463" y="720" width="32" height="330" fill="#fff" stroke="#777" stroke-width="2"/>
+<rect x="511" y="720" width="32" height="330" fill="#fff" stroke="#777" stroke-width="2"/>
+<rect x="559" y="720" width="32" height="330" fill="#fff" stroke="#777" stroke-width="2"/>
+<rect x="607" y="720" width="32" height="330" fill="#fff" stroke="#777" stroke-width="2"/>
+<rect x="655" y="720" width="32" height="330" fill="#fff" stroke="#777" stroke-width="2"/>
+<rect x="703" y="720" width="32" height="330" fill="#fff" stroke="#777" stroke-width="2"/>
+<rect x="751" y="720" width="32" height="330" fill="#fff" stroke="#777" stroke-width="2"/>
+<text class="label" x="80" y="1100" text-anchor="start">Stable level stand</text>
+<path class="arrow" d="M260,1090 L390,1115"/>
+<text class="label" x="70" y="780" text-anchor="start">Frames / foundation or</text>
+<text class="label" x="70" y="808" text-anchor="start">drawn comb</text>
+<path class="arrow" d="M250,770 L420,800"/>
+<text class="label" x="830" y="620" text-anchor="start">Weatherproof cover</text>
+<path class="arrow" d="M820,610 L810,655"/>
+<text class="label" x="800" y="1125" text-anchor="start">Defensible entrance</text>
+<text class="label" x="800" y="1153" text-anchor="start">arrangement</text>
+<path class="arrow" d="M790,1115 L715,1155"/>
+<text class="label" x="830" y="790" text-anchor="start">Feeder only if needed</text>
+<path class="arrow" d="M820,780 L775,760"/>
+<text class="label" x="120" y="1280" text-anchor="start">Clear working space</text>
+<path class="arrow" d="M300,1270 L400,1180"/>
+<rect class="box2" x="250" y="250" width="700" height="185" rx="22" ry="22"/>
+<text class="label" x="274" y="288" text-anchor="start">Before arrival</text>
+<text class="body" x="274" y="327" text-anchor="start">Confirm hive ID, source records, health/biosecurity plan,</text>
+<text class="body" x="274" y="354" text-anchor="start">transport timing, feed decision and first targeted</text>
+<text class="body" x="274" y="381" text-anchor="start">follow-up question.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Unknown honey should not be used as feed because it can carry disease risk. Feeding is</text>
+<text class="small" x="85" y="1535" text-anchor="start">context-dependent and should avoid robbing/exposed syrup.</text>
+</svg>

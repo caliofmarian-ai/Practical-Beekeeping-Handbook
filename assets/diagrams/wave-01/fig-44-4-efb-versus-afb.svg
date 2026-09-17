@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 44.4 — EFB Versus AFB</title>
+<desc id="desc">Comparison matrix of European foulbrood and American foulbrood by common stage, larval position, cappings, remains, spore biology and field-sign limitations.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 44.4 — EFB Versus AFB</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">A comparison supports differential diagnosis; overlapping signs still require appropriate</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">confirmation.</text>
+<rect class="box2" x="55" y="225" width="250" height="95" rx="22" ry="22"/>
+<text class="label" x="79" y="263" text-anchor="start">Feature</text>
+<rect class="box2" x="305" y="225" width="420" height="95" rx="22" ry="22"/>
+<text class="label" x="329" y="263" text-anchor="start">EFB tendency</text>
+<rect class="box2" x="725" y="225" width="420" height="95" rx="22" ry="22"/>
+<text class="label" x="749" y="263" text-anchor="start">AFB tendency</text>
+<rect class="box2" x="55" y="340" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="378" text-anchor="start">Usual stage</text>
+<text class="label" x="79" y="407" text-anchor="start">noticed</text>
+<rect class="box" x="305" y="340" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="378" text-anchor="start">Often open brood / younger</text>
+<text class="label" x="329" y="407" text-anchor="start">larvae affected</text>
+<rect class="box" x="725" y="340" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="378" text-anchor="start">Often sealed-brood pattern</text>
+<text class="label" x="749" y="407" text-anchor="start">becomes conspicuous, though</text>
+<text class="label" x="749" y="436" text-anchor="start">infection begins in young</text>
+<text class="label" x="749" y="465" text-anchor="start">larvae</text>
+<rect class="box2" x="55" y="520" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="558" text-anchor="start">Larval position</text>
+<rect class="box" x="305" y="520" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="558" text-anchor="start">Twisted, displaced,</text>
+<text class="label" x="329" y="587" text-anchor="start">collapsed larvae can occur</text>
+<rect class="box" x="725" y="520" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="558" text-anchor="start">Decomposed remains in</text>
+<text class="label" x="749" y="587" text-anchor="start">capped/opened cells; stage</text>
+<text class="label" x="749" y="616" text-anchor="start">varies</text>
+<rect class="box2" x="55" y="700" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="738" text-anchor="start">Cappings</text>
+<rect class="box" x="305" y="700" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="738" text-anchor="start">May become irregular if</text>
+<text class="label" x="329" y="767" text-anchor="start">affected larvae survive to</text>
+<text class="label" x="329" y="796" text-anchor="start">capping</text>
+<rect class="box" x="725" y="700" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="738" text-anchor="start">Sunken/perforated/irregular</text>
+<text class="label" x="749" y="767" text-anchor="start">cappings can occur</text>
+<rect class="box2" x="55" y="880" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="918" text-anchor="start">Remains / scale</text>
+<rect class="box" x="305" y="880" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="918" text-anchor="start">Dried remains may occur but</text>
+<text class="label" x="329" y="947" text-anchor="start">do not form AFB-like highly</text>
+<text class="label" x="329" y="976" text-anchor="start">persistent endospores</text>
+<rect class="box" x="725" y="880" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="918" text-anchor="start">Adherent scale can contain</text>
+<text class="label" x="749" y="947" text-anchor="start">many persistent spores</text>
+<rect class="box2" x="55" y="1060" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="1098" text-anchor="start">Spore biology</text>
+<rect class="box" x="305" y="1060" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="1098" text-anchor="start">M. plutonius does not make</text>
+<text class="label" x="329" y="1127" text-anchor="start">AFB-like bacterial</text>
+<text class="label" x="329" y="1156" text-anchor="start">endospores</text>
+<rect class="box" x="725" y="1060" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="1098" text-anchor="start">P. larvae forms highly</text>
+<text class="label" x="749" y="1127" text-anchor="start">durable spores</text>
+<rect class="box2" x="55" y="1240" width="250" height="170" rx="22" ry="22"/>
+<text class="label" x="79" y="1278" text-anchor="start">Field sign</text>
+<text class="label" x="79" y="1307" text-anchor="start">limitation</text>
+<rect class="box" x="305" y="1240" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="329" y="1278" text-anchor="start">Position/odour alone is not</text>
+<text class="label" x="329" y="1307" text-anchor="start">diagnostic</text>
+<rect class="box" x="725" y="1240" width="420" height="170" rx="22" ry="22"/>
+<text class="label" x="749" y="1278" text-anchor="start">Rope/odour/capping pattern</text>
+<text class="label" x="749" y="1307" text-anchor="start">alone is not universal</text>
+<text class="label" x="749" y="1336" text-anchor="start">definitive proof</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">The table shows tendencies, not absolute rules. Use representative samples and current</text>
+<text class="small" x="85" y="1535" text-anchor="start">validated/official diagnostic pathways.</text>
+</svg>
