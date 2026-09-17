@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 41.9 — Why Thresholds Are Contextual</title>
+<desc id="desc">Decision wheel surrounding a measured Varroa result with season, brood, climate, virus pressure, reinvasion, authorised options, management goal and local guidance.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 41.9 — Why Thresholds Are Contextual</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">A monitoring number becomes a management decision only after the surrounding biological and</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">regulatory context is considered.</text>
+<circle class="hub" cx="600" cy="770" r="145"/>
+<text class="hubtext" x="600" y="760" text-anchor="middle">Interpret the</text>
+<text class="hubtext" x="600" y="790" text-anchor="middle">measured Varroa</text>
+<text class="hubtext" x="600" y="820" text-anchor="middle">result</text>
+<rect class="box" x="470" y="205" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="494" y="243" text-anchor="start">Season / colony</text>
+<text class="label" x="494" y="272" text-anchor="start">phase</text>
+<path class="arrow" d="M600,770 L600,260"/>
+<rect class="box" x="800" y="335" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="824" y="373" text-anchor="start">Brood amount</text>
+<path class="arrow" d="M600,770 L930,390"/>
+<rect class="box" x="840" y="695" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="864" y="733" text-anchor="start">Climate / weather</text>
+<path class="arrow" d="M600,770 L970,750"/>
+<rect class="box" x="770" y="1035" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="794" y="1073" text-anchor="start">Virus pressure</text>
+<path class="arrow" d="M600,770 L900,1090"/>
+<rect class="box" x="470" y="1155" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="494" y="1193" text-anchor="start">Reinvasion risk</text>
+<path class="arrow" d="M600,770 L600,1210"/>
+<rect class="box" x="170" y="1035" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="194" y="1073" text-anchor="start">Authorised</text>
+<text class="label" x="194" y="1102" text-anchor="start">options</text>
+<path class="arrow" d="M600,770 L300,1090"/>
+<rect class="box" x="100" y="695" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="124" y="733" text-anchor="start">Management goal</text>
+<path class="arrow" d="M600,770 L230,750"/>
+<rect class="box" x="140" y="335" width="260" height="110" rx="22" ry="22"/>
+<text class="label" x="164" y="373" text-anchor="start">Local guidance /</text>
+<text class="label" x="164" y="402" text-anchor="start">next check</text>
+<path class="arrow" d="M600,770 L270,390"/>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Do not print one universal Varroa threshold into a permanent diagram. Record the method,</text>
+<text class="small" x="85" y="1535" text-anchor="start">denominator, date and local decision basis.</text>
+</svg>

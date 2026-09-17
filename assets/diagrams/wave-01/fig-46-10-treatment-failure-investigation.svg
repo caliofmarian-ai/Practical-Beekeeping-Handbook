@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 46.10 — Treatment Failure Investigation</title>
+<desc id="desc">Decision tree for investigating a high post-control pest result without automatic dose escalation.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 46.10 — Treatment Failure Investigation</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Investigate the result systematically before choosing a corrective action.</text>
+<rect class="stop" x="300" y="170" width="600" height="110" rx="22" ry="22"/>
+<text class="label" x="324" y="208" text-anchor="start">High post-control result</text>
+<text class="body" x="324" y="247" text-anchor="start">Do not automatically increase dose.</text>
+<rect class="box2" x="300" y="340" width="600" height="120" rx="22" ry="22"/>
+<text class="label" x="324" y="378" text-anchor="start">1. Verify sampling</text>
+<text class="body" x="324" y="417" text-anchor="start">Was the method, sample and calculation valid?</text>
+<path class="arrow" d="M600,280 L600,340"/>
+<rect class="box" x="100" y="550" width="420" height="150" rx="22" ry="22"/>
+<text class="label" x="124" y="588" text-anchor="start">2. Review application</text>
+<text class="label" x="124" y="617" text-anchor="start">context</text>
+<text class="body" x="124" y="656" text-anchor="start">Authorisation, label directions,</text>
+<text class="body" x="124" y="683" text-anchor="start">temperature, brood, product</text>
+<text class="body" x="124" y="710" text-anchor="start">condition, timing.</text>
+<rect class="box" x="680" y="550" width="420" height="150" rx="22" ry="22"/>
+<text class="label" x="704" y="588" text-anchor="start">3. Recheck pest biology</text>
+<text class="body" x="704" y="627" text-anchor="start">Could brood protection, life stage</text>
+<text class="body" x="704" y="654" text-anchor="start">or timing explain persistence?</text>
+<path class="arrow" d="M600,460 L310,550"/>
+<path class="arrow" d="M600,460 L890,550"/>
+<rect class="box" x="100" y="790" width="420" height="150" rx="22" ry="22"/>
+<text class="label" x="124" y="828" text-anchor="start">4. Assess resistance</text>
+<text class="body" x="124" y="867" text-anchor="start">Use evidence and local guidance;</text>
+<text class="body" x="124" y="894" text-anchor="start">focus on active ingredient / mode</text>
+<text class="body" x="124" y="921" text-anchor="start">of action.</text>
+<rect class="box" x="680" y="790" width="420" height="150" rx="22" ry="22"/>
+<text class="label" x="704" y="828" text-anchor="start">5. Assess reinvasion</text>
+<text class="body" x="704" y="867" text-anchor="start">Consider robbing, drifting and</text>
+<text class="body" x="704" y="894" text-anchor="start">nearby collapsing/high-pressure</text>
+<text class="body" x="704" y="921" text-anchor="start">colonies.</text>
+<path class="arrow" d="M310,700 L310,790"/>
+<path class="arrow" d="M890,700 L890,790"/>
+<rect class="box2" x="300" y="1030" width="600" height="140" rx="22" ry="22"/>
+<text class="label" x="324" y="1068" text-anchor="start">6. Choose evidence-based corrective</text>
+<text class="label" x="324" y="1097" text-anchor="start">action</text>
+<text class="body" x="324" y="1136" text-anchor="start">Use an authorised, context-appropriate option;</text>
+<text class="body" x="324" y="1163" text-anchor="start">document and plan follow-up verification.</text>
+<path class="arrow" d="M310,940 L500,1030"/>
+<path class="arrow" d="M890,940 L700,1030"/>
+<rect class="box" x="300" y="1240" width="600" height="120" rx="22" ry="22"/>
+<text class="label" x="324" y="1278" text-anchor="start">7. Verify again</text>
+<text class="body" x="324" y="1317" text-anchor="start">Repeat a valid monitoring method at the</text>
+<text class="body" x="324" y="1344" text-anchor="start">appropriate interval.</text>
+<path class="arrow" d="M600,1170 L600,1240"/>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Changing a brand name is not necessarily changing mode of action. Never use unapproved</text>
+<text class="small" x="85" y="1535" text-anchor="start">mixtures or off-label dose escalation.</text>
+</svg>
