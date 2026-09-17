@@ -1,0 +1,27 @@
+name: visual-preflight-once
+on:
+  push:
+    branches: ['publishing/visual-preflight-100-103']
+permissions:
+  contents: write
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publishing/visual-preflight-100-103
+          fetch-depth: 0
+      - name: Build visual production manifests
+        run: python scripts/visual_preflight_once.py
+      - name: Remove one-time preflight automation
+        run: |
+          rm -f scripts/visual_preflight_once.py
+          rm -f .github/workflows/visual-preflight-once.yml
+      - name: Commit visual preflight
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Complete visual production preflight (#100-#103) [skip ci]"
+          git push origin HEAD:publishing/visual-preflight-100-103
