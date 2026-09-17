@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 24.1 — Starting Units Compared</title>
+<desc id="desc">Comparison matrix for package bees, nucleus colony and captured swarm, showing which biological components are typically present at installation.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 24.1 — Starting Units Compared</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Package, nucleus and swarm are biologically different starting units and require different</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">installation/follow-up decisions.</text>
+<rect class="box2" x="70" y="240" width="280" height="90" rx="22" ry="22"/>
+<text class="label" x="94" y="278" text-anchor="start">Feature</text>
+<rect class="box2" x="350" y="240" width="270" height="90" rx="22" ry="22"/>
+<text class="label" x="374" y="278" text-anchor="start">Package bees</text>
+<rect class="box2" x="620" y="240" width="270" height="90" rx="22" ry="22"/>
+<text class="label" x="644" y="278" text-anchor="start">Nucleus colony</text>
+<rect class="box2" x="890" y="240" width="270" height="90" rx="22" ry="22"/>
+<text class="label" x="914" y="278" text-anchor="start">Captured swarm</text>
+<rect class="box2" x="70" y="355" width="280" height="115" rx="22" ry="22"/>
+<text class="label" x="94" y="393" text-anchor="start">Adult bees</text>
+<rect class="box" x="350" y="355" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="374" y="393" text-anchor="start">Yes</text>
+<rect class="box" x="620" y="355" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="644" y="393" text-anchor="start">Yes</text>
+<rect class="box" x="890" y="355" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="914" y="393" text-anchor="start">Yes</text>
+<rect class="box2" x="70" y="480" width="280" height="115" rx="22" ry="22"/>
+<text class="label" x="94" y="518" text-anchor="start">Queen</text>
+<rect class="box" x="350" y="480" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="374" y="518" text-anchor="start">Usually caged /</text>
+<text class="label" x="374" y="547" text-anchor="start">supplier-dependent</text>
+<rect class="box" x="620" y="480" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="644" y="518" text-anchor="start">Laying queen</text>
+<text class="label" x="644" y="547" text-anchor="start">normally present</text>
+<rect class="box" x="890" y="480" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="914" y="518" text-anchor="start">Queen present but</text>
+<text class="label" x="914" y="547" text-anchor="start">age/mating status</text>
+<text class="label" x="914" y="576" text-anchor="start">may be unknown</text>
+<rect class="box2" x="70" y="605" width="280" height="115" rx="22" ry="22"/>
+<text class="label" x="94" y="643" text-anchor="start">Brood</text>
+<rect class="box" x="350" y="605" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="374" y="643" text-anchor="start">No</text>
+<rect class="box" x="620" y="605" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="644" y="643" text-anchor="start">Yes</text>
+<rect class="box" x="890" y="605" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="914" y="643" text-anchor="start">No at capture</text>
+<rect class="box2" x="70" y="730" width="280" height="115" rx="22" ry="22"/>
+<text class="label" x="94" y="768" text-anchor="start">Food stores</text>
+<rect class="box" x="350" y="730" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="374" y="768" text-anchor="start">Transport feed</text>
+<text class="label" x="374" y="797" text-anchor="start">only / no comb</text>
+<text class="label" x="374" y="826" text-anchor="start">stores</text>
+<rect class="box" x="620" y="730" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="644" y="768" text-anchor="start">Yes, on comb</text>
+<rect class="box" x="890" y="730" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="914" y="768" text-anchor="start">No established</text>
+<text class="label" x="914" y="797" text-anchor="start">comb stores at</text>
+<text class="label" x="914" y="826" text-anchor="start">capture</text>
+<rect class="box2" x="70" y="855" width="280" height="115" rx="22" ry="22"/>
+<text class="label" x="94" y="893" text-anchor="start">Drawn comb</text>
+<rect class="box" x="350" y="855" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="374" y="893" text-anchor="start">No</text>
+<rect class="box" x="620" y="855" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="644" y="893" text-anchor="start">Yes</text>
+<rect class="box" x="890" y="855" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="914" y="893" text-anchor="start">No unless placed</text>
+<text class="label" x="914" y="922" text-anchor="start">onto supplied comb</text>
+<rect class="box2" x="70" y="980" width="280" height="115" rx="22" ry="22"/>
+<text class="label" x="94" y="1018" text-anchor="start">Main early risk</text>
+<rect class="box" x="350" y="980" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="374" y="1018" text-anchor="start">Queen acceptance,</text>
+<text class="label" x="374" y="1047" text-anchor="start">comb building,</text>
+<text class="label" x="374" y="1076" text-anchor="start">absconding</text>
+<rect class="box" x="620" y="980" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="644" y="1018" text-anchor="start">Disease/parasite</text>
+<text class="label" x="644" y="1047" text-anchor="start">transfer,</text>
+<text class="label" x="644" y="1076" text-anchor="start">crowding,</text>
+<text class="label" x="644" y="1105" text-anchor="start">frame-system fit</text>
+<rect class="box" x="890" y="980" width="270" height="115" rx="22" ry="22"/>
+<text class="label" x="914" y="1018" text-anchor="start">Unknown</text>
+<text class="label" x="914" y="1047" text-anchor="start">health/genetics,</text>
+<text class="label" x="914" y="1076" text-anchor="start">absconding, queen</text>
+<text class="label" x="914" y="1105" text-anchor="start">status</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">No starting unit should be assumed parasite- or disease-free. Health baseline, source</text>
+<text class="small" x="85" y="1535" text-anchor="start">records and appropriate follow-up are still required.</text>
+</svg>

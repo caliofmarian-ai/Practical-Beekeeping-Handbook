@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 41.7 — Monitoring Methods Compared</title>
+<desc id="desc">Comparison of adult-bee wash, sugar roll, natural mite fall and brood uncapping by what each measures, whether bees are sacrificed and major limitations.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 41.7 — Monitoring Methods Compared</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Different Varroa methods answer different questions. Record the method so results can be</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">interpreted correctly.</text>
+<rect class="box2" x="55" y="235" width="210" height="100" rx="22" ry="22"/>
+<text class="label" x="79" y="273" text-anchor="start">Method</text>
+<rect class="box2" x="265" y="235" width="360" height="100" rx="22" ry="22"/>
+<text class="label" x="289" y="273" text-anchor="start">What it mainly measures</text>
+<rect class="box2" x="625" y="235" width="210" height="100" rx="22" ry="22"/>
+<text class="label" x="649" y="273" text-anchor="start">Bees</text>
+<text class="label" x="649" y="302" text-anchor="start">sacrificed?</text>
+<rect class="box2" x="835" y="235" width="360" height="100" rx="22" ry="22"/>
+<text class="label" x="859" y="273" text-anchor="start">Key limitation</text>
+<rect class="box2" x="55" y="355" width="210" height="240" rx="22" ry="22"/>
+<text class="label" x="79" y="393" text-anchor="start">Adult-bee wash</text>
+<rect class="box" x="265" y="355" width="360" height="240" rx="22" ry="22"/>
+<text class="label" x="289" y="393" text-anchor="start">Adult-bee mite burden in</text>
+<text class="label" x="289" y="422" text-anchor="start">a defined sample</text>
+<rect class="box" x="625" y="355" width="210" height="240" rx="22" ry="22"/>
+<text class="label" x="649" y="393" text-anchor="start">Yes, with</text>
+<text class="label" x="649" y="422" text-anchor="start">common</text>
+<text class="label" x="649" y="451" text-anchor="start">alcohol/soap</text>
+<text class="label" x="649" y="480" text-anchor="start">wash methods</text>
+<rect class="box" x="835" y="355" width="360" height="240" rx="22" ry="22"/>
+<text class="label" x="859" y="393" text-anchor="start">Sampling error; queen</text>
+<text class="label" x="859" y="422" text-anchor="start">must be excluded;</text>
+<text class="label" x="859" y="451" text-anchor="start">method-specific handling</text>
+<rect class="box2" x="55" y="615" width="210" height="240" rx="22" ry="22"/>
+<text class="label" x="79" y="653" text-anchor="start">Sugar roll</text>
+<rect class="box" x="265" y="615" width="360" height="240" rx="22" ry="22"/>
+<text class="label" x="289" y="653" text-anchor="start">Adult-bee mite burden in</text>
+<text class="label" x="289" y="682" text-anchor="start">a defined sample</text>
+<rect class="box" x="625" y="615" width="210" height="240" rx="22" ry="22"/>
+<text class="label" x="649" y="653" text-anchor="start">Usually</text>
+<text class="label" x="649" y="682" text-anchor="start">intended as</text>
+<text class="label" x="649" y="711" text-anchor="start">non-lethal</text>
+<rect class="box" x="835" y="615" width="360" height="240" rx="22" ry="22"/>
+<text class="label" x="859" y="653" text-anchor="start">Variable dislodgement;</text>
+<text class="label" x="859" y="682" text-anchor="start">humidity/technique</text>
+<text class="label" x="859" y="711" text-anchor="start">effects; bees still</text>
+<text class="label" x="859" y="740" text-anchor="start">stressed</text>
+<rect class="box2" x="55" y="875" width="210" height="240" rx="22" ry="22"/>
+<text class="label" x="79" y="913" text-anchor="start">Natural mite</text>
+<text class="label" x="79" y="942" text-anchor="start">fall</text>
+<rect class="box" x="265" y="875" width="360" height="240" rx="22" ry="22"/>
+<text class="label" x="289" y="913" text-anchor="start">Mites falling to a board</text>
+<text class="label" x="289" y="942" text-anchor="start">over time</text>
+<rect class="box" x="625" y="875" width="210" height="240" rx="22" ry="22"/>
+<text class="label" x="649" y="913" text-anchor="start">No</text>
+<rect class="box" x="835" y="875" width="360" height="240" rx="22" ry="22"/>
+<text class="label" x="859" y="913" text-anchor="start">Indirect; affected by</text>
+<text class="label" x="859" y="942" text-anchor="start">brood, grooming and</text>
+<text class="label" x="859" y="971" text-anchor="start">duration; not directly</text>
+<text class="label" x="859" y="1000" text-anchor="start">equivalent to mites/100</text>
+<text class="label" x="859" y="1029" text-anchor="start">bees</text>
+<rect class="box2" x="55" y="1135" width="210" height="240" rx="22" ry="22"/>
+<text class="label" x="79" y="1173" text-anchor="start">Brood</text>
+<text class="label" x="79" y="1202" text-anchor="start">uncapping</text>
+<rect class="box" x="265" y="1135" width="360" height="240" rx="22" ry="22"/>
+<text class="label" x="289" y="1173" text-anchor="start">Mites/reproduction in</text>
+<text class="label" x="289" y="1202" text-anchor="start">capped brood sample</text>
+<rect class="box" x="625" y="1135" width="210" height="240" rx="22" ry="22"/>
+<text class="label" x="649" y="1173" text-anchor="start">Brood cells</text>
+<text class="label" x="649" y="1202" text-anchor="start">opened</text>
+<rect class="box" x="835" y="1135" width="360" height="240" rx="22" ry="22"/>
+<text class="label" x="859" y="1173" text-anchor="start">Localised brood sample;</text>
+<text class="label" x="859" y="1202" text-anchor="start">destructive to sampled</text>
+<text class="label" x="859" y="1231" text-anchor="start">pupae; not adult-bee</text>
+<text class="label" x="859" y="1260" text-anchor="start">burden</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">A monitoring result is a measurement. The management decision depends on season, brood,</text>
+<text class="small" x="85" y="1535" text-anchor="start">colony condition and current local guidance.</text>
+</svg>

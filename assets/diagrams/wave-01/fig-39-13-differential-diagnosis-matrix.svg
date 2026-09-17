@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 39.13 — Differential Diagnosis Matrix</title>
+<desc id="desc">Matrix showing that common colony signs can have several possible cause categories and therefore require history, examination and confirmation rather than image-only diagnosis.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 39.13 — Differential Diagnosis Matrix</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Visible signs narrow the investigation; they rarely identify a single cause by themselves.</text>
+<rect class="box2" x="60" y="240" width="220" height="100" rx="22" ry="22"/>
+<text class="label" x="84" y="278" text-anchor="start">Observed sign</text>
+<rect class="box2" x="280" y="240" width="145" height="100" rx="22" ry="22"/>
+<text class="label" x="304" y="278" text-anchor="start">Infectious</text>
+<text class="label" x="304" y="307" text-anchor="start">disease</text>
+<rect class="box2" x="425" y="240" width="145" height="100" rx="22" ry="22"/>
+<text class="label" x="449" y="278" text-anchor="start">Parasites</text>
+<rect class="box2" x="570" y="240" width="145" height="100" rx="22" ry="22"/>
+<text class="label" x="594" y="278" text-anchor="start">Queen</text>
+<text class="label" x="594" y="307" text-anchor="start">problems</text>
+<rect class="box2" x="715" y="240" width="145" height="100" rx="22" ry="22"/>
+<text class="label" x="739" y="278" text-anchor="start">Nutrition</text>
+<rect class="box2" x="860" y="240" width="145" height="100" rx="22" ry="22"/>
+<text class="label" x="884" y="278" text-anchor="start">Temperature</text>
+<rect class="box2" x="1005" y="240" width="145" height="100" rx="22" ry="22"/>
+<text class="label" x="1029" y="278" text-anchor="start">Environmental</text>
+<text class="label" x="1029" y="307" text-anchor="start">exposure</text>
+<rect class="box2" x="60" y="355" width="220" height="145" rx="22" ry="22"/>
+<text class="label" x="84" y="393" text-anchor="start">Patchy brood</text>
+<rect class="box" x="280" y="355" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="304" y="393" text-anchor="start">Possible</text>
+<rect class="box" x="425" y="355" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="449" y="393" text-anchor="start">Possible</text>
+<rect class="box" x="570" y="355" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="594" y="393" text-anchor="start">Possible</text>
+<rect class="box" x="715" y="355" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="739" y="393" text-anchor="start">Possible</text>
+<rect class="box" x="860" y="355" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="884" y="393" text-anchor="start">Possible</text>
+<rect class="note" x="1005" y="355" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="1029" y="393" text-anchor="start">Less direct</text>
+<rect class="box2" x="60" y="510" width="220" height="145" rx="22" ry="22"/>
+<text class="label" x="84" y="548" text-anchor="start">Dead larvae</text>
+<rect class="box" x="280" y="510" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="304" y="548" text-anchor="start">Possible</text>
+<rect class="box" x="425" y="510" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="449" y="548" text-anchor="start">Possible</text>
+<rect class="note" x="570" y="510" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="594" y="548" text-anchor="start">Less direct</text>
+<rect class="box" x="715" y="510" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="739" y="548" text-anchor="start">Possible</text>
+<rect class="box" x="860" y="510" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="884" y="548" text-anchor="start">Possible</text>
+<rect class="box" x="1005" y="510" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="1029" y="548" text-anchor="start">Possible</text>
+<rect class="box2" x="60" y="665" width="220" height="145" rx="22" ry="22"/>
+<text class="label" x="84" y="703" text-anchor="start">Crawling</text>
+<text class="label" x="84" y="732" text-anchor="start">adults</text>
+<rect class="box" x="280" y="665" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="304" y="703" text-anchor="start">Possible</text>
+<rect class="box" x="425" y="665" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="449" y="703" text-anchor="start">Possible</text>
+<rect class="note" x="570" y="665" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="594" y="703" text-anchor="start">Less direct</text>
+<rect class="box" x="715" y="665" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="739" y="703" text-anchor="start">Possible</text>
+<rect class="box" x="860" y="665" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="884" y="703" text-anchor="start">Possible</text>
+<rect class="box" x="1005" y="665" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="1029" y="703" text-anchor="start">Possible</text>
+<rect class="box2" x="60" y="820" width="220" height="145" rx="22" ry="22"/>
+<text class="label" x="84" y="858" text-anchor="start">Deformed wings</text>
+<rect class="box" x="280" y="820" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="304" y="858" text-anchor="start">Possible</text>
+<rect class="box" x="425" y="820" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="449" y="858" text-anchor="start">Possible</text>
+<rect class="note" x="570" y="820" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="594" y="858" text-anchor="start">Less direct</text>
+<rect class="note" x="715" y="820" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="739" y="858" text-anchor="start">Less direct</text>
+<rect class="note" x="860" y="820" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="884" y="858" text-anchor="start">Less direct</text>
+<rect class="box" x="1005" y="820" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="1029" y="858" text-anchor="start">Possible</text>
+<rect class="box2" x="60" y="975" width="220" height="145" rx="22" ry="22"/>
+<text class="label" x="84" y="1013" text-anchor="start">Faecal</text>
+<text class="label" x="84" y="1042" text-anchor="start">spotting</text>
+<rect class="box" x="280" y="975" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="304" y="1013" text-anchor="start">Possible</text>
+<rect class="note" x="425" y="975" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="449" y="1013" text-anchor="start">Less direct</text>
+<rect class="note" x="570" y="975" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="594" y="1013" text-anchor="start">Less direct</text>
+<rect class="box" x="715" y="975" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="739" y="1013" text-anchor="start">Possible</text>
+<rect class="box" x="860" y="975" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="884" y="1013" text-anchor="start">Possible</text>
+<rect class="box" x="1005" y="975" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="1029" y="1013" text-anchor="start">Possible</text>
+<rect class="box2" x="60" y="1130" width="220" height="145" rx="22" ry="22"/>
+<text class="label" x="84" y="1168" text-anchor="start">Sudden</text>
+<text class="label" x="84" y="1197" text-anchor="start">mortality</text>
+<rect class="box" x="280" y="1130" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="304" y="1168" text-anchor="start">Possible</text>
+<rect class="box" x="425" y="1130" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="449" y="1168" text-anchor="start">Possible</text>
+<rect class="note" x="570" y="1130" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="594" y="1168" text-anchor="start">Less direct</text>
+<rect class="box" x="715" y="1130" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="739" y="1168" text-anchor="start">Possible</text>
+<rect class="box" x="860" y="1130" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="884" y="1168" text-anchor="start">Possible</text>
+<rect class="box" x="1005" y="1130" width="145" height="145" rx="22" ry="22"/>
+<text class="label" x="1029" y="1168" text-anchor="start">Possible</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">This matrix is a reasoning aid, not a diagnostic table. Use colony history, developmental</text>
+<text class="small" x="85" y="1535" text-anchor="start">stage, sampling and competent-authority/laboratory confirmation where required.</text>
+</svg>

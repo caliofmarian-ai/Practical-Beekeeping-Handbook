@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 24.10 — Early Success and Warning Signs</title>
+<desc id="desc">Comparison of early positive colony establishment signs with warning signs such as queenlessness, robbing, mortality, overheating, absconding or abnormal brood.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 24.10 — Early Success and Warning Signs</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Assess several observations together; one sign rarely defines early colony success or</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">failure.</text>
+<rect class="box" x="70" y="190" width="500" height="100" rx="22" ry="22"/>
+<text class="label" x="94" y="228" text-anchor="start">Early positive evidence</text>
+<rect class="stop" x="630" y="190" width="500" height="100" rx="22" ry="22"/>
+<text class="label" x="654" y="228" text-anchor="start">Warning signs requiring</text>
+<text class="label" x="654" y="257" text-anchor="start">investigation</text>
+<rect class="box" x="70" y="340" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="94" y="378" text-anchor="start">Organised colony activity</text>
+<text class="body" x="94" y="417" text-anchor="start">Bees orienting/working without persistent</text>
+<text class="body" x="94" y="444" text-anchor="start">chaos.</text>
+<rect class="stop" x="630" y="340" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="654" y="378" text-anchor="start">Persistent queenlessness evidence</text>
+<text class="body" x="654" y="417" text-anchor="start">No expected queen function after</text>
+<text class="body" x="654" y="444" text-anchor="start">context-appropriate interval.</text>
+<rect class="box" x="70" y="485" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="94" y="523" text-anchor="start">Comb building / occupied frames</text>
+<text class="body" x="94" y="562" text-anchor="start">Appropriate for the starting unit and</text>
+<text class="body" x="94" y="589" text-anchor="start">season.</text>
+<rect class="stop" x="630" y="485" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="654" y="523" text-anchor="start">Robbing / fighting / exposed feed</text>
+<text class="body" x="654" y="562" text-anchor="start">Immediate management and biosecurity</text>
+<text class="body" x="654" y="589" text-anchor="start">concern.</text>
+<rect class="box" x="70" y="630" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="94" y="668" text-anchor="start">Eggs or young brood</text>
+<text class="body" x="94" y="707" text-anchor="start">Supports recent queen function when</text>
+<text class="body" x="94" y="734" text-anchor="start">biologically plausible.</text>
+<rect class="stop" x="630" y="630" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="654" y="668" text-anchor="start">Excessive mortality / overheating</text>
+<text class="body" x="654" y="707" text-anchor="start">Stabilise hazard first.</text>
+<rect class="box" x="70" y="775" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="94" y="813" text-anchor="start">Food intake / accessible stores</text>
+<text class="body" x="94" y="852" text-anchor="start">Feed or forage being used without robbing</text>
+<text class="body" x="94" y="879" text-anchor="start">trigger.</text>
+<rect class="stop" x="630" y="775" width="500" height="110" rx="22" ry="22"/>
+<text class="label" x="654" y="813" text-anchor="start">Absconding or abnormal brood</text>
+<text class="body" x="654" y="852" text-anchor="start">Investigate health, environment, queen</text>
+<text class="body" x="654" y="879" text-anchor="start">and management; do not assume one cause.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">Starting-unit differences matter: package, nucleus and swarm should not be judged against an</text>
+<text class="small" x="85" y="1535" text-anchor="start">identical timetable.</text>
+</svg>

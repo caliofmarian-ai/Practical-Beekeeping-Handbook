@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 22.4 — Smoker-Lighting Sequence</title>
+<desc id="desc">Six-step smoker lighting sequence from fuel preparation to stable cool-smoke verification.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 22.4 — Smoker-Lighting Sequence</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Build a stable smoulder before approaching the colony.</text>
+<rect class="box2" x="55" y="230" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="79" y="268" text-anchor="start">1. Prepare fuel</text>
+<text class="body" x="79" y="307" text-anchor="start">Clean, dry, known</text>
+<text class="body" x="79" y="334" text-anchor="start">material; smoker on</text>
+<text class="body" x="79" y="361" text-anchor="start">fire-safe surface.</text>
+<path class="arrow" d="M300,335 L335,335"/>
+<rect class="box" x="335" y="230" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="359" y="268" text-anchor="start">2. Establish</text>
+<text class="label" x="359" y="297" text-anchor="start">small ember</text>
+<text class="body" x="359" y="336" text-anchor="start">Ignite a small</text>
+<text class="body" x="359" y="363" text-anchor="start">starter portion</text>
+<text class="body" x="359" y="390" text-anchor="start">safely; avoid large</text>
+<text class="body" x="359" y="417" text-anchor="start">open flame.</text>
+<path class="arrow" d="M580,335 L615,335"/>
+<rect class="box" x="615" y="230" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="639" y="268" text-anchor="start">3. Add fuel</text>
+<text class="label" x="639" y="297" text-anchor="start">progressively</text>
+<text class="body" x="639" y="336" text-anchor="start">Pack enough for</text>
+<text class="body" x="639" y="363" text-anchor="start">steady smoulder</text>
+<text class="body" x="639" y="390" text-anchor="start">while preserving</text>
+<text class="body" x="639" y="417" text-anchor="start">airflow.</text>
+<path class="arrow" d="M860,335 L895,335"/>
+<rect class="box" x="895" y="230" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="919" y="268" text-anchor="start">4. Test smoke</text>
+<text class="body" x="919" y="307" text-anchor="start">Confirm cool dense</text>
+<text class="body" x="919" y="334" text-anchor="start">smoke; no</text>
+<text class="body" x="919" y="361" text-anchor="start">sparks/open flame at</text>
+<text class="body" x="919" y="388" text-anchor="start">nozzle.</text>
+<path class="arrow" d="M1017,440 L177,530"/>
+<rect class="box" x="55" y="530" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="79" y="568" text-anchor="start">5. Close lid</text>
+<text class="body" x="79" y="607" text-anchor="start">Secure lid/nozzle</text>
+<text class="body" x="79" y="634" text-anchor="start">and check</text>
+<text class="body" x="79" y="661" text-anchor="start">bellows/airflow.</text>
+<path class="arrow" d="M300,635 L335,635"/>
+<rect class="box2" x="335" y="530" width="245" height="210" rx="22" ry="22"/>
+<text class="label" x="359" y="568" text-anchor="start">6. Verify stable</text>
+<text class="label" x="359" y="597" text-anchor="start">output</text>
+<text class="body" x="359" y="636" text-anchor="start">A few controlled</text>
+<text class="body" x="359" y="663" text-anchor="start">puffs before</text>
+<text class="body" x="359" y="690" text-anchor="start">approaching bees.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">If smoke is hot, flaming, spark-producing or chemically tainted: stop, correct the smoker,</text>
+<text class="small" x="85" y="1535" text-anchor="start">and do not use it on the colony.</text>
+</svg>

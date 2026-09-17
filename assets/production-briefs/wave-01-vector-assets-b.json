@@ -1,0 +1,175 @@
+{
+  "asset_count": 17,
+  "assets": [
+    {
+      "path": "assets/diagrams/wave-01/fig-21-2-veil-clearance.svg",
+      "title": "Figure 21.2 — Veil Clearance",
+      "alt_text": "Comparison of safe veil clearance from the face versus mesh pressed against skin where stings can penetrate more readily.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-22-3-smoker-fuels.svg",
+      "title": "Figure 22.3 — Suitable Versus Unsuitable Smoker Fuels",
+      "alt_text": "Two-column comparison of clean dry plant-based smoker fuels with painted, treated, plastic, oily, chemically contaminated or unknown waste material.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-22-4-smoker-lighting-sequence.svg",
+      "title": "Figure 22.4 — Smoker-Lighting Sequence",
+      "alt_text": "Six-step smoker lighting sequence from fuel preparation to stable cool-smoke verification.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-22-6-hot-smoker-fire-safety-zone.svg",
+      "title": "Figure 22.6 — Hot-Smoker and Fire-Safety Zone",
+      "alt_text": "Fire-safety flow for hot smoker resting, spark control, fire restrictions, extinguishing and vehicle transport.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-23-6-local-vs-emergency-sting-signs.svg",
+      "title": "Figure 23.6 — Local Reaction Versus Emergency Warning Signs",
+      "alt_text": "Clinical-awareness comparison between local sting effects and systemic emergency warning patterns with an explicit emergency-assistance action.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-24-1-starting-units-compared.svg",
+      "title": "Figure 24.1 — Starting Units Compared",
+      "alt_text": "Comparison matrix for package bees, nucleus colony and captured swarm, showing which biological components are typically present at installation.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-24-10-early-success-warning-signs.svg",
+      "title": "Figure 24.10 — Early Success and Warning Signs",
+      "alt_text": "Comparison of early positive colony establishment signs with warning signs such as queenlessness, robbing, mortality, overheating, absconding or abnormal brood.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-33-6-vehicle-loading.svg",
+      "title": "Figure 33.6 — Vehicle Loading",
+      "alt_text": "Transport schematic comparing a low balanced restrained hive load with an unsecured tall stack that compromises stability and ventilation.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-4-transport-overheating.svg",
+      "title": "Figure 38.4 — Transport Overheating",
+      "alt_text": "Comparison showing ventilated shaded transport versus sealed or blocked ventilation with solar heat loading and bee clustering.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-1-disease-investigation-framework.svg",
+      "title": "Figure 39.1 — Disease Investigation Framework",
+      "alt_text": "Disease investigation flow from history through observation, examination, differential diagnosis, sampling, regulated-disease escalation, control and follow-up.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-13-differential-diagnosis-matrix.svg",
+      "title": "Figure 39.13 — Differential Diagnosis Matrix",
+      "alt_text": "Matrix showing that common colony signs can have several possible cause categories and therefore require history, examination and confirmation rather than image-only diagnosis.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-7-monitoring-methods-compared.svg",
+      "title": "Figure 41.7 — Monitoring Methods Compared",
+      "alt_text": "Comparison of adult-bee wash, sugar roll, natural mite fall and brood uncapping by what each measures, whether bees are sacrificed and major limitations.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-11-treatment-failure-versus-reinvasion.svg",
+      "title": "Figure 41.11 — Treatment Failure Versus Reinvasion",
+      "alt_text": "Two timelines showing a high mite result immediately after control versus a later rise after an initially good verification result.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-9-afb-laboratory-confirmation-pathways.svg",
+      "title": "Figure 43.9 — Laboratory Confirmation Pathways",
+      "alt_text": "Laboratory pathway for AFB from representative sample and identity records through validated test, interpretation and regulatory decision.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-10-efb-follow-up-after-recovery.svg",
+      "title": "Figure 44.10 — Follow-Up After Apparent Recovery",
+      "alt_text": "Timeline for EFB follow-up after apparent clinical improvement, including reinspection, colony-strength check and recurrence surveillance.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-3-surveillance-versus-monitoring.svg",
+      "title": "Figure 46.3 — Surveillance Versus Monitoring",
+      "alt_text": "Two-column comparison of exotic-pest surveillance and repeated monitoring of an established threat such as Varroa.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-9-mode-of-action-resistance-selection.svg",
+      "title": "Figure 46.9 — Mode of Action and Resistance Selection",
+      "alt_text": "Conceptual population sequence showing selective removal of susceptible mites and disproportionate survival/reproduction of resistant mites after repeated use of one mode of action.",
+      "format": "SVG",
+      "status": "DRAFT_ART_TECH_REVIEW_PASS_LAYOUT_PROOF_PENDING",
+      "provenance": "original deterministic vector generated in repository",
+      "rights": "original project asset; commercial print/digital use permitted subject to project ownership",
+      "external_dependencies": []
+    }
+  ]
+}

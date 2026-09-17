@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 39.1 — Disease Investigation Framework</title>
+<desc id="desc">Disease investigation flow from history through observation, examination, differential diagnosis, sampling, regulated-disease escalation, control and follow-up.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 39.1 — Disease Investigation Framework</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Move from history and objective observation toward differential diagnosis, confirmation and</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">follow-up.</text>
+<rect class="box2" x="210" y="210" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="248" text-anchor="start">History</text>
+<text class="body" x="234" y="287" text-anchor="start">Recent queen changes, feeding, treatments, movements, weather,</text>
+<text class="body" x="234" y="314" text-anchor="start">forage, colony trend and neighbouring events.</text>
+<path class="arrow" d="M600,335 L600,380"/>
+<rect class="box" x="210" y="390" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="428" text-anchor="start">External observation</text>
+<text class="body" x="234" y="467" text-anchor="start">Flight, mortality distribution, entrance signs, odour, robbing,</text>
+<text class="body" x="234" y="494" text-anchor="start">drifting and environment.</text>
+<path class="arrow" d="M600,515 L600,560"/>
+<rect class="box" x="210" y="570" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="608" text-anchor="start">Adult and brood assessment</text>
+<text class="body" x="234" y="647" text-anchor="start">Compare with normal age/stage references; record objective signs</text>
+<text class="body" x="234" y="674" text-anchor="start">without naming a disease prematurely.</text>
+<path class="arrow" d="M600,695 L600,740"/>
+<rect class="box" x="210" y="750" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="788" text-anchor="start">Differential diagnosis</text>
+<text class="body" x="234" y="827" text-anchor="start">Consider infectious disease, parasites, queen problems,</text>
+<text class="body" x="234" y="854" text-anchor="start">nutrition, temperature and environmental exposure.</text>
+<path class="arrow" d="M600,875 L600,920"/>
+<rect class="box2" x="210" y="930" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="968" text-anchor="start">Sampling / confirmation</text>
+<text class="body" x="234" y="1007" text-anchor="start">Use validated field/laboratory methods when the decision requires</text>
+<text class="body" x="234" y="1034" text-anchor="start">confirmation.</text>
+<path class="arrow" d="M600,1055 L600,1100"/>
+<rect class="legal" x="210" y="1110" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="1148" text-anchor="start">Regulated-disease suspicion?</text>
+<text class="body" x="234" y="1187" text-anchor="start">Contact the competent authority and follow current local</text>
+<text class="body" x="234" y="1214" text-anchor="start">requirements.</text>
+<path class="arrow" d="M600,1235 L600,1280"/>
+<rect class="box" x="210" y="1290" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="1328" text-anchor="start">Control / correction</text>
+<text class="body" x="234" y="1367" text-anchor="start">Use the authorised disease, parasite, queen, nutrition or</text>
+<text class="body" x="234" y="1394" text-anchor="start">environmental response appropriate to the finding.</text>
+<path class="arrow" d="M600,1415 L600,1460"/>
+<rect class="box2" x="210" y="1470" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="1508" text-anchor="start">Follow-up</text>
+<text class="body" x="234" y="1547" text-anchor="start">Reinspect and verify outcome; update apiary records and contact</text>
+<text class="body" x="234" y="1574" text-anchor="start">tracing where relevant.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">A visual sign may support suspicion but should not be presented as diagnostic proof when</text>
+<text class="small" x="85" y="1535" text-anchor="start">confirmation is required.</text>
+</svg>
