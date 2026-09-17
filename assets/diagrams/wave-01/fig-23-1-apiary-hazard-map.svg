@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 23.1 — Apiary Hazard Map</title>
+<desc id="desc">Plan-view apiary hazard map showing flight paths, public access, vehicle route, livestock, uneven ground, smoker/fire zone, treatment chemical zone, lifting points and emergency access.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 23.1 — Apiary Hazard Map</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">Map hazards and access before opening colonies; the safest control is often a site or</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">work-layout decision.</text>
+<rect x="90" y="220" width="1020" height="1080" fill="#fafafa" stroke="#222" stroke-width="5"/>
+<rect x="300" y="480" width="120" height="85" fill="#eee" stroke="#222" stroke-width="4"/>
+<path d="M360,565 L360,660" class="arrow"/>
+<rect x="520" y="480" width="120" height="85" fill="#eee" stroke="#222" stroke-width="4"/>
+<path d="M580,565 L580,660" class="arrow"/>
+<rect x="740" y="480" width="120" height="85" fill="#eee" stroke="#222" stroke-width="4"/>
+<path d="M800,565 L800,660" class="arrow"/>
+<rect x="410" y="720" width="120" height="85" fill="#eee" stroke="#222" stroke-width="4"/>
+<path d="M470,805 L470,900" class="arrow"/>
+<rect x="630" y="720" width="120" height="85" fill="#eee" stroke="#222" stroke-width="4"/>
+<path d="M690,805 L690,900" class="arrow"/>
+<rect class="stop" x="120" y="1040" width="260" height="145" rx="22" ry="22"/>
+<text class="label" x="144" y="1078" text-anchor="start">Public boundary</text>
+<text class="body" x="144" y="1117" text-anchor="start">Keep entrances/flight</text>
+<text class="body" x="144" y="1144" text-anchor="start">paths away from</text>
+<text class="body" x="144" y="1171" text-anchor="start">routine public access</text>
+<text class="body" x="144" y="1198" text-anchor="start">where practical.</text>
+<rect class="box" x="430" y="1040" width="260" height="145" rx="22" ry="22"/>
+<text class="label" x="454" y="1078" text-anchor="start">Vehicle / lifting</text>
+<text class="label" x="454" y="1107" text-anchor="start">route</text>
+<text class="body" x="454" y="1146" text-anchor="start">Stable ground; clear</text>
+<text class="body" x="454" y="1173" text-anchor="start">reversing and</text>
+<text class="body" x="454" y="1200" text-anchor="start">carrying path.</text>
+<rect class="box2" x="760" y="1040" width="260" height="145" rx="22" ry="22"/>
+<text class="label" x="784" y="1078" text-anchor="start">Emergency access</text>
+<text class="body" x="784" y="1117" text-anchor="start">Keep gate/route</text>
+<text class="body" x="784" y="1144" text-anchor="start">identifiable and</text>
+<text class="body" x="784" y="1171" text-anchor="start">unobstructed.</text>
+<rect class="stop" x="840" y="300" width="220" height="150" rx="22" ry="22"/>
+<text class="label" x="864" y="338" text-anchor="start">Hot smoker</text>
+<text class="label" x="864" y="367" text-anchor="start">zone</text>
+<text class="body" x="864" y="406" text-anchor="start">Non-combustible</text>
+<text class="body" x="864" y="433" text-anchor="start">resting area;</text>
+<text class="body" x="864" y="460" text-anchor="start">respect fire</text>
+<text class="body" x="864" y="487" text-anchor="start">restrictions.</text>
+<rect class="legal" x="120" y="300" width="220" height="150" rx="22" ry="22"/>
+<text class="label" x="144" y="338" text-anchor="start">Treatment</text>
+<text class="label" x="144" y="367" text-anchor="start">storage</text>
+<text class="body" x="144" y="406" text-anchor="start">Secure labelled</text>
+<text class="body" x="144" y="433" text-anchor="start">chemicals away</text>
+<text class="body" x="144" y="460" text-anchor="start">from food/honey.</text>
+<text class="label" x="160" y="880" text-anchor="start">Uneven / slippery ground</text>
+<path d="M170,900 Q300,840 410,910 Q510,960 590,900" fill="none" stroke="#555" stroke-width="5" stroke-dasharray="8 6"/>
+<text class="label" x="790" y="820" text-anchor="start">Livestock / animal access</text>
+<rect x="825" y="850" width="190" height="90" fill="none" stroke="#555" stroke-width="4" stroke-dasharray="10 6"/>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">This is a planning example, not a universal site layout. Local public-safety, landowner,</text>
+<text class="small" x="85" y="1535" text-anchor="start">road, fire and workplace requirements still apply.</text>
+</svg>

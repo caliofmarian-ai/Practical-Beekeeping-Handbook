@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Figure 41.6 — Adult-Bee Wash Procedure</title>
+<desc id="desc">Numbered adult-bee Varroa wash procedure emphasising queen exclusion and distinction between measurement and intervention decision.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<style>
+.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#111}.subtitle{font:400 22px Arial,sans-serif;fill:#333}
+.box{fill:#f7f7f7;stroke:#222;stroke-width:3}.box2{fill:#e9e9e9;stroke:#222;stroke-width:3}
+.stop{fill:#fff;stroke:#111;stroke-width:5;stroke-dasharray:12 8}.legal{fill:#efefef;stroke:#111;stroke-width:4;stroke-dasharray:5 5}
+.label{font:700 24px Arial,sans-serif;fill:#111}.body{font:400 21px Arial,sans-serif;fill:#222}.small{font:400 18px Arial,sans-serif;fill:#333}
+.arrow{stroke:#111;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:2;fill:none}.hub{fill:#222;stroke:#111;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}.note{fill:#fafafa;stroke:#666;stroke-width:2}
+</style>
+<rect class="bg" x="0" y="0" width="1200" height="1600"/>
+<text class="title" x="60" y="70">Figure 41.6 — Adult-Bee Wash Procedure</text>
+<text class="subtitle" x="60" y="108" text-anchor="start">A quantitative adult-bee wash requires representative collection, queen exclusion, defined</text>
+<text class="subtitle" x="60" y="136" text-anchor="start">sample/method and an explicit denominator.</text>
+<rect class="box2" x="210" y="210" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="248" text-anchor="start">Prepare validated equipment/method</text>
+<text class="body" x="234" y="287" text-anchor="start">Container, dislodging/wash medium and counting setup appropriate</text>
+<text class="body" x="234" y="314" text-anchor="start">to the chosen validated protocol.</text>
+<path class="arrow" d="M600,335 L600,380"/>
+<rect class="box" x="210" y="390" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="428" text-anchor="start">Choose representative brood-area adult bees</text>
+<text class="body" x="234" y="467" text-anchor="start">Sampling location matters; follow current regional/validated</text>
+<text class="body" x="234" y="494" text-anchor="start">protocol.</text>
+<path class="arrow" d="M600,515 L600,560"/>
+<rect class="stop" x="210" y="570" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="608" text-anchor="start">Locate / protect the queen</text>
+<text class="body" x="234" y="647" text-anchor="start">Never include the queen in a destructive wash sample.</text>
+<path class="arrow" d="M600,695 L600,740"/>
+<rect class="box" x="210" y="750" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="788" text-anchor="start">Collect defined adult-bee sample</text>
+<text class="body" x="234" y="827" text-anchor="start">Use the validated sample size/measurement approach and record</text>
+<text class="body" x="234" y="854" text-anchor="start">colony/date.</text>
+<path class="arrow" d="M600,875 L600,920"/>
+<rect class="box" x="210" y="930" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="968" text-anchor="start">Wash / dislodge mites</text>
+<text class="body" x="234" y="1007" text-anchor="start">Follow method timing/agitation/separation steps consistently.</text>
+<path class="arrow" d="M600,1055 L600,1100"/>
+<rect class="box2" x="210" y="1110" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="1148" text-anchor="start">Count recovered mites and bee denominator</text>
+<text class="body" x="234" y="1187" text-anchor="start">Calculate mites per 100 bees (or the protocol metric) from the</text>
+<text class="body" x="234" y="1214" text-anchor="start">measured numerator and denominator.</text>
+<path class="arrow" d="M600,1235 L600,1280"/>
+<rect class="legal" x="210" y="1290" width="780" height="125" rx="22" ry="22"/>
+<text class="label" x="234" y="1328" text-anchor="start">Record and interpret locally</text>
+<text class="body" x="234" y="1367" text-anchor="start">Separate the measurement from the region/season-specific</text>
+<text class="body" x="234" y="1394" text-anchor="start">management decision.</text>
+<rect class="note" x="60" y="1480" width="1080" height="80" rx="18"/>
+<text class="small" x="85" y="1512" text-anchor="start">This diagram teaches measurement discipline, not a universal threshold. Exact sample size</text>
+<text class="small" x="85" y="1535" text-anchor="start">and wash procedure should follow the validated regional method.</text>
+</svg>
