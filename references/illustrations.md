@@ -12,19 +12,14 @@ Issue #100 remains open until those assets are complete.
 
 ## 1. Inventory Audit
 
-A repository audit performed after completion of Chapter 74 found:
+The final pre-production audit confirms:
 
-- Chapters **26–74** already had dedicated files named `chapter-NN-illustration-plan.md`.
-- Chapters **22–25** had valid earlier plans under legacy filenames `chapter-22.md` through `chapter-25.md`.
-- Chapters **1–21** had no dedicated illustration-plan files in `main`.
-- This reference-material branch adds dedicated, standardised plans for Chapters **1–21**, eliminating the missing-plan gap.
-- The archived noncanonical Honey Quality draft and its archived illustration plan remain under `docs/reference/` and are **not** part of the canonical figure sequence.
+- every canonical Chapter **1–74** now has a dedicated standard file named `docs/illustration-plans/chapter-NN-illustration-plan.md`;
+- the formatting validator discovered the remaining Chapter 22–25 naming gap and dedicated standard plans were added before publication assembly was approved;
+- the archived noncanonical Honey Quality draft and archived plan remain under `docs/reference/` and are **not** part of the canonical figure sequence;
+- the chapter plans currently define **760** planned figures in the machine-readable visual-production manifest.
 
-After this branch, every canonical chapter 1–74 has a chapter-level visual plan.
-
-### Naming note
-
-For final production, legacy files for Chapters 22–25 should be treated as authoritative plan sources despite their shorter filenames. Renaming can be done during the formatting pass if desired, but duplicate copies should not be created merely for filename consistency.
+The canonical plan naming gap is therefore closed. Final artwork itself remains pending production/review under Issue #100.
 
 ---
 
@@ -176,8 +171,8 @@ The detailed working titles reside in the chapter plan files. This master regist
 |---|---|---|---|
 | I — Foundations | 1–5 | Complete | Artwork pending |
 | II — Honey Bee Biology | 6–14 | Complete | Artwork pending |
-| III — Starting an Apiary | 15–23 | Complete; 22–23 legacy filenames | Artwork pending |
-| IV — Colony Management | 24–38 | Complete; 24–25 legacy filenames | Artwork pending |
+| III — Starting an Apiary | 15–23 | Complete; standard filenames | Artwork pending |
+| IV — Colony Management | 24–38 | Complete; standard filenames | Artwork pending |
 | V — Bee Health | 39–46 | Complete | Artwork pending |
 | VI — Honey Production | 47–54 | Complete | Artwork pending |
 | VII — Other Hive Products | 55–59 | Complete | Artwork pending |
