@@ -1,7 +1,7 @@
 {
   "planned_core_assets": 68,
-  "actual_asset_ids_present": 50,
-  "remaining_high_fidelity_assets": 18,
+  "actual_asset_ids_present": 57,
+  "remaining_high_fidelity_assets": 11,
   "assets": [
     {
       "wave": 1,
@@ -16,7 +16,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-25-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -27,10 +27,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-25-7-brood-pattern-interpretation.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -62,7 +62,7 @@
       "reuse_family": "HEALTHY_BROOD_REFERENCE",
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-39-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -73,10 +73,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-39-2-healthy-brood-reference.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "AUTHENTIC_RIGHTS_CLEARED_PHOTO_OR_TECHNICAL_COMPARISON_PLATE",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -108,7 +108,7 @@
       "reuse_family": null,
       "recommended_print_size": "single-or-double-column",
       "source_plan": "docs/illustration-plans/chapter-39-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -119,10 +119,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-39-3-patchy-brood-multiple-causes.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -154,7 +154,7 @@
       "reuse_family": null,
       "recommended_print_size": "single-or-double-column",
       "source_plan": "docs/illustration-plans/chapter-39-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -165,10 +165,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-39-4-afb-suspicion-features.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -614,7 +614,7 @@
       "reuse_family": "HEALTHY_BROOD_REFERENCE",
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-43-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -625,10 +625,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-43-2-healthy-brood-vs-early-afb.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -660,7 +660,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-43-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -671,10 +671,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-43-3-disease-stage-cell-series.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "AUTHENTIC_RIGHTS_CLEARED_PHOTO_OR_TECHNICAL_COMPARISON_PLATE",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -706,7 +706,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-44-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -717,10 +717,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-44-2-healthy-vs-efb-open-brood.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "AUTHENTIC_RIGHTS_CLEARED_PHOTO_OR_TECHNICAL_COMPARISON_PLATE",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
