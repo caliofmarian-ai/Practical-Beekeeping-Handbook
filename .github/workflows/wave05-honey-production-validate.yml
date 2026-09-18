@@ -1,0 +1,38 @@
+name: wave05-honey-production-validate
+
+on:
+  push:
+    branches:
+      - publishing/visual-wave-05-honey-production
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Wave 05 SVGs and manifests
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import csv, json, xml.etree.ElementTree as ET
+          root=Path(".")
+          files=sorted((root/"assets/diagrams/wave-05").glob("*.svg"))
+          assert len(files)==18, f"expected 18 Wave 05 SVGs, found {len(files)}"
+          for p in files:
+              text=p.read_text(encoding="utf-8")
+              ET.fromstring(text)
+              assert '<title id="title">' in text, p
+              assert '<desc id="desc">' in text, p
+              assert 'aria-labelledby="title desc"' in text, p
+          meta=json.loads((root/"assets/production-briefs/wave-05-honey-production.json").read_text(encoding="utf-8"))
+          assert meta["asset_count"]==18 and len(meta["assets"])==18
+          rows=list(csv.DictReader((root/"docs/visual-index/wave-05-manifest.csv").open(encoding="utf-8")))
+          assert len(rows)==18
+          assert (root/"docs/visual-index/wave-05.md").exists()
+          assert (root/"docs/reviews/VISUAL_WAVE_05_HONEY_PRODUCTION_REVIEW.md").exists()
+          print("Wave 05 validation PASS: 18 SVGs + metadata + gallery + review")
+          PY
