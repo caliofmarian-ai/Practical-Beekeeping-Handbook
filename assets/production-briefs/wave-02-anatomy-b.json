@@ -1,0 +1,97 @@
+{
+  "wave": 2,
+  "batch": "anatomy-b",
+  "asset_count": 15,
+  "assets": [
+    {
+      "figure_id": "6.1",
+      "path": "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "6.4",
+      "path": "assets/diagrams/wave-02/fig-06-4-internal-systems.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "6.5",
+      "path": "assets/diagrams/wave-02/fig-06-5-caste-anatomy-comparison.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "7.1",
+      "path": "assets/diagrams/wave-02/fig-07-1-complete-development-cycle.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "7.2",
+      "path": "assets/diagrams/wave-02/fig-07-2-larval-growth-feeding.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "7.4",
+      "path": "assets/diagrams/wave-02/fig-07-4-caste-development-comparison.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "8.1",
+      "path": "assets/diagrams/wave-02/fig-08-1-queen-anatomy-identification.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "8.2",
+      "path": "assets/diagrams/wave-02/fig-08-2-queen-reproductive-system.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "8.3",
+      "path": "assets/diagrams/wave-02/fig-08-3-mating-sperm-storage.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "9.1",
+      "path": "assets/diagrams/wave-02/fig-09-1-worker-task-progression.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "9.2",
+      "path": "assets/diagrams/wave-02/fig-09-2-worker-specialised-structures.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "9.3",
+      "path": "assets/diagrams/wave-02/fig-09-3-forager-resource-types.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "10.1",
+      "path": "assets/diagrams/wave-02/fig-10-1-drone-identification.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "10.2",
+      "path": "assets/diagrams/wave-02/fig-10-2-drone-development.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "10.3",
+      "path": "assets/diagrams/wave-02/fig-10-3-drone-reproductive-anatomy.svg",
+      "status": "ACTUAL_TECHNICAL_SVG_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    }
+  ]
+}

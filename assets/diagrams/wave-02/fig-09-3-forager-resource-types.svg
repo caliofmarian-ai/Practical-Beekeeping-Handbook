@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 9.3 — Forager Resource Types</title>
+<desc id="desc">Forager resource types—nectar, pollen, water and plant resin—shown with the correct primary transport structures.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 9.3 — Forager Resource Types</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">A forager can specialise temporarily on different resources; transport differs by resource.</text>
+<rect x="60" y="170" width="290" height="650" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="78" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Nectar</text>
+<path d="M 153.0 350.0 C 169.0 320.0, 205.0 324.0, 190.2 352.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="0.8"/>
+<path d="M 159.0 362.0 C 179.0 382.0, 202.2 378.0, 187.0 362.0 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="0.6400000000000001"/>
+<circle cx="125.0" cy="360" r="12.0" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="155" cy="360" rx="17.6" ry="15.600000000000001" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="199.8" cy="360" rx="28.8" ry="12.4" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<line x1="180.6" y1="349.46" x2="180.6" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="190.2" y1="349.46" x2="190.2" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="199.8" y1="349.46" x2="199.8" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="209.4" y1="349.46" x2="209.4" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="219.0" y1="349.46" x2="219.0" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<path d="M 119.0 352.0 Q 105.0 338.0 97.0 343.2" fill="none" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<path d="M 123.0 350.4 Q 117.0 332.0 107.0 331.2" fill="none" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="119.8" cy="358.4" rx="4.4" ry="6.4" fill="#3C2E25"/>
+<path d="M 147.0 370.0 L 137.0 392.8 L 145.0 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 157.0 370.0 L 147.0 392.8 L 155.0 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 166.2 370.0 L 156.2 392.8 L 164.2 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<ellipse cx="240" cy="365" rx="28" ry="18" fill="#F6CF58" stroke="#D4A017" stroke-width="3"/>
+<text x="85" y="590" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">carried internally in crop</text>
+<rect x="395" y="170" width="290" height="650" rx="18" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="413" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">Pollen</text>
+<path d="M 488.0 350.0 C 504.0 320.0, 540.0 324.0, 525.2 352.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="0.8"/>
+<path d="M 494.0 362.0 C 514.0 382.0, 537.2 378.0, 522.0 362.0 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="0.6400000000000001"/>
+<circle cx="460.0" cy="360" r="12.0" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="490" cy="360" rx="17.6" ry="15.600000000000001" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="534.8" cy="360" rx="28.8" ry="12.4" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<line x1="515.6" y1="349.46" x2="515.6" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="525.2" y1="349.46" x2="525.2" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="534.8" y1="349.46" x2="534.8" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="544.4" y1="349.46" x2="544.4" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="554.0" y1="349.46" x2="554.0" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<path d="M 454.0 352.0 Q 440.0 338.0 432.0 343.2" fill="none" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<path d="M 458.0 350.4 Q 452.0 332.0 442.0 331.2" fill="none" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="454.8" cy="358.4" rx="4.4" ry="6.4" fill="#3C2E25"/>
+<path d="M 482.0 370.0 L 472.0 392.8 L 480.0 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 492.0 370.0 L 482.0 392.8 L 490.0 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 501.2 370.0 L 491.2 392.8 L 499.2 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<ellipse cx="560" cy="500" rx="22" ry="13" fill="#E1A11E" stroke="#9A6515" stroke-width="3"/>
+<text x="420" y="590" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">packed on hind-leg corbiculae</text>
+<rect x="730" y="170" width="290" height="650" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="748" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Water</text>
+<path d="M 823.0 350.0 C 839.0 320.0, 875.0 324.0, 860.2 352.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="0.8"/>
+<path d="M 829.0 362.0 C 849.0 382.0, 872.2 378.0, 857.0 362.0 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="0.6400000000000001"/>
+<circle cx="795.0" cy="360" r="12.0" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="825" cy="360" rx="17.6" ry="15.600000000000001" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="869.8" cy="360" rx="28.8" ry="12.4" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<line x1="850.6" y1="349.46" x2="850.6" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="860.2" y1="349.46" x2="860.2" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="869.8" y1="349.46" x2="869.8" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="879.4" y1="349.46" x2="879.4" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="889.0" y1="349.46" x2="889.0" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<path d="M 789.0 352.0 Q 775.0 338.0 767.0 343.2" fill="none" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<path d="M 793.0 350.4 Q 787.0 332.0 777.0 331.2" fill="none" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="789.8" cy="358.4" rx="4.4" ry="6.4" fill="#3C2E25"/>
+<path d="M 817.0 370.0 L 807.0 392.8 L 815.0 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 827.0 370.0 L 817.0 392.8 L 825.0 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 836.2 370.0 L 826.2 392.8 L 834.2 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M910 335 C888 360 888 382 910 400 C932 382 932 360 910 335 Z" fill="#90CAF9" stroke="#1565C0" stroke-width="3"/>
+<text x="755" y="590" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">carried internally in crop</text>
+<rect x="1065" y="170" width="290" height="650" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="1083" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Plant resin</text>
+<path d="M 1158.0 350.0 C 1174.0 320.0, 1210.0 324.0, 1195.2 352.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="0.8"/>
+<path d="M 1164.0 362.0 C 1184.0 382.0, 1207.2 378.0, 1192.0 362.0 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="0.6400000000000001"/>
+<circle cx="1130.0" cy="360" r="12.0" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="1160" cy="360" rx="17.6" ry="15.600000000000001" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="1204.8" cy="360" rx="28.8" ry="12.4" fill="#E0A419" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<line x1="1185.6" y1="349.46" x2="1185.6" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="1195.2" y1="349.46" x2="1195.2" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="1204.8" y1="349.46" x2="1204.8" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="1214.4" y1="349.46" x2="1214.4" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<line x1="1224.0" y1="349.46" x2="1224.0" y2="370.54" stroke="#5D4037" stroke-width="1.6" opacity="0.7"/>
+<path d="M 1124.0 352.0 Q 1110.0 338.0 1102.0 343.2" fill="none" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<path d="M 1128.0 350.4 Q 1122.0 332.0 1112.0 331.2" fill="none" stroke="#5D4037" stroke-width="1.2000000000000002"/>
+<ellipse cx="1124.8" cy="358.4" rx="4.4" ry="6.4" fill="#3C2E25"/>
+<path d="M 1152.0 370.0 L 1142.0 392.8 L 1150.0 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 1162.0 370.0 L 1152.0 392.8 L 1160.0 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 1171.2 370.0 L 1161.2 392.8 L 1169.2 407.2" fill="none" stroke="#5D4037" stroke-width="1.6" stroke-linecap="round"/>
+<ellipse cx="1230" cy="500" rx="22" ry="13" fill="#7A4D31" stroke="#4E3224" stroke-width="3"/>
+<text x="1090" y="590" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">carried on hind-leg corbiculae</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Nectar and water are transported internally in the crop. Pollen and resin are carried externally on specialised hind-leg structures; neither is carried as liquid in the crop.</text>
+</svg>

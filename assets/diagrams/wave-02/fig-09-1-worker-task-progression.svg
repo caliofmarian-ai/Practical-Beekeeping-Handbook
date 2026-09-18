@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 9.1 — Worker Task Progression</title>
+<desc id="desc">Age-related worker task tendencies from cell cleaning and nursing to wax/food work, guarding and foraging, with arrows showing behavioural flexibility.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 9.1 — Worker Task Progression</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Worker tasks overlap and can reverse according to colony need; this is not a rigid age schedule.</text>
+<rect x="75" y="230" width="210" height="330" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="93" y="261" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Cleaning</text>
+<path d="M 128.5 382.5 C 140.5 360.0, 167.5 363.0, 156.4 384.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="0.6"/>
+<path d="M 133.0 391.5 C 148.0 406.5, 165.4 403.5, 154.0 391.5 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="0.48"/>
+<circle cx="107.5" cy="390" r="9.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="130" cy="390" rx="13.2" ry="11.7" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="163.6" cy="390" rx="21.599999999999998" ry="9.299999999999999" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<line x1="149.2" y1="382.095" x2="149.2" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="156.4" y1="382.095" x2="156.4" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="163.6" y1="382.095" x2="163.6" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="170.8" y1="382.095" x2="170.8" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="178.0" y1="382.095" x2="178.0" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<path d="M 103.0 384.0 Q 92.5 373.5 86.5 377.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<path d="M 106.0 382.8 Q 101.5 369.0 94.0 368.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="103.6" cy="388.8" rx="3.3" ry="4.8" fill="#3C2E25"/>
+<path d="M 124.0 397.5 L 116.5 414.6 L 122.5 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 131.5 397.5 L 124.0 414.6 L 130.0 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 138.4 397.5 L 130.9 414.6 L 136.9 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<text x="93" y="495" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">prepare cells / hive hygiene</text>
+<line x1="285" y1="395" x2="340" y2="395" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="340" y="230" width="210" height="330" rx="18" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="358" y="261" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Nursing</text>
+<path d="M 393.5 382.5 C 405.5 360.0, 432.5 363.0, 421.4 384.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="0.6"/>
+<path d="M 398.0 391.5 C 413.0 406.5, 430.4 403.5, 419.0 391.5 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="0.48"/>
+<circle cx="372.5" cy="390" r="9.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="395" cy="390" rx="13.2" ry="11.7" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="428.6" cy="390" rx="21.599999999999998" ry="9.299999999999999" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<line x1="414.2" y1="382.095" x2="414.2" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="421.4" y1="382.095" x2="421.4" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="428.6" y1="382.095" x2="428.6" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="435.8" y1="382.095" x2="435.8" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="443.0" y1="382.095" x2="443.0" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<path d="M 368.0 384.0 Q 357.5 373.5 351.5 377.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<path d="M 371.0 382.8 Q 366.5 369.0 359.0 368.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="368.6" cy="388.8" rx="3.3" ry="4.8" fill="#3C2E25"/>
+<path d="M 389.0 397.5 L 381.5 414.6 L 387.5 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 396.5 397.5 L 389.0 414.6 L 395.0 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 403.4 397.5 L 395.9 414.6 L 401.9 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<text x="358" y="495" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">feed larvae and queen</text>
+<line x1="550" y1="395" x2="605" y2="395" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="605" y="230" width="210" height="330" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="623" y="261" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Wax + food work</text>
+<path d="M 658.5 382.5 C 670.5 360.0, 697.5 363.0, 686.4 384.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="0.6"/>
+<path d="M 663.0 391.5 C 678.0 406.5, 695.4 403.5, 684.0 391.5 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="0.48"/>
+<circle cx="637.5" cy="390" r="9.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="660" cy="390" rx="13.2" ry="11.7" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="693.6" cy="390" rx="21.599999999999998" ry="9.299999999999999" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<line x1="679.2" y1="382.095" x2="679.2" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="686.4" y1="382.095" x2="686.4" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="693.6" y1="382.095" x2="693.6" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="700.8" y1="382.095" x2="700.8" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="708.0" y1="382.095" x2="708.0" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<path d="M 633.0 384.0 Q 622.5 373.5 616.5 377.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<path d="M 636.0 382.8 Q 631.5 369.0 624.0 368.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="633.6" cy="388.8" rx="3.3" ry="4.8" fill="#3C2E25"/>
+<path d="M 654.0 397.5 L 646.5 414.6 L 652.5 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 661.5 397.5 L 654.0 414.6 L 660.0 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 668.4 397.5 L 660.9 414.6 L 666.9 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<text x="623" y="495" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">comb, nectar handling, ventilation</text>
+<line x1="815" y1="395" x2="870" y2="395" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="870" y="230" width="210" height="330" rx="18" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="888" y="261" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">Guarding</text>
+<path d="M 923.5 382.5 C 935.5 360.0, 962.5 363.0, 951.4 384.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="0.6"/>
+<path d="M 928.0 391.5 C 943.0 406.5, 960.4 403.5, 949.0 391.5 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="0.48"/>
+<circle cx="902.5" cy="390" r="9.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="925" cy="390" rx="13.2" ry="11.7" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="958.6" cy="390" rx="21.599999999999998" ry="9.299999999999999" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<line x1="944.2" y1="382.095" x2="944.2" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="951.4" y1="382.095" x2="951.4" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="958.6" y1="382.095" x2="958.6" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="965.8" y1="382.095" x2="965.8" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="973.0" y1="382.095" x2="973.0" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<path d="M 898.0 384.0 Q 887.5 373.5 881.5 377.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<path d="M 901.0 382.8 Q 896.5 369.0 889.0 368.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="898.6" cy="388.8" rx="3.3" ry="4.8" fill="#3C2E25"/>
+<path d="M 919.0 397.5 L 911.5 414.6 L 917.5 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 926.5 397.5 L 919.0 414.6 L 925.0 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 933.4 397.5 L 925.9 414.6 L 931.9 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<text x="888" y="495" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">entrance defence / recognition</text>
+<line x1="1080" y1="395" x2="1135" y2="395" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="1135" y="230" width="210" height="330" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="1153" y="261" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Foraging</text>
+<path d="M 1188.5 382.5 C 1200.5 360.0, 1227.5 363.0, 1216.4 384.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="0.6"/>
+<path d="M 1193.0 391.5 C 1208.0 406.5, 1225.4 403.5, 1214.0 391.5 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="0.48"/>
+<circle cx="1167.5" cy="390" r="9.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="1190" cy="390" rx="13.2" ry="11.7" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="1223.6" cy="390" rx="21.599999999999998" ry="9.299999999999999" fill="#E0A419" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<line x1="1209.2" y1="382.095" x2="1209.2" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="1216.4" y1="382.095" x2="1216.4" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="1223.6" y1="382.095" x2="1223.6" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="1230.8" y1="382.095" x2="1230.8" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<line x1="1238.0" y1="382.095" x2="1238.0" y2="397.905" stroke="#5D4037" stroke-width="1.2" opacity="0.7"/>
+<path d="M 1163.0 384.0 Q 1152.5 373.5 1146.5 377.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<path d="M 1166.0 382.8 Q 1161.5 369.0 1154.0 368.4" fill="none" stroke="#5D4037" stroke-width="0.8999999999999999"/>
+<ellipse cx="1163.6" cy="388.8" rx="3.3" ry="4.8" fill="#3C2E25"/>
+<path d="M 1184.0 397.5 L 1176.5 414.6 L 1182.5 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 1191.5 397.5 L 1184.0 414.6 L 1190.0 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 1198.4 397.5 L 1190.9 414.6 L 1196.9 425.4" fill="none" stroke="#5D4037" stroke-width="1.2" stroke-linecap="round"/>
+<text x="1153" y="495" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">nectar, pollen, water, resin</text>
+<path d="M1230 650 C1050 800 380 800 180 650" fill="none" stroke="#EF6C00" stroke-width="5" marker-end="url(#ab)"/>
+<text x="700" y="790" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#EF6C00" text-anchor="middle">colony need can accelerate, delay or reverse task tendencies</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Age polyethism describes a tendency, not a timetable. Nutrition, season, colony demography and disturbance can reshape worker roles.</text>
+</svg>

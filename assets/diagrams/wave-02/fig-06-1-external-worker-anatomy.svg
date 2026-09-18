@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 6.1 — External Worker Anatomy</title>
+<desc id="desc">External worker honey bee anatomy with head, thorax, abdomen, antennae, compound eye, ocelli, mouthparts, legs, wings and sting region.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 6.1 — External Worker Anatomy</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Labels are schematic; microscopic structures are not enlarged without explicit insets.</text>
+<path d="M 471.5 437.5 C 539.5 310.0, 692.5 327.0, 629.6 446.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="3.4"/>
+<path d="M 497.0 488.5 C 582.0 573.5, 680.6 556.5, 616.0 488.5 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="2.72"/>
+<circle cx="352.5" cy="480" r="51.0" fill="#E0A419" stroke="#5D4037" stroke-width="5.1"/>
+<ellipse cx="480" cy="480" rx="74.8" ry="66.3" fill="#E0A419" stroke="#5D4037" stroke-width="5.1"/>
+<ellipse cx="670.4" cy="480" rx="122.39999999999999" ry="52.699999999999996" fill="#E0A419" stroke="#5D4037" stroke-width="5.1"/>
+<line x1="588.8" y1="435.205" x2="588.8" y2="524.795" stroke="#5D4037" stroke-width="6.8" opacity="0.7"/>
+<line x1="629.6" y1="435.205" x2="629.6" y2="524.795" stroke="#5D4037" stroke-width="6.8" opacity="0.7"/>
+<line x1="670.4" y1="435.205" x2="670.4" y2="524.795" stroke="#5D4037" stroke-width="6.8" opacity="0.7"/>
+<line x1="711.2" y1="435.205" x2="711.2" y2="524.795" stroke="#5D4037" stroke-width="6.8" opacity="0.7"/>
+<line x1="752.0" y1="435.205" x2="752.0" y2="524.795" stroke="#5D4037" stroke-width="6.8" opacity="0.7"/>
+<path d="M 327.0 446.0 Q 267.5 386.5 233.5 408.6" fill="none" stroke="#5D4037" stroke-width="5.1"/>
+<path d="M 344.0 439.2 Q 318.5 361.0 276.0 357.6" fill="none" stroke="#5D4037" stroke-width="5.1"/>
+<ellipse cx="330.4" cy="473.2" rx="18.7" ry="27.2" fill="#3C2E25"/>
+<path d="M 446.0 522.5 L 403.5 619.4 L 437.5 680.6" fill="none" stroke="#5D4037" stroke-width="6.8" stroke-linecap="round"/>
+<path d="M 488.5 522.5 L 446.0 619.4 L 480.0 680.6" fill="none" stroke="#5D4037" stroke-width="6.8" stroke-linecap="round"/>
+<path d="M 527.6 522.5 L 485.1 619.4 L 519.1 680.6" fill="none" stroke="#5D4037" stroke-width="6.8" stroke-linecap="round"/>
+<circle cx="242.0" cy="420.5" r="6" fill="#2F2B28"/>
+<circle cx="262.4" cy="400.1" r="6" fill="#2F2B28"/>
+<circle cx="284.5" cy="420.5" r="6" fill="#2F2B28"/>
+<line x1="300" y1="430" x2="100" y2="250" stroke="#1565C0" stroke-width="2.5"/>
+<text x="105" y="255" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#1565C0" text-anchor="start">antennae</text>
+<line x1="325" y1="480" x2="105" y2="380" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="110" y="385" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#6A1B9A" text-anchor="start">compound eye</text>
+<line x1="280" y1="420" x2="100" y2="475" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="105" y="480" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#6A1B9A" text-anchor="start">ocelli</text>
+<line x1="355" y1="525" x2="120" y2="610" stroke="#1565C0" stroke-width="2.5"/>
+<text x="125" y="615" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#1565C0" text-anchor="start">mouthparts</text>
+<line x1="480" y1="430" x2="520" y2="245" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="525" y="250" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#2E7D32" text-anchor="start">thorax</text>
+<line x1="655" y1="430" x2="800" y2="250" stroke="#1565C0" stroke-width="2.5"/>
+<text x="805" y="255" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#1565C0" text-anchor="start">forewing / hindwing</text>
+<line x1="520" y1="600" x2="420" y2="760" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="425" y="765" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#2E7D32" text-anchor="start">legs</text>
+<line x1="750" y1="480" x2="900" y2="420" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="905" y="425" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#EF6C00" text-anchor="start">abdomen</text>
+<line x1="850" y1="480" x2="1000" y2="560" stroke="#C62828" stroke-width="2.5"/>
+<text x="1005" y="565" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#C62828" text-anchor="start">sting region</text>
+<rect x="1020" y="210" width="300" height="510" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="1038" y="241" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Three body regions</text>
+<text x="1045" y="270" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">HEAD</text>
+<text x="1045" y="293" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">sensory input + feeding structures</text>
+<text x="1045" y="316" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start"></text>
+<text x="1045" y="339" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">THORAX</text>
+<text x="1045" y="362" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">wings + three pairs of legs</text>
+<text x="1045" y="385" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start"></text>
+<text x="1045" y="408" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">ABDOMEN</text>
+<text x="1045" y="431" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">digestive/reproductive systems,</text>
+<text x="1045" y="454" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">wax glands, sting apparatus</text>
+<rect x="55" y="885" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">External structures are linked to function: sensing and feeding at the head, locomotion at the thorax, and major digestive/reproductive/defensive systems in the abdomen.</text>
+</svg>
