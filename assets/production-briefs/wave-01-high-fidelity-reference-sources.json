@@ -1,0 +1,62 @@
+{
+  "status": "REFERENCE_PACK_READY",
+  "date": "2026-09-18",
+  "scope": "Wave 01 remaining 18 high-fidelity A_CORE visuals",
+  "primary_rules": [
+    "Do not turn suggestive field signs into image-only diagnosis.",
+    "Preserve realistic morphology, developmental stage, scale and anatomy.",
+    "Use original or rights-cleared assets only.",
+    "Do not automatically recolour diagnostic morphology.",
+    "Require source, morphology, diagnostic-limitation, accessibility and final-layout review."
+  ],
+  "core_sources": [
+    {
+      "topic": "Varroa feeding site",
+      "url": "https://doi.org/10.1073/pnas.1818371116"
+    },
+    {
+      "topic": "Varroa life cycle",
+      "url": "https://www.ars.usda.gov/pacific-west-area/tucson-az/carl-hayden-bee-research-center/research/varroa/varroa-mite-life-cycle-and-reproduction/"
+    },
+    {
+      "topic": "Varroa biology review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8825774/"
+    },
+    {
+      "topic": "Tropilaelaps 2026 review",
+      "url": "https://www.frontiersin.org/journals/insect-science/articles/10.3389/finsc.2026.1871985/full"
+    },
+    {
+      "topic": "WOAH bee disease manual index",
+      "url": "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/A_summry.htm"
+    },
+    {
+      "topic": "WOAH Tropilaelaps diagnostics",
+      "url": "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/2.02.06_TROPILAELAPS.pdf"
+    },
+    {
+      "topic": "AFB/EFB field guidance",
+      "url": "https://www.gov.uk/guidance/honey-bees-protecting-them-from-pests-and-diseases"
+    },
+    {
+      "topic": "Healthy brood",
+      "url": "https://www.fda.gov/animal-veterinary/animal-health-literacy/helping-agricultures-helpful-honey-bees"
+    },
+    {
+      "topic": "Nosema biology",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8468538/"
+    },
+    {
+      "topic": "DWV review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31185188/"
+    },
+    {
+      "topic": "Varroa DWV interaction",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3545936/"
+    },
+    {
+      "topic": "Drone brood IPM",
+      "url": "https://extension.psu.edu/methods-to-control-varroa-mites-an-integrated-pest-management-approach"
+    }
+  ]
+}
