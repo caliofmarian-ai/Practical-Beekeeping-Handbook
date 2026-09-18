@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+<title id="title">Figure 42.3 — Healthy Versus Heavily Affected Midgut Concept</title>
+<desc id="desc">Adult honey bee digestive anatomy highlighting the ventriculus and a microscopic concept comparison between healthy epithelium and heavily Nosema-affected epithelial cells.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1050" fill="#FFFFFF"/>
+<text x="55" y="62" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 42.3 — Healthy Versus Heavily Affected Midgut Concept</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">This is a tissue-level concept. Gross gut colour or appearance alone is not a reliable Nosema diagnosis.</text>
+<rect x="55" y="145" width="530" height="710" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="73" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Adult digestive anatomy</text>
+<ellipse cx="125.5" cy="330" rx="42.0" ry="38.5" fill="#D4A017" stroke="#6D4C41" stroke-width="2.0999999999999996"/>
+<ellipse cx="199.0" cy="330" rx="56.0" ry="52.5" fill="#D4A017" stroke="#6D4C41" stroke-width="2.0999999999999996"/>
+<path d="M 244.5 289.4 C 304.0 263.5, 398.5 281.0, 437.0 330 C 398.5 379.0, 304.0 396.5, 244.5 370.6 Z" fill="#D4A017" stroke="#6D4C41" stroke-width="2.0999999999999996"/>
+<path d="M 283.0 279.6 Q 290.0 330 283.0 380.4" fill="none" stroke="#6D4C41" stroke-width="3.5" opacity="0.75"/>
+<path d="M 314.5 279.6 Q 321.5 330 314.5 380.4" fill="none" stroke="#6D4C41" stroke-width="3.5" opacity="0.75"/>
+<path d="M 346.0 279.6 Q 353.0 330 346.0 380.4" fill="none" stroke="#6D4C41" stroke-width="3.5" opacity="0.75"/>
+<path d="M 377.5 279.6 Q 384.5 330 377.5 380.4" fill="none" stroke="#6D4C41" stroke-width="3.5" opacity="0.75"/>
+<path d="M 206.0 298.5 C 241.0 228.5, 318.0 232.0, 300.5 305.5 Z" fill="#D9EEF7" opacity="0.75" stroke="#7EAFC3" stroke-width="1.4"/>
+<path d="M 164.0 358.0 L 146.5 407.0 L 160.5 431.5" fill="none" stroke="#6D4C41" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M 195.5 358.0 L 178.0 407.0 L 192.0 431.5" fill="none" stroke="#6D4C41" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M 223.5 358.0 L 206.0 407.0 L 220.0 431.5" fill="none" stroke="#6D4C41" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M205 365 C245 390 275 420 295 465 C320 520 335 600 325 690" fill="none" stroke="#C98F4F" stroke-width="22" stroke-linecap="round"/>
+<ellipse cx="315" cy="560" rx="75" ry="110" fill="#E5B77D" stroke="#9A673A" stroke-width="4"/>
+<circle cx="315" cy="560" r="115" fill="none" stroke="#EF6C00" stroke-width="4" stroke-dasharray="10 8"/>
+<text x="315" y="725" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#9A673A" text-anchor="middle">ventriculus / midgut highlighted</text>
+<line x1="430" y1="515" x2="650" y2="330" stroke="#EF6C00" stroke-width="4" marker-end="url(#ao)"/>
+<text x="540.0" y="412.5" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#EF6C00" text-anchor="middle">microscopic concept</text>
+<rect x="645" y="145" width="335" height="710" rx="20" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="663" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Healthy epithelium</text>
+<rect x="705" y="300" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="739" cy="348" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="795" y="300" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="829" cy="348" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="885" y="300" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="919" cy="348" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="705" y="410" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="739" cy="458" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="795" y="410" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="829" cy="458" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="885" y="410" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="919" cy="458" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="705" y="520" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="739" cy="568" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="795" y="520" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="829" cy="568" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="885" y="520" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="919" cy="568" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="705" y="630" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="739" cy="678" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="795" y="630" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="829" cy="678" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<rect x="885" y="630" width="68" height="90" rx="18" fill="#F7D8C7" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="919" cy="678" rx="14" ry="18" fill="#B86A8A" opacity="0.65"/>
+<text x="675" y="765" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#2E7D32" text-anchor="start">continuous epithelial layer</text>
+<text x="675" y="790" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#2E7D32" text-anchor="start">intact cell architecture concept</text>
+<rect x="1010" y="145" width="335" height="710" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="1028" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Heavily affected concept</text>
+<rect x="1070" y="300" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1090" cy="330" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1090 330)"/>
+<ellipse cx="1114" cy="355" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1114 355)"/>
+<ellipse cx="1100" cy="372" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1100 372)"/>
+<rect x="1160" y="300" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1180" cy="330" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1180 330)"/>
+<ellipse cx="1204" cy="355" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1204 355)"/>
+<ellipse cx="1190" cy="372" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1190 372)"/>
+<rect x="1250" y="300" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1270" cy="330" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1270 330)"/>
+<ellipse cx="1294" cy="355" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1294 355)"/>
+<ellipse cx="1280" cy="372" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1280 372)"/>
+<rect x="1070" y="410" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1090" cy="440" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1090 440)"/>
+<ellipse cx="1114" cy="465" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1114 465)"/>
+<ellipse cx="1100" cy="482" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1100 482)"/>
+<rect x="1160" y="410" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1180" cy="440" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1180 440)"/>
+<ellipse cx="1204" cy="465" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1204 465)"/>
+<ellipse cx="1190" cy="482" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1190 482)"/>
+<rect x="1250" y="410" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1270" cy="440" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1270 440)"/>
+<ellipse cx="1294" cy="465" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1294 465)"/>
+<ellipse cx="1280" cy="482" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1280 482)"/>
+<rect x="1070" y="520" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1090" cy="550" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1090 550)"/>
+<ellipse cx="1114" cy="575" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1114 575)"/>
+<ellipse cx="1100" cy="592" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1100 592)"/>
+<rect x="1160" y="520" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1180" cy="550" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1180 550)"/>
+<ellipse cx="1204" cy="575" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1204 575)"/>
+<ellipse cx="1190" cy="592" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1190 592)"/>
+<rect x="1250" y="520" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1270" cy="550" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1270 550)"/>
+<ellipse cx="1294" cy="575" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1294 575)"/>
+<ellipse cx="1280" cy="592" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1280 592)"/>
+<rect x="1070" y="630" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1090" cy="660" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1090 660)"/>
+<ellipse cx="1114" cy="685" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1114 685)"/>
+<ellipse cx="1100" cy="702" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1100 702)"/>
+<rect x="1160" y="630" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1180" cy="660" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1180 660)"/>
+<ellipse cx="1204" cy="685" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1204 685)"/>
+<ellipse cx="1190" cy="702" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1190 702)"/>
+<rect x="1250" y="630" width="68" height="90" rx="18" fill="#F2D2C3" stroke="#B96F52" stroke-width="2"/>
+<ellipse cx="1270" cy="660" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1270 660)"/>
+<ellipse cx="1294" cy="685" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1294 685)"/>
+<ellipse cx="1280" cy="702" rx="9.9" ry="6.6000000000000005" fill="#E8E4D8" stroke="#726F67" stroke-width="0.66" transform="rotate(-18 1280 702)"/>
+<text x="1040" y="765" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#6A1B9A" text-anchor="start">intracellular stages / spores</text>
+<text x="1040" y="790" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#6A1B9A" text-anchor="start">can disrupt epithelial function</text>
+<rect x="55" y="900" width="1290" height="90" rx="16" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Field signs are non-specific. Diagnosis should use appropriate sampling, microscopy and/or molecular testing interpreted with colony history, season and other stressors.</text>
+</svg>

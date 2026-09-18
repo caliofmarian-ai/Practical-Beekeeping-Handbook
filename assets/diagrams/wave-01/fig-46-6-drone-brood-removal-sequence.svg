@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+<title id="title">Figure 46.6 — Drone-Brood Removal Sequence</title>
+<desc id="desc">IPM sequence showing dedicated drone comb, capping and Varroa reproduction, timely removal before emergence, hygienic handling and continued monitoring; late removal can increase mite production.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1050" fill="#FFFFFF"/>
+<text x="55" y="62" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 46.6 — Drone-Brood Removal Sequence</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">This biotechnical method is a Varroa-management component, not a stand-alone substitute for monitoring.</text>
+<rect x="45" y="155" width="240" height="650" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="63" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">1 — Provide drone comb</text>
+<circle cx="105" cy="315" r="27" fill="#FFF3C8" stroke="#8D6E63" stroke-width="3"/>
+<circle cx="165" cy="315" r="27" fill="#FFF3C8" stroke="#8D6E63" stroke-width="3"/>
+<circle cx="225" cy="315" r="27" fill="#FFF3C8" stroke="#8D6E63" stroke-width="3"/>
+<circle cx="135" cy="385" r="27" fill="#FFF3C8" stroke="#8D6E63" stroke-width="3"/>
+<circle cx="195" cy="385" r="27" fill="#FFF3C8" stroke="#8D6E63" stroke-width="3"/>
+<circle cx="255" cy="385" r="27" fill="#FFF3C8" stroke="#8D6E63" stroke-width="3"/>
+<circle cx="105" cy="455" r="27" fill="#FFF3C8" stroke="#8D6E63" stroke-width="3"/>
+<circle cx="165" cy="455" r="27" fill="#FFF3C8" stroke="#8D6E63" stroke-width="3"/>
+<circle cx="225" cy="455" r="27" fill="#FFF3C8" stroke="#8D6E63" stroke-width="3"/>
+<text x="60" y="605" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Use a deliberate drone-brood area as part of an IPM plan.</text>
+<rect x="315" y="155" width="240" height="650" rx="20" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="333" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">2 — Allow capping</text>
+<ellipse cx="375" cy="315" rx="30" ry="25" fill="#B98755" stroke="#6D4C41" stroke-width="3"/>
+<ellipse cx="435" cy="315" rx="30" ry="25" fill="#B98755" stroke="#6D4C41" stroke-width="3"/>
+<ellipse cx="495" cy="315" rx="30" ry="25" fill="#B98755" stroke="#6D4C41" stroke-width="3"/>
+<ellipse cx="405" cy="385" rx="30" ry="25" fill="#B98755" stroke="#6D4C41" stroke-width="3"/>
+<ellipse cx="465" cy="385" rx="30" ry="25" fill="#B98755" stroke="#6D4C41" stroke-width="3"/>
+<ellipse cx="525" cy="385" rx="30" ry="25" fill="#B98755" stroke="#6D4C41" stroke-width="3"/>
+<ellipse cx="375" cy="455" rx="30" ry="25" fill="#B98755" stroke="#6D4C41" stroke-width="3"/>
+<ellipse cx="435" cy="455" rx="30" ry="25" fill="#B98755" stroke="#6D4C41" stroke-width="3"/>
+<ellipse cx="495" cy="455" rx="30" ry="25" fill="#B98755" stroke="#6D4C41" stroke-width="3"/>
+<ellipse cx="480" cy="515" rx="22.8" ry="16.5" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="0.8999999999999999"/>
+<ellipse cx="480" cy="515" rx="16.8" ry="11.1" fill="#B96B4B" opacity="0.55"/>
+<path d="M 465.0 506.6 L 452.1 504.2" stroke="#5C2A1D" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 462.0 512.9 L 449.1 515.3" stroke="#5C2A1D" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 462.6 520.4 L 449.7 518.0" stroke="#5C2A1D" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 467.4 525.2 L 454.5 527.6" stroke="#5C2A1D" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 495.0 506.6 L 507.9 504.2" stroke="#5C2A1D" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 498.0 512.9 L 510.9 515.3" stroke="#5C2A1D" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 497.4 520.4 L 510.3 518.0" stroke="#5C2A1D" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M 492.6 525.2 L 505.5 527.6" stroke="#5C2A1D" stroke-width="1.5" stroke-linecap="round"/>
+<text x="330" y="605" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Varroa preferentially enters drone brood where available.</text>
+<rect x="585" y="155" width="240" height="650" rx="20" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="603" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">3 — Remove before emergence</text>
+<rect x="640" y="285" width="130" height="220" rx="12" fill="#FFF8DE" stroke="#8D6E63" stroke-width="4"/>
+<path d="M640 285 L770 505 M770 285 L640 505" stroke="#C62828" stroke-width="8"/>
+<text x="705" y="545" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#C62828" text-anchor="middle">remove capped brood</text>
+<text x="600" y="605" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Take capped drone brood out before adult drones and mites emerge.</text>
+<rect x="855" y="155" width="240" height="650" rx="20" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="873" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">4 — Handle hygienically</text>
+<rect x="910" y="300" width="130" height="170" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="4"/>
+<path d="M935 380 L965 410 L1020 345" fill="none" stroke="#2E7D32" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="870" y="605" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Freeze/process/dispose according to the management plan and local rules.</text>
+<rect x="1125" y="155" width="240" height="650" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="1143" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">5 — Keep monitoring</text>
+<circle cx="1245" cy="390" r="80" fill="#E8F5E9" stroke="#2E7D32" stroke-width="4"/>
+<text x="1245" y="380" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">MONITOR</text>
+<text x="1245" y="410" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">AGAIN</text>
+<text x="1140" y="605" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Quantify Varroa; repeat only when biologically appropriate.</text>
+<rect x="55" y="885" width="1290" height="90" rx="16" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Critical failure mode: if intentionally trapped infested drone brood is left to emerge, the method can add mites back to the colony rather than remove them.</text>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+<title id="title">Figure 45.3 — Varroa–DWV Interaction</title>
+<desc id="desc">Brood-cell cross-section showing Varroa feeding during pupal development and virus transmission, followed by possible normal-looking or visibly deformed adult outcomes.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1050" fill="#FFFFFF"/>
+<text x="55" y="62" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 45.3 — Varroa–DWV Interaction</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Varroa changes viral transmission during development; visible deformed wings represent only one possible outcome.</text>
+<rect x="55" y="145" width="520" height="710" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="73" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Inside capped brood cell</text>
+<path d="M175 300 L315.0 270 L455 300 L430 660 L200 660 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M175 300 L315.0 270 L455 300" fill="none" stroke="#B98755" stroke-width="18" stroke-linecap="round"/>
+<ellipse cx="315.0" cy="455" rx="43" ry="92" fill="#F3E9D5" stroke="#C6BAA6" stroke-width="3"/>
+<circle cx="297.0" cy="403" r="8" fill="#A67C73"/><circle cx="333.0" cy="403" r="8" fill="#A67C73"/>
+<ellipse cx="385" cy="470" rx="36.48" ry="26.4" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="1.44"/>
+<ellipse cx="385" cy="470" rx="26.88" ry="17.759999999999998" fill="#B96B4B" opacity="0.55"/>
+<path d="M 361.0 456.56 L 340.36 452.72" stroke="#5C2A1D" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M 356.2 466.64 L 335.56 470.48" stroke="#5C2A1D" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M 357.16 478.64 L 336.52 474.8" stroke="#5C2A1D" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M 364.84 486.32 L 344.2 490.16" stroke="#5C2A1D" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M 409.0 456.56 L 429.64 452.72" stroke="#5C2A1D" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M 413.8 466.64 L 434.44 470.48" stroke="#5C2A1D" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M 412.84 478.64 L 433.48 474.8" stroke="#5C2A1D" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M 405.16 486.32 L 425.8 490.16" stroke="#5C2A1D" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="355" cy="475" r="75" fill="none" stroke="#C62828" stroke-width="4" stroke-dasharray="10 7"/>
+<circle cx="397.0" cy="475.0" r="7" fill="#7B1FA2" opacity="0.8"/>
+<circle cx="384.7" cy="504.7" r="7" fill="#7B1FA2" opacity="0.8"/>
+<circle cx="355.0" cy="517.0" r="7" fill="#7B1FA2" opacity="0.8"/>
+<circle cx="325.3" cy="504.7" r="7" fill="#7B1FA2" opacity="0.8"/>
+<circle cx="313.0" cy="475.0" r="7" fill="#7B1FA2" opacity="0.8"/>
+<circle cx="325.3" cy="445.3" r="7" fill="#7B1FA2" opacity="0.8"/>
+<circle cx="355.0" cy="433.0" r="7" fill="#7B1FA2" opacity="0.8"/>
+<circle cx="384.7" cy="445.3" r="7" fill="#7B1FA2" opacity="0.8"/>
+<text x="315" y="700" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#C62828" text-anchor="middle">feeding wound + direct viral transmission</text>
+<line x1="575" y1="500" x2="730" y2="350" stroke="#6A1B9A" stroke-width="5" marker-end="url(#ap)"/>
+<text x="652.5" y="415.0" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#6A1B9A" text-anchor="middle">developmental consequence</text>
+<rect x="730" y="145" width="280" height="710" rx="20" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="748" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Possible adult outcome A</text>
+<ellipse cx="777.3" cy="420" rx="25.2" ry="23.099999999999998" fill="#D4A017" stroke="#6D4C41" stroke-width="1.26"/>
+<ellipse cx="821.4" cy="420" rx="33.6" ry="31.5" fill="#D4A017" stroke="#6D4C41" stroke-width="1.26"/>
+<path d="M 848.7 395.64 C 884.4 380.1, 941.1 390.6, 964.2 420 C 941.1 449.4, 884.4 459.9, 848.7 444.36 Z" fill="#D4A017" stroke="#6D4C41" stroke-width="1.26"/>
+<path d="M 871.8 389.76 Q 876.0 420 871.8 450.24" fill="none" stroke="#6D4C41" stroke-width="2.1" opacity="0.75"/>
+<path d="M 890.7 389.76 Q 894.9 420 890.7 450.24" fill="none" stroke="#6D4C41" stroke-width="2.1" opacity="0.75"/>
+<path d="M 909.6 389.76 Q 913.8 420 909.6 450.24" fill="none" stroke="#6D4C41" stroke-width="2.1" opacity="0.75"/>
+<path d="M 928.5 389.76 Q 932.7 420 928.5 450.24" fill="none" stroke="#6D4C41" stroke-width="2.1" opacity="0.75"/>
+<path d="M 825.6 401.1 C 846.6 359.1, 892.8 361.2, 882.3 405.3 Z" fill="#D9EEF7" opacity="0.75" stroke="#7EAFC3" stroke-width="0.84"/>
+<path d="M 800.4 436.8 L 789.9 466.2 L 798.3 480.9" fill="none" stroke="#6D4C41" stroke-width="2.1" stroke-linecap="round"/>
+<path d="M 819.3 436.8 L 808.8 466.2 L 817.2 480.9" fill="none" stroke="#6D4C41" stroke-width="2.1" stroke-linecap="round"/>
+<path d="M 836.1 436.8 L 825.6 466.2 L 834.0 480.9" fill="none" stroke="#6D4C41" stroke-width="2.1" stroke-linecap="round"/>
+<text x="755" y="650" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Adult may look externally normal</text>
+<text x="755" y="674" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">yet still carry high viral burden</text>
+<text x="755" y="698" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">and reduced longevity/performance.</text>
+<rect x="1045" y="145" width="300" height="710" rx="20" fill="#FFEBEE" stroke="#C62828" stroke-width="2.5"/>
+<text x="1063" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#C62828" text-anchor="start">Possible adult outcome B</text>
+<ellipse cx="1097.3" cy="430" rx="25.2" ry="23.099999999999998" fill="#D4A017" stroke="#6D4C41" stroke-width="1.26"/>
+<ellipse cx="1141.4" cy="430" rx="33.6" ry="31.5" fill="#D4A017" stroke="#6D4C41" stroke-width="1.26"/>
+<path d="M 1168.7 405.64 C 1204.4 390.1, 1261.1 400.6, 1284.2 430 C 1261.1 459.4, 1204.4 469.9, 1168.7 454.36 Z" fill="#D4A017" stroke="#6D4C41" stroke-width="1.26"/>
+<path d="M 1191.8 399.76 Q 1196.0 430 1191.8 460.24" fill="none" stroke="#6D4C41" stroke-width="2.1" opacity="0.75"/>
+<path d="M 1210.7 399.76 Q 1214.9 430 1210.7 460.24" fill="none" stroke="#6D4C41" stroke-width="2.1" opacity="0.75"/>
+<path d="M 1229.6 399.76 Q 1233.8 430 1229.6 460.24" fill="none" stroke="#6D4C41" stroke-width="2.1" opacity="0.75"/>
+<path d="M 1248.5 399.76 Q 1252.7 430 1248.5 460.24" fill="none" stroke="#6D4C41" stroke-width="2.1" opacity="0.75"/>
+<path d="M 1145.6 411.1 C 1166.6 369.1, 1212.8 371.2, 1202.3 415.3 Z" fill="#D9EEF7" opacity="0.75" stroke="#7EAFC3" stroke-width="0.84"/>
+<path d="M 1120.4 446.8 L 1109.9 476.2 L 1118.3 490.9" fill="none" stroke="#6D4C41" stroke-width="2.1" stroke-linecap="round"/>
+<path d="M 1139.3 446.8 L 1128.8 476.2 L 1137.2 490.9" fill="none" stroke="#6D4C41" stroke-width="2.1" stroke-linecap="round"/>
+<path d="M 1156.1 446.8 L 1145.6 476.2 L 1154.0 490.9" fill="none" stroke="#6D4C41" stroke-width="2.1" stroke-linecap="round"/>
+<path d="M1140 395 C1160 350 1210 355 1190 400 C1170 420 1150 420 1140 395 Z" fill="#D8E6EC" stroke="#C62828" stroke-width="3"/>
+<text x="1070" y="650" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Deformed-wing phenotype can occur,</text>
+<text x="1070" y="674" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">with poor flight and early death.</text>
+<text x="1070" y="698" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Phenotype is severe but not universal.</text>
+<rect x="55" y="900" width="1290" height="90" rx="16" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Deformed wings strongly suggest Varroa-associated viral damage in the right context, but phenotype alone does not quantify current mite pressure or prove a single virus variant.</text>
+</svg>

@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+<title id="title">Figure 40.3 — Varroa Reproductive Cycle</title>
+<desc id="desc">Worker-brood sequence showing foundress entry before capping, feeding site, male-first egg sequence, daughter development, mating and emergence.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1050" fill="#FFFFFF"/>
+<text x="55" y="62" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 40.3 — Varroa Reproductive Cycle</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Simplified worker-brood sequence; timing varies, but the biological order is important.</text>
+<rect x="45" y="145" width="230" height="660" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="63" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">1 — Entry</text>
+<path d="M50 290 L160.0 260 L270 290 L245 560 L75 560 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M110 450 C130 385 220 385 227 450 C218 490 135 495 110 455" fill="none" stroke="#FFFDF4" stroke-width="28" stroke-linecap="round"/>
+<ellipse cx="215" cy="245" rx="28.88" ry="20.9" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="1.1400000000000001"/>
+<ellipse cx="215" cy="245" rx="21.28" ry="14.06" fill="#B96B4B" opacity="0.55"/>
+<path d="M 196.0 234.36 L 179.66 231.32" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 192.2 242.34 L 175.86 245.38" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 192.96 251.84 L 176.62 248.8" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 199.04 257.92 L 182.7 260.96" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 234.0 234.36 L 250.34 231.32" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 237.8 242.34 L 254.14 245.38" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 237.04 251.84 L 253.38 248.8" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 230.96 257.92 L 247.3 260.96" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<text x="60" y="610" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Foundress enters a suitable</text>
+<text x="60" y="633" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">late larval cell just before</text>
+<text x="60" y="656" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">worker capping.</text>
+<rect x="315" y="145" width="230" height="660" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="333" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">2 — Feeding begins</text>
+<path d="M320 290 L430.0 260 L540 290 L515 560 L345 560 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M320 290 L430.0 260 L540 290" fill="none" stroke="#B98755" stroke-width="18" stroke-linecap="round"/>
+<ellipse cx="430.0" cy="445" rx="43" ry="92" fill="#F3E9D5" stroke="#C6BAA6" stroke-width="3"/>
+<circle cx="412.0" cy="393" r="8" fill="#A67C73"/><circle cx="448.0" cy="393" r="8" fill="#A67C73"/>
+<ellipse cx="475" cy="405" rx="28.88" ry="20.9" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="1.1400000000000001"/>
+<ellipse cx="475" cy="405" rx="21.28" ry="14.06" fill="#B96B4B" opacity="0.55"/>
+<path d="M 456.0 394.36 L 439.65999999999997 391.32" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 452.2 402.34 L 435.86 405.38" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 452.96 411.84 L 436.62 408.8" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 459.04 417.92 L 442.7 420.96" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 494.0 394.36 L 510.34000000000003 391.32" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 497.8 402.34 L 514.14 405.38" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 497.04 411.84 L 513.38 408.8" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<path d="M 490.96 417.92 L 507.3 420.96" stroke="#5C2A1D" stroke-width="1.9" stroke-linecap="round"/>
+<text x="330" y="610" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">After sealing, foundress</text>
+<text x="330" y="633" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">establishes a feeding site</text>
+<text x="330" y="656" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">on the developing bee.</text>
+<rect x="585" y="145" width="230" height="660" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="603" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">3 — Eggs / offspring</text>
+<path d="M590 290 L700.0 260 L810 290 L785 560 L615 560 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M590 290 L700.0 260 L810 290" fill="none" stroke="#B98755" stroke-width="18" stroke-linecap="round"/>
+<ellipse cx="700.0" cy="445" rx="43" ry="92" fill="#F3E9D5" stroke="#C6BAA6" stroke-width="3"/>
+<circle cx="682.0" cy="393" r="8" fill="#A67C73"/><circle cx="718.0" cy="393" r="8" fill="#A67C73"/>
+<ellipse cx="750" cy="420" rx="25.840000000000003" ry="18.700000000000003" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="1.02"/>
+<ellipse cx="750" cy="420" rx="19.040000000000003" ry="12.58" fill="#B96B4B" opacity="0.55"/>
+<path d="M 733.0 410.48 L 718.38 407.76" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 729.6 417.62 L 714.98 420.34" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 730.28 426.12 L 715.66 423.4" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 735.72 431.56 L 721.1 434.28" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 767.0 410.48 L 781.62 407.76" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 770.4 417.62 L 785.02 420.34" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 769.72 426.12 L 784.34 423.4" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 764.28 431.56 L 778.9 434.28" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<circle cx="660" cy="360" r="11" fill="#D8EEF6" stroke="#1565C0" stroke-width="2"/>
+<circle cx="690" cy="390" r="11" fill="#F7C8D1" stroke="#C62828" stroke-width="2"/>
+<circle cx="710" cy="425" r="11" fill="#F7C8D1" stroke="#C62828" stroke-width="2"/>
+<text x="600" y="610" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">First egg develops as male;</text>
+<text x="600" y="633" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">later eggs develop as females.</text>
+<text x="600" y="656" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Offspring share the feeding site.</text>
+<rect x="855" y="145" width="230" height="660" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="873" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">4 — Mating / maturation</text>
+<path d="M860 290 L970.0 260 L1080 290 L1055 560 L885 560 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M860 290 L970.0 260 L1080 290" fill="none" stroke="#B98755" stroke-width="18" stroke-linecap="round"/>
+<ellipse cx="970.0" cy="445" rx="43" ry="92" fill="#F3E9D5" stroke="#C6BAA6" stroke-width="3"/>
+<circle cx="952.0" cy="393" r="8" fill="#A67C73"/><circle cx="988.0" cy="393" r="8" fill="#A67C73"/>
+<ellipse cx="1010" cy="415" rx="26.599999999999998" ry="19.25" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="1.0499999999999998"/>
+<ellipse cx="1010" cy="415" rx="19.599999999999998" ry="12.95" fill="#B96B4B" opacity="0.55"/>
+<path d="M 992.5 405.2 L 977.45 402.4" stroke="#5C2A1D" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M 989.0 412.55 L 973.95 415.35" stroke="#5C2A1D" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M 989.7 421.3 L 974.65 418.5" stroke="#5C2A1D" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M 995.3 426.9 L 980.25 429.7" stroke="#5C2A1D" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M 1027.5 405.2 L 1042.55 402.4" stroke="#5C2A1D" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M 1031.0 412.55 L 1046.05 415.35" stroke="#5C2A1D" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M 1030.3 421.3 L 1045.35 418.5" stroke="#5C2A1D" stroke-width="1.75" stroke-linecap="round"/>
+<path d="M 1024.7 426.9 L 1039.75 429.7" stroke="#5C2A1D" stroke-width="1.75" stroke-linecap="round"/>
+<ellipse cx="945" cy="440" rx="18.24" ry="13.2" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="0.72"/>
+<ellipse cx="945" cy="440" rx="13.44" ry="8.879999999999999" fill="#B96B4B" opacity="0.55"/>
+<path d="M 933.0 433.28 L 922.68 431.36" stroke="#5C2A1D" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 930.6 438.32 L 920.28 440.24" stroke="#5C2A1D" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 931.08 444.32 L 920.76 442.4" stroke="#5C2A1D" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 934.92 448.16 L 924.6 450.08" stroke="#5C2A1D" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 957.0 433.28 L 967.32 431.36" stroke="#5C2A1D" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 959.4 438.32 L 969.72 440.24" stroke="#5C2A1D" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 958.92 444.32 L 969.24 442.4" stroke="#5C2A1D" stroke-width="1.2" stroke-linecap="round"/>
+<path d="M 955.08 448.16 L 965.4 450.08" stroke="#5C2A1D" stroke-width="1.2" stroke-linecap="round"/>
+<circle cx="935" cy="370" r="13" fill="#D8EEF6" stroke="#1565C0" stroke-width="2"/>
+<text x="870" y="610" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Mating occurs inside the</text>
+<text x="870" y="633" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">sealed cell; mature daughters</text>
+<text x="870" y="656" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">must be mated before emergence.</text>
+<rect x="1125" y="145" width="230" height="660" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="1143" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">5 — Emergence</text>
+<path d="M1130 290 L1240.0 260 L1350 290 L1325 560 L1155 560 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M1130 290 L1240.0 260 L1350 290" fill="none" stroke="#B98755" stroke-width="18" stroke-linecap="round"/>
+<ellipse cx="1240.0" cy="445" rx="43" ry="92" fill="#F3E9D5" stroke="#C6BAA6" stroke-width="3"/>
+<circle cx="1222.0" cy="393" r="8" fill="#A67C73"/><circle cx="1258.0" cy="393" r="8" fill="#A67C73"/>
+<ellipse cx="1245" cy="225" rx="25.840000000000003" ry="18.700000000000003" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="1.02"/>
+<ellipse cx="1245" cy="225" rx="19.040000000000003" ry="12.58" fill="#B96B4B" opacity="0.55"/>
+<path d="M 1228.0 215.48 L 1213.38 212.76" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 1224.6 222.62 L 1209.98 225.34" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 1225.28 231.12 L 1210.66 228.4" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 1230.72 236.56 L 1216.1 239.28" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 1262.0 215.48 L 1276.62 212.76" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 1265.4 222.62 L 1280.02 225.34" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 1264.72 231.12 L 1279.34 228.4" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<path d="M 1259.28 236.56 L 1273.9 239.28" stroke="#5C2A1D" stroke-width="1.7000000000000002" stroke-linecap="round"/>
+<ellipse cx="1300" cy="240" rx="19.76" ry="14.3" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="0.78"/>
+<ellipse cx="1300" cy="240" rx="14.56" ry="9.620000000000001" fill="#B96B4B" opacity="0.55"/>
+<path d="M 1287.0 232.72 L 1275.82 230.64" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
+<path d="M 1284.4 238.18 L 1273.22 240.26" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
+<path d="M 1284.92 244.68 L 1273.74 242.6" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
+<path d="M 1289.08 248.84 L 1277.9 250.92" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
+<path d="M 1313.0 232.72 L 1324.18 230.64" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
+<path d="M 1315.6 238.18 L 1326.78 240.26" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
+<path d="M 1315.08 244.68 L 1326.26 242.6" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
+<path d="M 1310.92 248.84 L 1322.1 250.92" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
+<text x="1140" y="610" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Adult bee emerges with the</text>
+<text x="1140" y="633" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">foundress and mature daughters;</text>
+<text x="1140" y="656" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">mites return to adult-bee dispersal.</text>
+<rect x="55" y="885" width="1290" height="90" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Varroa reproduces inside capped brood. Worker brood commonly yields fewer mature daughters than longer-capped drone brood; do not infer colony mite level from one opened cell.</text>
+</svg>

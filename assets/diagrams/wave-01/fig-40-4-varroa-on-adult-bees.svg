@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+<title id="title">Figure 40.4 — Varroa on Adult Bees</title>
+<desc id="desc">Adult worker anatomy showing Varroa protected between abdominal segments and an inset of feeding associated with fat-body tissue beneath the abdominal cuticle.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1050" fill="#FFFFFF"/>
+<text x="55" y="62" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 40.4 — Varroa on Adult Bees</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Adult-bee association is both transport and feeding; the mite is not merely hitchhiking.</text>
+<rect x="55" y="145" width="820" height="690" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="73" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Adult worker — common protected abdominal position</text>
+<ellipse cx="130.24999999999997" cy="500" rx="81.0" ry="74.25" fill="#D4A017" stroke="#6D4C41" stroke-width="4.050000000000001"/>
+<ellipse cx="272.0" cy="500" rx="108.0" ry="101.25" fill="#D4A017" stroke="#6D4C41" stroke-width="4.050000000000001"/>
+<path d="M 359.75 421.7 C 474.5 371.75, 656.75 405.5, 731.0 500 C 656.75 594.5, 474.5 628.25, 359.75 578.3 Z" fill="#D4A017" stroke="#6D4C41" stroke-width="4.050000000000001"/>
+<path d="M 434.0 402.8 Q 447.5 500 434.0 597.2" fill="none" stroke="#6D4C41" stroke-width="6.75" opacity="0.75"/>
+<path d="M 494.75 402.8 Q 508.25 500 494.75 597.2" fill="none" stroke="#6D4C41" stroke-width="6.75" opacity="0.75"/>
+<path d="M 555.5 402.8 Q 569.0 500 555.5 597.2" fill="none" stroke="#6D4C41" stroke-width="6.75" opacity="0.75"/>
+<path d="M 616.25 402.8 Q 629.75 500 616.25 597.2" fill="none" stroke="#6D4C41" stroke-width="6.75" opacity="0.75"/>
+<path d="M 285.5 439.25 C 353.0 304.25, 501.5 311.0, 467.75 452.75 Z" fill="#D9EEF7" opacity="0.75" stroke="#7EAFC3" stroke-width="2.7"/>
+<path d="M 204.5 554.0 L 170.75 648.5 L 197.75 695.75" fill="none" stroke="#6D4C41" stroke-width="6.75" stroke-linecap="round"/>
+<path d="M 265.25 554.0 L 231.5 648.5 L 258.5 695.75" fill="none" stroke="#6D4C41" stroke-width="6.75" stroke-linecap="round"/>
+<path d="M 319.25 554.0 L 285.5 648.5 L 312.5 695.75" fill="none" stroke="#6D4C41" stroke-width="6.75" stroke-linecap="round"/>
+<ellipse cx="660" cy="475" rx="34.2" ry="24.75" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="1.35"/>
+<ellipse cx="660" cy="475" rx="25.2" ry="16.650000000000002" fill="#B96B4B" opacity="0.55"/>
+<path d="M 637.5 462.4 L 618.15 458.8" stroke="#5C2A1D" stroke-width="2.25" stroke-linecap="round"/>
+<path d="M 633.0 471.85 L 613.65 475.45" stroke="#5C2A1D" stroke-width="2.25" stroke-linecap="round"/>
+<path d="M 633.9 483.1 L 614.55 479.5" stroke="#5C2A1D" stroke-width="2.25" stroke-linecap="round"/>
+<path d="M 641.1 490.3 L 621.75 493.9" stroke="#5C2A1D" stroke-width="2.25" stroke-linecap="round"/>
+<path d="M 682.5 462.4 L 701.85 458.8" stroke="#5C2A1D" stroke-width="2.25" stroke-linecap="round"/>
+<path d="M 687.0 471.85 L 706.35 475.45" stroke="#5C2A1D" stroke-width="2.25" stroke-linecap="round"/>
+<path d="M 686.1 483.1 L 705.45 479.5" stroke="#5C2A1D" stroke-width="2.25" stroke-linecap="round"/>
+<path d="M 678.9 490.3 L 698.25 493.9" stroke="#5C2A1D" stroke-width="2.25" stroke-linecap="round"/>
+<line x1="690" y1="440" x2="890" y2="285" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<text x="790.0" y="352.5" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1565C0" text-anchor="middle">magnified feeding site</text>
+<rect x="915" y="145" width="430" height="690" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="933" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Cutaway — feeding interface</text>
+<path d="M970 300 Q1120 250 1275 300 L1275 345 Q1120 300 970 345 Z" fill="#C89A70" stroke="#6D4C41" stroke-width="3"/>
+<text x="1120" y="275" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#6D4C41" text-anchor="middle">abdominal cuticle / body wall</text>
+<ellipse cx="1005" cy="400" rx="45" ry="26" fill="#EAAE3A" stroke="#B97714" stroke-width="2"/>
+<ellipse cx="1080" cy="390" rx="45" ry="26" fill="#EAAE3A" stroke="#B97714" stroke-width="2"/>
+<ellipse cx="1155" cy="410" rx="45" ry="26" fill="#EAAE3A" stroke="#B97714" stroke-width="2"/>
+<ellipse cx="1230" cy="392" rx="45" ry="26" fill="#EAAE3A" stroke="#B97714" stroke-width="2"/>
+<ellipse cx="1045" cy="470" rx="45" ry="26" fill="#EAAE3A" stroke="#B97714" stroke-width="2"/>
+<ellipse cx="1130" cy="480" rx="45" ry="26" fill="#EAAE3A" stroke="#B97714" stroke-width="2"/>
+<ellipse cx="1210" cy="465" rx="45" ry="26" fill="#EAAE3A" stroke="#B97714" stroke-width="2"/>
+<text x="1120" y="535" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#9B6414" text-anchor="middle">fat-body tissue</text>
+<ellipse cx="1120" cy="320" rx="41.800000000000004" ry="30.250000000000004" fill="#9E4B2F" stroke="#5C2A1D" stroke-width="1.6500000000000001"/>
+<ellipse cx="1120" cy="320" rx="30.800000000000004" ry="20.35" fill="#B96B4B" opacity="0.55"/>
+<path d="M 1092.5 304.6 L 1068.85 300.2" stroke="#5C2A1D" stroke-width="2.75" stroke-linecap="round"/>
+<path d="M 1087.0 316.15 L 1063.35 320.55" stroke="#5C2A1D" stroke-width="2.75" stroke-linecap="round"/>
+<path d="M 1088.1 329.9 L 1064.45 325.5" stroke="#5C2A1D" stroke-width="2.75" stroke-linecap="round"/>
+<path d="M 1096.9 338.7 L 1073.25 343.1" stroke="#5C2A1D" stroke-width="2.75" stroke-linecap="round"/>
+<path d="M 1147.5 304.6 L 1171.15 300.2" stroke="#5C2A1D" stroke-width="2.75" stroke-linecap="round"/>
+<path d="M 1153.0 316.15 L 1176.65 320.55" stroke="#5C2A1D" stroke-width="2.75" stroke-linecap="round"/>
+<path d="M 1151.9 329.9 L 1175.55 325.5" stroke="#5C2A1D" stroke-width="2.75" stroke-linecap="round"/>
+<path d="M 1143.1 338.7 L 1166.75 343.1" stroke="#5C2A1D" stroke-width="2.75" stroke-linecap="round"/>
+<path d="M1120 352 L1120 385" stroke="#C62828" stroke-width="7" stroke-linecap="round"/>
+<text x="1120" y="590" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#C62828" text-anchor="middle">feeding wound</text>
+<text x="950" y="650" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">Modern evidence supports major feeding</text>
+<text x="950" y="675" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">on fat-body tissue, which is important</text>
+<text x="950" y="700" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">for metabolism, immunity and detoxification.</text>
+<rect x="55" y="885" width="1290" height="90" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Varroa often shelters between abdominal sclerites or body regions. Absence of visible mites during a quick inspection does not establish a mite-free colony.</text>
+</svg>
