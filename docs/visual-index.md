@@ -4,7 +4,10 @@
 **Wave 01 actual SVG assets:** 94
 **Wave 01 A_CORE coverage:** 68 / 68
 **Wave 02 A_CORE coverage:** 60 / 60
-**Actual SVGs in Wave 01 + Wave 02:** 154
+**Wave 03 A_CORE coverage:** 21 / 21
+**Actual SVGs in Wave 01 + Wave 02 + Wave 03:** 175
+**Produced A_CORE coverage:** 149 / 230
+**A_CORE still unproduced:** 81
 **High-fidelity A_CORE still unproduced:** 0
 
 ## Semantic colour legend
@@ -24,14 +27,15 @@ Colour remains supplementary: labels, border/shape logic and captions preserve m
 - [Wave 01 Manifest CSV](visual-index/manifest.csv)
 - [Wave 02 — Chapters 1–20 A_CORE Gallery](visual-index/wave-02.md)
 - [Wave 02 Manifest CSV](visual-index/wave-02-manifest.csv)
+- [Wave 03 — Chapters 26–32 A_CORE Gallery](visual-index/wave-03.md)
+- [Wave 03 Manifest CSV](visual-index/wave-03-manifest.csv)
 
-## Current Wave 01 status
+## Current production status
 
-All 68 A_CORE figure IDs now have actual repository artwork.
-The original 18 high-fidelity biological/diagnostic figures have been produced as original technical SVG plates rather than downgraded to generic schematics.
+Wave 01 is complete for all 68 A_CORE figure IDs, including the 18 high-fidelity biological/diagnostic plates.
 
-All visuals remain subject to final print-size, greyscale, accessibility and layout proof before publication.
+Wave 02 is complete for all 60 A_CORE assets in Chapters 1–20.
 
-## Wave 02 status
+Wave 03 adds all 21 A_CORE assets in Chapters 26–32.
 
-Chapters 1–20 now have all 60 planned A_CORE assets produced as actual SVG artwork. Final greyscale, final-size, accessibility and page-layout proof remains pending.
+All visuals remain subject to final print-size, greyscale, accessibility and page-layout proof before publication.
