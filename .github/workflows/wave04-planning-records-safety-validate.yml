@@ -1,0 +1,38 @@
+name: wave04-planning-records-safety-validate
+
+on:
+  push:
+    branches:
+      - publishing/visual-wave-04-planning-records-safety
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Wave 04 assets and manifests
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import csv, json, xml.etree.ElementTree as ET
+          root=Path(".")
+          files=sorted((root/"assets/diagrams/wave-04").glob("*.svg"))
+          assert len(files)==12, f"expected 12 Wave 04 SVGs, found {len(files)}"
+          for p in files:
+              text=p.read_text(encoding="utf-8")
+              ET.fromstring(text)
+              assert '<title id="title">' in text, p
+              assert '<desc id="desc">' in text, p
+              assert 'aria-labelledby="title desc"' in text, p
+          meta=json.loads((root/"assets/production-briefs/wave-04-planning-records-safety.json").read_text(encoding="utf-8"))
+          assert meta["asset_count"]==12 and len(meta["assets"])==12
+          rows=list(csv.DictReader((root/"docs/visual-index/wave-04-manifest.csv").open(encoding="utf-8")))
+          assert len(rows)==12
+          assert (root/"docs/visual-index/wave-04.md").exists()
+          assert (root/"docs/reviews/VISUAL_WAVE_04_PLANNING_RECORDS_SAFETY_REVIEW.md").exists()
+          print("Wave 04 validation PASS: 12 SVGs + metadata + gallery + review")
+          PY
