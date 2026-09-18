@@ -79,7 +79,7 @@ def bee_body(p,cx,cy,s=1,role="worker"):
     return {"head":(cx-75*s,cy),"thorax":(cx,cy),"abdomen":(cx+abd_offset*s,cy)}
 
 def anatomy_label(p,x,y,label,tx,ty,color="blue"):
-    col={"blue":C["blue"],"green":C["green"],"purple":C["purple"],"orange":C["orange"]}[color]
+    col={"blue":C["blue"],"green":C["green"],"purple":C["purple"],"orange":C["orange"],"red":C["red"]}[color]
     p.append(f'<line x1="{x}" y1="{y}" x2="{tx}" y2="{ty}" stroke="{col}" stroke-width="2.5"/>')
     text(p,tx+5,ty+5,label,14,700,col)
 
