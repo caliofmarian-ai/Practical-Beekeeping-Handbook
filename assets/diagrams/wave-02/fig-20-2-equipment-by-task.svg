@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 20.2 — Equipment by Task</title>
+<desc id="desc">Beekeeping equipment grouped by inspection, feeding, swarm capture, queen work, Varroa monitoring, harvest and processing.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 20.2 — Equipment by Task</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Organising by task prevents overbuying and makes missing safety/food-contact controls obvious.</text>
+<rect x="60" y="170" width="390" height="290" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Inspection</text>
+<text x="85" y="265" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• veil/PPE</text>
+<text x="85" y="295" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• smoker</text>
+<text x="85" y="325" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• hive tool</text>
+<text x="85" y="355" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• records</text>
+<rect x="500" y="170" width="390" height="290" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="518" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Feeding</text>
+<text x="525" y="265" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• food-grade feeder</text>
+<text x="525" y="295" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• clean mixing container</text>
+<text x="525" y="325" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• scale</text>
+<rect x="940" y="170" width="390" height="290" rx="18" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="958" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">Swarm capture</text>
+<text x="965" y="265" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• box/container</text>
+<text x="965" y="295" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• sheet/brush</text>
+<text x="965" y="325" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• PPE</text>
+<rect x="60" y="520" width="390" height="290" rx="18" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="78" y="551" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Queen work</text>
+<text x="85" y="615" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• cage</text>
+<text x="85" y="645" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• marking tools</text>
+<text x="85" y="675" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• magnification if needed</text>
+<rect x="500" y="520" width="390" height="290" rx="18" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="518" y="551" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Varroa monitoring</text>
+<text x="525" y="615" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• sampling jar</text>
+<text x="525" y="645" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• wash/sugar-roll equipment</text>
+<text x="525" y="675" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• count record</text>
+<rect x="940" y="520" width="390" height="290" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="958" y="551" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Harvest/processing</text>
+<text x="965" y="615" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• covers</text>
+<text x="965" y="645" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• food-grade containers</text>
+<text x="965" y="675" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• refractometer</text>
+<text x="965" y="705" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• extractor/strainers</text>
+<rect x="55" y="885" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Food-contact harvest/processing tools should remain visibly and physically separate from dirty field tools and disease-suspect equipment.</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 17.1 — Common Movable-Frame Hive Families</title>
+<desc id="desc">Representative modular hive-family silhouettes for Langstroth, National, Dadant and another regional modular system, with proportions labelled as illustrative rather than interchangeable dimensions.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 17.1 — Common Movable-Frame Hive Families</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Systems are shown conceptually. Use only dimensions and frame sizes defined for the specific named standard.</text>
+<rect x="65" y="160" width="290" height="650" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="83" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Langstroth</text>
+<rect x="135" y="300.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="135" y="400.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="135" y="500.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="125" y="275" width="170" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="150" y="600" width="120" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="180.0" y="588" width="60.0" height="12" fill="#3A2D24"/>
+<text x="210" y="650" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#52606D" text-anchor="middle">vertical modular</text>
+<text x="87" y="700" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">frame compatibility depends</text>
+<text x="87" y="721" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">on the exact system standard</text>
+<rect x="400" y="160" width="290" height="650" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="418" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">National</text>
+<rect x="470" y="300.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="470" y="400.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="470" y="500.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="460" y="275" width="170" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="485" y="600" width="120" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="515.0" y="588" width="60.0" height="12" fill="#3A2D24"/>
+<text x="545" y="650" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#52606D" text-anchor="middle">vertical modular</text>
+<text x="422" y="700" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">frame compatibility depends</text>
+<text x="422" y="721" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">on the exact system standard</text>
+<rect x="735" y="160" width="290" height="650" rx="18" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="753" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">Dadant</text>
+<rect x="805" y="300.0" width="150" height="150.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="805" y="450.0" width="150" height="150.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="795" y="275" width="170" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="820" y="600" width="120" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="850.0" y="588" width="60.0" height="12" fill="#3A2D24"/>
+<text x="880" y="650" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#52606D" text-anchor="middle">deep brood + supers</text>
+<text x="757" y="700" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">frame compatibility depends</text>
+<text x="757" y="721" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">on the exact system standard</text>
+<rect x="1070" y="160" width="290" height="650" rx="18" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="1088" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Regional modular example</text>
+<rect x="1140" y="300.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="1140" y="400.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="1140" y="500.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="1130" y="275" width="170" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="1155" y="600" width="120" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="1185.0" y="588" width="60.0" height="12" fill="#3A2D24"/>
+<text x="1215" y="650" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#52606D" text-anchor="middle">local standard varies</text>
+<text x="1092" y="700" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">frame compatibility depends</text>
+<text x="1092" y="721" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">on the exact system standard</text>
+<rect x="55" y="865" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Do not mix frame/box dimensions between hive families merely because the equipment looks similar. Local availability and beekeeper ergonomics matter.</text>
+</svg>

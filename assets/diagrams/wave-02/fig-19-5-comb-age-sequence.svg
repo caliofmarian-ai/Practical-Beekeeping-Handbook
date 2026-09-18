@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 19.5 — Comb Age Sequence</title>
+<desc id="desc">Fresh honey comb to increasingly used brood comb with cocoon accumulation, illustrating why comb history changes colour, cell interior and residue load.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 19.5 — Comb Age Sequence</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Darkening is multi-causal; colour alone does not prove pesticide contamination or disease.</text>
+<rect x="60" y="170" width="290" height="630" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="78" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Fresh comb</text>
+<polygon points="115,302 139,316 139,344 115,358 91,344 91,316" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="175,302 199,316 199,344 175,358 151,344 151,316" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="235,302 259,316 259,344 235,358 211,344 211,316" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="295,302 319,316 319,344 295,358 271,344 271,316" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="145,372 169,386 169,414 145,428 121,414 121,386" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="205,372 229,386 229,414 205,428 181,414 181,386" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="265,372 289,386 289,414 265,428 241,414 241,386" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="325,372 349,386 349,414 325,428 301,414 301,386" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="115,442 139,456 139,484 115,498 91,484 91,456" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="175,442 199,456 199,484 175,498 151,484 151,456" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="235,442 259,456 259,484 235,498 211,484 211,456" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="295,442 319,456 319,484 295,498 271,484 271,456" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="145,512 169,526 169,554 145,568 121,554 121,526" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="205,512 229,526 229,554 205,568 181,554 181,526" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="265,512 289,526 289,554 265,568 241,554 241,526" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="325,512 349,526 349,554 325,568 301,554 301,526" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="115,582 139,596 139,624 115,638 91,624 91,596" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="175,582 199,596 199,624 175,638 151,624 151,596" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="235,582 259,596 259,624 235,638 211,624 211,596" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<polygon points="295,582 319,596 319,624 295,638 271,624 271,596" fill="#FFF3B0" stroke="#8D6E63" stroke-width="2.0"/>
+<text x="82" y="720" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">new wax / no brood cocoons</text>
+<rect x="395" y="170" width="290" height="630" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="413" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Used honey comb</text>
+<polygon points="450,302 474,316 474,344 450,358 426,344 426,316" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="510,302 534,316 534,344 510,358 486,344 486,316" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="570,302 594,316 594,344 570,358 546,344 546,316" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="630,302 654,316 654,344 630,358 606,344 606,316" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="480,372 504,386 504,414 480,428 456,414 456,386" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="540,372 564,386 564,414 540,428 516,414 516,386" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="600,372 624,386 624,414 600,428 576,414 576,386" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="660,372 684,386 684,414 660,428 636,414 636,386" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="450,442 474,456 474,484 450,498 426,484 426,456" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="510,442 534,456 534,484 510,498 486,484 486,456" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="570,442 594,456 594,484 570,498 546,484 546,456" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="630,442 654,456 654,484 630,498 606,484 606,456" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="480,512 504,526 504,554 480,568 456,554 456,526" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="540,512 564,526 564,554 540,568 516,554 516,526" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="600,512 624,526 624,554 600,568 576,554 576,526" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="660,512 684,526 684,554 660,568 636,554 636,526" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="450,582 474,596 474,624 450,638 426,624 426,596" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="510,582 534,596 534,624 510,638 486,624 486,596" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="570,582 594,596 594,624 570,638 546,624 546,596" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<polygon points="630,582 654,596 654,624 630,638 606,624 606,596" fill="#F1D277" stroke="#8D6E63" stroke-width="2.4"/>
+<text x="417" y="720" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">propolis/pollen staining possible</text>
+<rect x="730" y="170" width="290" height="630" rx="18" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="748" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">Brood comb — several cycles</text>
+<polygon points="785,302 809,316 809,344 785,358 761,344 761,316" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="845,302 869,316 869,344 845,358 821,344 821,316" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="905,302 929,316 929,344 905,358 881,344 881,316" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="965,302 989,316 989,344 965,358 941,344 941,316" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="815,372 839,386 839,414 815,428 791,414 791,386" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="875,372 899,386 899,414 875,428 851,414 851,386" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="935,372 959,386 959,414 935,428 911,414 911,386" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="995,372 1019,386 1019,414 995,428 971,414 971,386" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="785,442 809,456 809,484 785,498 761,484 761,456" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="845,442 869,456 869,484 845,498 821,484 821,456" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="905,442 929,456 929,484 905,498 881,484 881,456" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="965,442 989,456 989,484 965,498 941,484 941,456" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="815,512 839,526 839,554 815,568 791,554 791,526" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="875,512 899,526 899,554 875,568 851,554 851,526" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="935,512 959,526 959,554 935,568 911,554 911,526" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="995,512 1019,526 1019,554 995,568 971,554 971,526" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="785,582 809,596 809,624 785,638 761,624 761,596" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="845,582 869,596 869,624 845,638 821,624 821,596" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="905,582 929,596 929,624 905,638 881,624 881,596" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<polygon points="965,582 989,596 989,624 965,638 941,624 941,596" fill="#C99459" stroke="#8D6E63" stroke-width="2.8"/>
+<text x="752" y="720" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">cocoon layers accumulate</text>
+<rect x="1065" y="170" width="290" height="630" rx="18" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="1083" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">Old brood comb</text>
+<polygon points="1120,302 1144,316 1144,344 1120,358 1096,344 1096,316" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1180,302 1204,316 1204,344 1180,358 1156,344 1156,316" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1240,302 1264,316 1264,344 1240,358 1216,344 1216,316" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1300,302 1324,316 1324,344 1300,358 1276,344 1276,316" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1150,372 1174,386 1174,414 1150,428 1126,414 1126,386" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1210,372 1234,386 1234,414 1210,428 1186,414 1186,386" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1270,372 1294,386 1294,414 1270,428 1246,414 1246,386" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1330,372 1354,386 1354,414 1330,428 1306,414 1306,386" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1120,442 1144,456 1144,484 1120,498 1096,484 1096,456" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1180,442 1204,456 1204,484 1180,498 1156,484 1156,456" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1240,442 1264,456 1264,484 1240,498 1216,484 1216,456" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1300,442 1324,456 1324,484 1300,498 1276,484 1276,456" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1150,512 1174,526 1174,554 1150,568 1126,554 1126,526" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1210,512 1234,526 1234,554 1210,568 1186,554 1186,526" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1270,512 1294,526 1294,554 1270,568 1246,554 1246,526" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1330,512 1354,526 1354,554 1330,568 1306,554 1306,526" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1120,582 1144,596 1144,624 1120,638 1096,624 1096,596" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1180,582 1204,596 1204,624 1180,638 1156,624 1156,596" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1240,582 1264,596 1264,624 1240,638 1216,624 1216,596" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<polygon points="1300,582 1324,596 1324,624 1300,638 1276,624 1276,596" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
+<text x="1087" y="720" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">more cocoon/debris history; residue risk can rise</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Comb replacement decisions should use history, condition, disease/residue risk and management goals—not a colour threshold alone.</text>
+</svg>

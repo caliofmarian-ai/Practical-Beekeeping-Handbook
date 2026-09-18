@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 17.2 — Horizontal Versus Vertical Expansion</title>
+<desc id="desc">Vertical stacked hive compared with a horizontal long hive, focusing on management trade-offs rather than declaring a winner.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 17.2 — Horizontal Versus Vertical Expansion</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Both systems can house healthy colonies; handling, lifting and expansion workflow differ.</text>
+<rect x="55" y="160" width="620" height="650" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="73" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Vertical stacked hive</text>
+<rect x="245" y="280.0" width="230" height="110.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="245" y="390.0" width="230" height="110.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="245" y="500.0" width="230" height="110.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="245" y="610.0" width="230" height="110.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="235" y="255" width="250" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="260" y="720" width="200" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="314.0" y="708" width="92.0" height="12" fill="#3A2D24"/>
+<text x="95" y="700" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">expansion by adding boxes upward</text>
+<text x="95" y="725" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">heavy boxes may require lifting</text>
+<text x="95" y="750" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">supers can be removed for extraction</text>
+<text x="95" y="775" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">common modular equipment in many regions</text>
+<rect x="725" y="160" width="620" height="650" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="743" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Horizontal / long hive</text>
+<rect x="800" y="390" width="460" height="240" rx="6" fill="#D9B57C" stroke="#8D6E63" stroke-width="4"/>
+<line x1="830" y1="410" x2="830" y2="600" stroke="#8D6E63" stroke-width="3"/>
+<line x1="885" y1="410" x2="885" y2="600" stroke="#8D6E63" stroke-width="3"/>
+<line x1="940" y1="410" x2="940" y2="600" stroke="#8D6E63" stroke-width="3"/>
+<line x1="995" y1="410" x2="995" y2="600" stroke="#8D6E63" stroke-width="3"/>
+<line x1="1050" y1="410" x2="1050" y2="600" stroke="#8D6E63" stroke-width="3"/>
+<line x1="1105" y1="410" x2="1105" y2="600" stroke="#8D6E63" stroke-width="3"/>
+<line x1="1160" y1="410" x2="1160" y2="600" stroke="#8D6E63" stroke-width="3"/>
+<line x1="1215" y1="410" x2="1215" y2="600" stroke="#8D6E63" stroke-width="3"/>
+<text x="765" y="700" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">expansion along one long body</text>
+<text x="765" y="725" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">less vertical box lifting</text>
+<text x="765" y="750" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">frame handling can be individual</text>
+<text x="765" y="775" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">extraction compatibility depends on frame design</text>
+<rect x="55" y="865" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Choose a system for local equipment availability, management goals, beekeeper physical capacity and compatible processing equipment—not ideology.</text>
+</svg>

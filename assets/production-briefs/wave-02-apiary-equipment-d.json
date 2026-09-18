@@ -1,0 +1,97 @@
+{
+  "wave": 2,
+  "batch": "apiary-equipment-d",
+  "asset_count": 15,
+  "assets": [
+    {
+      "figure_id": "16.1",
+      "path": "assets/diagrams/wave-02/fig-16-1-small-apiary-layout.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "16.2",
+      "path": "assets/diagrams/wave-02/fig-16-2-growth-plan.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "16.5",
+      "path": "assets/diagrams/wave-02/fig-16-5-apiary-identification-system.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "17.1",
+      "path": "assets/diagrams/wave-02/fig-17-1-common-movable-frame-hives.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "17.2",
+      "path": "assets/diagrams/wave-02/fig-17-2-horizontal-vs-vertical-expansion.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "17.4",
+      "path": "assets/diagrams/wave-02/fig-17-4-hive-system-comparison-matrix.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "18.1",
+      "path": "assets/diagrams/wave-02/fig-18-1-exploded-modular-hive.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "18.2",
+      "path": "assets/diagrams/wave-02/fig-18-2-frame-spacing-bee-space.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "18.3",
+      "path": "assets/diagrams/wave-02/fig-18-3-floor-types.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "19.1",
+      "path": "assets/diagrams/wave-02/fig-19-1-frame-anatomy.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "19.4",
+      "path": "assets/diagrams/wave-02/fig-19-4-straight-natural-comb.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "19.5",
+      "path": "assets/diagrams/wave-02/fig-19-5-comb-age-sequence.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "20.1",
+      "path": "assets/diagrams/wave-02/fig-20-1-beginner-equipment-set.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "20.2",
+      "path": "assets/diagrams/wave-02/fig-20-2-equipment-by-task.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "20.4",
+      "path": "assets/diagrams/wave-02/fig-20-4-clean-equipment-workflow.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    }
+  ]
+}
