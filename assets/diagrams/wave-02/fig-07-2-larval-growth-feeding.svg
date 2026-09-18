@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 7.2 — Larval Growth and Feeding</title>
+<desc id="desc">Representative honey bee larval stages increasing in size while retaining the normal C-shaped position, with feeding context.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 7.2 — Larval Growth and Feeding</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Larvae grow rapidly through successive instars; size and cell occupancy increase dramatically.</text>
+<rect x="120" y="180" width="220" height="600" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="138" y="211" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">1 — early</text>
+<polygon points="230,270 305,315 305,500 230,545 155,500 155,315" fill="#FFF7D6" stroke="#8D6E63" stroke-width="3"/>
+<ellipse cx="230" cy="470" rx="52" ry="20" fill="#FFF3D1" stroke="#C7A94E" stroke-width="2" opacity="0.85"/>
+<path d="M 217.0 414.8 C 226.1 399.85, 247.55 407.0, 243.0 422.6 C 239.1 434.95, 222.2 436.9, 217.0 425.85" fill="none" stroke="#E2DDD0" stroke-width="9.75" stroke-linecap="round"/>
+<path d="M 217.0 414.8 C 226.1 399.85, 247.55 407.0, 243.0 422.6 C 239.1 434.95, 222.2 436.9, 217.0 425.85" fill="none" stroke="#FFFDF4" stroke-width="7.15" stroke-linecap="round"/>
+<text x="230" y="600" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#2E7D32" text-anchor="middle">relative size ↑</text>
+<text x="145" y="650" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">food quantity/composition</text>
+<text x="145" y="670" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">change with age and caste</text>
+<rect x="375" y="180" width="220" height="600" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="393" y="211" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">2 — growing</text>
+<polygon points="485,270 560,315 560,500 485,545 410,500 410,315" fill="#FFF7D6" stroke="#8D6E63" stroke-width="3"/>
+<ellipse cx="485" cy="470" rx="52" ry="20" fill="#FFF3D1" stroke="#C7A94E" stroke-width="2" opacity="0.85"/>
+<path d="M 467.0 412.8 C 479.6 392.1, 509.3 402.0, 503.0 423.6 C 497.6 440.7, 474.2 443.4, 467.0 428.1" fill="none" stroke="#E2DDD0" stroke-width="13.5" stroke-linecap="round"/>
+<path d="M 467.0 412.8 C 479.6 392.1, 509.3 402.0, 503.0 423.6 C 497.6 440.7, 474.2 443.4, 467.0 428.1" fill="none" stroke="#FFFDF4" stroke-width="9.9" stroke-linecap="round"/>
+<text x="485" y="600" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#2E7D32" text-anchor="middle">relative size ↑</text>
+<text x="400" y="650" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">food quantity/composition</text>
+<text x="400" y="670" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">change with age and caste</text>
+<rect x="630" y="180" width="220" height="600" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="648" y="211" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">3 — mid larval</text>
+<polygon points="740,270 815,315 815,500 740,545 665,500 665,315" fill="#FFF7D6" stroke="#8D6E63" stroke-width="3"/>
+<ellipse cx="740" cy="470" rx="52" ry="20" fill="#FFF3D1" stroke="#C7A94E" stroke-width="2" opacity="0.85"/>
+<path d="M 716.0 410.4 C 732.8 382.8, 772.4 396.0, 764.0 424.8 C 756.8 447.6, 725.6 451.2, 716.0 430.8" fill="none" stroke="#E2DDD0" stroke-width="18.0" stroke-linecap="round"/>
+<path d="M 716.0 410.4 C 732.8 382.8, 772.4 396.0, 764.0 424.8 C 756.8 447.6, 725.6 451.2, 716.0 430.8" fill="none" stroke="#FFFDF4" stroke-width="13.2" stroke-linecap="round"/>
+<text x="740" y="600" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#2E7D32" text-anchor="middle">relative size ↑</text>
+<text x="655" y="650" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">food quantity/composition</text>
+<text x="655" y="670" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">change with age and caste</text>
+<rect x="885" y="180" width="220" height="600" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="903" y="211" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">4 — late larval</text>
+<polygon points="995,270 1070,315 1070,500 995,545 920,500 920,315" fill="#FFF7D6" stroke="#8D6E63" stroke-width="3"/>
+<ellipse cx="995" cy="470" rx="52" ry="20" fill="#FFF3D1" stroke="#C7A94E" stroke-width="2" opacity="0.85"/>
+<path d="M 964.0 407.6 C 985.7 371.95, 1036.85 389.0, 1026.0 426.2 C 1016.7 455.65, 976.4 460.3, 964.0 433.95" fill="none" stroke="#E2DDD0" stroke-width="23.25" stroke-linecap="round"/>
+<path d="M 964.0 407.6 C 985.7 371.95, 1036.85 389.0, 1026.0 426.2 C 1016.7 455.65, 976.4 460.3, 964.0 433.95" fill="none" stroke="#FFFDF4" stroke-width="17.05" stroke-linecap="round"/>
+<text x="995" y="600" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#2E7D32" text-anchor="middle">relative size ↑</text>
+<text x="910" y="650" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">food quantity/composition</text>
+<text x="910" y="670" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">change with age and caste</text>
+<rect x="1140" y="180" width="220" height="600" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="1158" y="211" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">5 — near capping</text>
+<polygon points="1250,270 1325,315 1325,500 1250,545 1175,500 1175,315" fill="#FFF7D6" stroke="#8D6E63" stroke-width="3"/>
+<ellipse cx="1250" cy="470" rx="52" ry="20" fill="#FFF3D1" stroke="#C7A94E" stroke-width="2" opacity="0.85"/>
+<path d="M 1211.0 404.4 C 1238.3 359.55, 1302.65 381.0, 1289.0 427.8 C 1277.3 464.85, 1226.6 470.7, 1211.0 437.55" fill="none" stroke="#E2DDD0" stroke-width="29.25" stroke-linecap="round"/>
+<path d="M 1211.0 404.4 C 1238.3 359.55, 1302.65 381.0, 1289.0 427.8 C 1277.3 464.85, 1226.6 470.7, 1211.0 437.55" fill="none" stroke="#FFFDF4" stroke-width="21.45" stroke-linecap="round"/>
+<text x="1250" y="600" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#2E7D32" text-anchor="middle">relative size ↑</text>
+<text x="1165" y="650" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">food quantity/composition</text>
+<text x="1165" y="670" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">change with age and caste</text>
+<rect x="55" y="885" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Healthy larvae are pearly white, moist/glistening and curled in a C shape on the cell floor. Exact age should not be inferred from size alone without context.</text>
+</svg>

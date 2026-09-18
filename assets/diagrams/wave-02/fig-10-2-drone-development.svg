@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 10.2 — Drone Development</title>
+<desc id="desc">Drone brood and worker brood compared by cell size/capping shape and approximate total development time.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 10.2 — Drone Development</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Drone cells are larger and capped brood is more strongly domed than worker brood.</text>
+<rect x="55" y="160" width="620" height="650" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="73" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Worker brood</text>
+<circle cx="135" cy="295" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="128" cy="287" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="225" cy="295" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="218" cy="287" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="315" cy="295" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="308" cy="287" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="405" cy="295" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="398" cy="287" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="495" cy="295" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="488" cy="287" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="180" cy="385" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="173" cy="377" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="270" cy="385" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="263" cy="377" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="360" cy="385" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="353" cy="377" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="450" cy="385" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="443" cy="377" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="540" cy="385" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="533" cy="377" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="135" cy="475" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="128" cy="467" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="225" cy="475" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="218" cy="467" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="315" cy="475" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="308" cy="467" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="405" cy="475" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="398" cy="467" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="495" cy="475" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="488" cy="467" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="180" cy="565" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="173" cy="557" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="270" cy="565" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="263" cy="557" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="360" cy="565" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="353" cy="557" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="450" cy="565" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="443" cy="557" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<circle cx="540" cy="565" r="34" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="533" cy="557" rx="15" ry="8" fill="#D5A777" opacity="0.45"/>
+<text x="365" y="700" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">approx. egg → adult: ~21 days</text>
+<rect x="725" y="160" width="620" height="650" rx="18" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="743" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">Drone brood</text>
+<ellipse cx="825" cy="295" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="825" cy="287" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="940" cy="295" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="940" cy="287" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="1055" cy="295" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="1055" cy="287" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="1170" cy="295" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="1170" cy="287" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="882" cy="385" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="882" cy="377" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="997" cy="385" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="997" cy="377" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="1112" cy="385" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="1112" cy="377" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="1227" cy="385" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="1227" cy="377" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="825" cy="475" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="825" cy="467" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="940" cy="475" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="940" cy="467" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="1055" cy="475" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="1055" cy="467" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="1170" cy="475" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="1170" cy="467" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="882" cy="565" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="882" cy="557" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="997" cy="565" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="997" cy="557" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="1112" cy="565" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="1112" cy="557" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<ellipse cx="1227" cy="565" rx="45" ry="39" fill="#B98755" stroke="#7B563A" stroke-width="3"/>
+<ellipse cx="1227" cy="557" rx="30" ry="24" fill="#D7AC7D" opacity="0.5"/>
+<text x="1035" y="700" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#EF6C00" text-anchor="middle">approx. egg → adult: ~24 days</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Cell/capping appearance supports caste identification, but exact development timing varies. Queen, worker and drone schedules are approximate biological guides.</text>
+</svg>

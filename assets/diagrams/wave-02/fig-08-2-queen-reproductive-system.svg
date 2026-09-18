@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 8.2 — Queen Reproductive System</title>
+<desc id="desc">Simplified queen reproductive anatomy showing paired ovaries, lateral oviducts, median oviduct, spermatheca with gland/duct and sting chamber context.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 8.2 — Queen Reproductive System</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Anatomically simplified for education; relative relationships are preserved.</text>
+<rect x="55" y="150" width="900" height="710" rx="18" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="73" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Queen reproductive tract</text>
+<ellipse cx="340" cy="360" rx="120" ry="180" fill="#F7D7E2" stroke="#AD5A7C" stroke-width="4"/>
+<path d="M268 245 Q 260 360 268 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M286 245 Q 278 360 286 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M304 245 Q 296 360 304 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M322 245 Q 314 360 322 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M340 245 Q 332 360 340 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M358 245 Q 350 360 358 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M376 245 Q 368 360 376 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M394 245 Q 386 360 394 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M412 245 Q 404 360 412 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<text x="340" y="195" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#AD5A7C" text-anchor="middle">L ovary (many ovarioles)</text>
+<ellipse cx="650" cy="360" rx="120" ry="180" fill="#F7D7E2" stroke="#AD5A7C" stroke-width="4"/>
+<path d="M578 245 Q 570 360 578 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M596 245 Q 588 360 596 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M614 245 Q 606 360 614 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M632 245 Q 624 360 632 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M650 245 Q 642 360 650 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M668 245 Q 660 360 668 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M686 245 Q 678 360 686 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M704 245 Q 696 360 704 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<path d="M722 245 Q 714 360 722 480" fill="none" stroke="#C97E9D" stroke-width="4"/>
+<text x="650" y="195" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#AD5A7C" text-anchor="middle">R ovary (many ovarioles)</text>
+<path d="M340 520 Q420 590 525 610" fill="none" stroke="#6A1B9A" stroke-width="12" stroke-linecap="round"/>
+<path d="M650 520 Q575 590 525 610" fill="none" stroke="#6A1B9A" stroke-width="12" stroke-linecap="round"/>
+<path d="M525 610 L525 790" fill="none" stroke="#6A1B9A" stroke-width="14" stroke-linecap="round"/>
+<text x="525" y="835" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#6A1B9A" text-anchor="middle">median oviduct → vagina / sting chamber region</text>
+<circle cx="730" cy="650" r="65" fill="#DDEAF8" stroke="#1565C0" stroke-width="4"/>
+<path d="M680 680 Q620 700 555 665" fill="none" stroke="#1565C0" stroke-width="7"/>
+<text x="730" y="745" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#1565C0" text-anchor="middle">spermatheca stores sperm</text>
+<line x1="400" y1="570" x2="160" y2="650" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="165" y="655" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#6A1B9A" text-anchor="start">lateral oviduct</text>
+<rect x="990" y="150" width="355" height="710" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="1008" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Functional summary</text>
+<text x="1015" y="220" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Ovaries</text>
+<text x="1015" y="245" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">produce mature eggs</text>
+<text x="1015" y="270" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1015" y="295" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Oviducts</text>
+<text x="1015" y="320" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">carry eggs toward median oviduct</text>
+<text x="1015" y="345" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1015" y="370" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Spermatheca</text>
+<text x="1015" y="395" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">stores and nourishes sperm from mating flights</text>
+<text x="1015" y="420" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1015" y="445" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Valve/duct</text>
+<text x="1015" y="470" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">allows sperm release to fertilise selected eggs</text>
+<rect x="55" y="885" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The queen can lay fertilised eggs that develop as females (workers/queens) or unfertilised eggs that develop as drones.</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 10.3 — Drone Reproductive Anatomy</title>
+<desc id="desc">Simplified mature drone reproductive system showing testes after maturation, vasa deferentia, seminal vesicles, mucus glands, ejaculatory duct and inverted endophallus.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 10.3 — Drone Reproductive Anatomy</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Anatomy shown in simplified educational form based on standard honey bee dissection references.</text>
+<rect x="55" y="150" width="930" height="710" rx="18" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="73" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">Mature drone reproductive tract</text>
+<ellipse cx="360" cy="300" rx="65" ry="38" fill="#EAB6A6" stroke="#A85F4A" stroke-width="3"/>
+<path d="M360 338 C350 430 335 500 510 580" fill="none" stroke="#EF6C00" stroke-width="8"/>
+<ellipse cx="650" cy="300" rx="65" ry="38" fill="#EAB6A6" stroke="#A85F4A" stroke-width="3"/>
+<path d="M650 338 C640 430 625 500 510 580" fill="none" stroke="#EF6C00" stroke-width="8"/>
+<text x="505" y="235" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#EF6C00" text-anchor="middle">testes reduce after sperm moves toward seminal vesicles</text>
+<ellipse cx="470" cy="510" rx="38" ry="70" fill="#F0C6A2" stroke="#AA7047" stroke-width="3"/>
+<ellipse cx="590" cy="510" rx="38" ry="70" fill="#F0C6A2" stroke="#AA7047" stroke-width="3"/>
+<ellipse cx="420" cy="600" rx="42" ry="80" fill="#F6E8C6" stroke="#A98252" stroke-width="3"/>
+<ellipse cx="640" cy="600" rx="42" ry="80" fill="#F6E8C6" stroke="#A98252" stroke-width="3"/>
+<path d="M470 580 Q520 650 530 720 M590 580 Q545 650 530 720" fill="none" stroke="#6A1B9A" stroke-width="9"/>
+<path d="M530 720 L530 790" stroke="#6A1B9A" stroke-width="12"/>
+<line x1="470" y1="510" x2="165" y2="425" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="170" y="430" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#EF6C00" text-anchor="start">seminal vesicle</text>
+<line x1="420" y1="600" x2="170" y2="620" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="175" y="625" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#EF6C00" text-anchor="start">mucus gland</text>
+<line x1="530" y1="740" x2="800" y2="680" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="805" y="685" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#6A1B9A" text-anchor="start">ejaculatory duct</text>
+<text x="530" y="825" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#52606D" text-anchor="middle">inverted endophallus lies caudally beyond this simplified tract</text>
+<rect x="1020" y="150" width="325" height="710" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="1038" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Functional sequence</text>
+<text x="1045" y="220" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Testes</text>
+<text x="1045" y="244" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">produce sperm during development</text>
+<text x="1045" y="268" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1045" y="292" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Seminal vesicles</text>
+<text x="1045" y="316" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">store mature sperm</text>
+<text x="1045" y="340" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1045" y="364" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Mucus glands</text>
+<text x="1045" y="388" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">contribute mating secretions</text>
+<text x="1045" y="412" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1045" y="436" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Ejaculatory duct + endophallus</text>
+<text x="1045" y="460" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">transfer semen during mating</text>
+<text x="1045" y="484" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1045" y="508" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Drone dies after successful copulation.</text>
+<rect x="55" y="885" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The endophallus is normally inverted inside the abdomen and everts during mating. This figure is educational, not a procedural insemination guide.</text>
+</svg>

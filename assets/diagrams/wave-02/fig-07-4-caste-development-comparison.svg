@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 7.4 — Caste Development Comparison</title>
+<desc id="desc">Queen, worker and drone development compared by fertilisation status, cell type and approximate total time to adult emergence.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 7.4 — Caste Development Comparison</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Developmental nutrition determines queen versus worker among fertilised female eggs; drones are haploid males from unfertilised eggs.</text>
+<rect x="60" y="170" width="220" height="70" rx="10" fill="#F5F5F5" stroke="#757575" stroke-width="2"/>
+<text x="170.0" y="212" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#1F2933" text-anchor="middle">Caste</text>
+<rect x="300" y="170" width="300" height="70" rx="10" fill="#F5F5F5" stroke="#757575" stroke-width="2"/>
+<text x="450.0" y="212" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#1F2933" text-anchor="middle">Sex determination</text>
+<rect x="620" y="170" width="340" height="70" rx="10" fill="#F5F5F5" stroke="#757575" stroke-width="2"/>
+<text x="790.0" y="212" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#1F2933" text-anchor="middle">Cell context</text>
+<rect x="980" y="170" width="300" height="70" rx="10" fill="#F5F5F5" stroke="#757575" stroke-width="2"/>
+<text x="1130.0" y="212" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#1F2933" text-anchor="middle">Approx. emergence</text>
+<rect x="60" y="260" width="220" height="145" rx="12" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2"/>
+<text x="170.0" y="336" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#6A1B9A" text-anchor="middle">Queen</text>
+<rect x="300" y="260" width="300" height="145" rx="12" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2"/>
+<text x="450.0" y="336" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">fertilised egg</text>
+<rect x="620" y="260" width="340" height="145" rx="12" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2"/>
+<text x="790.0" y="336" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">vertical queen cell</text>
+<rect x="980" y="260" width="300" height="145" rx="12" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2"/>
+<text x="1130.0" y="336" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">~16 days</text>
+<rect x="60" y="450" width="220" height="145" rx="12" fill="#E3F2FD" stroke="#1565C0" stroke-width="2"/>
+<text x="170.0" y="526" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#1565C0" text-anchor="middle">Worker</text>
+<rect x="300" y="450" width="300" height="145" rx="12" fill="#E3F2FD" stroke="#1565C0" stroke-width="2"/>
+<text x="450.0" y="526" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">fertilised egg</text>
+<rect x="620" y="450" width="340" height="145" rx="12" fill="#E3F2FD" stroke="#1565C0" stroke-width="2"/>
+<text x="790.0" y="526" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">worker cell</text>
+<rect x="980" y="450" width="300" height="145" rx="12" fill="#E3F2FD" stroke="#1565C0" stroke-width="2"/>
+<text x="1130.0" y="526" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">~21 days</text>
+<rect x="60" y="640" width="220" height="145" rx="12" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2"/>
+<text x="170.0" y="716" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#EF6C00" text-anchor="middle">Drone</text>
+<rect x="300" y="640" width="300" height="145" rx="12" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2"/>
+<text x="450.0" y="716" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">unfertilised egg</text>
+<rect x="620" y="640" width="340" height="145" rx="12" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2"/>
+<text x="790.0" y="716" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">larger drone cell</text>
+<rect x="980" y="640" width="300" height="145" rx="12" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2"/>
+<text x="1130.0" y="716" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">~24 days</text>
+<rect x="55" y="880" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="909" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Approximate development times are useful for management but should not be treated as a rigid clock. Colony temperature and biological variation can shift timing.</text>
+</svg>

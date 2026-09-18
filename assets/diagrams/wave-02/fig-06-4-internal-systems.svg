@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 6.4 — Internal Systems</title>
+<desc id="desc">Simplified worker honey bee internal systems: crop, midgut, hindgut, Malpighian tubules, tracheae, dorsal vessel, nervous system and selected glands.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 6.4 — Internal Systems</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Diagram emphasises spatial relationships, not histological scale.</text>
+<path d="M 412.75 438.75 C 470.75 330.0, 601.25 344.5, 547.6 446.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="2.9"/>
+<path d="M 434.5 482.25 C 507.0 554.75, 591.1 540.25, 536.0 482.25 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="2.32"/>
+<circle cx="311.25" cy="475" r="43.5" fill="#E0A419" stroke="#5D4037" stroke-width="4.35"/>
+<ellipse cx="420" cy="475" rx="63.8" ry="56.55" fill="#E0A419" stroke="#5D4037" stroke-width="4.35"/>
+<ellipse cx="582.4" cy="475" rx="104.39999999999999" ry="44.949999999999996" fill="#E0A419" stroke="#5D4037" stroke-width="4.35"/>
+<line x1="512.8" y1="436.7925" x2="512.8" y2="513.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<line x1="547.6" y1="436.7925" x2="547.6" y2="513.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<line x1="582.4" y1="436.7925" x2="582.4" y2="513.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<line x1="617.2" y1="436.7925" x2="617.2" y2="513.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<line x1="652.0" y1="436.7925" x2="652.0" y2="513.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<path d="M 289.5 446.0 Q 238.75 395.25 209.75 414.1" fill="none" stroke="#5D4037" stroke-width="4.35"/>
+<path d="M 304.0 440.2 Q 282.25 373.5 246.0 370.6" fill="none" stroke="#5D4037" stroke-width="4.35"/>
+<ellipse cx="292.4" cy="469.2" rx="15.95" ry="23.2" fill="#3C2E25"/>
+<path d="M 391.0 511.25 L 354.75 593.9 L 383.75 646.1" fill="none" stroke="#5D4037" stroke-width="5.8" stroke-linecap="round"/>
+<path d="M 427.25 511.25 L 391.0 593.9 L 420.0 646.1" fill="none" stroke="#5D4037" stroke-width="5.8" stroke-linecap="round"/>
+<path d="M 460.6 511.25 L 424.35 593.9 L 453.35 646.1" fill="none" stroke="#5D4037" stroke-width="5.8" stroke-linecap="round"/>
+<path d="M300 470 C350 470 390 485 430 505 C500 535 590 540 715 505 C780 485 830 495 870 520" fill="none" stroke="#C98F4F" stroke-width="16" stroke-linecap="round"/>
+<ellipse cx="470" cy="510" rx="65" ry="35" fill="#E9B677" opacity="0.8"/>
+<ellipse cx="620" cy="520" rx="75" ry="45" fill="#D69A5C" opacity="0.85"/>
+<path d="M690 525 Q 735 450 780 500" fill="none" stroke="#B68D39" stroke-width="3"/>
+<path d="M690 525 Q 745 468 787 505" fill="none" stroke="#B68D39" stroke-width="3"/>
+<path d="M690 525 Q 755 486 794 510" fill="none" stroke="#B68D39" stroke-width="3"/>
+<path d="M690 525 Q 765 504 801 515" fill="none" stroke="#B68D39" stroke-width="3"/>
+<path d="M690 525 Q 775 522 808 520" fill="none" stroke="#B68D39" stroke-width="3"/>
+<path d="M390 405 C520 385 680 390 835 430" fill="none" stroke="#C62828" stroke-width="6"/>
+<path d="M370 575 C500 595 670 595 820 565" fill="none" stroke="#6A1B9A" stroke-width="6"/>
+<circle cx="440" cy="585" r="9" fill="#6A1B9A"/>
+<circle cx="520" cy="585" r="9" fill="#6A1B9A"/>
+<circle cx="600" cy="585" r="9" fill="#6A1B9A"/>
+<circle cx="680" cy="585" r="9" fill="#6A1B9A"/>
+<circle cx="760" cy="585" r="9" fill="#6A1B9A"/>
+<circle cx="480" cy="445" r="20" fill="none" stroke="#1565C0" stroke-width="2"/>
+<line x1="460" y1="445" x2="438" y2="425" stroke="#1565C0" stroke-width="2"/>
+<circle cx="560" cy="460" r="20" fill="none" stroke="#1565C0" stroke-width="2"/>
+<line x1="540" y1="460" x2="518" y2="440" stroke="#1565C0" stroke-width="2"/>
+<circle cx="650" cy="455" r="20" fill="none" stroke="#1565C0" stroke-width="2"/>
+<line x1="630" y1="455" x2="608" y2="435" stroke="#1565C0" stroke-width="2"/>
+<circle cx="730" cy="465" r="20" fill="none" stroke="#1565C0" stroke-width="2"/>
+<line x1="710" y1="465" x2="688" y2="445" stroke="#1565C0" stroke-width="2"/>
+<line x1="470" y1="510" x2="170" y2="235" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="175" y="240" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#EF6C00" text-anchor="start">crop (honey stomach)</text>
+<line x1="620" y1="520" x2="235" y2="335" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="240" y="340" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#EF6C00" text-anchor="start">midgut</text>
+<line x1="835" y1="520" x2="1030" y2="620" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="1035" y="625" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#EF6C00" text-anchor="start">hindgut / rectum</text>
+<line x1="730" y1="490" x2="990" y2="460" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="995" y="465" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#2E7D32" text-anchor="start">Malpighian tubules</text>
+<line x1="620" y1="400" x2="940" y2="300" stroke="#C62828" stroke-width="2.5"/>
+<text x="945" y="305" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#C62828" text-anchor="start">dorsal vessel</text>
+<line x1="620" y1="585" x2="940" y2="745" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="945" y="750" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#6A1B9A" text-anchor="start">ventral nerve cord</text>
+<line x1="560" y1="455" x2="210" y2="720" stroke="#1565C0" stroke-width="2.5"/>
+<text x="215" y="725" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#1565C0" text-anchor="start">tracheal system</text>
+<rect x="55" y="885" width="1290" height="80" rx="14" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The crop temporarily carries nectar/water; digestion and absorption occur mainly in the midgut. Tracheae deliver gases directly to tissues rather than using blood to transport oxygen.</text>
+</svg>

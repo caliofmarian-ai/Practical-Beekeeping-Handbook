@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 9.2 — Worker Specialised Structures</title>
+<desc id="desc">Worker structures important to colony function: hypopharyngeal glands, wax glands, pollen basket, sting apparatus and Nasonov gland.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 9.2 — Worker Specialised Structures</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Magnified insets identify specialised structures that are too small or internal to see at normal scale.</text>
+<path d="M 492.75 433.75 C 550.75 325.0, 681.25 339.5, 627.6 441.0 Z" fill="#D9EEF7" opacity="0.78" stroke="#7EAFC3" stroke-width="2.9"/>
+<path d="M 514.5 477.25 C 587.0 549.75, 671.1 535.25, 616.0 477.25 Z" fill="#D9EEF7" opacity="0.58" stroke="#7EAFC3" stroke-width="2.32"/>
+<circle cx="391.25" cy="470" r="43.5" fill="#E0A419" stroke="#5D4037" stroke-width="4.35"/>
+<ellipse cx="500" cy="470" rx="63.8" ry="56.55" fill="#E0A419" stroke="#5D4037" stroke-width="4.35"/>
+<ellipse cx="662.4" cy="470" rx="104.39999999999999" ry="44.949999999999996" fill="#E0A419" stroke="#5D4037" stroke-width="4.35"/>
+<line x1="592.8" y1="431.7925" x2="592.8" y2="508.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<line x1="627.6" y1="431.7925" x2="627.6" y2="508.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<line x1="662.4" y1="431.7925" x2="662.4" y2="508.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<line x1="697.2" y1="431.7925" x2="697.2" y2="508.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<line x1="732.0" y1="431.7925" x2="732.0" y2="508.2075" stroke="#5D4037" stroke-width="5.8" opacity="0.7"/>
+<path d="M 369.5 441.0 Q 318.75 390.25 289.75 409.1" fill="none" stroke="#5D4037" stroke-width="4.35"/>
+<path d="M 384.0 435.2 Q 362.25 368.5 326.0 365.6" fill="none" stroke="#5D4037" stroke-width="4.35"/>
+<ellipse cx="372.4" cy="464.2" rx="15.95" ry="23.2" fill="#3C2E25"/>
+<path d="M 471.0 506.25 L 434.75 588.9 L 463.75 641.1" fill="none" stroke="#5D4037" stroke-width="5.8" stroke-linecap="round"/>
+<path d="M 507.25 506.25 L 471.0 588.9 L 500.0 641.1" fill="none" stroke="#5D4037" stroke-width="5.8" stroke-linecap="round"/>
+<path d="M 540.6 506.25 L 504.35 588.9 L 533.35 641.1" fill="none" stroke="#5D4037" stroke-width="5.8" stroke-linecap="round"/>
+<ellipse cx="380" cy="455" rx="42" ry="30" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="3"/>
+<line x1="380" y1="455" x2="100" y2="210" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="105" y="215" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#6A1B9A" text-anchor="start">hypopharyngeal glands</text>
+<ellipse cx="560" cy="655" rx="40" ry="18" fill="#E9B93E" stroke="#9A6A0A" stroke-width="3"/>
+<line x1="560" y1="655" x2="100" y2="725" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="105" y="730" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#EF6C00" text-anchor="start">corbicula / pollen basket</text>
+<ellipse cx="650" cy="535" rx="18" ry="9" fill="#FFFBEA" stroke="#8D6E63" stroke-width="2"/>
+<ellipse cx="690" cy="535" rx="18" ry="9" fill="#FFFBEA" stroke="#8D6E63" stroke-width="2"/>
+<ellipse cx="730" cy="535" rx="18" ry="9" fill="#FFFBEA" stroke="#8D6E63" stroke-width="2"/>
+<ellipse cx="770" cy="535" rx="18" ry="9" fill="#FFFBEA" stroke="#8D6E63" stroke-width="2"/>
+<line x1="715" y1="535" x2="915" y2="280" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="920" y="285" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#2E7D32" text-anchor="start">wax-gland sternites</text>
+<path d="M820 470 Q850 450 875 470" fill="none" stroke="#1565C0" stroke-width="8"/>
+<line x1="855" y1="470" x2="990" y2="470" stroke="#1565C0" stroke-width="2.5"/>
+<text x="995" y="475" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#1565C0" text-anchor="start">Nasonov gland region</text>
+<line x1="850" y1="500" x2="910" y2="520" stroke="#C62828" stroke-width="5"/>
+<line x1="905" y1="520" x2="1040" y2="650" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="1045" y="655" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#EF6C00" text-anchor="start">sting apparatus</text>
+<rect x="1000" y="180" width="320" height="610" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="1018" y="211" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Function summary</text>
+<text x="1025" y="240" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Hypopharyngeal glands</text>
+<text x="1025" y="263" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">brood food + enzymes</text>
+<text x="1025" y="286" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1025" y="309" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Wax glands</text>
+<text x="1025" y="332" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">produce wax scales</text>
+<text x="1025" y="355" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1025" y="378" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Corbicula</text>
+<text x="1025" y="401" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">carries packed pollen</text>
+<text x="1025" y="424" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1025" y="447" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Nasonov gland</text>
+<text x="1025" y="470" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">orientation/aggregation signal</text>
+<text x="1025" y="493" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="1025" y="516" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Sting apparatus</text>
+<text x="1025" y="539" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">defence; associated venom system</text>
+<rect x="55" y="885" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Structure size and gland development change with worker age and task state. Insets are magnified and not drawn to the same scale as the whole bee.</text>
+</svg>
