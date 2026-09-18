@@ -1,0 +1,52 @@
+name: visual-color-index-once
+
+on:
+  push:
+    branches:
+      - publishing/visual-color-index-v1
+    paths:
+      - "scripts/apply_visual_color_and_build_index.py"
+      - ".github/workflows/visual-color-index-once.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publishing/visual-color-index-v1
+          fetch-depth: 0
+
+      - name: Apply semantic colour pass and build gallery
+        run: python3 scripts/apply_visual_color_and_build_index.py
+
+      - name: Validate generated SVGs
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+          files = sorted(Path("assets/diagrams/wave-01").glob("*.svg"))
+          assert files, "No SVG files found"
+          for p in files:
+              text = p.read_text(encoding="utf-8")
+              ET.fromstring(text)
+              assert "<title" in text and "<desc" in text, p
+              assert "semantic-color-pass:v1" in text, p
+          print(f"Validated {len(files)} SVG files")
+          PY
+
+      - name: Commit generated colour pass and gallery
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/diagrams/wave-01 docs/visual-index.md docs/visual-index docs/reviews/VISUAL_SEMANTIC_COLOR_PASS_V1.md
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "Apply semantic colour pass and build visual gallery"
+            git push origin HEAD:publishing/visual-color-index-v1
+          fi
