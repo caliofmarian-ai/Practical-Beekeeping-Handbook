@@ -45,7 +45,7 @@ def arrow(p,x1,y1,x2,y2,color="blue",label=None,width=4):
     col=cmap[color]
     p.append(f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{col}" stroke-width="{width}" marker-end="url(#{mmap[color]})"/>')
     if label: text(p,(x1+x2)/2,(y1+y2)/2-9,label,14,700,col,"middle")
-def note(p,lines,y=880,kind="orange"):
+def note(p,y,lines,kind="orange"):
     pal={"orange":(C["orange_light"],C["orange"]),"blue":(C["blue_light"],C["blue"]),"green":(C["green_light"],C["green"])}
     fill,stroke=pal[kind]; rect(p,55,y,1290,80,fill,stroke,2.5,14); multi(p,78,y+29,lines,17,600,C["ink"],23)
 def circle_label(p,cx,cy,r,fill,stroke,title,sub=None):
