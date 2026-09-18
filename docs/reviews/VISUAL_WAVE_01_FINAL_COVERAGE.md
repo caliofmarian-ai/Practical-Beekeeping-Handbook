@@ -1,44 +1,28 @@
-# Visual Wave 01 — Final Coverage and High-Fidelity Handoff
+# Visual Wave 01 — Final Coverage
 
-**Date:** 17 September 2026  
-**Result:** **ALL DETERMINISTIC VECTOR CANDIDATES PRODUCED — HIGH-FIDELITY SET ISOLATED**
+**Result:** **A_CORE PRODUCTION COMPLETE — FINAL LAYOUT PROOF PENDING**
 
 ## Coverage
 
-- A_CORE briefs: **68**
-- A_CORE Figure IDs with an actual SVG asset: **50**
-- remaining high-fidelity biological/diagnostic assets: **18**
+- Planned A_CORE Figure IDs: **68**
+- A_CORE Figure IDs with an actual repository asset: **68**
+- High-fidelity A_CORE assets still unproduced: **0**
+- Total Wave 01 SVG files currently in the repository: **94**
 
-| Chapter | A_CORE | Actual SVG present | High-fidelity remaining |
-|---:|---:|---:|---:|
-| 21 | 4 | 4 | 0 |
-| 22 | 4 | 4 | 0 |
-| 23 | 4 | 4 | 0 |
-| 24 | 4 | 4 | 0 |
-| 25 | 4 | 3 | 1 |
-| 33 | 4 | 4 | 0 |
-| 38 | 4 | 4 | 0 |
-| 39 | 5 | 2 | 3 |
-| 40 | 5 | 1 | 4 |
-| 41 | 5 | 2 | 3 |
-| 42 | 5 | 3 | 2 |
-| 43 | 5 | 3 | 2 |
-| 44 | 5 | 4 | 1 |
-| 45 | 5 | 4 | 1 |
-| 46 | 5 | 4 | 1 |
+## Completion statement
 
-## Why the Remaining Set Is Separate
+The deterministic vector phase and the specialised high-fidelity biological/diagnostic phase are both complete for Wave 01.
+All previously isolated brood, disease, mite, anatomy and microscopic-concept figures now have original technical SVG artwork.
 
-The remaining items are dominated by brood/disease appearances, mite morphology, life cycles, anatomy and microscopic concepts. Producing them as generic low-detail schematics would risk teaching incorrect morphology or turning suggestive signs into apparent diagnostic proof.
+This does not mark publication proof as complete. Remaining gates are:
 
-They are therefore routed to specialised original technical illustration or authentic rights-cleared photography, with explicit scale, provenance and diagnostic-limitation review.
+- final greyscale legibility;
+- final print-size legibility;
+- accessibility/alt-text confirmation;
+- scientific/mechanical spot review at layout size;
+- final page-placement proof;
+- PDF/EPUB/print export proof.
 
-## Deliverables
+## Gallery
 
-- `assets/production-briefs/wave-01-high-fidelity.md`
-- `assets/production-briefs/wave-01-high-fidelity.json`
-- `assets/production-briefs/wave-01-high-fidelity.csv`
-
-## Status Rule
-
-The existing SVGs are real artwork but remain layout-proof pending. The high-fidelity queue remains unproduced until actual original/licensed assets pass the full visual gates. No placeholder is counted as complete.
+Use docs/visual-index/wave-01.md for a phone-friendly visual review of every Wave 01 asset.
