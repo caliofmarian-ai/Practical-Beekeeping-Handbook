@@ -46,7 +46,7 @@ def arrow(p,x1,y1,x2,y2,color="blue",width=4,label=None):
     marker={"blue":"ab","purple":"ap","orange":"ao"}[color]
     p.append(f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{col}" stroke-width="{width}" marker-end="url(#{marker})"/>')
     if label: text(p,(x1+x2)/2,(y1+y2)/2-10,label,15,700,col,"middle")
-def note(p,lines,y=910,kind="orange"):
+def note(p,y,lines,kind="orange"):
     pal={"orange":(C["orange_light"],C["orange"]),"blue":(C["blue_light"],C["blue"]),"purple":(C["purple_light"],C["purple"])}
     fill,stroke=pal[kind]; p.append(f'<rect x="55" y="{y}" width="1290" height="90" rx="16" fill="{fill}" stroke="{stroke}" stroke-width="2.5"/>'); multi(p,78,y+30,lines,18,600,C["ink"],24)
 def scale_bar(p,x,y,length,label):
