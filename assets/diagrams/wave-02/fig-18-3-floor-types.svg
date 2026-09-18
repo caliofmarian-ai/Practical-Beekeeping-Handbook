@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 18.3 — Floor Types</title>
+<desc id="desc">Solid hive floor compared with screened floor and removable monitoring board, including ventilation and mite-monitoring implications.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 18.3 — Floor Types</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Floor choice modifies airflow and monitoring access; neither replaces Varroa management.</text>
+<rect x="55" y="160" width="620" height="650" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="73" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Solid floor</text>
+<rect x="185" y="290.0" width="250" height="170.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="185" y="460.0" width="250" height="170.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="175" y="265" width="270" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="200" y="630" width="220" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="260.0" y="618" width="100.0" height="12" fill="#3A2D24"/>
+<rect x="165" y="630" width="290" height="28" fill="#8D6E63"/>
+<text x="95" y="710" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">simple closed base</text>
+<text x="95" y="735" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">debris accumulates on solid surface</text>
+<text x="95" y="760" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">ventilation depends on entrance/other openings</text>
+<rect x="725" y="160" width="620" height="650" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="743" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Screened floor + monitoring board</text>
+<rect x="855" y="290.0" width="250" height="170.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="855" y="460.0" width="250" height="170.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="845" y="265" width="270" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="870" y="630" width="220" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="930.0" y="618" width="100.0" height="12" fill="#3A2D24"/>
+<rect x="835" y="628" width="290" height="22" fill="#CFD8DC" stroke="#607D8B" stroke-width="3"/>
+<line x1="850" y1="628" x2="860" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="872" y1="628" x2="882" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="894" y1="628" x2="904" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="916" y1="628" x2="926" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="938" y1="628" x2="948" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="960" y1="628" x2="970" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="982" y1="628" x2="992" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="1004" y1="628" x2="1014" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="1026" y1="628" x2="1036" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="1048" y1="628" x2="1058" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="1070" y1="628" x2="1080" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="1092" y1="628" x2="1102" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<line x1="1114" y1="628" x2="1124" y2="650" stroke="#607D8B" stroke-width="1.5"/>
+<rect x="850" y="690" width="260" height="18" fill="#FFF8E1" stroke="#EF6C00" stroke-width="3"/>
+<text x="980" y="735" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#EF6C00" text-anchor="middle">removable monitoring board</text>
+<text x="765" y="775" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">screen may increase lower ventilation</text>
+<text x="765" y="799" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">board can collect natural/treatment mite fall</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Natural mite fall and screened floors are supporting tools. Quantitative Varroa monitoring and effective control remain necessary.</text>
+</svg>

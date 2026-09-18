@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 19.4 — Straight Natural Comb</title>
+<desc id="desc">Correct vertical guide alignment and full comb attachment contrasted with cross-comb caused by poor alignment or hive level.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 19.4 — Straight Natural Comb</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Fresh natural comb is soft and mechanically vulnerable; guide alignment and hive level strongly affect construction.</text>
+<rect x="55" y="160" width="620" height="650" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="73" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Straight comb</text>
+<rect x="135" y="260" width="460" height="50" rx="3" fill="#D9B57C" stroke="#8D6E63" stroke-width="4"/>
+<path d="M365 310 C315 420 325 610 365 690 C405 610 415 420 365 310 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<line x1="365" y1="220" x2="365" y2="720" stroke="#1565C0" stroke-width="3" stroke-dasharray="9 7"/>
+<text x="365" y="760" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#2E7D32" text-anchor="middle">guide and gravity aligned</text>
+<rect x="725" y="160" width="620" height="650" rx="18" fill="#FFEBEE" stroke="#C62828" stroke-width="2.5"/>
+<text x="743" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#C62828" text-anchor="start">Cross-comb failure</text>
+<rect x="805" y="260" width="460" height="50" rx="3" fill="#D9B57C" stroke="#8D6E63" stroke-width="4"/>
+<path d="M940 310 C1040 390 1090 570 1190 690 C1110 690 965 610 900 500 C860 430 875 350 940 310 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<line x1="1035" y1="220" x2="1035" y2="720" stroke="#1565C0" stroke-width="3" stroke-dasharray="9 7"/>
+<text x="1035" y="760" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#C62828" text-anchor="middle">comb departs from guide</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Never rotate or lay heavy new foundationless comb flat in hot conditions unless supported; comb can tear or collapse before wax fully melts.</text>
+</svg>

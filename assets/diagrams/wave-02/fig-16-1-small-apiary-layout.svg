@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 16.1 — Small Apiary Layout</title>
+<desc id="desc">Example small-apiary plan showing staggered hive entrances, landmarks, working aisle, vehicle approach and emergency access.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 16.1 — Small Apiary Layout</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Example layout only; statutory spacing and site rules vary by jurisdiction and property.</text>
+<rect x="60" y="150" width="1280" height="690" rx="22" fill="#F8FBF4" stroke="#90A4AE" stroke-width="2"/>
+<rect x="80" y="680" width="1240" height="100" rx="10" fill="#ECEFF1" stroke="#90A4AE" stroke-width="2"/>
+<text x="700" y="740" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#757575" text-anchor="middle">vehicle / emergency access</text>
+<rect x="150" y="250.0" width="150" height="105.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="150" y="355.0" width="150" height="105.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="140" y="225" width="170" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="165" y="460" width="120" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="195.0" y="448" width="60.0" height="12" fill="#3A2D24"/>
+<line x1="225" y1="450" x2="315" y2="580" stroke="#2E7D32" stroke-width="3" marker-end="url(#ag)"/>
+<text x="225" y="238" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1565C0" text-anchor="middle">H1</text>
+<rect x="390" y="320.0" width="150" height="105.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="390" y="425.0" width="150" height="105.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="380" y="295" width="170" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="405" y="530" width="120" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="435.0" y="518" width="60.0" height="12" fill="#3A2D24"/>
+<line x1="465" y1="520" x2="375" y2="650" stroke="#2E7D32" stroke-width="3" marker-end="url(#ag)"/>
+<text x="465" y="308" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1565C0" text-anchor="middle">H2</text>
+<rect x="650" y="245.0" width="150" height="105.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="650" y="350.0" width="150" height="105.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="640" y="220" width="170" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="665" y="455" width="120" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="695.0" y="443" width="60.0" height="12" fill="#3A2D24"/>
+<line x1="725" y1="445" x2="815" y2="575" stroke="#2E7D32" stroke-width="3" marker-end="url(#ag)"/>
+<text x="725" y="233" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1565C0" text-anchor="middle">H3</text>
+<rect x="920" y="325.0" width="150" height="105.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="920" y="430.0" width="150" height="105.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
+<rect x="910" y="300" width="170" height="28" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="935" y="535" width="120" height="18" rx="3" fill="#CFBE9A" stroke="#8D6E63" stroke-width="3"/>
+<rect x="965.0" y="523" width="60.0" height="12" fill="#3A2D24"/>
+<line x1="995" y1="525" x2="905" y2="655" stroke="#2E7D32" stroke-width="3" marker-end="url(#ag)"/>
+<text x="995" y="313" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1565C0" text-anchor="middle">H4</text>
+<circle cx="330" cy="210" r="38" fill="#72A765"/><rect x="325" y="240" width="10" height="55" fill="#7C5A38"/>
+<circle cx="600" cy="400" r="38" fill="#72A765"/><rect x="595" y="430" width="10" height="55" fill="#7C5A38"/>
+<circle cx="1080" cy="235" r="38" fill="#72A765"/><rect x="1075" y="265" width="10" height="55" fill="#7C5A38"/>
+<path d="M110 600 L1180 600" stroke="#1565C0" stroke-width="5" stroke-dasharray="12 8"/>
+<text x="650" y="585" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#1565C0" text-anchor="middle">working aisle</text>
+<rect x="55" y="865" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Preserve safe working clearance and a route for emergency access. Entrance orientation and landmarks can also reduce drift and public conflict.</text>
+</svg>

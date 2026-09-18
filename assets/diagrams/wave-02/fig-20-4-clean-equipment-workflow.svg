@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 20.4 — Clean Equipment Workflow</title>
+<desc id="desc">Controlled streams separating routine apiary tools, honey-room food-contact tools and disease-suspect tools to reduce cross-contamination.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 20.4 — Clean Equipment Workflow</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">The safest workflow prevents suspect equipment from crossing into clean food or healthy-colony streams.</text>
+<rect x="70" y="175" width="1260" height="175" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="88" y="206" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Routine apiary tools</text>
+<text x="100" y="255" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">field use → clean/decontaminate as required → return to field</text>
+<line x1="430" y1="295" x2="560" y2="295" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="880" y1="295" x2="1020" y2="295" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<rect x="70" y="395" width="1260" height="175" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="88" y="426" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Honey-room tools</text>
+<text x="100" y="475" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">food-contact use → food-safe cleaning → dry protected storage</text>
+<line x1="430" y1="515" x2="560" y2="515" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="880" y1="515" x2="1020" y2="515" stroke="#2E7D32" stroke-width="3" marker-end="url(#ag)"/>
+<rect x="70" y="615" width="1260" height="175" rx="18" fill="#FFEBEE" stroke="#C62828" stroke-width="2.5"/>
+<text x="88" y="646" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#C62828" text-anchor="start">Disease-suspect tools</text>
+<text x="100" y="695" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">isolate → pathogen-appropriate decontamination/disposition → release only when safe</text>
+<line x1="430" y1="735" x2="560" y2="735" stroke="#EF6C00" stroke-width="3" marker-end="url(#ao)"/>
+<line x1="880" y1="735" x2="1020" y2="735" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">No single disinfectant or cleaning method is universal. Match decontamination to the suspected pathogen, material, food-contact status and current official guidance.</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 16.5 — Apiary Identification System</title>
+<desc id="desc">Site code plus colony code linked to inspection, queen, treatment and harvest records.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 16.5 — Apiary Identification System</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">A stable identity should follow a colony through inspections and treatments even when boxes or supers change.</text>
+<rect x="90" y="220" width="210" height="90" rx="10" fill="#FFF" stroke="#1565C0" stroke-width="3"/>
+<text x="105" y="252" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1565C0" text-anchor="start">SITE: DUB-A</text>
+<text x="105" y="282" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1F2933" text-anchor="start">COLONY: DUB-A-07</text>
+<line x1="300" y1="265" x2="470" y2="265" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="485" y="160" width="350" height="590" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="503" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Colony record</text>
+<text x="515" y="225" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">DUB-A-07</text>
+<text x="515" y="265" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">inspection dates</text>
+<text x="515" y="305" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">queen year/source</text>
+<text x="515" y="345" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Varroa results</text>
+<text x="515" y="385" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">treatments + active ingredient</text>
+<text x="515" y="425" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">feeding / major events</text>
+<line x1="835" y1="455" x2="940" y2="455" stroke="#2E7D32" stroke-width="4" marker-end="url(#ag)"/>
+<rect x="955" y="160" width="350" height="590" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="973" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Linked outputs</text>
+<text x="985" y="225" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">harvest lot</text>
+<text x="985" y="265" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">sample/lab result</text>
+<text x="985" y="305" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">equipment movement</text>
+<text x="985" y="345" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">colony sale/move</text>
+<text x="985" y="385" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">mortality/dead-out</text>
+<text x="985" y="425" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">follow-up action</text>
+<rect x="55" y="865" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Do not use box colour or physical hive position as the only colony identity. Equipment and colony location can change; the record identifier must remain controlled.</text>
+</svg>
