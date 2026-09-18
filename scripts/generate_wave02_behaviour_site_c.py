@@ -40,6 +40,11 @@ def arrow(p,x1,y1,x2,y2,color="blue",width=4):
 def note(p,y,lines,kind="orange"):
     pal={"orange":(C["orange_light"],C["orange"]),"blue":(C["blue_light"],C["blue"]),"green":(C["green_light"],C["green"]),"purple":(C["purple_light"],C["purple"])}
     fill,stroke=pal[kind]; rect(p,55,y,1290,80,fill,stroke,2.5,14); multi(p,78,y+29,lines,17,600,C["ink"],23)
+def circle_label(p,cx,cy,r,fill,stroke,title,sub=None):
+    p.append(f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}" stroke="{stroke}" stroke-width="3"/>')
+    text(p,cx,cy-3,title,18,700,stroke,"middle")
+    if sub:
+        text(p,cx,cy+24,sub,13,500,C["muted"],"middle")
 def bee(p,cx,cy,s=1):
     p.append(f'<path d="M{cx+5*s} {cy-18*s} C{cx+35*s} {cy-70*s} {cx+100*s} {cy-65*s} {cx+72*s} {cy-15*s} Z" fill="{C["wing"]}" opacity="0.7" stroke="#7EAFC3" stroke-width="{1.6*s}"/>')
     p.append(f'<circle cx="{cx-50*s}" cy="{cy}" r="{20*s}" fill="{C["bee"]}" stroke="{C["bee_dark"]}" stroke-width="{2*s}"/>')
