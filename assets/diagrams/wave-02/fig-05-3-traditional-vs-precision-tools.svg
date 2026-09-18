@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 5.3 — Traditional Tools and Precision Tools</title>
+<desc id="desc">Hive tool, smoker and direct frame inspection shown alongside scales, sensors and digital records; technology augments rather than replaces biological inspection.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 5.3 — Traditional Tools and Precision Tools</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Precision tools increase observation frequency, but sensors do not diagnose a colony by themselves.</text>
+<rect x="55" y="160" width="620" height="650" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="73" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Direct / traditional tools</text>
+<path d="M150 320 L430 270 L445 300 L165 355 Z" fill="#9AA5B1" stroke="#4E5964" stroke-width="4"/>
+<text x="300" y="395" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#757575" text-anchor="middle">hive tool</text>
+<rect x="180" y="470" width="110" height="160" rx="22" fill="#B0BEC5" stroke="#546E7A" stroke-width="4"/><path d="M235 470 L260 410 L310 390" fill="none" stroke="#546E7A" stroke-width="16"/>
+<text x="235" y="675" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#757575" text-anchor="middle">smoker</text>
+<rect x="440" y="455" width="120" height="220" rx="8" fill="#FFF9E5" stroke="#8D6E63" stroke-width="4"/>
+<rect x="452" y="470" width="96" height="70" rx="5" fill="#F6CF58" stroke="#D4A017" stroke-width="1.5"/>
+<rect x="455" y="565" width="90" height="145" rx="20" fill="#C38A57" stroke="#8A5A35" stroke-width="1.5"/>
+<rect x="458" y="730" width="84" height="45" rx="6" fill="#E1A11E" stroke="#9A6515" stroke-width="1.5"/>
+<text x="500" y="705" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#8D6E63" text-anchor="middle">frame inspection</text>
+<rect x="725" y="160" width="620" height="650" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="743" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Precision / digital tools</text>
+<rect x="800" y="300" width="180" height="90" rx="12" fill="#ECEFF1" stroke="#607D8B" stroke-width="4"/>
+<text x="890" y="355" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">hive scale</text>
+<circle cx="1120" cy="340" r="65" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="4"/>
+<text x="1120" y="347" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#6A1B9A" text-anchor="middle">sensor</text>
+<rect x="860" y="500" width="170" height="260" rx="24" fill="#FAFAFA" stroke="#455A64" stroke-width="6"/>
+<rect x="885" y="540" width="120" height="110" rx="8" fill="#E3F2FD" stroke="#1565C0" stroke-width="2"/>
+<text x="945" y="690" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">records</text>
+<polyline points="1090,700 1130,650 1170,670 1210,590 1250,610" fill="none" stroke="#2E7D32" stroke-width="6"/>
+<text x="1175" y="745" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">trend data</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Use technology as an additional observation layer. Validate unusual sensor readings with colony inspection, calibrated equipment and biological context.</text>
+</svg>

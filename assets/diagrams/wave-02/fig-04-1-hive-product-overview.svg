@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 4.1 — Hive-Product Overview</title>
+<desc id="desc">Six hive products—honey, beeswax, pollen, propolis, royal jelly and bee venom—shown with their biological origin in the colony.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 4.1 — Hive-Product Overview</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Products differ in biological origin, collection method, preservation needs and safety risks.</text>
+<rect x="70" y="170" width="390" height="300" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="88" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Honey</text>
+<path d="M155 261 C131 287 127 303 155 328 C183 303 179 287 155 261 Z" fill="#E0A51B" stroke="#9A6A0A" stroke-width="3"/>
+<text x="225" y="275" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">nectar/honeydew collected, processed and ripened by bees</text>
+<rect x="510" y="170" width="390" height="300" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="528" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Beeswax</text>
+<polygon points="557,295 576,262 614,262 633,295 614,328 576,328" fill="#F4E7A1" stroke="#8D6E63" stroke-width="3"/>
+<text x="665" y="275" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">wax scales secreted by worker abdominal glands</text>
+<rect x="950" y="170" width="390" height="300" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="968" y="201" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Pollen</text>
+<circle cx="1017" cy="287" r="15" fill="#D98C10"/>
+<circle cx="1039" cy="277" r="15" fill="#E7B438"/>
+<circle cx="1055" cy="299" r="15" fill="#B76E1E"/>
+<circle cx="1025" cy="313" r="15" fill="#D8A927"/>
+<text x="1105" y="275" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">plant pollen carried by foragers; bee bread is stored/processed pollen</text>
+<rect x="70" y="530" width="390" height="300" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="88" y="561" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Propolis</text>
+<path d="M120 673 L145 625 L187 637 L195 673 L160 687 Z" fill="#7A4D31" stroke="#4E3224" stroke-width="3"/>
+<text x="225" y="635" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">plant resins collected and modified by bees</text>
+<rect x="510" y="530" width="390" height="300" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="528" y="561" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Royal jelly</text>
+<ellipse cx="595" cy="655" rx="42" ry="30" fill="#FFF3D1" stroke="#C2A85A" stroke-width="3"/>
+<text x="665" y="635" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">glandular secretion of nurse workers</text>
+<rect x="950" y="530" width="390" height="300" rx="18" fill="#FFEBEE" stroke="#C62828" stroke-width="2.5"/>
+<text x="968" y="561" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#C62828" text-anchor="start">Bee venom</text>
+<path d="M1035 620 C1010 647 1009 667 1035 690 C1061 667 1060 647 1035 620 Z" fill="#E6C6D0" stroke="#C62828" stroke-width="3"/>
+<path d="M1060 663 L1090 683" stroke="#C62828" stroke-width="5"/>
+<text x="1105" y="635" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">venom-gland/sting apparatus product; high allergy hazard</text>
+<text x="1105" y="745" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#C62828" text-anchor="start">ANAPHYLAXIS RISK</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Biological activity reported in research does not automatically authorise a consumer health claim. Product category and claims are regulated separately.</text>
+</svg>

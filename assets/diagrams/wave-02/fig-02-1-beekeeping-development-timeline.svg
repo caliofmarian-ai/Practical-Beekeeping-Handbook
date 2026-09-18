@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 2.1 — Timeline of Beekeeping Development</title>
+<desc id="desc">Conceptual timeline from honey hunting and fixed-comb hives to movable frames, centrifugal extraction and modern bee-health/precision systems without forcing one universal global chronology.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 2.1 — Timeline of Beekeeping Development</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Different regions followed different paths; this is a technology sequence, not a single worldwide timeline.</text>
+<line x1="100" y1="510" x2="1300" y2="510" stroke="#1565C0" stroke-width="7"/>
+<circle cx="150" cy="510" r="24" fill="#FFFFFF" stroke="#EF6C00" stroke-width="7"/>
+<rect x="30" y="220" width="240" height="150" rx="18" fill="#FFFFFF" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="150" y="260" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#EF6C00" text-anchor="middle">Honey hunting</text>
+<text x="150" y="292" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">wild nests</text>
+<text x="150" y="312" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">destructive harvest risk</text>
+<circle cx="410" cy="510" r="24" fill="#FFFFFF" stroke="#8D6E63" stroke-width="7"/>
+<rect x="290" y="610" width="240" height="150" rx="18" fill="#FFFFFF" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="410" y="650" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#8D6E63" text-anchor="middle">Fixed-comb hives</text>
+<text x="410" y="682" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">skeps/logs/clay/boxes</text>
+<text x="410" y="702" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">regional traditions</text>
+<circle cx="690" cy="510" r="24" fill="#FFFFFF" stroke="#2E7D32" stroke-width="7"/>
+<rect x="570" y="220" width="240" height="150" rx="18" fill="#FFFFFF" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="690" y="260" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Movable frames</text>
+<text x="690" y="292" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">inspectable comb</text>
+<text x="690" y="312" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">bee-space principle</text>
+<circle cx="950" cy="510" r="24" fill="#FFFFFF" stroke="#D4A017" stroke-width="7"/>
+<rect x="830" y="610" width="240" height="150" rx="18" fill="#FFFFFF" stroke="#D4A017" stroke-width="2.5"/>
+<text x="950" y="650" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#D4A017" text-anchor="middle">Centrifugal extraction</text>
+<text x="950" y="682" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">comb reuse</text>
+<text x="950" y="702" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">larger-scale harvest</text>
+<circle cx="1220" cy="510" r="24" fill="#FFFFFF" stroke="#6A1B9A" stroke-width="7"/>
+<rect x="1100" y="220" width="240" height="150" rx="18" fill="#FFFFFF" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="1220" y="260" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#6A1B9A" text-anchor="middle">Modern systems</text>
+<text x="1220" y="292" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">bee health/IPM</text>
+<text x="1220" y="312" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="middle">data + food standards</text>
+<rect x="55" y="865" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Historical practices should be interpreted in their regional context. The sequence does not imply that every society progressed through the same hive forms or dates.</text>
+</svg>

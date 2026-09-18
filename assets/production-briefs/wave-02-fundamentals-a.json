@@ -1,0 +1,97 @@
+{
+  "wave": 2,
+  "batch": "fundamentals-a",
+  "asset_count": 15,
+  "assets": [
+    {
+      "figure_id": "1.2",
+      "path": "assets/diagrams/wave-02/fig-01-2-what-a-colony-contains.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "1.3",
+      "path": "assets/diagrams/wave-02/fig-01-3-beekeeping-year-at-a-glance.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "1.4",
+      "path": "assets/diagrams/wave-02/fig-01-4-beginner-decision-path.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "2.1",
+      "path": "assets/diagrams/wave-02/fig-02-1-beekeeping-development-timeline.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "2.3",
+      "path": "assets/diagrams/wave-02/fig-02-3-movable-frame-breakthrough.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "2.4",
+      "path": "assets/diagrams/wave-02/fig-02-4-global-traditions.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "3.2",
+      "path": "assets/diagrams/wave-02/fig-03-2-pollination-network.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "3.3",
+      "path": "assets/diagrams/wave-02/fig-03-3-managed-vs-wild-pollinators.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "3.4",
+      "path": "assets/diagrams/wave-02/fig-03-4-ecosystem-service-pathway.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "4.1",
+      "path": "assets/diagrams/wave-02/fig-04-1-hive-product-overview.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "4.2",
+      "path": "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "4.4",
+      "path": "assets/diagrams/wave-02/fig-04-4-from-colony-to-market.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "5.2",
+      "path": "assets/diagrams/wave-02/fig-05-2-evidence-based-decision-loop.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "5.3",
+      "path": "assets/diagrams/wave-02/fig-05-3-traditional-vs-precision-tools.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "5.4",
+      "path": "assets/diagrams/wave-02/fig-05-4-modern-risk-landscape.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    }
+  ]
+}
