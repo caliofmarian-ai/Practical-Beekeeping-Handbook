@@ -1,7 +1,7 @@
 {
   "planned_core_assets": 68,
-  "actual_asset_ids_present": 57,
-  "remaining_high_fidelity_assets": 11,
+  "actual_asset_ids_present": 68,
+  "remaining_high_fidelity_assets": 0,
   "assets": [
     {
       "wave": 1,
@@ -200,7 +200,7 @@
       "reuse_family": "VARROA_CORE",
       "recommended_print_size": "double-column-or-full-page",
       "source_plan": "docs/illustration-plans/chapter-40-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -211,10 +211,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-40-3-varroa-reproductive-cycle.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -246,7 +246,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-40-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -257,10 +257,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-40-4-varroa-on-adult-bees.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "AUTHENTIC_RIGHTS_CLEARED_PHOTO_OR_TECHNICAL_COMPARISON_PLATE",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -292,7 +292,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-40-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -303,10 +303,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-40-7-varroa-tropilaelaps-comparison.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_OR_PHOTO",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -338,7 +338,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column-or-full-page",
       "source_plan": "docs/illustration-plans/chapter-40-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -349,10 +349,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-40-8-tropilaelaps-life-cycle.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -384,7 +384,7 @@
       "reuse_family": "VARROA_CORE",
       "recommended_print_size": "double-column-or-full-page",
       "source_plan": "docs/illustration-plans/chapter-41-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -395,10 +395,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -430,7 +430,7 @@
       "reuse_family": "BEE_CASTE_ANATOMY",
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-41-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -441,10 +441,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-41-3-adult-bee-feeding-site.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -476,7 +476,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column-or-full-page",
       "source_plan": "docs/illustration-plans/chapter-41-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -487,10 +487,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-41-10-varroa-control-categories.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_OR_PHOTO",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -522,7 +522,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column-or-full-page",
       "source_plan": "docs/illustration-plans/chapter-42-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -533,10 +533,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-42-1-nosema-life-cycle.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -568,7 +568,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-42-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -579,10 +579,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-42-3-healthy-vs-affected-midgut.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -752,7 +752,7 @@
       "reuse_family": null,
       "recommended_print_size": "double-column",
       "source_plan": "docs/illustration-plans/chapter-45-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -763,10 +763,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-45-3-varroa-dwv-interaction.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",
@@ -798,7 +798,7 @@
       "reuse_family": null,
       "recommended_print_size": "single-or-double-column",
       "source_plan": "docs/illustration-plans/chapter-46-illustration-plan.md",
-      "production_status": "READY_FOR_ASSET_CREATION",
+      "production_status": "ASSET_CREATED_PENDING_FINAL_LAYOUT_PROOF",
       "required_review_gates": [
         "manuscript_alignment",
         "scientific_or_mechanical_accuracy",
@@ -809,10 +809,10 @@
         "final_layout_proof"
       ],
       "rights_plan": "ORIGINAL_ASSET_FOR_HANDBOOK",
-      "final_asset_path": null,
-      "technical_review_status": "PENDING_AFTER_ASSET_CREATION",
+      "final_asset_path": "assets/diagrams/wave-01/fig-46-6-drone-brood-removal-sequence.svg",
+      "technical_review_status": "PASS_TECHNICAL_PLATE_V1_LAYOUT_PROOF_PENDING",
       "recommended_medium": "HIGH_FIDELITY_ORIGINAL_TECHNICAL_ILLUSTRATION",
-      "asset_status": "BRIEF_READY_HIGH_FIDELITY_ASSET_NOT_YET_CREATED",
+      "asset_status": "HIGH_FIDELITY_TECHNICAL_ILLUSTRATION_CREATED",
       "reference_requirements": [
         "source chapter final text",
         "chapter illustration plan",

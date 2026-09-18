@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+<title id="title">Figure 42.1 — Nosema Life Cycle in an Adult Bee</title>
+<desc id="desc">Nosema microsporidian cycle: spore ingestion, germination and polar-tube extrusion, infection of a midgut epithelial cell, intracellular merogony/sporogony, new spores and faecal-oral transmission.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ap" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1050" fill="#FFFFFF"/>
+<text x="55" y="62" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 42.1 — Nosema Life Cycle in an Adult Bee</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">The infective environmental stage is the spore; multiplication occurs inside midgut epithelial cells.</text>
+<rect x="55" y="145" width="420" height="720" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="73" y="176" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Adult bee digestive context</text>
+<ellipse cx="111.25" cy="330" rx="45.0" ry="41.25" fill="#D4A017" stroke="#6D4C41" stroke-width="2.25"/>
+<ellipse cx="190.0" cy="330" rx="60.0" ry="56.25" fill="#D4A017" stroke="#6D4C41" stroke-width="2.25"/>
+<path d="M 238.75 286.5 C 302.5 258.75, 403.75 277.5, 445.0 330 C 403.75 382.5, 302.5 401.25, 238.75 373.5 Z" fill="#D4A017" stroke="#6D4C41" stroke-width="2.25"/>
+<path d="M 280.0 276.0 Q 287.5 330 280.0 384.0" fill="none" stroke="#6D4C41" stroke-width="3.75" opacity="0.75"/>
+<path d="M 313.75 276.0 Q 321.25 330 313.75 384.0" fill="none" stroke="#6D4C41" stroke-width="3.75" opacity="0.75"/>
+<path d="M 347.5 276.0 Q 355.0 330 347.5 384.0" fill="none" stroke="#6D4C41" stroke-width="3.75" opacity="0.75"/>
+<path d="M 381.25 276.0 Q 388.75 330 381.25 384.0" fill="none" stroke="#6D4C41" stroke-width="3.75" opacity="0.75"/>
+<path d="M 197.5 296.25 C 235.0 221.25, 317.5 225.0, 298.75 303.75 Z" fill="#D9EEF7" opacity="0.75" stroke="#7EAFC3" stroke-width="1.5"/>
+<path d="M 152.5 360.0 L 133.75 412.5 L 148.75 438.75" fill="none" stroke="#6D4C41" stroke-width="3.75" stroke-linecap="round"/>
+<path d="M 186.25 360.0 L 167.5 412.5 L 182.5 438.75" fill="none" stroke="#6D4C41" stroke-width="3.75" stroke-linecap="round"/>
+<path d="M 216.25 360.0 L 197.5 412.5 L 212.5 438.75" fill="none" stroke="#6D4C41" stroke-width="3.75" stroke-linecap="round"/>
+<path d="M205 365 C245 390 275 420 295 465 C320 520 335 600 325 690" fill="none" stroke="#C98F4F" stroke-width="22" stroke-linecap="round"/>
+<ellipse cx="315" cy="560" rx="70" ry="105" fill="#E5B77D" stroke="#9A673A" stroke-width="3"/>
+<text x="315" y="710" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#9A673A" text-anchor="middle">midgut / ventriculus</text>
+<rect x="485" y="150" width="250" height="210" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="503" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">1 — Ingested spore</text>
+<ellipse cx="610" cy="255" rx="51.0" ry="34.0" fill="#E8E4D8" stroke="#726F67" stroke-width="3.4" transform="rotate(-18 610 255)"/>
+<path d="M 589.6 255 C 604.9 229.5, 635.5 238.0, 627.0 260.1 C 618.5 275.4, 598.1 270.3, 601.5 256.7" fill="none" stroke="#6A1B9A" stroke-width="3.4"/>
+<rect x="805" y="150" width="250" height="210" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="823" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">2 — Germination / polar tube</text>
+<ellipse cx="885" cy="255" rx="45.0" ry="30.0" fill="#E8E4D8" stroke="#726F67" stroke-width="3.0" transform="rotate(-18 885 255)"/>
+<path d="M 867.0 255 C 880.5 232.5, 907.5 240.0, 900.0 259.5 C 892.5 273.0, 874.5 268.5, 877.5 256.5" fill="none" stroke="#6A1B9A" stroke-width="3.0"/>
+<path d="M920 255 C950 225 995 228 1020 210" fill="none" stroke="#6A1B9A" stroke-width="4"/>
+<rect x="1085" y="150" width="250" height="210" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="1103" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">3 — Sporoplasm enters cell</text>
+<rect x="1140" y="220" width="140" height="85" rx="18" fill="#F8D9C5" stroke="#B96F52" stroke-width="3"/>
+<circle cx="1210" cy="262" r="15" fill="#6A1B9A" opacity="0.75"/>
+<rect x="1085" y="530" width="250" height="210" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="1103" y="561" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">4 — Merogony / sporogony</text>
+<rect x="1130" y="590" width="160" height="105" rx="18" fill="#F8D9C5" stroke="#B96F52" stroke-width="3"/>
+<circle cx="1175" cy="620" r="12" fill="#6A1B9A" opacity="0.70"/>
+<circle cx="1210" cy="615" r="12" fill="#6A1B9A" opacity="0.70"/>
+<circle cx="1245" cy="625" r="12" fill="#6A1B9A" opacity="0.70"/>
+<circle cx="1190" cy="655" r="12" fill="#6A1B9A" opacity="0.70"/>
+<circle cx="1230" cy="658" r="12" fill="#6A1B9A" opacity="0.70"/>
+<rect x="805" y="530" width="250" height="210" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="823" y="561" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">5 — New spores</text>
+<ellipse cx="885" cy="620" rx="19.5" ry="13.0" fill="#E8E4D8" stroke="#726F67" stroke-width="1.3" transform="rotate(-18 885 620)"/>
+<ellipse cx="930" cy="615" rx="19.5" ry="13.0" fill="#E8E4D8" stroke="#726F67" stroke-width="1.3" transform="rotate(-18 930 615)"/>
+<ellipse cx="975" cy="625" rx="19.5" ry="13.0" fill="#E8E4D8" stroke="#726F67" stroke-width="1.3" transform="rotate(-18 975 625)"/>
+<ellipse cx="905" cy="660" rx="19.5" ry="13.0" fill="#E8E4D8" stroke="#726F67" stroke-width="1.3" transform="rotate(-18 905 660)"/>
+<ellipse cx="960" cy="662" rx="19.5" ry="13.0" fill="#E8E4D8" stroke="#726F67" stroke-width="1.3" transform="rotate(-18 960 662)"/>
+<rect x="485" y="530" width="250" height="210" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="503" y="561" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">6 — Release to lumen / faeces</text>
+<ellipse cx="570" cy="620" rx="18.6" ry="12.4" fill="#E8E4D8" stroke="#726F67" stroke-width="1.24" transform="rotate(-18 570 620)"/>
+<ellipse cx="615" cy="610" rx="18.6" ry="12.4" fill="#E8E4D8" stroke="#726F67" stroke-width="1.24" transform="rotate(-18 615 610)"/>
+<ellipse cx="655" cy="640" rx="18.6" ry="12.4" fill="#E8E4D8" stroke="#726F67" stroke-width="1.24" transform="rotate(-18 655 640)"/>
+<ellipse cx="595" cy="665" rx="18.6" ry="12.4" fill="#E8E4D8" stroke="#726F67" stroke-width="1.24" transform="rotate(-18 595 665)"/>
+<line x1="735" y1="220" x2="805" y2="220" stroke="#6A1B9A" stroke-width="4" marker-end="url(#ap)"/>
+<line x1="1055" y1="220" x2="1080" y2="220" stroke="#6A1B9A" stroke-width="4" marker-end="url(#ap)"/>
+<line x1="1210" y1="360" x2="1210" y2="470" stroke="#6A1B9A" stroke-width="4" marker-end="url(#ap)"/>
+<line x1="1085" y1="600" x2="1055" y2="600" stroke="#6A1B9A" stroke-width="4" marker-end="url(#ap)"/>
+<line x1="805" y1="600" x2="735" y2="600" stroke="#6A1B9A" stroke-width="4" marker-end="url(#ap)"/>
+<line x1="600" y1="500" x2="600" y2="350" stroke="#6A1B9A" stroke-width="4" marker-end="url(#ap)"/>
+<rect x="55" y="900" width="1290" height="90" rx="16" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Microscopy can detect Nosema-like spores, but routine light microscopy does not reliably distinguish N. apis from N. ceranae. Molecular testing is used when species-level information is required.</text>
+</svg>
