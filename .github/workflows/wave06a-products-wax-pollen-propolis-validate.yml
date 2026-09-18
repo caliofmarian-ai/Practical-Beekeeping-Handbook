@@ -1,0 +1,38 @@
+name: wave06a-products-wax-pollen-propolis-validate
+
+on:
+  push:
+    branches:
+      - publishing/visual-wave-06a-products-wax-pollen-propolis
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Wave 06a assets and manifests
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import csv, json, xml.etree.ElementTree as ET
+          root=Path(".")
+          files=sorted((root/"assets/diagrams/wave-06a").glob("*.svg"))
+          assert len(files)==15, f"expected 15 Wave 06a SVGs, found {len(files)}"
+          for p in files:
+              text=p.read_text(encoding="utf-8")
+              ET.fromstring(text)
+              assert '<title id="title">' in text, p
+              assert '<desc id="desc">' in text, p
+              assert 'aria-labelledby="title desc"' in text, p
+          meta=json.loads((root/"assets/production-briefs/wave-06a-products-wax-pollen-propolis.json").read_text(encoding="utf-8"))
+          assert meta["asset_count"]==15 and len(meta["assets"])==15
+          rows=list(csv.DictReader((root/"docs/visual-index/wave-06a-manifest.csv").open(encoding="utf-8")))
+          assert len(rows)==15
+          assert (root/"docs/visual-index/wave-06a.md").exists()
+          assert (root/"docs/reviews/VISUAL_WAVE_06A_PRODUCTS_WAX_POLLEN_PROPOLIS_REVIEW.md").exists()
+          print("Wave 06a validation PASS: 15 SVGs + metadata + gallery + review")
+          PY

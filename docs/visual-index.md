@@ -7,9 +7,10 @@
 **Wave 03 A_CORE coverage:** 21 / 21
 **Wave 04 A_CORE coverage:** 12 / 12
 **Wave 05 A_CORE coverage:** 18 / 18
-**Actual SVGs in Wave 01 + Wave 02 + Wave 03 + Wave 04 + Wave 05:** 205
-**Produced A_CORE coverage:** 179 / 230
-**A_CORE still unproduced:** 51
+**Wave 06a A_CORE coverage:** 15 / 15
+**Actual SVGs in Wave 01 + Wave 02 + Wave 03 + Wave 04 + Wave 05 + Wave 06a:** 220
+**Produced A_CORE coverage:** 194 / 230
+**A_CORE still unproduced:** 36
 **High-fidelity A_CORE still unproduced:** 0
 
 ## Semantic colour legend
@@ -35,17 +36,11 @@ Colour remains supplementary: labels, border/shape logic and captions preserve m
 - [Wave 04 Manifest CSV](visual-index/wave-04-manifest.csv)
 - [Wave 05 — Chapters 47–52 A_CORE Gallery](visual-index/wave-05.md)
 - [Wave 05 Manifest CSV](visual-index/wave-05-manifest.csv)
+- [Wave 06a — Chapters 53–57 A_CORE Gallery](visual-index/wave-06a.md)
+- [Wave 06a Manifest CSV](visual-index/wave-06a-manifest.csv)
 
 ## Current production status
 
-Wave 01 is complete for all 68 A_CORE figure IDs, including the 18 high-fidelity biological/diagnostic plates.
-
-Wave 02 is complete for all 60 A_CORE assets in Chapters 1–20.
-
-Wave 03 is complete for all 21 A_CORE assets in Chapters 26–32.
-
-Wave 04 is complete for all 12 A_CORE assets in Chapters 34–37.
-
-Wave 05 adds all 18 A_CORE assets in Chapters 47–52.
+Waves 01–05 are complete for their selected A_CORE scopes. Wave 06a adds all 15 A_CORE figures in Chapters 53–57.
 
 All visuals remain subject to final print-size, greyscale, accessibility and page-layout proof before publication.
