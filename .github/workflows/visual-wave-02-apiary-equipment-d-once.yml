@@ -1,0 +1,41 @@
+name: visual-wave-02-apiary-equipment-d-once
+on:
+  push:
+    branches: [publishing/visual-wave-02-apiary-equipment-d]
+    paths:
+      - "scripts/generate_wave02_apiary_equipment_d.py"
+      - ".github/workflows/visual-wave-02-apiary-equipment-d-once.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publishing/visual-wave-02-apiary-equipment-d
+          fetch-depth: 0
+      - name: Generate Apiary Equipment D assets
+        run: python3 scripts/generate_wave02_apiary_equipment_d.py
+      - name: Validate SVGs
+        run: |
+          python3 - <<'PY'
+          import json, xml.etree.ElementTree as ET
+          from pathlib import Path
+          meta=json.loads(Path("assets/production-briefs/wave-02-apiary-equipment-d.json").read_text())
+          assert meta["asset_count"] == 15
+          for a in meta["assets"]:
+              s=Path(a["path"]).read_text(encoding="utf-8")
+              ET.fromstring(s); assert "<title" in s and "<desc" in s
+          print("Validated 15 Wave 02 Apiary/Equipment D assets")
+          PY
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/diagrams/wave-02 assets/production-briefs/wave-02-apiary-equipment-d.json docs/reviews/VISUAL_WAVE_02_APIARY_EQUIPMENT_D_REVIEW.md
+          if git diff --cached --quiet; then echo "No generated changes"; else
+            git commit -m "Create Wave 02 Apiary and Equipment D visual assets"
+            git push origin HEAD:publishing/visual-wave-02-apiary-equipment-d
+          fi
