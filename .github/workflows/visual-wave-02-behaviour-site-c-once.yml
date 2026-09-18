@@ -1,0 +1,48 @@
+name: visual-wave-02-behaviour-site-c-once
+
+on:
+  push:
+    branches:
+      - publishing/visual-wave-02-behaviour-site-c
+    paths:
+      - "scripts/generate_wave02_behaviour_site_c.py"
+      - ".github/workflows/visual-wave-02-behaviour-site-c-once.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publishing/visual-wave-02-behaviour-site-c
+          fetch-depth: 0
+      - name: Generate Behaviour Site C vector assets
+        run: python3 scripts/generate_wave02_behaviour_site_c.py
+      - name: Validate SVGs
+        run: |
+          python3 - <<'PY'
+          import json, xml.etree.ElementTree as ET
+          from pathlib import Path
+          meta=json.loads(Path("assets/production-briefs/wave-02-behaviour-site-c.json").read_text())
+          assert meta["asset_count"] == 15
+          for a in meta["assets"]:
+              p=Path(a["path"]); s=p.read_text(encoding="utf-8")
+              ET.fromstring(s)
+              assert "<title" in s and "<desc" in s
+          print("Validated 15 Wave 02 Behaviour/Site C assets")
+          PY
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/diagrams/wave-02 assets/production-briefs/wave-02-behaviour-site-c.json docs/reviews/VISUAL_WAVE_02_BEHAVIOUR_SITE_C_REVIEW.md
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "Create Wave 02 Behaviour and Site C visual assets"
+            git push origin HEAD:publishing/visual-wave-02-behaviour-site-c
+          fi
