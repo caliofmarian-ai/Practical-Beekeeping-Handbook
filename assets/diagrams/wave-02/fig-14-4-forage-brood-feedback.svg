@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 14.4 — Forage–Brood Feedback</title>
+<desc id="desc">Forage availability, nurse capacity, queen laying, brood demand and adult population linked over multiple weeks.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 14.4 — Forage–Brood Feedback</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Colony growth is delayed feedback: today's forage can change the workforce available weeks later.</text>
+<circle cx="220" cy="300" r="82" fill="#FFF8E1" stroke="#D4A017" stroke-width="3"/>
+<text x="220" y="297" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#D4A017" text-anchor="middle">Forage availability</text>
+<text x="220" y="408" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">nectar + pollen</text>
+<circle cx="560" cy="220" r="82" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="3"/>
+<text x="560" y="217" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#6A1B9A" text-anchor="middle">Nurse capacity</text>
+<text x="560" y="328" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">brood-food production</text>
+<circle cx="900" cy="300" r="82" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+<text x="900" y="297" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Queen laying</text>
+<text x="900" y="408" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">egg production responds to colony state</text>
+<circle cx="1120" cy="590" r="82" fill="#FFF3E0" stroke="#EF6C00" stroke-width="3"/>
+<text x="1120" y="587" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#EF6C00" text-anchor="middle">Brood demand</text>
+<text x="1120" y="698" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">food + thermoregulation</text>
+<circle cx="700" cy="760" r="82" fill="#E3F2FD" stroke="#1565C0" stroke-width="3"/>
+<text x="700" y="757" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">Adult population</text>
+<text x="700" y="868" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">future nurses + foragers</text>
+<circle cx="300" cy="650" r="82" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+<text x="300" y="647" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Foraging force</text>
+<text x="300" y="758" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">resource intake capacity</text>
+<line x1="220" y1="300" x2="560" y2="220" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="560" y1="220" x2="900" y2="300" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="900" y1="300" x2="1120" y2="590" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="1120" y1="590" x2="700" y2="760" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="700" y1="760" x2="300" y2="650" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="300" y1="650" x2="220" y2="300" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<text x="700" y="495" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1F2933" text-anchor="middle">feedback unfolds over days to weeks</text>
+<rect x="55" y="890" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="919" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Feeding or forage improvement cannot create an instant field force: eggs and larvae require development time before new adults become nurses and later foragers.</text>
+</svg>

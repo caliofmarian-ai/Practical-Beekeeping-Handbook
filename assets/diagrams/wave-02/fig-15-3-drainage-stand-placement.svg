@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 15.3 — Drainage and Stand Placement</title>
+<desc id="desc">Stable elevated hive stands on well-drained ground contrasted with waterlogged or flood-prone placement.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 15.3 — Drainage and Stand Placement</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Dry access and stable stands protect colonies, equipment and beekeepers.</text>
+<rect x="55" y="160" width="620" height="650" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="73" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Well-drained / elevated</text>
+<path d="M80 690 Q320 600 650 650 L650 790 L80 790 Z" fill="#B9D9A0" stroke="#6B9B55" stroke-width="3"/>
+<line x1="190" y1="560" x2="500" y2="560" stroke="#5D4037" stroke-width="18"/><line x1="220" y1="560" x2="210" y2="660" stroke="#5D4037" stroke-width="14"/><line x1="470" y1="560" x2="460" y2="630" stroke="#5D4037" stroke-width="14"/>
+<rect x="220" y="250" width="250" height="300" rx="8" fill="#F6E3B4" stroke="#8D6E63" stroke-width="4"/>
+<rect x="210" y="225" width="270" height="30" rx="4" fill="#D6C6A0" stroke="#8D6E63" stroke-width="3"/>
+<rect x="245" y="550" width="200" height="20" rx="4" fill="#D6C6A0" stroke="#8D6E63" stroke-width="3"/>
+<rect x="300" y="532" width="110" height="18" fill="#3D2E24"/>
+<path d="M510 650 C560 625 610 620 650 625" fill="none" stroke="#1565C0" stroke-width="5" marker-end="url(#ab)"/>
+<text x="95" y="735" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">stable access</text>
+<text x="95" y="758" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">water drains away</text>
+<text x="95" y="781" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">hive floor kept above splash/vegetation</text>
+<rect x="725" y="160" width="620" height="650" rx="18" fill="#FFEBEE" stroke="#C62828" stroke-width="2.5"/>
+<text x="743" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#C62828" text-anchor="start">Waterlogged / flood-prone</text>
+<rect x="760" y="630" width="550" height="160" fill="#B3E5FC" opacity="0.85"/>
+<rect x="850" y="400" width="250" height="300" rx="8" fill="#F6E3B4" stroke="#8D6E63" stroke-width="4"/>
+<rect x="840" y="375" width="270" height="30" rx="4" fill="#D6C6A0" stroke="#8D6E63" stroke-width="3"/>
+<rect x="875" y="700" width="200" height="20" rx="4" fill="#D6C6A0" stroke="#8D6E63" stroke-width="3"/>
+<rect x="930" y="682" width="110" height="18" fill="#3D2E24"/>
+<path d="M780 620 Q930 585 1100 620 Q1200 650 1290 615" fill="none" stroke="#1565C0" stroke-width="5"/>
+<text x="765" y="735" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">muddy/unsafe footing</text>
+<text x="765" y="758" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">moisture and equipment damage risk</text>
+<text x="765" y="781" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">floodwater can contaminate hive products</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Flood rescue never justifies entering unsafe water, unstable ground or electrical hazards. Site selection should prevent predictable exposure where possible.</text>
+</svg>

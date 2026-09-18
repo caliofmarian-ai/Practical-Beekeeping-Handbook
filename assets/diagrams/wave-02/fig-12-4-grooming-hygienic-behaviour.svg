@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 12.4 — Grooming and Hygienic Behaviour</title>
+<desc id="desc">Adult grooming contrasted with brood-cell detection and removal as two different colony defence behaviours.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 12.4 — Grooming and Hygienic Behaviour</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Both contribute to social defence, but grooming adult bees and hygienic brood removal are distinct behaviours.</text>
+<rect x="55" y="160" width="620" height="650" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="73" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Adult grooming</text>
+<path d="M293.75 416.5 C316.25 377.5 365.0 381.25 344.0 418.75 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="1.2000000000000002"/>
+<circle cx="252.5" cy="430" r="15.0" fill="#E0A419" stroke="#5D4037" stroke-width="1.5"/>
+<ellipse cx="290" cy="430" rx="25.5" ry="21.0" fill="#E0A419" stroke="#5D4037" stroke-width="1.5"/>
+<ellipse cx="342.5" cy="430" rx="33.75" ry="18.75" fill="#E0A419" stroke="#5D4037" stroke-width="1.5"/>
+<line x1="327.5" y1="415.0" x2="327.5" y2="445.0" stroke="#5D4037" stroke-width="2.25"/>
+<line x1="342.5" y1="415.0" x2="342.5" y2="445.0" stroke="#5D4037" stroke-width="2.25"/>
+<line x1="357.5" y1="415.0" x2="357.5" y2="445.0" stroke="#5D4037" stroke-width="2.25"/>
+<path d="M452.25 481.9 C465.75 458.5 495.0 460.75 482.4 483.25 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.7200000000000001"/>
+<circle cx="427.5" cy="490" r="9.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.9"/>
+<ellipse cx="450" cy="490" rx="15.3" ry="12.6" fill="#E0A419" stroke="#5D4037" stroke-width="0.9"/>
+<ellipse cx="481.5" cy="490" rx="20.25" ry="11.25" fill="#E0A419" stroke="#5D4037" stroke-width="0.9"/>
+<line x1="472.5" y1="481.0" x2="472.5" y2="499.0" stroke="#5D4037" stroke-width="1.35"/>
+<line x1="481.5" y1="481.0" x2="481.5" y2="499.0" stroke="#5D4037" stroke-width="1.35"/>
+<line x1="490.5" y1="481.0" x2="490.5" y2="499.0" stroke="#5D4037" stroke-width="1.35"/>
+<path d="M390 460 Q420 410 455 425" fill="none" stroke="#2E7D32" stroke-width="5"/>
+<text x="95" y="665" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">self-grooming removes particles/parasites</text>
+<text x="95" y="692" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">allogrooming = workers groom nestmates</text>
+<text x="95" y="719" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">effectiveness varies among stocks and context</text>
+<rect x="725" y="160" width="620" height="650" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="743" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Hygienic brood behaviour</text>
+<circle cx="845" cy="330" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="940" cy="330" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="1035" cy="330" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="1130" cy="330" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="892" cy="425" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="987" cy="425" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="1082" cy="425" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="1177" cy="425" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="845" cy="520" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="940" cy="520" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="1035" cy="520" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="1130" cy="520" r="36" fill="#B98755" stroke="#7E5638" stroke-width="3"/>
+<circle cx="1035" cy="425" r="36" fill="#FFF5D6" stroke="#2E7D32" stroke-width="5"/>
+<path d="M1032.1 552.44 C1044.7 530.6 1072.0 532.7 1060.24 553.7 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.672"/>
+<circle cx="1009.0" cy="560" r="8.4" fill="#E0A419" stroke="#5D4037" stroke-width="0.84"/>
+<ellipse cx="1030" cy="560" rx="14.28" ry="11.76" fill="#E0A419" stroke="#5D4037" stroke-width="0.84"/>
+<ellipse cx="1059.4" cy="560" rx="18.9" ry="10.5" fill="#E0A419" stroke="#5D4037" stroke-width="0.84"/>
+<line x1="1051.0" y1="551.6" x2="1051.0" y2="568.4" stroke="#5D4037" stroke-width="1.26"/>
+<line x1="1059.4" y1="551.6" x2="1059.4" y2="568.4" stroke="#5D4037" stroke-width="1.26"/>
+<line x1="1067.8" y1="551.6" x2="1067.8" y2="568.4" stroke="#5D4037" stroke-width="1.26"/>
+<line x1="1030" y1="535" x2="1035" y2="470" stroke="#2E7D32" stroke-width="3" marker-end="url(#ag)"/>
+<text x="765" y="665" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">workers detect abnormal/dead brood</text>
+<text x="765" y="692" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">cell is uncapped and brood removed</text>
+<text x="765" y="719" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">trait can reduce disease/parasite reproduction</text>
+<rect x="55" y="865" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Hygienic behaviour can reduce disease expression but does not make a colony immune or cancel monitoring/reporting obligations.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 13.2 — Colony as a Superorganism</title>
+<desc id="desc">Queen reproduction, worker labour, brood, food stores and thermoregulation linked as one functional colony system without an anthropomorphic command hierarchy.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 13.2 — Colony as a Superorganism</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Colony function emerges from distributed interactions among thousands of bees and shared nest resources.</text>
+<circle cx="700" cy="480" r="115" fill="#FFF8E1" stroke="#8D6E63" stroke-width="3"/>
+<text x="700" y="477" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#8D6E63" text-anchor="middle">COLONY</text>
+<text x="700" y="504" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">superorganism</text>
+<circle cx="250" cy="240" r="90" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="3"/>
+<text x="250" y="237" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#6A1B9A" text-anchor="middle">Queen reproduction</text>
+<text x="250" y="357" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">egg production / pheromonal signals</text>
+<line x1="250" y1="240" x2="700" y2="480" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="700" cy="190" r="90" fill="#FFF3E0" stroke="#EF6C00" stroke-width="3"/>
+<text x="700" y="187" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#EF6C00" text-anchor="middle">Brood</text>
+<text x="700" y="307" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">future workforce + demand</text>
+<line x1="700" y1="190" x2="700" y2="480" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="1150" cy="250" r="90" fill="#E3F2FD" stroke="#1565C0" stroke-width="3"/>
+<text x="1150" y="247" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">Worker labour</text>
+<text x="1150" y="367" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">nursing, wax, defence, foraging</text>
+<line x1="1150" y1="250" x2="700" y2="480" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="1130" cy="700" r="90" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+<text x="1130" y="697" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Thermoregulation</text>
+<text x="1130" y="817" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">heat, fanning, water, clustering</text>
+<line x1="1130" y1="700" x2="700" y2="480" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="700" cy="810" r="90" fill="#FFF8E1" stroke="#8D6E63" stroke-width="3"/>
+<text x="700" y="807" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#8D6E63" text-anchor="middle">Food stores</text>
+<text x="700" y="927" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">nectar/honey + pollen/bee bread</text>
+<line x1="700" y1="810" x2="700" y2="480" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="260" cy="700" r="90" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+<text x="260" y="697" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Foraging landscape</text>
+<text x="260" y="817" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">energy/protein/resin/water inputs</text>
+<line x1="260" y1="700" x2="700" y2="480" stroke="#B0BEC5" stroke-width="3"/>
+<rect x="55" y="900" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="929" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The queen is not a human-style ruler. Colony organisation is distributed through signals, local interactions, physiology, age structure and environmental feedback.</text>
+</svg>
