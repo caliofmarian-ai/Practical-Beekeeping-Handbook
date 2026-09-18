@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 5.2 — Evidence-Based Decision Loop</title>
+<desc id="desc">Observe, measure, interpret, act, verify, record and improve shown as a continuous beekeeping management loop.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 5.2 — Evidence-Based Decision Loop</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">A decision is incomplete until its effect is checked and recorded.</text>
+<circle cx="700.0" cy="205.0" r="78" fill="#E3F2FD" stroke="#1565C0" stroke-width="3"/>
+<text x="700.0" y="202.0" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">Observe</text>
+<circle cx="936.4032260820165" cy="320.30155740230254" r="78" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="3"/>
+<text x="936.4032260820165" y="317.30155740230254" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#6A1B9A" text-anchor="middle">Measure</text>
+<circle cx="991.088717882799" cy="577.5765686799003" r="78" fill="#FFF3E0" stroke="#EF6C00" stroke-width="3"/>
+<text x="991.088717882799" y="574.5765686799003" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#EF6C00" text-anchor="middle">Interpret</text>
+<circle cx="822.0209929227401" cy="779.0636372927802" r="78" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+<text x="822.0209929227401" y="776.0636372927802" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Act</text>
+<circle cx="559.1585311642327" cy="769.8842778576781" r="78" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+<text x="559.1585311642327" y="766.8842778576781" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Verify</text>
+<circle cx="404.5576740963376" cy="557.0944533000791" r="78" fill="#E3F2FD" stroke="#1565C0" stroke-width="3"/>
+<text x="404.5576740963376" y="554.0944533000791" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">Record</text>
+<circle cx="470.18666706430656" cy="312.16371709403825" r="78" fill="#FFF8E1" stroke="#8D6E63" stroke-width="3"/>
+<text x="470.18666706430656" y="309.16371709403825" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#8D6E63" text-anchor="middle">Improve</text>
+<line x1="700.0" y1="205.0" x2="936.4032260820165" y2="320.30155740230254" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="936.4032260820165" y1="320.30155740230254" x2="991.088717882799" y2="577.5765686799003" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="991.088717882799" y1="577.5765686799003" x2="822.0209929227401" y2="779.0636372927802" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="822.0209929227401" y1="779.0636372927802" x2="559.1585311642327" y2="769.8842778576781" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="559.1585311642327" y1="769.8842778576781" x2="404.5576740963376" y2="557.0944533000791" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="404.5576740963376" y1="557.0944533000791" x2="470.18666706430656" y2="312.16371709403825" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<line x1="470.18666706430656" y1="312.16371709403825" x2="700.0" y2="205.0" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<circle cx="700" cy="505" r="108" fill="#F5F5F5" stroke="#757575" stroke-width="3"/>
+<text x="700" y="502" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#757575" text-anchor="middle">EVIDENCE</text>
+<text x="700" y="529" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">not habit alone</text>
+<rect x="55" y="875" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Examples: mite count before/after control, hive weight before/after feeding, colony response after requeening. Verification prevents repeated ineffective action.</text>
+</svg>

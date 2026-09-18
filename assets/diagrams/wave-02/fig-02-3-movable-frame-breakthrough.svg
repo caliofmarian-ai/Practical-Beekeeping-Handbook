@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 2.3 — Movable-Frame Breakthrough</title>
+<desc id="desc">Technical comparison of fixed comb attached to a hive wall versus removable frames preserving deliberate bee-space gaps.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 2.3 — Movable-Frame Breakthrough</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Movable frames allow individual combs to be removed and inspected without routinely destroying the nest.</text>
+<rect x="55" y="160" width="620" height="650" rx="18" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="73" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">Fixed comb</text>
+<rect x="125" y="255" width="470" height="430" rx="10" fill="#FFF8E1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M185 285 C165 390 170 550 185 630 C210 550 205 390 185 285 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M280 285 C260 390 265 550 280 630 C305 550 300 390 280 285 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M375 285 C355 390 360 550 375 630 C400 550 395 390 375 285 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<path d="M470 285 C450 390 455 550 470 630 C495 550 490 390 470 285 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
+<text x="95" y="735" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">Comb is attached to the cavity/hive.</text>
+<text x="95" y="761" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">Inspection or harvest may require cutting comb.</text>
+<text x="95" y="787" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">Spacing is created by bees, not the beekeeper.</text>
+<rect x="725" y="160" width="620" height="650" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="743" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Movable-frame system</text>
+<rect x="795" y="255" width="470" height="430" rx="10" fill="#FFF8E1" stroke="#8D6E63" stroke-width="4"/>
+<rect x="850" y="290" width="65" height="330" rx="5" fill="#FFFDF0" stroke="#8D6E63" stroke-width="4"/>
+<rect x="950" y="290" width="65" height="330" rx="5" fill="#FFFDF0" stroke="#8D6E63" stroke-width="4"/>
+<rect x="1050" y="290" width="65" height="330" rx="5" fill="#FFFDF0" stroke="#8D6E63" stroke-width="4"/>
+<rect x="1150" y="290" width="65" height="330" rx="5" fill="#FFFDF0" stroke="#8D6E63" stroke-width="4"/>
+<line x1="930" y1="320" x2="930" y2="590" stroke="#1565C0" stroke-width="4" stroke-dasharray="8 7"/>
+<line x1="1030" y1="320" x2="1030" y2="590" stroke="#1565C0" stroke-width="4" stroke-dasharray="8 7"/>
+<line x1="1130" y1="320" x2="1130" y2="590" stroke="#1565C0" stroke-width="4" stroke-dasharray="8 7"/>
+<text x="1030" y="660" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#1565C0" text-anchor="middle">controlled gaps preserve removable comb</text>
+<rect x="55" y="865" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Bee space is a design principle, not one universal hive dimension. Actual frame and box dimensions depend on the hive system.</text>
+</svg>

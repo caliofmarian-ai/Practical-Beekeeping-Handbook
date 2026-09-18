@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 3.2 — Pollination Is a Network</title>
+<desc id="desc">Network linking flowering crops and wild plants to honey bees and several wild-pollinator groups, showing that honey bees are important but not the only pollinators.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 3.2 — Pollination Is a Network</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Pollination outcomes emerge from plant traits, pollinator communities, weather and landscape context.</text>
+<ellipse cx="167.0" cy="260.0" rx="18.0" ry="10.0" fill="#E57373" transform="rotate(0 167.0 260.0)"/>
+<ellipse cx="151.79837387624883" cy="280.9232433584934" rx="18.0" ry="10.0" fill="#E57373" transform="rotate(72 151.79837387624883 280.9232433584934)"/>
+<ellipse cx="127.20162612375115" cy="272.9312755504344" rx="18.0" ry="10.0" fill="#E57373" transform="rotate(144 127.20162612375115 272.9312755504344)"/>
+<ellipse cx="127.20162612375115" cy="247.0687244495656" rx="18.0" ry="10.0" fill="#E57373" transform="rotate(216 127.20162612375115 247.0687244495656)"/>
+<ellipse cx="151.79837387624883" cy="239.07675664150662" rx="18.0" ry="10.0" fill="#E57373" transform="rotate(288 151.79837387624883 239.07675664150662)"/>
+<circle cx="145" cy="260" r="11.0" fill="#F4C542"/>
+<text x="210" y="266" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1F2933" text-anchor="start">Fruit crop</text>
+<ellipse cx="167.0" cy="500.0" rx="18.0" ry="10.0" fill="#81C784" transform="rotate(0 167.0 500.0)"/>
+<ellipse cx="151.79837387624883" cy="520.9232433584933" rx="18.0" ry="10.0" fill="#81C784" transform="rotate(72 151.79837387624883 520.9232433584933)"/>
+<ellipse cx="127.20162612375115" cy="512.9312755504344" rx="18.0" ry="10.0" fill="#81C784" transform="rotate(144 127.20162612375115 512.9312755504344)"/>
+<ellipse cx="127.20162612375115" cy="487.0687244495656" rx="18.0" ry="10.0" fill="#81C784" transform="rotate(216 127.20162612375115 487.0687244495656)"/>
+<ellipse cx="151.79837387624883" cy="479.0767566415066" rx="18.0" ry="10.0" fill="#81C784" transform="rotate(288 151.79837387624883 479.0767566415066)"/>
+<circle cx="145" cy="500" r="11.0" fill="#F4C542"/>
+<text x="210" y="506" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1F2933" text-anchor="start">Seed crop</text>
+<ellipse cx="167.0" cy="740.0" rx="18.0" ry="10.0" fill="#BA68C8" transform="rotate(0 167.0 740.0)"/>
+<ellipse cx="151.79837387624883" cy="760.9232433584933" rx="18.0" ry="10.0" fill="#BA68C8" transform="rotate(72 151.79837387624883 760.9232433584933)"/>
+<ellipse cx="127.20162612375115" cy="752.9312755504344" rx="18.0" ry="10.0" fill="#BA68C8" transform="rotate(144 127.20162612375115 752.9312755504344)"/>
+<ellipse cx="127.20162612375115" cy="727.0687244495656" rx="18.0" ry="10.0" fill="#BA68C8" transform="rotate(216 127.20162612375115 727.0687244495656)"/>
+<ellipse cx="151.79837387624883" cy="719.0767566415066" rx="18.0" ry="10.0" fill="#BA68C8" transform="rotate(288 151.79837387624883 719.0767566415066)"/>
+<circle cx="145" cy="740" r="11.0" fill="#F4C542"/>
+<text x="210" y="746" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1F2933" text-anchor="start">Wild plant</text>
+<circle cx="760" cy="220" r="80" fill="#FFF8E1" stroke="#D4A017" stroke-width="3"/>
+<text x="760" y="217" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#D4A017" text-anchor="middle">Honey bees</text>
+<text x="760" y="244" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">managed + feral</text>
+<circle cx="1040" cy="340" r="80" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+<text x="1040" y="337" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Wild bees</text>
+<text x="1040" y="364" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">diverse taxa</text>
+<circle cx="1040" cy="590" r="80" fill="#E3F2FD" stroke="#1565C0" stroke-width="3"/>
+<text x="1040" y="587" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">Hoverflies</text>
+<text x="1040" y="614" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">important in many systems</text>
+<circle cx="760" cy="740" r="80" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="3"/>
+<text x="760" y="737" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#6A1B9A" text-anchor="middle">Butterflies / moths</text>
+<text x="760" y="764" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">context-dependent</text>
+<line x1="290" y1="260" x2="675" y2="220" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="260" x2="955" y2="340" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="260" x2="955" y2="590" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="260" x2="675" y2="740" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="500" x2="675" y2="220" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="500" x2="955" y2="340" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="500" x2="955" y2="590" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="500" x2="675" y2="740" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="740" x2="675" y2="220" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="740" x2="955" y2="340" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="740" x2="955" y2="590" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<line x1="290" y1="740" x2="675" y2="740" stroke="#B0BEC5" stroke-width="2.2" opacity="0.8"/>
+<rect x="55" y="865" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Managed honey bees can be valuable crop pollinators, but pollinator abundance is not the same as pollinator biodiversity. Conservation should include diverse wild pollinator groups.</text>
+</svg>

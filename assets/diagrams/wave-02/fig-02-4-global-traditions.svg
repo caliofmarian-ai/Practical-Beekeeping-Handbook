@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 2.4 — Global Traditions</title>
+<desc id="desc">Map-style overview of regional historical apiculture traditions, presented as parallel traditions rather than one linear global progression.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 2.4 — Global Traditions</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Representative examples only; regional practices overlap and changed through time.</text>
+<rect x="80" y="180" width="1240" height="620" rx="28" fill="#F8FBFD" stroke="#90A4AE" stroke-width="2"/>
+<circle cx="330" cy="300" r="78" fill="#E3F2FD" stroke="#1565C0" stroke-width="3"/>
+<text x="330" y="297" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">Europe</text>
+<text x="330" y="405" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">skeps, logs, boxes</text>
+<circle cx="610" cy="480" r="78" fill="#FFF3E0" stroke="#EF6C00" stroke-width="3"/>
+<text x="610" y="477" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#EF6C00" text-anchor="middle">North Africa / Mediterranean</text>
+<text x="610" y="585" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">clay and horizontal hives</text>
+<circle cx="440" cy="650" r="78" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+<text x="440" y="647" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Sub-Saharan Africa</text>
+<text x="440" y="755" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">log, bark and local hives</text>
+<circle cx="830" cy="330" r="78" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="3"/>
+<text x="830" y="327" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#6A1B9A" text-anchor="middle">West / Central Asia</text>
+<text x="830" y="435" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">clay, wall and box traditions</text>
+<circle cx="1030" cy="520" r="78" fill="#FFF8E1" stroke="#D4A017" stroke-width="3"/>
+<text x="1030" y="517" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#D4A017" text-anchor="middle">South / East Asia</text>
+<text x="1030" y="625" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">log, wall, movable and indigenous systems</text>
+<circle cx="180" cy="515" r="78" fill="#F5F5F5" stroke="#757575" stroke-width="3"/>
+<text x="180" y="512" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#757575" text-anchor="middle">Americas</text>
+<text x="180" y="620" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">honey hunting, stingless-bee and later imported systems</text>
+<rect x="55" y="850" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="879" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">This overview is deliberately non-linear. Historical hive forms were shaped by local materials, bee species/subspecies, climate, culture and harvesting goals.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 5.4 — Modern Risk Landscape</title>
+<desc id="desc">Modern beekeeping risk map linking Varroa/viruses, invasive pests, climate/weather, pesticides, market standards and labour/business constraints.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 5.4 — Modern Risk Landscape</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Risk is multi-domain: biological, environmental, food-production and business pressures interact.</text>
+<circle cx="700" cy="500" r="110" fill="#FFF8E1" stroke="#8D6E63" stroke-width="3"/>
+<text x="700" y="497" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#8D6E63" text-anchor="middle">BEEKEEPING</text>
+<text x="700" y="524" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">system</text>
+<circle cx="260" cy="240" r="92" fill="#FFEBEE" stroke="#C62828" stroke-width="3"/>
+<text x="260" y="237" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#C62828" text-anchor="middle">Varroa + viruses</text>
+<text x="260" y="360" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">parasite–pathogen pressure</text>
+<line x1="260" y1="240" x2="700" y2="500" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="700" cy="190" r="92" fill="#FFF3E0" stroke="#EF6C00" stroke-width="3"/>
+<text x="700" y="187" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#EF6C00" text-anchor="middle">Invasive pests</text>
+<text x="700" y="310" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">surveillance / movement</text>
+<line x1="700" y1="190" x2="700" y2="500" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="1140" cy="250" r="92" fill="#E3F2FD" stroke="#1565C0" stroke-width="3"/>
+<text x="1140" y="247" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="middle">Climate + weather</text>
+<text x="1140" y="370" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">forage, heat, drought, storms</text>
+<line x1="1140" y1="250" x2="700" y2="500" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="1140" cy="700" r="92" fill="#FFF3E0" stroke="#EF6C00" stroke-width="3"/>
+<text x="1140" y="697" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#EF6C00" text-anchor="middle">Pesticides</text>
+<text x="1140" y="820" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">exposure + incident response</text>
+<line x1="1140" y1="700" x2="700" y2="500" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="700" cy="815" r="92" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="3"/>
+<text x="700" y="812" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#6A1B9A" text-anchor="middle">Market standards</text>
+<text x="700" y="935" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">food safety, labels, authenticity</text>
+<line x1="700" y1="815" x2="700" y2="500" stroke="#B0BEC5" stroke-width="3"/>
+<circle cx="260" cy="700" r="92" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+<text x="260" y="697" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">Labour + business</text>
+<text x="260" y="820" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">cost, time, cash flow, skill</text>
+<line x1="260" y1="700" x2="700" y2="500" stroke="#B0BEC5" stroke-width="3"/>
+<rect x="55" y="900" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="929" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">A modern management plan should not optimise only honey yield. Colony health, food compliance, environmental risk and business resilience all constrain decisions.</text>
+</svg>

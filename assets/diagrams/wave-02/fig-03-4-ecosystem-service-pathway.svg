@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 3.4 — Ecosystem-Service Pathway</title>
+<desc id="desc">Flower visitation to pollen transfer, fruit or seed set, and food/ecological outcomes, with an explicit caveat that plant dependence on animal pollination varies.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 3.4 — Ecosystem-Service Pathway</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">The pathway is conditional: some plants depend strongly on animal pollination, others only partly or not at all.</text>
+<rect x="50" y="260" width="235" height="360" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="68" y="291" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Flower visitation</text>
+<ellipse cx="194.4" cy="440.0" rx="21.599999999999998" ry="12.0" fill="#D46FA8" transform="rotate(0 194.4 440.0)"/>
+<ellipse cx="176.1580486514986" cy="465.10789203019203" rx="21.599999999999998" ry="12.0" fill="#D46FA8" transform="rotate(72 176.1580486514986 465.10789203019203)"/>
+<ellipse cx="146.64195134850138" cy="455.5175306605213" rx="21.599999999999998" ry="12.0" fill="#D46FA8" transform="rotate(144 146.64195134850138 455.5175306605213)"/>
+<ellipse cx="146.64195134850138" cy="424.4824693394787" rx="21.599999999999998" ry="12.0" fill="#D46FA8" transform="rotate(216 146.64195134850138 424.4824693394787)"/>
+<ellipse cx="176.1580486514986" cy="414.89210796980797" rx="21.599999999999998" ry="12.0" fill="#D46FA8" transform="rotate(288 176.1580486514986 414.89210796980797)"/>
+<circle cx="168" cy="440" r="13.2" fill="#F4C542"/>
+<ellipse cx="145" cy="365" rx="10.64" ry="7.5600000000000005" fill="#E0A419" stroke="#5D4037" stroke-width="0.56"/>
+<ellipse cx="164.6" cy="365" rx="12.88" ry="6.720000000000001" fill="#E0A419" stroke="#5D4037" stroke-width="0.56"/>
+<circle cx="131.56" cy="365" r="6.16" fill="#E0A419" stroke="#5D4037" stroke-width="0.56"/>
+<line x1="157.6" y1="358.28" x2="157.6" y2="371.72" stroke="#5D4037" stroke-width="0.8400000000000001"/>
+<line x1="164.6" y1="358.28" x2="164.6" y2="371.72" stroke="#5D4037" stroke-width="0.8400000000000001"/>
+<line x1="171.6" y1="358.28" x2="171.6" y2="371.72" stroke="#5D4037" stroke-width="0.8400000000000001"/>
+<path d="M 143.6 359.96 C 149.2 345.4 163.2 346.8 158.44 360.8 Z" fill="#D9EEF7" opacity="0.8" stroke="#8AB8C8" stroke-width="0.42000000000000004"/>
+<text x="68" y="550" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">pollinator contacts floral structures</text>
+<line x1="285" y1="440" x2="320" y2="440" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="320" y="260" width="235" height="360" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="338" y="291" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Pollen transfer</text>
+<circle cx="438" cy="420" r="52" fill="#FFF7CC" stroke="#EF6C00" stroke-width="3"/>
+<circle cx="473.0" cy="420.0" r="7" fill="#D98C10"/>
+<circle cx="462.74873734152914" cy="444.74873734152914" r="7" fill="#D98C10"/>
+<circle cx="438.0" cy="455.0" r="7" fill="#D98C10"/>
+<circle cx="413.25126265847086" cy="444.74873734152914" r="7" fill="#D98C10"/>
+<circle cx="403.0" cy="420.0" r="7" fill="#D98C10"/>
+<circle cx="413.2512626584708" cy="395.25126265847086" r="7" fill="#D98C10"/>
+<circle cx="438.0" cy="385.0" r="7" fill="#D98C10"/>
+<circle cx="462.74873734152914" cy="395.2512626584708" r="7" fill="#D98C10"/>
+<text x="338" y="550" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">compatible pollen reaches stigma</text>
+<line x1="555" y1="440" x2="590" y2="440" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="590" y="260" width="235" height="360" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="608" y="291" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Fertilisation</text>
+<ellipse cx="708" cy="420" rx="55" ry="80" fill="#D7E8A2" stroke="#2E7D32" stroke-width="3"/>
+<text x="608" y="550" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">when biology and timing permit</text>
+<line x1="825" y1="440" x2="860" y2="440" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="860" y="260" width="235" height="360" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="878" y="291" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Fruit / seed set</text>
+<circle cx="978" cy="420" r="62" fill="#E57373" stroke="#B23A3A" stroke-width="3"/>
+<text x="878" y="550" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">quantity or quality may improve</text>
+<line x1="1095" y1="440" x2="1130" y2="440" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="1130" y="260" width="235" height="360" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="1148" y="291" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Food / ecological outcomes</text>
+<ellipse cx="1237.6" cy="410.0" rx="14.4" ry="8.0" fill="#8E63B6" transform="rotate(0 1237.6 410.0)"/>
+<ellipse cx="1225.438699100999" cy="426.7385946867947" rx="14.4" ry="8.0" fill="#8E63B6" transform="rotate(72 1225.438699100999 426.7385946867947)"/>
+<ellipse cx="1205.7613008990008" cy="420.3450204403475" rx="14.4" ry="8.0" fill="#8E63B6" transform="rotate(144 1205.7613008990008 420.3450204403475)"/>
+<ellipse cx="1205.7613008990008" cy="399.6549795596525" rx="14.4" ry="8.0" fill="#8E63B6" transform="rotate(216 1205.7613008990008 399.6549795596525)"/>
+<ellipse cx="1225.438699100999" cy="393.2614053132053" rx="14.4" ry="8.0" fill="#8E63B6" transform="rotate(288 1225.438699100999 393.2614053132053)"/>
+<circle cx="1220" cy="410" r="8.8" fill="#F4C542"/>
+<circle cx="1285" cy="440" r="36" fill="#F6CF58" stroke="#A37312" stroke-width="3"/>
+<text x="1148" y="550" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">yield, regeneration, wildlife resources</text>
+<rect x="55" y="850" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="879" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Do not convert this pathway into a universal percentage of food production. Pollinator dependence varies by crop, cultivar, region and production system.</text>
+</svg>
