@@ -1,0 +1,97 @@
+{
+  "wave": 2,
+  "batch": "behaviour-site-c",
+  "asset_count": 15,
+  "assets": [
+    {
+      "figure_id": "11.2",
+      "path": "assets/diagrams/wave-02/fig-11-2-distance-dance-tempo.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "11.4",
+      "path": "assets/diagrams/wave-02/fig-11-4-alarm-recruitment-signals.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "11.5",
+      "path": "assets/diagrams/wave-02/fig-11-5-swarm-nest-site-communication.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "12.2",
+      "path": "assets/diagrams/wave-02/fig-12-2-orientation-vs-robbing.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "12.4",
+      "path": "assets/diagrams/wave-02/fig-12-4-grooming-hygienic-behaviour.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "12.5",
+      "path": "assets/diagrams/wave-02/fig-12-5-clustering-thermoregulation.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "13.1",
+      "path": "assets/diagrams/wave-02/fig-13-1-brood-nest-organisation.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "13.2",
+      "path": "assets/diagrams/wave-02/fig-13-2-colony-superorganism.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "13.4",
+      "path": "assets/diagrams/wave-02/fig-13-4-resource-flow-colony.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "14.1",
+      "path": "assets/diagrams/wave-02/fig-14-1-annual-colony-population-cycle.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "14.2",
+      "path": "assets/diagrams/wave-02/fig-14-2-temperate-warm-climate-patterns.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "14.4",
+      "path": "assets/diagrams/wave-02/fig-14-4-forage-brood-feedback.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "15.2",
+      "path": "assets/diagrams/wave-02/fig-15-2-good-poor-flight-paths.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "15.3",
+      "path": "assets/diagrams/wave-02/fig-15-3-drainage-stand-placement.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    },
+    {
+      "figure_id": "15.4",
+      "path": "assets/diagrams/wave-02/fig-15-4-landscape-forage-mosaic.svg",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "layout_status": "PENDING_FINAL_LAYOUT_PROOF"
+    }
+  ]
+}

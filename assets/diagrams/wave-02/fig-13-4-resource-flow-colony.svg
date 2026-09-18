@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 13.4 — Resource Flow Through the Colony</title>
+<desc id="desc">Incoming nectar, pollen, water and resin routed through forager/receiver/nurse/processing functions toward brood care, stores, comb and nest maintenance.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 13.4 — Resource Flow Through the Colony</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Different resources follow different pathways; the colony reallocates labour according to need.</text>
+<circle cx="150" cy="210" r="65" fill="#FFFFFF" stroke="#D4A017" stroke-width="3"/>
+<text x="150" y="207" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#D4A017" text-anchor="middle">Nectar</text>
+<line x1="220" y1="210" x2="385" y2="210" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<circle cx="150" cy="370" r="65" fill="#FFFFFF" stroke="#D98C10" stroke-width="3"/>
+<text x="150" y="367" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#D98C10" text-anchor="middle">Pollen</text>
+<line x1="220" y1="370" x2="385" y2="370" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<circle cx="150" cy="530" r="65" fill="#FFFFFF" stroke="#64B5F6" stroke-width="3"/>
+<text x="150" y="527" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#64B5F6" text-anchor="middle">Water</text>
+<line x1="220" y1="530" x2="385" y2="530" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<circle cx="150" cy="690" r="65" fill="#FFFFFF" stroke="#7A4D31" stroke-width="3"/>
+<text x="150" y="687" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#7A4D31" text-anchor="middle">Resin</text>
+<line x1="220" y1="690" x2="385" y2="690" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
+<rect x="400" y="155" width="270" height="700" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="418" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Foragers + receivers</text>
+<path d="M527.25 331.9 C540.75 308.5 570.0 310.75 557.4 333.25 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.7200000000000001"/>
+<circle cx="502.5" cy="340" r="9.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.9"/>
+<ellipse cx="525" cy="340" rx="15.3" ry="12.6" fill="#E0A419" stroke="#5D4037" stroke-width="0.9"/>
+<ellipse cx="556.5" cy="340" rx="20.25" ry="11.25" fill="#E0A419" stroke="#5D4037" stroke-width="0.9"/>
+<line x1="547.5" y1="331.0" x2="547.5" y2="349.0" stroke="#5D4037" stroke-width="1.35"/>
+<line x1="556.5" y1="331.0" x2="556.5" y2="349.0" stroke="#5D4037" stroke-width="1.35"/>
+<line x1="565.5" y1="331.0" x2="565.5" y2="349.0" stroke="#5D4037" stroke-width="1.35"/>
+<text x="430" y="475" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">collect and deliver resources</text>
+<text x="430" y="500" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">trophallaxis/transfer</text>
+<text x="430" y="525" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">sorting and immediate use</text>
+<line x1="670" y1="500" x2="770" y2="500" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
+<rect x="785" y="155" width="250" height="700" rx="18" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
+<text x="803" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">House functions</text>
+<text x="815" y="235" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">nectar processing</text>
+<text x="815" y="269" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">nurse feeding</text>
+<text x="815" y="303" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">wax secretion</text>
+<text x="815" y="337" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">fanning / water use</text>
+<text x="815" y="371" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">propolis placement</text>
+<line x1="1035" y1="500" x2="1110" y2="500" stroke="#2E7D32" stroke-width="4" marker-end="url(#ag)"/>
+<rect x="1125" y="155" width="220" height="700" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="1143" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Outputs</text>
+<text x="1150" y="235" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">brood growth</text>
+<text x="1150" y="269" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">honey stores</text>
+<text x="1150" y="303" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">bee bread</text>
+<text x="1150" y="337" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">comb</text>
+<text x="1150" y="371" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">nest sealing</text>
+<text x="1150" y="405" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">temperature control</text>
+<rect x="55" y="890" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="78" y="919" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Resource flow is not linear inventory handling: the same nectar/water/pollen pool is continually redistributed among adult maintenance, brood, storage and processing.</text>
+</svg>

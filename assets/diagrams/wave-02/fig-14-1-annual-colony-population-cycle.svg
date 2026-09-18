@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 14.1 — Annual Colony Population Cycle</title>
+<desc id="desc">Conceptual forage, brood, adult population and stores curves across biological seasons rather than fixed calendar months.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 14.1 — Annual Colony Population Cycle</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Curves are conceptual and should not be read as a forecast for a particular climate.</text>
+<line x1="110" y1="780" x2="1300" y2="780" stroke="#1F2933" stroke-width="3"/><line x1="110" y1="780" x2="110" y2="180" stroke="#1F2933" stroke-width="3"/>
+<text x="229.0" y="830" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#52606D" text-anchor="middle">survival / dearth</text>
+<text x="467.0" y="830" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#52606D" text-anchor="middle">build-up</text>
+<line x1="348.0" y1="180" x2="348.0" y2="780" stroke="#ECEFF1" stroke-width="2"/>
+<text x="705.0" y="830" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#52606D" text-anchor="middle">reproductive pressure</text>
+<line x1="586.0" y1="180" x2="586.0" y2="780" stroke="#ECEFF1" stroke-width="2"/>
+<text x="943.0" y="830" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#52606D" text-anchor="middle">surplus / peak</text>
+<line x1="824.0" y1="180" x2="824.0" y2="780" stroke="#ECEFF1" stroke-width="2"/>
+<text x="1181.0" y="830" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#52606D" text-anchor="middle">preparation</text>
+<line x1="1062.0" y1="180" x2="1062.0" y2="780" stroke="#ECEFF1" stroke-width="2"/>
+<polyline points="110,630.0 324.2,570.0 526.5,330.0 764.5,210.0 966.8,450.0 1300,600.0" fill="none" stroke="#2E7D32" stroke-width="7"/>
+<text x="1140" y="235" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#2E7D32" text-anchor="start">brood</text>
+<polyline points="110,552.0 348.0,528.0 586.0,390.0 847.8,228.0 1038.2,348.0 1300,528.0" fill="none" stroke="#1565C0" stroke-width="7"/>
+<text x="1140" y="265" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#1565C0" text-anchor="start">adult bees</text>
+<polyline points="110,672.0 348.0,492.0 645.5,240.0 859.7,330.0 1038.2,570.0 1300,660.0" fill="none" stroke="#D4A017" stroke-width="7"/>
+<text x="1140" y="295" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#D4A017" text-anchor="start">forage</text>
+<polyline points="110,450.0 348.0,600.0 645.5,612.0 907.3000000000001,312.0 1085.8,240.0 1300,408.0" fill="none" stroke="#6A1B9A" stroke-width="7"/>
+<text x="1140" y="325" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#6A1B9A" text-anchor="start">stores</text>
+<rect x="55" y="885" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The relative timing of brood, forage and adult population is the management signal. Replace these conceptual phases with local phenology, not month names.</text>
+</svg>

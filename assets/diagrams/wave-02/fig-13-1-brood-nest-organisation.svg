@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 13.1 — Brood-Nest Organisation</title>
+<desc id="desc">Representative comb pattern with central brood, pollen band and outer honey stores, explicitly labelled as variable rather than a fixed rule.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 13.1 — Brood-Nest Organisation</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">A common pattern exists, but real colonies reshape it with season, comb age, flow and colony strength.</text>
+<rect x="55" y="150" width="830" height="720" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
+<text x="73" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Representative brood frame</text>
+<ellipse cx="470" cy="500" rx="320" ry="270" fill="#F5D66B" opacity="0.62" stroke="#D4A017" stroke-width="4"/>
+<ellipse cx="470" cy="500" rx="250" ry="205" fill="#E3A62D" opacity="0.60" stroke="#B66D13" stroke-width="3"/>
+<ellipse cx="470" cy="510" rx="180" ry="145" fill="#B98755" opacity="0.88" stroke="#7E5638" stroke-width="4"/>
+<text x="470" y="510" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#5C3C27" text-anchor="middle">brood</text>
+<text x="470" y="330" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#9A6515" text-anchor="middle">pollen band</text>
+<text x="470" y="230" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#8D6E63" text-anchor="middle">honey / nectar stores</text>
+<rect x="925" y="150" width="420" height="720" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
+<text x="943" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Interpretation</text>
+<text x="955" y="220" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Typical tendency</text>
+<text x="955" y="246" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">brood concentrated centrally</text>
+<text x="955" y="272" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">pollen often near brood</text>
+<text x="955" y="298" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">honey often more peripheral/above</text>
+<text x="955" y="324" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start"></text>
+<text x="955" y="350" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">But arrangement shifts with:</text>
+<text x="955" y="376" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">• season and nectar flow</text>
+<text x="955" y="402" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">• queen laying pattern</text>
+<text x="955" y="428" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">• comb position and age</text>
+<text x="955" y="454" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">• colony strength</text>
+<text x="955" y="480" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">• beekeeper manipulations</text>
+<rect x="55" y="895" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="924" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Use the pattern as a reading aid, not a geometric law. A colony can be healthy with stores and brood arranged differently from this schematic.</text>
+</svg>

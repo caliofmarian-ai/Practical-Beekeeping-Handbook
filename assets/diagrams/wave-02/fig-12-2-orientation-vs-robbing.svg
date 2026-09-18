@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<title id="title">Figure 12.2 — Orientation Flight Versus Robbing</title>
+<desc id="desc">Side-by-side entrance-flight patterns and behavioural cues that help distinguish normal orientation flights from robbing.</desc>
+<defs>
+<marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
+<marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
+</defs>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
+<text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 12.2 — Orientation Flight Versus Robbing</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Both can look busy; use flight pattern, fighting, wax debris and attempts at cracks before deciding.</text>
+<rect x="55" y="160" width="620" height="650" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
+<text x="73" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">Orientation flights — normal learning</text>
+<rect x="175" y="420" width="260" height="300" rx="8" fill="#F6E3B4" stroke="#8D6E63" stroke-width="4"/>
+<rect x="165" y="395" width="280" height="30" rx="4" fill="#D6C6A0" stroke="#8D6E63" stroke-width="3"/>
+<rect x="200" y="720" width="210" height="20" rx="4" fill="#D6C6A0" stroke="#8D6E63" stroke-width="3"/>
+<rect x="255" y="702" width="110" height="18" fill="#3D2E24"/>
+<path d="M525.8 477.12 C530.6 468.8 541.0 469.6 536.52 477.6 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="517.0" cy="480.0" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="525.0" cy="480.0" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="536.2" cy="480.0" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="533.0" y1="476.8" x2="533.0" y2="483.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="536.2" y1="476.8" x2="536.2" y2="483.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="539.4" y1="476.8" x2="539.4" y2="483.2" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M525.0 480.0 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M496.32558883257656 557.12 C501.12558883257657 548.8 511.52558883257655 549.6 507.0455888325765 557.6 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="487.52558883257655" cy="560.0" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="495.52558883257655" cy="560.0" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="506.72558883257653" cy="560.0" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="503.52558883257655" y1="556.8" x2="503.52558883257655" y2="563.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="506.72558883257653" y1="556.8" x2="506.72558883257653" y2="563.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="509.9255888325765" y1="556.8" x2="509.9255888325765" y2="563.2" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M495.52558883257655 560.0 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M415.8 615.6840646055101 C420.6 607.3640646055101 431.0 608.1640646055101 426.52 616.1640646055101 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="407.0" cy="618.5640646055101" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="415.0" cy="618.5640646055101" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="426.2" cy="618.5640646055101" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="423.0" y1="615.3640646055101" x2="423.0" y2="621.7640646055102" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="426.2" y1="615.3640646055101" x2="426.2" y2="621.7640646055102" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="429.4" y1="615.3640646055101" x2="429.4" y2="621.7640646055102" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M415.0 618.5640646055101 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M305.8 637.12 C310.6 628.8 321.0 629.6 316.52 637.6 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="297.0" cy="640.0" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="305.0" cy="640.0" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="316.2" cy="640.0" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="313.0" y1="636.8" x2="313.0" y2="643.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="316.2" y1="636.8" x2="316.2" y2="643.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="319.4" y1="636.8" x2="319.4" y2="643.2" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M305.0 640.0 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M195.80000000000007 615.6840646055102 C200.60000000000005 607.3640646055102 211.00000000000006 608.1640646055102 206.52000000000007 616.1640646055102 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="187.00000000000006" cy="618.5640646055102" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="195.00000000000006" cy="618.5640646055102" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="206.20000000000005" cy="618.5640646055102" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="203.00000000000006" y1="615.3640646055102" x2="203.00000000000006" y2="621.7640646055103" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="206.20000000000005" y1="615.3640646055102" x2="206.20000000000005" y2="621.7640646055103" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="209.40000000000006" y1="615.3640646055102" x2="209.40000000000006" y2="621.7640646055103" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M195.00000000000006 618.5640646055102 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M115.27441116742348 557.12 C120.07441116742348 548.8 130.47441116742348 549.6 125.99441116742348 557.6 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="106.47441116742348" cy="560.0" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="114.47441116742348" cy="560.0" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="125.67441116742349" cy="560.0" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="122.47441116742348" y1="556.8" x2="122.47441116742348" y2="563.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="125.67441116742349" y1="556.8" x2="125.67441116742349" y2="563.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="128.8744111674235" y1="556.8" x2="128.8744111674235" y2="563.2" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M114.47441116742348 560.0 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M85.8 477.12 C90.6 468.8 101.0 469.6 96.52 477.6 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="77.0" cy="480.0" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="85.0" cy="480.0" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="96.2" cy="480.0" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="93.0" y1="476.8" x2="93.0" y2="483.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="96.2" y1="476.8" x2="96.2" y2="483.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="99.4" y1="476.8" x2="99.4" y2="483.2" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M85.0 480.0 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M115.27441116742351 397.12 C120.0744111674235 388.8 130.4744111674235 389.6 125.99441116742351 397.6 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="106.47441116742351" cy="400.0" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="114.47441116742351" cy="400.0" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="125.67441116742351" cy="400.0" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="122.47441116742351" y1="396.8" x2="122.47441116742351" y2="403.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="125.67441116742351" y1="396.8" x2="125.67441116742351" y2="403.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="128.87441116742352" y1="396.8" x2="128.87441116742352" y2="403.2" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M114.47441116742351 400.0 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M195.7999999999999 338.5559353944899 C200.59999999999988 330.2359353944899 210.9999999999999 331.0359353944899 206.5199999999999 339.0359353944899 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="186.9999999999999" cy="341.4359353944899" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="194.9999999999999" cy="341.4359353944899" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="206.19999999999987" cy="341.4359353944899" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="202.9999999999999" y1="338.2359353944899" x2="202.9999999999999" y2="344.6359353944899" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="206.19999999999987" y1="338.2359353944899" x2="206.19999999999987" y2="344.6359353944899" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="209.3999999999999" y1="338.2359353944899" x2="209.3999999999999" y2="344.6359353944899" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M194.9999999999999 341.4359353944899 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M305.79999999999995 317.12 C310.59999999999997 308.8 320.99999999999994 309.6 316.5199999999999 317.6 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="296.99999999999994" cy="320.0" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="304.99999999999994" cy="320.0" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="316.19999999999993" cy="320.0" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="312.99999999999994" y1="316.8" x2="312.99999999999994" y2="323.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="316.19999999999993" y1="316.8" x2="316.19999999999993" y2="323.2" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="319.3999999999999" y1="316.8" x2="319.3999999999999" y2="323.2" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M304.99999999999994 320.0 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M415.8 338.55593539448984 C420.6 330.23593539448984 431.0 331.03593539448985 426.52 339.03593539448985 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="407.0" cy="341.43593539448983" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="415.0" cy="341.43593539448983" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="426.2" cy="341.43593539448983" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="423.0" y1="338.23593539448984" x2="423.0" y2="344.6359353944898" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="426.2" y1="338.23593539448984" x2="426.2" y2="344.6359353944898" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="429.4" y1="338.23593539448984" x2="429.4" y2="344.6359353944898" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M415.0 341.43593539448983 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<path d="M496.32558883257644 397.11999999999995 C501.12558883257645 388.79999999999995 511.52558883257643 389.59999999999997 507.0455888325764 397.59999999999997 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.256"/>
+<circle cx="487.52558883257643" cy="399.99999999999994" r="3.2" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="495.52558883257643" cy="399.99999999999994" rx="5.44" ry="4.48" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<ellipse cx="506.7255888325764" cy="399.99999999999994" rx="7.2" ry="4.0" fill="#E0A419" stroke="#5D4037" stroke-width="0.32"/>
+<line x1="503.52558883257643" y1="396.79999999999995" x2="503.52558883257643" y2="403.19999999999993" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="506.7255888325764" y1="396.79999999999995" x2="506.7255888325764" y2="403.19999999999993" stroke="#5D4037" stroke-width="0.48"/>
+<line x1="509.9255888325764" y1="396.79999999999995" x2="509.9255888325764" y2="403.19999999999993" stroke="#5D4037" stroke-width="0.48"/>
+<path d="M495.52558883257643 399.99999999999994 Q 305 390 305 500" fill="none" stroke="#81C784" stroke-width="1.5" opacity="0.55"/>
+<text x="95" y="700" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">young bees hover/arc facing hive</text>
+<text x="95" y="726" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">activity often concentrated near entrance</text>
+<text x="95" y="752" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">little fighting; no frantic crack-searching</text>
+<rect x="725" y="160" width="620" height="650" rx="18" fill="#FFEBEE" stroke="#C62828" stroke-width="2.5"/>
+<text x="743" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#C62828" text-anchor="start">Robbing — investigate quickly</text>
+<rect x="845" y="420" width="260" height="300" rx="8" fill="#F6E3B4" stroke="#8D6E63" stroke-width="4"/>
+<rect x="835" y="395" width="280" height="30" rx="4" fill="#D6C6A0" stroke="#8D6E63" stroke-width="3"/>
+<rect x="870" y="720" width="210" height="20" rx="4" fill="#D6C6A0" stroke="#8D6E63" stroke-width="3"/>
+<rect x="925" y="702" width="110" height="18" fill="#3D2E24"/>
+<path d="M800.9 366.76 C806.3 357.4 818.0 358.3 812.96 367.3 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.288"/>
+<circle cx="791.0" cy="370" r="3.5999999999999996" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="800" cy="370" rx="6.12" ry="5.04" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="812.6" cy="370" rx="8.1" ry="4.5" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<line x1="809.0" y1="366.4" x2="809.0" y2="373.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="812.6" y1="366.4" x2="812.6" y2="373.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="816.2" y1="366.4" x2="816.2" y2="373.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="800" y1="370" x2="975" y2="560" stroke="#C62828" stroke-width="2.5"/>
+<path d="M1150.9 361.76 C1156.3 352.4 1168.0 353.3 1162.96 362.3 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.288"/>
+<circle cx="1141.0" cy="365" r="3.5999999999999996" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="1150" cy="365" rx="6.12" ry="5.04" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="1162.6" cy="365" rx="8.1" ry="4.5" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<line x1="1159.0" y1="361.4" x2="1159.0" y2="368.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="1162.6" y1="361.4" x2="1162.6" y2="368.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="1166.2" y1="361.4" x2="1166.2" y2="368.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="1150" y1="365" x2="975" y2="560" stroke="#C62828" stroke-width="2.5"/>
+<path d="M780.9 516.76 C786.3 507.4 798.0 508.3 792.96 517.3 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.288"/>
+<circle cx="771.0" cy="520" r="3.5999999999999996" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="780" cy="520" rx="6.12" ry="5.04" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="792.6" cy="520" rx="8.1" ry="4.5" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<line x1="789.0" y1="516.4" x2="789.0" y2="523.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="792.6" y1="516.4" x2="792.6" y2="523.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="796.2" y1="516.4" x2="796.2" y2="523.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="780" y1="520" x2="975" y2="560" stroke="#C62828" stroke-width="2.5"/>
+<path d="M1180.9 536.76 C1186.3 527.4 1198.0 528.3 1192.96 537.3 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.288"/>
+<circle cx="1171.0" cy="540" r="3.5999999999999996" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="1180" cy="540" rx="6.12" ry="5.04" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="1192.6" cy="540" rx="8.1" ry="4.5" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<line x1="1189.0" y1="536.4" x2="1189.0" y2="543.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="1192.6" y1="536.4" x2="1192.6" y2="543.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="1196.2" y1="536.4" x2="1196.2" y2="543.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="1180" y1="540" x2="975" y2="560" stroke="#C62828" stroke-width="2.5"/>
+<path d="M900.9 326.76 C906.3 317.4 918.0 318.3 912.96 327.3 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.288"/>
+<circle cx="891.0" cy="330" r="3.5999999999999996" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="900" cy="330" rx="6.12" ry="5.04" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="912.6" cy="330" rx="8.1" ry="4.5" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<line x1="909.0" y1="326.4" x2="909.0" y2="333.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="912.6" y1="326.4" x2="912.6" y2="333.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="916.2" y1="326.4" x2="916.2" y2="333.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="900" y1="330" x2="975" y2="560" stroke="#C62828" stroke-width="2.5"/>
+<path d="M1110.9 596.76 C1116.3 587.4 1128.0 588.3 1122.96 597.3 Z" fill="#D9EEF7" opacity="0.7" stroke="#7EAFC3" stroke-width="0.288"/>
+<circle cx="1101.0" cy="600" r="3.5999999999999996" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="1110" cy="600" rx="6.12" ry="5.04" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<ellipse cx="1122.6" cy="600" rx="8.1" ry="4.5" fill="#E0A419" stroke="#5D4037" stroke-width="0.36"/>
+<line x1="1119.0" y1="596.4" x2="1119.0" y2="603.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="1122.6" y1="596.4" x2="1122.6" y2="603.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="1126.2" y1="596.4" x2="1126.2" y2="603.6" stroke="#5D4037" stroke-width="0.54"/>
+<line x1="1110" y1="600" x2="975" y2="560" stroke="#C62828" stroke-width="2.5"/>
+<circle cx="955" cy="710" r="9" fill="#E7D48A"/><circle cx="980" cy="715" r="9" fill="#E7D48A"/><circle cx="1005" cy="706" r="9" fill="#E7D48A"/>
+<text x="765" y="700" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">irregular darting and fighting</text>
+<text x="765" y="726" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">bees investigate seams/cracks</text>
+<text x="765" y="752" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">wax debris/torn cappings may appear</text>
+<rect x="55" y="865" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Do not close a colony completely without considering ventilation. First remove exposed feed/honey, reduce defendable entrance as appropriate and stop the trigger.</text>
+</svg>
