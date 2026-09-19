@@ -18,13 +18,15 @@ jobs:
           fetch-depth: 0
       - name: Install render dependencies
         run: python3 -m pip install --quiet cairosvg pillow
+      - name: Reconcile text fit without deleting scientific content
+        run: python3 scripts/fix_visual_text_overflow.py --apply
       - name: Apply and audit final visual reconciliation
         run: python3 scripts/finalize_visual_reconciliation.py --apply
       - name: Commit final reconciliation output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/diagrams assets/visual-reconciliation-final.json docs/reviews/VISUAL_RECONCILIATION_FINAL.md
+          git add assets/diagrams assets/visual-reconciliation-final.json assets/visual-text-fit-fixes.json docs/reviews/VISUAL_RECONCILIATION_FINAL.md docs/reviews/VISUAL_TEXT_FIT_FIXES.md
           if git diff --cached --quiet; then
             echo "No final reconciliation changes."
           else
@@ -49,3 +51,5 @@ jobs:
           PY
 
 # validator-v2
+
+# text-fit-v1
