@@ -2,28 +2,10 @@
   "visual_system": "PBH-v1",
   "pass": 3,
   "svg_count": 256,
-  "render_failures": [
-    {
-      "path": "assets/diagrams/wave-03/fig-27-7-condensation-and-moisture.svg",
-      "error": "'NoneType' object has no attribute 'get'"
-    }
-  ],
+  "render_failures": [],
   "blank_like_renders": [],
   "critical_text_under_10": [],
-  "small_text_10_to_under_12": [
-    {
-      "path": "assets/diagrams/wave-06b/fig-58-8-royal-jelly-quality-dimensions.svg",
-      "min_font": 11.0
-    },
-    {
-      "path": "assets/diagrams/wave-09/fig-70-7-organic-varroa-ipm.svg",
-      "min_font": 11.0
-    },
-    {
-      "path": "assets/diagrams/wave-09/fig-73-9-research-frontiers-map.svg",
-      "min_font": 10.5
-    }
-  ],
+  "small_text_10_to_under_12": [],
   "long_single_text_nodes": [
     {
       "path": "assets/diagrams/wave-01/fig-25-7-brood-pattern-interpretation.svg",
@@ -1185,7 +1167,7 @@
     },
     "landscape-standard": {
       "count": 162,
-      "min": 10.5,
+      "min": 12.0,
       "median": 14.0,
       "p10": 13.0
     }
@@ -4053,6 +4035,24 @@
         "dark_fraction": 0.00312
       }
     },
+    "assets/diagrams/wave-03/fig-27-7-condensation-and-moisture.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.187,
+        "grayscale_stddev": 26.334,
+        "whiteish_fraction": 0.35907,
+        "dark_fraction": 0.00668
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.483,
+        "grayscale_stddev": 24.544,
+        "whiteish_fraction": 0.36113,
+        "dark_fraction": 0.00463
+      }
+    },
     "assets/diagrams/wave-03/fig-28-1-natural-swarm-cycle.svg": {
       "520": {
         "width": 520,
@@ -5173,18 +5173,18 @@
       "520": {
         "width": 520,
         "height": 371,
-        "grayscale_mean": 244.288,
-        "grayscale_stddev": 27.412,
+        "grayscale_mean": 243.918,
+        "grayscale_stddev": 28.175,
         "whiteish_fraction": 0.68247,
-        "dark_fraction": 0.00578
+        "dark_fraction": 0.00582
       },
       "390": {
         "width": 390,
         "height": 279,
-        "grayscale_mean": 244.322,
-        "grayscale_stddev": 25.526,
+        "grayscale_mean": 244.259,
+        "grayscale_stddev": 25.71,
         "whiteish_fraction": 0.67872,
-        "dark_fraction": 0.00345
+        "dark_fraction": 0.00344
       }
     },
     "assets/diagrams/wave-06b/fig-59-1-worker-bee-sting-apparatus.svg": {
@@ -5623,18 +5623,18 @@
       "520": {
         "width": 520,
         "height": 371,
-        "grayscale_mean": 246.132,
-        "grayscale_stddev": 24.982,
-        "whiteish_fraction": 0.75419,
-        "dark_fraction": 0.00336
+        "grayscale_mean": 245.488,
+        "grayscale_stddev": 26.465,
+        "whiteish_fraction": 0.75404,
+        "dark_fraction": 0.00339
       },
       "390": {
         "width": 390,
         "height": 279,
-        "grayscale_mean": 245.946,
-        "grayscale_stddev": 23.802,
-        "whiteish_fraction": 0.75074,
-        "dark_fraction": 0.00186
+        "grayscale_mean": 245.83,
+        "grayscale_stddev": 24.163,
+        "whiteish_fraction": 0.75069,
+        "dark_fraction": 0.00188
       }
     },
     "assets/diagrams/wave-09/fig-71-10-biodiversity-monitoring-toolkit.svg": {
@@ -5731,16 +5731,16 @@
       "520": {
         "width": 520,
         "height": 371,
-        "grayscale_mean": 245.795,
-        "grayscale_stddev": 26.1,
+        "grayscale_mean": 245.202,
+        "grayscale_stddev": 27.397,
         "whiteish_fraction": 0.72655,
-        "dark_fraction": 0.00465
+        "dark_fraction": 0.00467
       },
       "390": {
         "width": 390,
         "height": 279,
-        "grayscale_mean": 245.652,
-        "grayscale_stddev": 24.528,
+        "grayscale_mean": 245.5,
+        "grayscale_stddev": 24.966,
         "whiteish_fraction": 0.72333,
         "dark_fraction": 0.00256
       }
