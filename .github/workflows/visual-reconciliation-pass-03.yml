@@ -31,3 +31,5 @@ jobs:
             git commit -m "Add PBH-v1 proof-level visual QA report"
             git push origin HEAD:publishing/visual-reconciliation-pass-03
           fi
+
+# rerun-after-targeted-fixes
