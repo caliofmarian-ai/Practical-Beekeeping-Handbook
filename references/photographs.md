@@ -16,6 +16,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 
 **Pass 02 update:** diagnostic/brood sourcing now has **15/40 A_CORE** items with candidates and **7/40** currently selected sources that meet the present technical/rights/resolution gate. High-value additions include healthy capped worker brood (CC BY 4.0), a deformed-wing/Varroa photograph (CC0), an EFB candidate (CC BY-SA 4.0, single-column size only), and peer-reviewed Nosema microscopy (CC BY 4.0, resolution check pending), plus a public-domain USDA Tropilaelaps specimen.
+
+**Controlled-capture update:** all **8/8 CONTROLLED_REAL_CAPTURE** A_CORE positions now have an executable, safety-bounded shot card in `docs/production/CONTROLLED_PHOTO_CAPTURE_BRIEF_01.md`. This makes them ready to commission or capture, but does not change their unsourced/unapproved status.
 ---
 
 ## 1. Photograph Selection Rules
