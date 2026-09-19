@@ -8,6 +8,12 @@ Photographs are used only when a real field appearance, product condition, behav
 
 Issue #102 remains open until photographs are sourced or created, rights-cleared, technically reviewed, captioned, placed, and proof-verified.
 
+### Current production checkpoint — 2026-09-19
+
+The 93-shot register has been rationalised into **40 A_CORE**, **25 B_SUPPORTING**, and **28 C_OPTIONAL** photographs. A_CORE sourcing is now tracked in `assets/photo-source-registry.json`.
+
+The first sourcing pass separates real diagnostic/documentary evidence, real field/process photography, and controlled real capture. Generated imagery is **not** accepted as a final photograph. USDA ARS public-domain candidates are now recorded for the first A_CORE subjects; final approval still requires technical match, resolution and placement review.
+
 ---
 
 ## 1. Photograph Selection Rules
