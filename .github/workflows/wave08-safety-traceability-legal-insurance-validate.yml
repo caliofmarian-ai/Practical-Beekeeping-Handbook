@@ -1,0 +1,32 @@
+name: wave08-safety-traceability-legal-insurance-validate
+on:
+  push:
+    branches: [publishing/visual-wave-08-safety-traceability-legal-insurance]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Wave 08 assets
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import csv,json,xml.etree.ElementTree as ET
+          root=Path(".")
+          files=sorted((root/"assets/diagrams/wave-08").glob("*.svg"))
+          assert len(files)==8, len(files)
+          for p in files:
+              t=p.read_text(encoding="utf-8")
+              ET.fromstring(t)
+              assert '<title id="title">' in t
+              assert '<desc id="desc">' in t
+              assert 'aria-labelledby="title desc"' in t
+          meta=json.loads((root/"assets/production-briefs/wave-08-safety-traceability-legal-insurance.json").read_text())
+          assert meta["asset_count"]==8 and len(meta["assets"])==8
+          rows=list(csv.DictReader((root/"docs/visual-index/wave-08-manifest.csv").open()))
+          assert len(rows)==8
+          print("Wave 08 validation PASS")
+          PY

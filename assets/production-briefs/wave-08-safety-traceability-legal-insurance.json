@@ -1,0 +1,125 @@
+{
+  "wave": 8,
+  "batch": "safety-traceability-legal-insurance",
+  "scope": "A_CORE Chapters 66–69",
+  "asset_count": 8,
+  "status": "PRODUCTION_COMPLETE_FINAL_RECONCILIATION_PENDING",
+  "reconciliation_spec": "docs/standards/VISUAL_SYSTEM_RECONCILIATION_V1.md",
+  "design_reference": {
+    "tool": "Figma/FigJam",
+    "diagram_id": "7d5c93a9-587e-4333-9765-7f29a8c66db2",
+    "purpose": "Layout exploration for Figure 68.11 only; final canonical artwork is the GitHub SVG."
+  },
+  "official_reference_checks": [
+    "EU Regulation (EC) No 178/2002 — Article 18 traceability",
+    "EU Regulation (EC) No 852/2004 — primary-production hygiene / HACCP-based requirements beyond primary production",
+    "Ireland DAFM — Register as a Primary Honey Producer (last updated 15 April 2025)",
+    "Ireland DAFM — Beekeeping and Honey (last updated 24 April 2026)"
+  ],
+  "assets": [
+    {
+      "figure_id": "66.1",
+      "chapter": 66,
+      "title": "Hive-to-Consumer Food-Safety Chain",
+      "path": "assets/diagrams/wave-08/fig-66-1-hive-to-consumer-food-safety-chain.svg",
+      "source_plan": "docs/illustration-plans/chapter-66-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION",
+      "reuse_notes": null
+    },
+    {
+      "figure_id": "66.3",
+      "chapter": 66,
+      "title": "Product-Risk Comparison",
+      "path": "assets/diagrams/wave-08/fig-66-3-product-risk-comparison.svg",
+      "source_plan": "docs/illustration-plans/chapter-66-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION",
+      "reuse_notes": "HONEY_QUALITY_FAMILY conventions coordinated"
+    },
+    {
+      "figure_id": "67.1",
+      "chapter": 67,
+      "title": "Backward and Forward Traceability",
+      "path": "assets/diagrams/wave-08/fig-67-1-backward-forward-traceability.svg",
+      "source_plan": "docs/illustration-plans/chapter-67-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION",
+      "reuse_notes": "TRACEABILITY_CHAIN conventions coordinated"
+    },
+    {
+      "figure_id": "67.12",
+      "chapter": 67,
+      "title": "Digital Traceability Resilience",
+      "path": "assets/diagrams/wave-08/fig-67-12-digital-traceability-resilience.svg",
+      "source_plan": "docs/illustration-plans/chapter-67-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION",
+      "reuse_notes": "TRACEABILITY_CHAIN conventions coordinated"
+    },
+    {
+      "figure_id": "68.4",
+      "chapter": 68,
+      "title": "Primary Production Versus Processing/Packing",
+      "path": "assets/diagrams/wave-08/fig-68-4-primary-production-vs-processing-packing.svg",
+      "source_plan": "docs/illustration-plans/chapter-68-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION",
+      "reuse_notes": null
+    },
+    {
+      "figure_id": "68.11",
+      "chapter": 68,
+      "title": "Legal Change Management",
+      "path": "assets/diagrams/wave-08/fig-68-11-legal-change-management.svg",
+      "source_plan": "docs/illustration-plans/chapter-68-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION",
+      "reuse_notes": null
+    },
+    {
+      "figure_id": "69.1",
+      "chapter": 69,
+      "title": "Risk Treatment Framework",
+      "path": "assets/diagrams/wave-08/fig-69-1-risk-treatment-framework.svg",
+      "source_plan": "docs/illustration-plans/chapter-69-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION",
+      "reuse_notes": null
+    },
+    {
+      "figure_id": "69.7",
+      "chapter": 69,
+      "title": "Policy Anatomy",
+      "path": "assets/diagrams/wave-08/fig-69-7-policy-anatomy.svg",
+      "source_plan": "docs/illustration-plans/chapter-69-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION",
+      "reuse_notes": null
+    }
+  ]
+}
