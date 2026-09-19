@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "generated_date": "2026-09-19",
   "issue": 102,
   "scope": "A_CORE photo sourcing",
@@ -8,9 +8,10 @@
     "EVIDENCE_AUTHENTIC_ONLY": 16,
     "FIELD_PROCESS_AUTHENTIC": 16,
     "CONTROLLED_REAL_CAPTURE": 8,
-    "with_candidates": 9,
-    "verified_public_domain_candidates": 7,
-    "primary_ready_candidates": 4
+    "with_candidates": 15,
+    "rights_clear_candidates": 14,
+    "primary_ready_candidates": 7,
+    "technical_matches_any_rights_state": 11
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -98,7 +99,7 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
+      "source_status": "CANDIDATE_IDENTIFIED",
       "rights_status": "UNVERIFIED",
       "technical_match_status": "UNREVIEWED",
       "selected_source": null,
@@ -117,6 +118,23 @@
           "required_or_requested_credit": "Photo by Jay Evans, USDA Agricultural Research Service.",
           "technical_match_status": "PARTIAL_MATCH",
           "technical_note": "Authentic healthy brood context, but does not clearly satisfy the planned whole-frame brood/pollen/stores composition."
+        },
+        {
+          "recommendation": "SECONDARY_CANDIDATE_COMPLEMENTARY",
+          "institution": "U.S. Fish and Wildlife Service",
+          "source_page_url": "https://www.fws.gov/media/bees-frame-resizedjpg-0",
+          "direct_image_url": null,
+          "source_image_id": "Bees on frame (resized).jpg",
+          "creator": "David Teague / USFWS",
+          "source_caption": "Honeybees storing honey and pollen on an apiary frame at Erwin National Fish Hatchery.",
+          "rights_status": "VERIFIED_PUBLIC_DOMAIN",
+          "rights_basis": "USFWS media page explicitly labels the image Public Domain.",
+          "required_or_requested_credit": "David Teague/USFWS.",
+          "technical_match_status": "PARTIAL_MATCH",
+          "technical_note": "Excellent real frame context for honey and pollen stores, but it does not by itself satisfy the planned whole-frame brood-plus-stores reference.",
+          "resolution_pixels": "2560x3417",
+          "resolution_status": "PRINT_READY",
+          "resolution_note": "High-resolution original offered by USFWS."
         }
       ]
     },
@@ -184,11 +202,30 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
-      "candidates": []
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Bees_on_capped_worker_brood.jpg",
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Bees_on_capped_worker_brood.jpg",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bees_on_capped_worker_brood.jpg",
+          "source_image_id": "Bees on capped worker brood.jpg",
+          "creator": "Einebillion",
+          "source_caption": "A 3/4 frame from a Langstroth beehive showing capped worker brood and nurse bees.",
+          "rights_status": "VERIFIED_CC_BY_4_0",
+          "rights_basis": "Copyright holder licensed the original work under Creative Commons Attribution 4.0 International.",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "required_or_requested_credit": "Photo: Einebillion, CC BY 4.0. Link to source/license and indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Directly matches healthy capped worker brood with nurse bees.",
+          "resolution_pixels": "4032x3024",
+          "resolution_status": "PRINT_READY",
+          "resolution_note": "Enough pixels for substantially larger than single-column placement at 300 ppi."
+        }
+      ]
     },
     {
       "asset_id": "P33.01",
@@ -300,11 +337,29 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
+      "source_status": "CANDIDATE_IDENTIFIED",
       "rights_status": "UNVERIFIED",
       "technical_match_status": "UNREVIEWED",
       "selected_source": null,
-      "candidates": []
+      "candidates": [
+        {
+          "recommendation": "SECONDARY_HISTORICAL_REFERENCE",
+          "institution": "Biodiversity Heritage Library / Wikimedia Commons",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Sacbrood_BHL41830855.jpg",
+          "direct_image_url": null,
+          "source_image_id": "Sacbrood BHL41830855.jpg",
+          "creator": "Historical source scan (G. F. White / BHL record)",
+          "source_caption": "Historical sacbrood plate/page from a public-domain source.",
+          "rights_status": "VERIFIED_PUBLIC_DOMAIN",
+          "rights_basis": "Commons/BHL record identifies the scan and underlying original as public domain and free of known copyright restrictions.",
+          "required_or_requested_credit": "Biodiversity Heritage Library / source metadata retained for provenance.",
+          "technical_match_status": "REFERENCE_ONLY",
+          "technical_note": "High-resolution and rights-clear, but historical rather than a preferred modern confirmed clinical photograph. Do not use as primary if a current authoritative image can be licensed.",
+          "resolution_pixels": "2432x4303",
+          "resolution_status": "PRINT_READY_SOURCE_SCAN",
+          "resolution_note": "Pixel dimensions are ample; historical reproduction quality must still be judged visually."
+        }
+      ]
     },
     {
       "asset_id": "P40.01",
@@ -344,10 +399,10 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:1-Tropilaelaps_female_dors20x.jpg",
       "candidates": [
         {
           "recommendation": "SECONDARY_CANDIDATE",
@@ -363,6 +418,23 @@
           "required_or_requested_credit": "Use source-specified credit if rights are cleared.",
           "technical_match_status": "MATCH",
           "technical_note": "Authoritative comparison specimen; should not be used as final asset until reuse rights are explicitly cleared."
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE",
+          "institution": "USDA Bee Mite ID / Wikimedia Commons",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:1-Tropilaelaps_female_dors20x.jpg",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1-Tropilaelaps_female_dors20x.jpg",
+          "source_image_id": "1-Tropilaelaps female dors20x.jpg",
+          "creator": "Pavel Klimov / Bee Mite ID",
+          "source_caption": "Female Tropilaelaps specimen, dorsal view, 20×; source image labelled Tropilaelaps ex Apis florea.",
+          "rights_status": "VERIFIED_PUBLIC_DOMAIN",
+          "rights_basis": "Commons identifies the image as work of a USDA employee made as part of official duties and therefore public domain.",
+          "required_or_requested_credit": "Photo/drawing by Pavel Klimov, Bee Mite ID / USDA; retain provenance credit.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Direct specimen image suitable for the planned Tropilaelaps morphology reference; caption should remain genus-level unless species identity is independently confirmed for this exact specimen.",
+          "resolution_pixels": "1293x1200",
+          "resolution_status": "PRINT_READY",
+          "resolution_note": "Adequate for normal book placement at 300 ppi."
         }
       ]
     },
@@ -404,11 +476,30 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
-      "candidates": []
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC0_1_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Honey_bee_with_Deformed_Wing_Virus_and_Varroa_destructor.jpg",
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Honey_bee_with_Deformed_Wing_Virus_and_Varroa_destructor.jpg",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Honey_bee_with_Deformed_Wing_Virus_and_Varroa_destructor.jpg",
+          "source_image_id": "Honey bee with Deformed Wing Virus and Varroa destructor.jpg",
+          "creator": "Stefan de Konink",
+          "source_caption": "Honey bee with Deformed Wing Virus and a Varroa destructor mite visible on the torso.",
+          "rights_status": "VERIFIED_CC0_1_0",
+          "rights_basis": "Copyright holder dedicated the work to the public domain under CC0 1.0; commercial use is expressly permitted without permission.",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "required_or_requested_credit": "No attribution legally required under CC0; retain source/creator credit in project provenance.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Clear deformed-wing phenotype in a real honey bee with a visible Varroa mite; caption must not equate phenotype with a quantitative mite count.",
+          "resolution_pixels": "2277x1761",
+          "resolution_status": "PRINT_READY",
+          "resolution_note": "Adequate for normal book placement at 300 ppi."
+        }
+      ]
     },
     {
       "asset_id": "P42.01",
@@ -418,11 +509,31 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_match_status": "MATCH",
       "selected_source": null,
-      "candidates": []
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE_RESOLUTION_CHECK",
+          "institution": "Insects (MDPI) / peer-reviewed research article",
+          "source_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13026529/",
+          "source_figure": "Figure 1",
+          "direct_image_url": null,
+          "source_image_id": "Figure 1 — Spores of Nosema sp. by optical microscopic examination (40×)",
+          "creator": "Sandoval-Morejón et al. (2026)",
+          "source_caption": "Spores of Nosema sp. by optical microscopic examination (40×).",
+          "rights_status": "VERIFIED_CC_BY_4_0",
+          "rights_basis": "The peer-reviewed article is distributed under Creative Commons Attribution (CC BY); Figure 1 is presented as part of the article without a separate third-party licence notice in the indexed record.",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "required_or_requested_credit": "Adapt/reproduce with article citation and CC BY 4.0 attribution; indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Matches the planned 'Nosema-like spores under microscope' purpose and explicitly states the microscopy magnification. Species-level claims must remain tied to the article's molecular confirmation, not morphology alone.",
+          "resolution_pixels": null,
+          "resolution_status": "REVIEW_AT_DOWNLOAD",
+          "resolution_note": "Check native figure pixel dimensions before final placement."
+        }
+      ]
     },
     {
       "asset_id": "P43.01",
@@ -476,11 +587,30 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_match_status": "MATCH",
       "selected_source": null,
-      "candidates": []
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE_LAYOUT_LIMITED",
+          "institution": "Výzkumný ústav včelařský, s.r.o. / Wikimedia Commons",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:European_foulbrood_CZ.jpg",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/European_foulbrood_CZ.jpg",
+          "source_image_id": "European foulbrood CZ.jpg",
+          "creator": "Výzkumný ústav včelařský, s.r.o.",
+          "source_caption": "European foulbrood brood symptoms.",
+          "rights_status": "VERIFIED_CC_BY_SA_4_0",
+          "rights_basis": "Commons file page licenses the image under Creative Commons Attribution-ShareAlike 4.0 International.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "required_or_requested_credit": "Credit the creator/source under CC BY-SA 4.0; indicate modifications and preserve ShareAlike obligations for adaptations.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Modern EFB brood image from a bee-research institute; visible abnormal larvae are consistent with the planned teaching purpose.",
+          "resolution_pixels": "676x506",
+          "resolution_status": "SINGLE_COLUMN_ONLY",
+          "resolution_note": "At 300 ppi the native width is about 57 mm. Keep near native size, avoid aggressive crop/upscale, and verify in print proof."
+        }
+      ]
     },
     {
       "asset_id": "P45.01",
@@ -490,11 +620,48 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "OGL_CONTEXT_VERIFIED_FINAL_ASSET_CHECK_REQUIRED",
+      "technical_match_status": "MATCH",
       "selected_source": null,
-      "candidates": []
+      "candidates": [
+        {
+          "recommendation": "AUTHORITATIVE_CANDIDATE_RIGHTS_RESOLUTION_CHECK",
+          "institution": "National Bee Unit / Animal and Plant Health Agency (APHA)",
+          "source_page_url": "https://www.nationalbeeunit.com/assets/PDFs/3_Resources_for_beekeepers/Fact_Sheets/Fact_10_Chronic_Bee_Paralysis_Virus.pdf",
+          "direct_image_url": null,
+          "source_image_id": "Figure 1 — Individual and colony level symptoms of chronic bee paralysis",
+          "creator": "Animal and Plant Health Agency / National Bee Unit",
+          "source_caption": "Individual and colony-level CBPV symptoms, including shiny/dark hairless adults.",
+          "rights_status": "OGL_CONTEXT_VERIFIED_FINAL_ASSET_CHECK_REQUIRED",
+          "rights_basis": "The fact sheet is Crown Copyright. National Bee Unit/APHA publications in the same current fact-sheet system state re-use excluding logos is permitted under Open Government Licence v3.0; final figure extraction must preserve the exact source document's licence/credit metadata.",
+          "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+          "required_or_requested_credit": "Crown copyright / Animal and Plant Health Agency (APHA), used under OGL v3.0, subject to exact final-source verification.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Authoritative NBU information note describes shiny/darker denuded adults and shows an explicit CBPV symptom figure.",
+          "resolution_pixels": null,
+          "resolution_status": "REVIEW_AT_EXTRACTION",
+          "resolution_note": "Do not promote to final until the embedded figure's effective print resolution is measured."
+        },
+        {
+          "recommendation": "SECONDARY_CANDIDATE_SMALL_PLACEMENT",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_(CBPV).jpg",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_%28CBPV%29.jpg",
+          "source_image_id": "Abeille infectée par le virus de la maladie noire (CBPV).jpg",
+          "creator": "Abrahami",
+          "source_caption": "Bee on the right showing beginning blackening associated by the uploader with CBPV.",
+          "rights_status": "VERIFIED_CC_BY_SA_4_0",
+          "rights_basis": "Copyright holder licensed the work under Creative Commons Attribution-ShareAlike 4.0 International.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "required_or_requested_credit": "Photo: Abrahami, CC BY-SA 4.0; link source/license and indicate modifications.",
+          "technical_match_status": "PARTIAL_MATCH",
+          "technical_note": "Useful visual corroboration, but not an authoritative confirmed-diagnosis source on its own.",
+          "resolution_pixels": "495x495",
+          "resolution_status": "SMALL_PLACEMENT_ONLY",
+          "resolution_note": "Native size is only about 42 mm wide at 300 ppi; do not upscale for normal/full-column use."
+        }
+      ]
     },
     {
       "asset_id": "P46.01",
@@ -734,5 +901,7 @@
       "selected_source": null,
       "candidates": []
     }
-  ]
+  ],
+  "last_updated": "2026-09-19",
+  "sourcing_pass": 2
 }
