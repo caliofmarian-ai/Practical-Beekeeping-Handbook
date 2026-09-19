@@ -1,0 +1,942 @@
+{
+  "visual_system": "PBH-v1",
+  "status": "HOLD",
+  "svg_count": 256,
+  "changed_file_count": 0,
+  "registered_family_assets": 15,
+  "registered_families": 11,
+  "render_failures": [],
+  "edge_clipping_flags": [
+    {
+      "path": "assets/diagrams/wave-01/fig-23-6-local-vs-emergency-sting-signs.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01299
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-25-7-brood-pattern-interpretation.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01154
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-1-emergency-triage-sequence.svg",
+      "width": 520,
+      "edges": {
+        "bottom": 0.31346
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-1-emergency-triage-sequence.svg",
+      "width": 390,
+      "edges": {
+        "bottom": 0.31538
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-1-disease-investigation-framework.svg",
+      "width": 520,
+      "edges": {
+        "bottom": 0.31346
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-1-disease-investigation-framework.svg",
+      "width": 390,
+      "edges": {
+        "bottom": 0.31538
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-2-healthy-brood-reference.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01026
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-3-patchy-brood-multiple-causes.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.02051
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-3-patchy-brood-multiple-causes.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.02911
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-4-afb-suspicion-features.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01154
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-4-afb-suspicion-features.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01027
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-3-varroa-reproductive-cycle.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01199
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-7-varroa-tropilaelaps-comparison.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01026
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-7-varroa-tropilaelaps-comparison.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.0137
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-8-tropilaelaps-life-cycle.svg",
+      "width": 520,
+      "edges": {
+        "left": 0.21282,
+        "right": 0.01026
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-8-tropilaelaps-life-cycle.svg",
+      "width": 390,
+      "edges": {
+        "left": 0.21575,
+        "right": 0.01027
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01795
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.0137
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-10-varroa-control-categories.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.02051
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-13-pre-treatment-safety-check.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01346
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-3-adult-bee-feeding-site.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01026
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-3-adult-bee-feeding-site.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.0137
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-7-monitoring-methods-compared.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.28066
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-7-monitoring-methods-compared.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.29519
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-1-nosema-life-cycle.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01026
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-1-nosema-life-cycle.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01027
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-3-healthy-vs-affected-midgut.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01026
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-3-healthy-vs-affected-midgut.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.0137
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-13-afb-response-decision-flow.svg",
+      "width": 520,
+      "edges": {
+        "bottom": 0.31346
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-13-afb-response-decision-flow.svg",
+      "width": 390,
+      "edges": {
+        "bottom": 0.31538
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-2-healthy-brood-vs-early-afb.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01154
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-2-healthy-brood-vs-early-afb.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01027
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-3-disease-stage-cell-series.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01026
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-2-healthy-vs-efb-open-brood.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01026
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-2-healthy-vs-efb-open-brood.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.0137
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-3-varroa-dwv-interaction.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01027
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-6-drone-brood-removal-sequence.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.02436
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-02-1-beekeeping-development-timeline.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-02-1-beekeeping-development-timeline.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-2-pollination-network.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-4-ecosystem-service-pathway.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01887
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-4-ecosystem-service-pathway.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-1-hive-product-overview.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.02426
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-1-hive-product-overview.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01613
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.02156
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01613
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-05-2-evidence-based-decision-loop.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01213
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-05-2-evidence-based-decision-loop.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-05-3-traditional-vs-precision-tools.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-05-4-modern-risk-landscape.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-05-4-modern-risk-landscape.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01213
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-4-internal-systems.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01617
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-5-caste-anatomy-comparison.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01613
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-1-complete-development-cycle.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-1-complete-development-cycle.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01434
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-2-larval-growth-feeding.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-4-caste-development-comparison.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-4-caste-development-comparison.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01792
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-09-3-forager-resource-types.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-09-3-forager-resource-types.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01434
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-10-1-drone-identification.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01213
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-10-2-drone-development.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01617
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-10-2-drone-development.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01613
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-11-4-alarm-recruitment-signals.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-11-4-alarm-recruitment-signals.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01254
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-12-2-orientation-vs-robbing.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01348
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-12-2-orientation-vs-robbing.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-13-2-colony-superorganism.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01348
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-13-2-colony-superorganism.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01792
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-13-4-resource-flow-colony.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01348
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-13-4-resource-flow-colony.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-14-1-annual-colony-population-cycle.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-14-1-annual-colony-population-cycle.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-14-4-forage-brood-feedback.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-14-4-forage-brood-feedback.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01434
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-2-good-poor-flight-paths.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01213
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-2-good-poor-flight-paths.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-3-drainage-stand-placement.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01213
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-3-drainage-stand-placement.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01613
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-4-landscape-forage-mosaic.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01617
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-4-landscape-forage-mosaic.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01254
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-16-2-growth-plan.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-16-2-growth-plan.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-16-5-apiary-identification-system.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01078
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-16-5-apiary-identification-system.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-17-1-common-movable-frame-hives.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01213
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-17-2-horizontal-vs-vertical-expansion.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01617
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-18-1-exploded-modular-hive.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01348
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-20-4-clean-equipment-workflow.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01613
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-29-15-first-inspection.svg",
+      "width": 520,
+      "edges": {
+        "bottom": 0.51538
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-29-15-first-inspection.svg",
+      "width": 390,
+      "edges": {
+        "bottom": 0.51795
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-52-3-colony-preparation-timeline.svg",
+      "width": 520,
+      "edges": {
+        "right": 0.01213
+      }
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-52-3-colony-preparation-timeline.svg",
+      "width": 390,
+      "edges": {
+        "right": 0.01075
+      }
+    }
+  ],
+  "red_green_redundancy_failures": [],
+  "minimum_font_failures": [],
+  "family_marker_failures": [
+    {
+      "path": "assets/diagrams/wave-01/fig-39-2-healthy-brood-reference.svg",
+      "expected": [
+        "HEALTHY_BROOD_REFERENCE"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-4-varroa-on-adult-bees.svg",
+      "expected": [
+        "VARROA_CORE"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg",
+      "expected": [
+        "VARROA_CORE"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg",
+      "expected": [
+        "BEE_CASTE_ANATOMY"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-08-1-queen-anatomy-identification.svg",
+      "expected": [
+        "BEE_CASTE_ANATOMY"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-10-1-drone-identification.svg",
+      "expected": [
+        "BEE_CASTE_ANATOMY"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-28-5-queen-cell-types.svg",
+      "expected": [
+        "QUEEN_CELL_FAMILY"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-48-3-honey-refractometer-use.svg",
+      "expected": [
+        "HONEY_QUALITY_FAMILY"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-49-1-one-way-honey-room-workflow.svg",
+      "expected": [
+        "CLEAN_ZONE_SYSTEM"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-50-2-settling-tank-separation.svg",
+      "expected": [
+        "HONEY_QUALITY_FAMILY"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-54-1-wax-source-streams.svg",
+      "expected": [
+        "WAX_SOURCE_STREAM_MASTER"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-54-2-new-vs-old-brood-comb.svg",
+      "expected": [
+        "COMB_AGE_CUTAWAY_MASTER"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-58-1-nurse-bee-glands-royal-jelly.svg",
+      "expected": [
+        "NURSE_GLAND_ROYAL_JELLY_MASTER"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-59-1-worker-bee-sting-apparatus.svg",
+      "expected": [
+        "STING_VENOM_ANATOMY_MASTER"
+      ],
+      "actual": []
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-67-1-backward-forward-traceability.svg",
+      "expected": [
+        "TRACEABILITY_CHAIN"
+      ],
+      "actual": []
+    }
+  ],
+  "missing_registry_items": [
+    {
+      "family": "HEALTHY_BROOD_REFERENCE",
+      "missing_figure_id": "26.6"
+    },
+    {
+      "family": "HEALTHY_BROOD_REFERENCE",
+      "missing_figure_id": "28.3"
+    },
+    {
+      "family": "HEALTHY_BROOD_REFERENCE",
+      "missing_figure_id": "30.2"
+    },
+    {
+      "family": "HEALTHY_BROOD_REFERENCE",
+      "missing_figure_id": "31.2"
+    },
+    {
+      "family": "HEALTHY_BROOD_REFERENCE",
+      "missing_figure_id": "43.2"
+    },
+    {
+      "family": "HEALTHY_BROOD_REFERENCE",
+      "missing_figure_id": "44.2"
+    },
+    {
+      "family": "VARROA_CORE",
+      "missing_figure_id": "40.3"
+    },
+    {
+      "family": "VARROA_CORE",
+      "missing_figure_id": "40.7"
+    },
+    {
+      "family": "VARROA_CORE",
+      "missing_figure_id": "40.8"
+    },
+    {
+      "family": "VARROA_CORE",
+      "missing_figure_id": "41.3"
+    },
+    {
+      "family": "VARROA_CORE",
+      "missing_figure_id": "45.3"
+    },
+    {
+      "family": "VARROA_CORE",
+      "missing_figure_id": "46.6"
+    },
+    {
+      "family": "VARROA_CORE",
+      "missing_figure_id": "70.7"
+    },
+    {
+      "family": "QUEEN_CELL_FAMILY",
+      "missing_figure_id": "31.11"
+    },
+    {
+      "family": "QUEEN_CELL_FAMILY",
+      "missing_figure_id": "32.10"
+    },
+    {
+      "family": "QUEEN_CELL_FAMILY",
+      "missing_figure_id": "32.11"
+    },
+    {
+      "family": "HONEY_QUALITY_FAMILY",
+      "missing_figure_id": "47.3"
+    },
+    {
+      "family": "HONEY_QUALITY_FAMILY",
+      "missing_figure_id": "48.1"
+    },
+    {
+      "family": "HONEY_QUALITY_FAMILY",
+      "missing_figure_id": "48.4"
+    },
+    {
+      "family": "HONEY_QUALITY_FAMILY",
+      "missing_figure_id": "51.3"
+    },
+    {
+      "family": "HONEY_QUALITY_FAMILY",
+      "missing_figure_id": "52.9"
+    },
+    {
+      "family": "HONEY_QUALITY_FAMILY",
+      "missing_figure_id": "53.1"
+    },
+    {
+      "family": "HONEY_QUALITY_FAMILY",
+      "missing_figure_id": "58.8"
+    },
+    {
+      "family": "HONEY_QUALITY_FAMILY",
+      "missing_figure_id": "66.3"
+    },
+    {
+      "family": "CLEAN_ZONE_SYSTEM",
+      "missing_figure_id": "48.3"
+    },
+    {
+      "family": "CLEAN_ZONE_SYSTEM",
+      "missing_figure_id": "35.3"
+    },
+    {
+      "family": "CLEAN_ZONE_SYSTEM",
+      "missing_figure_id": "57.5"
+    },
+    {
+      "family": "TRACEABILITY_CHAIN",
+      "missing_figure_id": "36.6"
+    },
+    {
+      "family": "TRACEABILITY_CHAIN",
+      "missing_figure_id": "36.7"
+    },
+    {
+      "family": "TRACEABILITY_CHAIN",
+      "missing_figure_id": "67.12"
+    },
+    {
+      "family": "TRACEABILITY_CHAIN",
+      "missing_figure_id": "74.10"
+    },
+    {
+      "family": "WAX_SOURCE_STREAM_MASTER",
+      "missing_figure_id": "55.2"
+    },
+    {
+      "family": "COMB_AGE_CUTAWAY_MASTER",
+      "missing_figure_id": "55.3"
+    },
+    {
+      "family": "COMB_AGE_CUTAWAY_MASTER",
+      "missing_figure_id": "52.2"
+    },
+    {
+      "family": "NURSE_GLAND_ROYAL_JELLY_MASTER",
+      "missing_figure_id": "58.2"
+    },
+    {
+      "family": "NURSE_GLAND_ROYAL_JELLY_MASTER",
+      "missing_figure_id": "58.8"
+    },
+    {
+      "family": "STING_VENOM_ANATOMY_MASTER",
+      "missing_figure_id": "59.4"
+    },
+    {
+      "family": "STING_VENOM_ANATOMY_MASTER",
+      "missing_figure_id": "59.14"
+    }
+  ],
+  "pass03_clean": true
+}\n
