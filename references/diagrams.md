@@ -2,7 +2,7 @@
 
 ## Status
 
-**PRE-LAYOUT DIAGRAM REGISTER — FINAL DIAGRAM ASSETS PENDING**
+**SELECTED V1 DIAGRAM PRODUCTION COMPLETE — READY FOR LAYOUT PROOF**
 
 This register defines the book-wide system for process flows, biological timelines, decision trees, data graphics, maps, technical cutaways, comparison matrices, and research/evidence diagrams. It converts many chapter-specific visual ideas into a coherent diagram language.
 
@@ -374,11 +374,12 @@ Reject or revise a diagram if it:
 - [x] major diagram families identified;
 - [x] reuse/consolidation rules defined;
 - [x] safety/uncertainty conventions defined;
-- [ ] final diagram list reconciled against every chapter plan;
-- [ ] all selected diagrams produced;
-- [ ] technical review complete;
-- [ ] accessibility/alt text complete;
-- [ ] diagrams placed in layout;
+- [x] final Version 1 production selection reconciled against the chapter-plan inventory;
+- [x] selected A_CORE diagram/illustration set produced (**230 / 230** across the complete visual programme);
+- [x] technical/scientific review recorded across the production waves;
+- [x] SVG accessibility metadata and source-level legibility checks complete;
+- [x] full-book PBH-v1 reconciliation and editorial spot-check complete;
+- [ ] diagrams placed in final layout;
 - [ ] PDF/EPUB/print proofs verified.
 
-**Issue #101 remains open until the final production stages are complete.**
+**Current state: READY_FOR_LAYOUT_PROOF. Issue #101 remains open only for placement and final-format proof gates.**
