@@ -68,9 +68,9 @@
 <path d="M 1139.3 446.8 L 1128.8 476.2 L 1137.2 490.9" fill="none" stroke="#6D4C41" stroke-width="2.1" stroke-linecap="round"/>
 <path d="M 1156.1 446.8 L 1145.6 476.2 L 1154.0 490.9" fill="none" stroke="#6D4C41" stroke-width="2.1" stroke-linecap="round"/>
 <path d="M1140 395 C1160 350 1210 355 1190 400 C1170 420 1150 420 1140 395 Z" fill="#D8E6EC" stroke="#C62828" stroke-width="3"/>
-<text x="1070" y="650" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Deformed-wing phenotype can occur,</text>
+<text x="1070" y="650" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#1F2933" text-anchor="start">Deformed-wing phenotype can occur,</text>
 <text x="1070" y="674" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">with poor flight and early death.</text>
-<text x="1070" y="698" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Phenotype is severe but not universal.</text>
+<text x="1070" y="698" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#1F2933" text-anchor="start">Phenotype is severe but not universal.</text>
 <rect x="55" y="900" width="1290" height="90" rx="16" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Deformed wings strongly suggest Varroa-associated viral damage in the right context, but phenotype alone does not quantify current mite pressure or prove a single virus variant.</text>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Deformed wings strongly suggest Varroa-associated viral damage in the right context, but phenotype alone does not quantify current</tspan><tspan x="78" dy="22.0">mite pressure or prove a single virus variant.</tspan></text>
 </svg>

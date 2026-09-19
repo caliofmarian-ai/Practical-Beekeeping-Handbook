@@ -34,5 +34,5 @@
 <text x="760" y="807" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">• twisted, lengthwise or collapsed larvae may occur</text>
 <text x="760" y="834" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">• confirm with accepted diagnostic pathway when indicated</text>
 <rect x="55" y="900" width="1290" height="90" rx="16" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">EFB is not diagnosed by colour, odour or one larval posture alone. Chilling, sacbrood, nutrition, queen problems and other brood disease remain important differentials.</text>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">EFB is not diagnosed by colour, odour or one larval posture alone. Chilling, sacbrood, nutrition, queen problems and other brood</tspan><tspan x="78" dy="22.0">disease remain important differentials.</tspan></text>
 </svg>

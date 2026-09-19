@@ -52,10 +52,10 @@
 <text x="1015" y="320" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">carry eggs toward median oviduct</text>
 <text x="1015" y="345" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start"></text>
 <text x="1015" y="370" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Spermatheca</text>
-<text x="1015" y="395" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">stores and nourishes sperm from mating flights</text>
+<text x="1015" y="395" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#1F2933" text-anchor="start">stores and nourishes sperm from mating flights</text>
 <text x="1015" y="420" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start"></text>
 <text x="1015" y="445" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Valve/duct</text>
-<text x="1015" y="470" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">allows sperm release to fertilise selected eggs</text>
+<text x="1015" y="470" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#1F2933" text-anchor="start">allows sperm release to fertilise selected eggs</text>
 <rect x="55" y="885" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
 <text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The queen can lay fertilised eggs that develop as females (workers/queens) or unfertilised eggs that develop as drones.</text>
 </svg>

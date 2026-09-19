@@ -53,8 +53,8 @@
 <path d="M 1211.0 404.4 C 1238.3 359.55, 1302.65 381.0, 1289.0 427.8 C 1277.3 464.85, 1226.6 470.7, 1211.0 437.55" fill="none" stroke="#E2DDD0" stroke-width="29.25" stroke-linecap="round"/>
 <path d="M 1211.0 404.4 C 1238.3 359.55, 1302.65 381.0, 1289.0 427.8 C 1277.3 464.85, 1226.6 470.7, 1211.0 437.55" fill="none" stroke="#FFFDF4" stroke-width="21.45" stroke-linecap="round"/>
 <text x="1250" y="600" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#2E7D32" text-anchor="middle">relative size ↑</text>
-<text x="1165" y="650" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">food quantity/composition</text>
-<text x="1165" y="670" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="start">change with age and caste</text>
+<text x="1165" y="650" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="start">food quantity/composition</text>
+<text x="1165" y="670" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#52606D" text-anchor="start">change with age and caste</text>
 <rect x="55" y="885" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
-<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Healthy larvae are pearly white, moist/glistening and curled in a C shape on the cell floor. Exact age should not be inferred from size alone without context.</text>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Healthy larvae are pearly white, moist/glistening and curled in a C shape on the cell floor. Exact age should not be inferred from size alone</tspan><tspan x="78" dy="20.7">without context.</tspan></text>
 </svg>

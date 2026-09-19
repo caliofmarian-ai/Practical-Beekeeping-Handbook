@@ -36,5 +36,5 @@
 <line x1="300" y1="650" x2="220" y2="300" stroke="#1565C0" stroke-width="3" marker-end="url(#ab)"/>
 <text x="700" y="495" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1F2933" text-anchor="middle">feedback unfolds over days to weeks</text>
 <rect x="55" y="890" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="919" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Feeding or forage improvement cannot create an instant field force: eggs and larvae require development time before new adults become nurses and later foragers.</text>
+<text x="78" y="919" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Feeding or forage improvement cannot create an instant field force: eggs and larvae require development time before new adults become</tspan><tspan x="78" dy="20.7">nurses and later foragers.</tspan></text>
 </svg>

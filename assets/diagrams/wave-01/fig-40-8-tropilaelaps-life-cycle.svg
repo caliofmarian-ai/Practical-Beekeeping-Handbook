@@ -144,7 +144,7 @@
 <line x1="1262.8" y1="194.3" x2="1263.5" y2="191.6" stroke="#603226" stroke-width="0.34500000000000003"/>
 <line x1="1266.2" y1="197.7" x2="1267.5" y2="195.6" stroke="#603226" stroke-width="0.34500000000000003"/>
 <line x1="1268.4" y1="203.3" x2="1270.3" y2="202.1" stroke="#603226" stroke-width="0.34500000000000003"/>
-<text x="1050" y="325" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">Adult mites emerge as the host bee emerges.</text>
+<text x="1050" y="325" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#1F2933" text-anchor="start">Adult mites emerge as the host bee emerges.</text>
 <rect x="680" y="570" width="290" height="220" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
 <text x="698" y="601" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">5 — Brief dispersal</text>
 <ellipse cx="745.8" cy="670" rx="19.2" ry="17.6" fill="#D4A017" stroke="#6D4C41" stroke-width="0.96"/>
@@ -221,5 +221,5 @@
 <line x1="680" y1="650" x2="620" y2="650" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
 <line x1="330" y1="650" x2="205" y2="360" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
 <rect x="55" y="890" width="1290" height="90" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="920" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Recent review evidence places the adult-bee dispersal period at roughly 1–2 days in typical conditions. Do not depict Tropilaelaps as completely incapable of short survival or dispersal outside brood.</text>
+<text x="78" y="920" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Recent review evidence places the adult-bee dispersal period at roughly 1–2 days in typical conditions. Do not depict Tropilaelaps as</tspan><tspan x="78" dy="22.0">completely incapable of short survival or dispersal outside brood.</tspan></text>
 </svg>

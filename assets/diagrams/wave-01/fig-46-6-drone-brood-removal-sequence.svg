@@ -54,13 +54,13 @@
 <text x="873" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#EF6C00" text-anchor="start">4 — Handle hygienically</text>
 <rect x="910" y="300" width="130" height="170" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="4"/>
 <path d="M935 380 L965 410 L1020 345" fill="none" stroke="#2E7D32" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="870" y="605" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Freeze/process/dispose according to the management plan and local rules.</text>
+<text x="870" y="605" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#1F2933" text-anchor="start">Freeze/process/dispose according to the management plan and local rules.</text>
 <rect x="1125" y="155" width="240" height="650" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="1143" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">5 — Keep monitoring</text>
+<text x="1143" y="186" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#1565C0" text-anchor="start">5 — Keep monitoring</text>
 <circle cx="1245" cy="390" r="80" fill="#E8F5E9" stroke="#2E7D32" stroke-width="4"/>
 <text x="1245" y="380" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">MONITOR</text>
 <text x="1245" y="410" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">AGAIN</text>
-<text x="1140" y="605" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Quantify Varroa; repeat only when biologically appropriate.</text>
+<text x="1140" y="605" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1140" dy="0">Quantify Varroa; repeat</tspan><tspan x="1140" dy="16.8">only when biologically</tspan><tspan x="1140" dy="16.8">appropriate.</tspan></text>
 <rect x="55" y="885" width="1290" height="90" rx="16" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Critical failure mode: if intentionally trapped infested drone brood is left to emerge, the method can add mites back to the colony rather than remove them.</text>
+<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Critical failure mode: if intentionally trapped infested drone brood is left to emerge, the method can add mites back to the colony</tspan><tspan x="78" dy="22.0">rather than remove them.</tspan></text>
 </svg>

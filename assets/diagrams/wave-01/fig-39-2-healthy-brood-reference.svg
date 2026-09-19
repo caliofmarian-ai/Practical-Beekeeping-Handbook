@@ -32,7 +32,7 @@
 <text x="865" y="448" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#52606D" text-anchor="middle">larger C-shaped larva before capping</text>
 <polygon points="1272.9,285.0 1272.9,375.0 1195.0,420.0 1117.1,375.0 1117.1,285.0 1195.0,240.0" fill="#B98755" stroke="#8A5A35" stroke-width="2"/>
 <ellipse cx="1189" cy="323" rx="13" ry="7" fill="#D7AB7A" opacity="0.45"/>
-<text x="1195" y="448" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#52606D" text-anchor="middle">medium-brown, slightly convex, unpunctured</text>
+<text x="1195" y="448" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" fill="#52606D" text-anchor="middle">medium-brown, slightly convex, unpunctured</text>
 <polygon points="447.9,675.0 447.9,765.0 370.0,810.0 292.1,765.0 292.1,675.0 370.0,630.0" fill="#F0C55F" stroke="#8D6E63" stroke-width="4"/>
 <circle cx="345" cy="705" r="20" fill="#C7701A" opacity="0.92"/>
 <circle cx="385" cy="700" r="20" fill="#E3A52F" opacity="0.92"/>
@@ -115,5 +115,5 @@
 <ellipse cx="1152.6307065990918" cy="813.0" rx="13" ry="7" fill="#D7AB7A" opacity="0.45"/>
 <text x="1030" y="840" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#52606D" text-anchor="middle">normal brood can contain a few non-brood cells</text>
 <rect x="55" y="900" width="1290" height="90" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Healthy larvae are pearly white and C-shaped; healthy worker-brood cappings are generally coherent, medium brown, slightly convex and unpunctured.</text>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Healthy larvae are pearly white and C-shaped; healthy worker-brood cappings are generally coherent, medium brown, slightly</tspan><tspan x="78" dy="22.0">convex and unpunctured.</tspan></text>
 </svg>

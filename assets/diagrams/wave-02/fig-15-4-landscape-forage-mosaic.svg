@@ -213,5 +213,5 @@
 <path d="M700 555 Q495.0 507.5 290 620" fill="none" stroke="#1565C0" stroke-width="3" stroke-dasharray="8 7" marker-end="url(#ab)"/>
 <path d="M700 555 Q895.0 477.5 1090 560" fill="none" stroke="#1565C0" stroke-width="3" stroke-dasharray="8 7" marker-end="url(#ab)"/>
 <rect x="55" y="875" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
-<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Forage value changes through the year. Record bloom timing and hive response rather than treating a mapped circle around the apiary as uniformly available forage.</text>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Forage value changes through the year. Record bloom timing and hive response rather than treating a mapped circle around the apiary as</tspan><tspan x="78" dy="20.7">uniformly available forage.</tspan></text>
 </svg>

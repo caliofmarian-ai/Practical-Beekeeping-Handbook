@@ -52,5 +52,5 @@
 <text x="1150" y="371" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">nest sealing</text>
 <text x="1150" y="405" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#1F2933" text-anchor="start">temperature control</text>
 <rect x="55" y="890" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="919" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Resource flow is not linear inventory handling: the same nectar/water/pollen pool is continually redistributed among adult maintenance, brood, storage and processing.</text>
+<text x="78" y="919" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Resource flow is not linear inventory handling: the same nectar/water/pollen pool is continually redistributed among adult maintenance,</tspan><tspan x="78" dy="20.7">brood, storage and processing.</tspan></text>
 </svg>

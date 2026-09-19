@@ -38,5 +38,5 @@
 <text x="260" y="820" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">cost, time, cash flow, skill</text>
 <line x1="260" y1="700" x2="700" y2="500" stroke="#B0BEC5" stroke-width="3"/>
 <rect x="55" y="900" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="929" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">A modern management plan should not optimise only honey yield. Colony health, food compliance, environmental risk and business resilience all constrain decisions.</text>
+<text x="78" y="929" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">A modern management plan should not optimise only honey yield. Colony health, food compliance, environmental risk and business</tspan><tspan x="78" dy="20.7">resilience all constrain decisions.</tspan></text>
 </svg>

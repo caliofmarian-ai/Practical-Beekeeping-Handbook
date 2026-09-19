@@ -9,7 +9,7 @@
 </defs>
 <rect width="1400" height="1000" fill="#FFFFFF"/>
 <text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 7.4 — Caste Development Comparison</text>
-<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Developmental nutrition determines queen versus worker among fertilised female eggs; drones are haploid males from unfertilised eggs.</text>
+<text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="400" fill="#52606D" text-anchor="start"><tspan x="55" dy="0">Developmental nutrition determines queen versus worker among fertilised female eggs; drones are haploid males from unfertilised</tspan><tspan x="55" dy="22.0">eggs.</tspan></text>
 <rect x="60" y="170" width="220" height="70" rx="10" fill="#F5F5F5" stroke="#757575" stroke-width="2"/>
 <text x="170.0" y="212" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#1F2933" text-anchor="middle">Caste</text>
 <rect x="300" y="170" width="300" height="70" rx="10" fill="#F5F5F5" stroke="#757575" stroke-width="2"/>
@@ -43,5 +43,5 @@
 <rect x="980" y="640" width="300" height="145" rx="12" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2"/>
 <text x="1130.0" y="716" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="middle">~24 days</text>
 <rect x="55" y="880" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="909" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Approximate development times are useful for management but should not be treated as a rigid clock. Colony temperature and biological variation can shift timing.</text>
+<text x="78" y="909" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Approximate development times are useful for management but should not be treated as a rigid clock. Colony temperature and biological</tspan><tspan x="78" dy="20.7">variation can shift timing.</tspan></text>
 </svg>

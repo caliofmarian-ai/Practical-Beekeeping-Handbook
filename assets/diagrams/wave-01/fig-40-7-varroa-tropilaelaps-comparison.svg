@@ -64,5 +64,5 @@
 <text x="765" y="773" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="500" fill="#1F2933" text-anchor="start">narrow, elongated, reddish-brown</text>
 <text x="765" y="801" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="500" fill="#1F2933" text-anchor="start">dense short setae; moves rapidly on comb</text>
 <rect x="55" y="885" width="1290" height="90" rx="16" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Relative proportions are the key field cue: Varroa is wider than long; Tropilaelaps is longer than wide. Morphology alone may be insufficient for species-level Tropilaelaps identification.</text>
+<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Relative proportions are the key field cue: Varroa is wider than long; Tropilaelaps is longer than wide. Morphology alone may be</tspan><tspan x="78" dy="22.0">insufficient for species-level Tropilaelaps identification.</tspan></text>
 </svg>

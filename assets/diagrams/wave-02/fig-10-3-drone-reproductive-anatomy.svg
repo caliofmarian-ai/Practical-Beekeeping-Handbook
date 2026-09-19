@@ -44,7 +44,7 @@
 <text x="1045" y="436" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Ejaculatory duct + endophallus</text>
 <text x="1045" y="460" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">transfer semen during mating</text>
 <text x="1045" y="484" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start"></text>
-<text x="1045" y="508" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Drone dies after successful copulation.</text>
+<text x="1045" y="508" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">Drone dies after successful copulation.</text>
 <rect x="55" y="885" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The endophallus is normally inverted inside the abdomen and everts during mating. This figure is educational, not a procedural insemination guide.</text>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">The endophallus is normally inverted inside the abdomen and everts during mating. This figure is educational, not a procedural insemination</tspan><tspan x="78" dy="20.7">guide.</tspan></text>
 </svg>

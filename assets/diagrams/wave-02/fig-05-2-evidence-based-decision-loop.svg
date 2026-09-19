@@ -35,5 +35,5 @@
 <text x="700" y="502" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#757575" text-anchor="middle">EVIDENCE</text>
 <text x="700" y="529" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="middle">not habit alone</text>
 <rect x="55" y="875" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
-<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Examples: mite count before/after control, hive weight before/after feeding, colony response after requeening. Verification prevents repeated ineffective action.</text>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Examples: mite count before/after control, hive weight before/after feeding, colony response after requeening. Verification prevents repeated</tspan><tspan x="78" dy="20.7">ineffective action.</tspan></text>
 </svg>

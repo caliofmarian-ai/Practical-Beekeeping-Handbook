@@ -1,0 +1,1485 @@
+{
+  "changed_files": 151,
+  "change_counts": {
+    "portrait-title": 76,
+    "wrap": 75,
+    "internal-size": 39,
+    "internal-wrap": 18
+  },
+  "changes": {
+    "assets/diagrams/wave-01/fig-21-1-protective-clothing-system.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Protection works as an overlapping system: gaps between components matter as much as the",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-21-2-veil-clearance.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-21-3-clothing-selection-by-task.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-21-4-pre-inspection-ppe-check.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-22-1-smoker-anatomy.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "A smoker is a controlled airflow/combustion tool; maintenance prevents hot smoke, flame an",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-22-3-smoker-fuels.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-22-4-smoker-lighting-sequence.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-22-6-hot-smoker-fire-safety-zone.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-23-1-apiary-hazard-map.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-23-10-smoker-vegetation-fire-safety.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-23-11-treatment-ppe-label-discipline.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-23-2-risk-assessment-sequence.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-23-3-hierarchy-of-controls.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-23-6-local-vs-emergency-sting-signs.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Recognise escalation cues without attempting to diagnose anaphylaxis from one isolated sig",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-23-9-heat-cold-dehydration-prevention.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-24-1-starting-units-compared.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-24-10-early-success-warning-signs.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-24-11-new-colony-biosecurity.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-24-2-prepared-receiving-hive.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-24-7-swarm-installation.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-24-9-first-inspection-decision-timeline.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-25-1-inspection-depth-ladder.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-25-11-swarm-preparation-evidence.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Interpret queen-cell stage together with congestion and colony condition; an empty queen c",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-25-13-inspection-record-follow-up-loop.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-25-3-inspection-questions-before-opening.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-25-5-queenright-evidence.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Recent brood evidence can answer many queen-status questions without disrupting the colony",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-25-7-brood-pattern-interpretation.svg": [
+      {
+        "kind": "wrap",
+        "text": "Brood pattern is evidence, not a diagnosis. A small number of gaps can be normal; heavy ir",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-33-12-emergency-box-separation.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-33-14-post-move-inspection.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-33-4-entrance-closure.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-33-6-vehicle-loading.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-33-7-manual-handling.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-38-1-emergency-triage-sequence.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-38-10-recovery-monitoring-timeline.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Recovery must be judged on a biologically meaningful timescale rather than immediately aft",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-38-2-starvation-versus-accessible-stores.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-38-4-transport-overheating.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-38-6-storm-damaged-hive-recovery.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-38-7-sudden-mortality-evidence-map.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-38-8-suspected-disease-biosecurity-zone.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Work from clean/healthy units toward the suspect unit, then stop contaminated movement out",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-39-1-disease-investigation-framework.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-39-13-differential-diagnosis-matrix.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-39-2-healthy-brood-reference.svg": [
+      {
+        "kind": "internal-size",
+        "text": "medium-brown, slightly convex, unpunctured",
+        "from": 16.0,
+        "to": 12
+      },
+      {
+        "kind": "wrap",
+        "text": "Healthy larvae are pearly white and C-shaped; healthy worker-brood cappings are generally ",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-39-3-patchy-brood-multiple-causes.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Varroa-associated loss",
+        "from": 21.0,
+        "to": 15
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "Quantify mites and assess virus context.",
+        "lines": 2,
+        "font": 14
+      },
+      {
+        "kind": "wrap",
+        "text": "Do not diagnose from a patchy frame alone. Use cell-level morphology, colony history, Varr",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-39-4-afb-suspicion-features.svg": [
+      {
+        "kind": "internal-size",
+        "text": "ropiness may strengthen suspicion; a negative result does not exclude AFB",
+        "from": 16.0,
+        "to": 15
+      },
+      {
+        "kind": "wrap",
+        "text": "If AFB is suspected, stop movement as required locally, preserve evidence and follow the c",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-40-13-monitoring-method-matches-question.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-40-3-varroa-reproductive-cycle.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Adult bee emerges with the",
+        "from": 16.0,
+        "to": 14
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "foundress and mature daughters;",
+        "lines": 2,
+        "font": 14
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "mites return to adult-bee dispersal.",
+        "lines": 2,
+        "font": 14
+      },
+      {
+        "kind": "wrap",
+        "text": "Varroa reproduces inside capped brood. Worker brood commonly yields fewer mature daughters",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-40-4-varroa-on-adult-bees.svg": [
+      {
+        "kind": "internal-size",
+        "text": "for metabolism, immunity and detoxification.",
+        "from": 17.0,
+        "to": 16
+      },
+      {
+        "kind": "wrap",
+        "text": "Varroa often shelters between abdominal sclerites or body regions. Absence of visible mite",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-40-7-varroa-tropilaelaps-comparison.svg": [
+      {
+        "kind": "wrap",
+        "text": "Relative proportions are the key field cue: Varroa is wider than long; Tropilaelaps is lon",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-40-8-tropilaelaps-life-cycle.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Adult mites emerge as the host bee emerges.",
+        "from": 14.0,
+        "to": 12
+      },
+      {
+        "kind": "wrap",
+        "text": "Recent review evidence places the adult-bee dispersal period at roughly 1\u20132 days in typica",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg": [
+      {
+        "kind": "internal-size",
+        "text": "E \u2014 Adult emergence",
+        "from": 20.0,
+        "to": 17
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "Foundress + mature daughters leave with the bee.",
+        "lines": 3,
+        "font": 14
+      },
+      {
+        "kind": "wrap",
+        "text": "The sequence is biologically ordered but not a rigid clock. Worker-brood cells usually per",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-41-10-varroa-control-categories.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Authorised synthetic acaricides",
+        "from": 20.0,
+        "to": 17
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "use only current labelled products and resistance-aware planning",
+        "lines": 2,
+        "font": 14.0
+      },
+      {
+        "kind": "internal-size",
+        "text": "Authorised organic-acid / botanical products",
+        "from": 20.0,
+        "to": 12
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "temperature, brood and label constraints matter",
+        "lines": 2,
+        "font": 14.0
+      },
+      {
+        "kind": "wrap",
+        "text": "Exact products and action thresholds vary by jurisdiction, season and colony context. The ",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-41-11-treatment-failure-versus-reinvasion.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-41-13-pre-treatment-safety-check.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-41-3-adult-bee-feeding-site.svg": [
+      {
+        "kind": "wrap",
+        "text": "Diagram is a teaching cutaway, not a literal histological section. The key concept is that",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-41-6-adult-bee-wash-procedure.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-41-7-monitoring-methods-compared.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-41-9-thresholds-contextual.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "A monitoring number becomes a management decision only after the surrounding biological an",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-42-1-nosema-life-cycle.svg": [
+      {
+        "kind": "internal-size",
+        "text": "3 \u2014 Sporoplasm enters cell",
+        "from": 20.0,
+        "to": 16
+      },
+      {
+        "kind": "internal-size",
+        "text": "4 \u2014 Merogony / sporogony",
+        "from": 20.0,
+        "to": 17
+      },
+      {
+        "kind": "wrap",
+        "text": "Microscopy can detect Nosema-like spores, but routine light microscopy does not reliably d",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-42-11-nosema-management-framework.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-42-3-healthy-vs-affected-midgut.svg": [
+      {
+        "kind": "wrap",
+        "text": "Field signs are non-specific. Diagnosis should use appropriate sampling, microscopy and/or",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-42-4-dysentery-not-diagnosis.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-42-6-nosema-microscopy-workflow.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-42-8-microscopy-vs-pcr.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-42-9-positive-result-not-equal-cause.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-43-10-cleaning-versus-decontamination.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Cleaning removes material. Decontamination/control addresses the biological hazard under a",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-43-11-antibiotics-do-not-eradicate-afb.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-43-12-afb-trace-back-trace-forward.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "An AFB investigation follows both what entered the affected operation and what may have le",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-43-13-afb-response-decision-flow.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-43-2-healthy-brood-vs-early-afb.svg": [
+      {
+        "kind": "wrap",
+        "text": "Pattern supports investigation but does not prove AFB. Differentials include EFB, sacbrood",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-43-3-disease-stage-cell-series.svg": [
+      {
+        "kind": "internal-size",
+        "text": "D \u2014 Dry adherent scale",
+        "from": 21.0,
+        "to": 19
+      },
+      {
+        "kind": "wrap",
+        "text": "Use this series to recognise suspicious stages, not as a stand-alone diagnosis. Suspected ",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-43-6-afb-differential-diagnosis.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Brood abnormalities overlap; compare developmental stage and remains, then use appropriate",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-43-9-afb-laboratory-confirmation-pathways.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-44-10-efb-follow-up-after-recovery.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-44-11-efb-apiary-contact-map.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Map operational connections around an index EFB case so exposed colonies can be prioritise",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-44-2-healthy-vs-efb-open-brood.svg": [
+      {
+        "kind": "wrap",
+        "text": "EFB is not diagnosed by colour, odour or one larval posture alone. Chilling, sacbrood, nut",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-44-4-efb-versus-afb.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-44-5-efb-differential-diagnosis.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-44-6-efb-disease-expression-colony-stress.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-44-8-efb-sampling-diagnostic-pathway.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-44-9-shook-swarm-principle.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-45-1-infection-versus-clinical-disease.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-45-10-pooled-vs-individual-sampling.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-45-11-viral-differential-diagnosis.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-45-12-virus-management-framework.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-45-2-viral-transmission-routes.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      },
+      {
+        "kind": "wrap",
+        "text": "Honey-bee viruses can move by several pathways; the importance of each pathway differs by",
+        "lines": 2,
+        "font": 22.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-45-3-varroa-dwv-interaction.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Deformed-wing phenotype can occur,",
+        "from": 16.0,
+        "to": 13
+      },
+      {
+        "kind": "internal-size",
+        "text": "Phenotype is severe but not universal.",
+        "from": 16.0,
+        "to": 13
+      },
+      {
+        "kind": "wrap",
+        "text": "Deformed wings strongly suggest Varroa-associated viral damage in the right context, but p",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-45-9-rt-pcr-workflow.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-46-1-honey-bee-ipm-cycle.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-46-10-treatment-failure-investigation.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-46-12-established-vs-exotic-regulated-pest.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-46-3-surveillance-versus-monitoring.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-46-4-ipm-thresholds-contextual.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-01/fig-46-6-drone-brood-removal-sequence.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Freeze/process/dispose according to the management plan and local rules.",
+        "from": 15.0,
+        "to": 12
+      },
+      {
+        "kind": "internal-size",
+        "text": "5 \u2014 Keep monitoring",
+        "from": 20.0,
+        "to": 18
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "Quantify Varroa; repeat only when biologically appropriate.",
+        "lines": 3,
+        "font": 14
+      },
+      {
+        "kind": "wrap",
+        "text": "Critical failure mode: if intentionally trapped infested drone brood is left to emerge, th",
+        "lines": 2,
+        "font": 18.0
+      }
+    ],
+    "assets/diagrams/wave-01/fig-46-9-mode-of-action-resistance-selection.svg": [
+      {
+        "kind": "portrait-title",
+        "from": 38.0,
+        "to": 34
+      }
+    ],
+    "assets/diagrams/wave-02/fig-01-2-what-a-colony-contains.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Colony = queen, workers, drones when present, brood and stores.",
+        "from": 16.0,
+        "to": 15
+      }
+    ],
+    "assets/diagrams/wave-02/fig-01-4-beginner-decision-path.svg": [
+      {
+        "kind": "internal-size",
+        "text": "traceable source and health baseline",
+        "from": 15.0,
+        "to": 14
+      },
+      {
+        "kind": "internal-size",
+        "text": "actions, results, treatments, follow-up",
+        "from": 15.0,
+        "to": 14
+      }
+    ],
+    "assets/diagrams/wave-02/fig-02-1-beekeeping-development-timeline.svg": [
+      {
+        "kind": "wrap",
+        "text": "Historical practices should be interpreted in their regional context. The sequence does no",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-02-4-global-traditions.svg": [
+      {
+        "kind": "internal-wrap",
+        "text": "honey hunting, stingless-bee and later imported systems",
+        "lines": 2,
+        "font": 14.0
+      },
+      {
+        "kind": "wrap",
+        "text": "This overview is deliberately non-linear. Historical hive forms were shaped by local mater",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-03-2-pollination-network.svg": [
+      {
+        "kind": "wrap",
+        "text": "Managed honey bees can be valuable crop pollinators, but pollinator abundance is not the s",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-03-3-managed-vs-wild-pollinators.svg": [
+      {
+        "kind": "wrap",
+        "text": "A good pollinator strategy can support both responsible managed-bee husbandry and wild-pol",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-03-4-ecosystem-service-pathway.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Food / ecological outcomes",
+        "from": 20.0,
+        "to": 13
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "yield, regeneration, wildlife resources",
+        "lines": 2,
+        "font": 14.0
+      },
+      {
+        "kind": "wrap",
+        "text": "Do not convert this pathway into a universal percentage of food production. Pollinator dep",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-04-1-hive-product-overview.svg": [
+      {
+        "kind": "internal-wrap",
+        "text": "plant pollen carried by foragers; bee bread is stored/processed pollen",
+        "lines": 3,
+        "font": 14
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "venom-gland/sting apparatus product; high allergy hazard",
+        "lines": 2,
+        "font": 14
+      },
+      {
+        "kind": "wrap",
+        "text": "Biological activity reported in research does not automatically authorise a consumer healt",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg": [
+      {
+        "kind": "internal-wrap",
+        "text": "worker wax glands \u2192 comb construction",
+        "lines": 2,
+        "font": 13.0
+      },
+      {
+        "kind": "internal-size",
+        "text": "plant resin \u2192 cracks and nest surfaces",
+        "from": 13.0,
+        "to": 12
+      },
+      {
+        "kind": "internal-wrap",
+        "text": "venom gland + sting apparatus, not comb storage",
+        "lines": 3,
+        "font": 13.0
+      },
+      {
+        "kind": "wrap",
+        "text": "The diagram is functional, not anatomical scale. It prevents a common misunderstanding: pr",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-04-4-from-colony-to-market.svg": [
+      {
+        "kind": "internal-size",
+        "text": "origin/product claims supported and legally permitted",
+        "from": 15.0,
+        "to": 13
+      }
+    ],
+    "assets/diagrams/wave-02/fig-05-2-evidence-based-decision-loop.svg": [
+      {
+        "kind": "wrap",
+        "text": "Examples: mite count before/after control, hive weight before/after feeding, colony respon",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-05-3-traditional-vs-precision-tools.svg": [
+      {
+        "kind": "wrap",
+        "text": "Use technology as an additional observation layer. Validate unusual sensor readings with c",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-05-4-modern-risk-landscape.svg": [
+      {
+        "kind": "wrap",
+        "text": "A modern management plan should not optimise only honey yield. Colony health, food complia",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg": [
+      {
+        "kind": "wrap",
+        "text": "External structures are linked to function: sensing and feeding at the head, locomotion at",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-06-4-internal-systems.svg": [
+      {
+        "kind": "wrap",
+        "text": "The crop temporarily carries nectar/water; digestion and absorption occur mainly in the mi",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-06-5-caste-anatomy-comparison.svg": [
+      {
+        "kind": "internal-size",
+        "text": "\u2022 no worker-type sting; male reproductive tract",
+        "from": 16.0,
+        "to": 15
+      },
+      {
+        "kind": "wrap",
+        "text": "Caste differences arise from sex determination and developmental/nutritional pathways. Que",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-07-1-complete-development-cycle.svg": [
+      {
+        "kind": "wrap",
+        "text": "Egg stage is about three days in all castes. Queen development is fastest, worker intermed",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-07-2-larval-growth-feeding.svg": [
+      {
+        "kind": "internal-size",
+        "text": "food quantity/composition",
+        "from": 14.0,
+        "to": 13
+      },
+      {
+        "kind": "internal-size",
+        "text": "change with age and caste",
+        "from": 14.0,
+        "to": 12
+      },
+      {
+        "kind": "wrap",
+        "text": "Healthy larvae are pearly white, moist/glistening and curled in a C shape on the cell floo",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-07-4-caste-development-comparison.svg": [
+      {
+        "kind": "wrap",
+        "text": "Developmental nutrition determines queen versus worker among fertilised female eggs; drone",
+        "lines": 2,
+        "font": 18.0
+      },
+      {
+        "kind": "wrap",
+        "text": "Approximate development times are useful for management but should not be treated as a rig",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-08-1-queen-anatomy-identification.svg": [
+      {
+        "kind": "internal-wrap",
+        "text": "Avoid grabbing abdomen; protect the queen during inspection.",
+        "lines": 2,
+        "font": 14
+      },
+      {
+        "kind": "wrap",
+        "text": "Queen appearance varies with age, mating status and egg-laying state. A newly emerged virg",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-08-2-queen-reproductive-system.svg": [
+      {
+        "kind": "internal-size",
+        "text": "stores and nourishes sperm from mating flights",
+        "from": 16.0,
+        "to": 13
+      },
+      {
+        "kind": "internal-size",
+        "text": "allows sperm release to fertilise selected eggs",
+        "from": 16.0,
+        "to": 13
+      }
+    ],
+    "assets/diagrams/wave-02/fig-09-1-worker-task-progression.svg": [
+      {
+        "kind": "internal-size",
+        "text": "nectar, pollen, water, resin",
+        "from": 14.0,
+        "to": 13
+      }
+    ],
+    "assets/diagrams/wave-02/fig-09-2-worker-specialised-structures.svg": [
+      {
+        "kind": "wrap",
+        "text": "Structure size and gland development change with worker age and task state. Insets are mag",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-09-3-forager-resource-types.svg": [
+      {
+        "kind": "wrap",
+        "text": "Nectar and water are transported internally in the crop. Pollen and resin are carried exte",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-10-1-drone-identification.svg": [
+      {
+        "kind": "wrap",
+        "text": "Drones are not 'useless': their primary evolutionary role is mating and gene flow. Their a",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-10-2-drone-development.svg": [
+      {
+        "kind": "wrap",
+        "text": "Cell/capping appearance supports caste identification, but exact development timing varies",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-10-3-drone-reproductive-anatomy.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Drone dies after successful copulation.",
+        "from": 15.0,
+        "to": 14
+      },
+      {
+        "kind": "wrap",
+        "text": "The endophallus is normally inverted inside the abdomen and everts during mating. This fig",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-11-2-distance-dance-tempo.svg": [
+      {
+        "kind": "internal-size",
+        "text": "longer waggle / slower repetition tendency \u2192 greater distance",
+        "from": 14.0,
+        "to": 12
+      },
+      {
+        "kind": "internal-size",
+        "text": "longer waggle / slower repetition tendency \u2192 greater distance",
+        "from": 14.0,
+        "to": 12
+      }
+    ],
+    "assets/diagrams/wave-02/fig-11-4-alarm-recruitment-signals.svg": [
+      {
+        "kind": "wrap",
+        "text": "Alarm and food recruitment are context-dependent communication systems. Do not interpret o",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-11-5-swarm-nest-site-communication.svg": [
+      {
+        "kind": "internal-wrap",
+        "text": "swarm moves after consensus process",
+        "lines": 2,
+        "font": 14.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-12-2-orientation-vs-robbing.svg": [
+      {
+        "kind": "wrap",
+        "text": "Do not close a colony completely without considering ventilation. First remove exposed fee",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-13-1-brood-nest-organisation.svg": [
+      {
+        "kind": "wrap",
+        "text": "Use the pattern as a reading aid, not a geometric law. A colony can be healthy with stores",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-13-2-colony-superorganism.svg": [
+      {
+        "kind": "wrap",
+        "text": "The queen is not a human-style ruler. Colony organisation is distributed through signals, ",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-13-4-resource-flow-colony.svg": [
+      {
+        "kind": "wrap",
+        "text": "Resource flow is not linear inventory handling: the same nectar/water/pollen pool is conti",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-14-1-annual-colony-population-cycle.svg": [
+      {
+        "kind": "wrap",
+        "text": "The relative timing of brood, forage and adult population is the management signal. Replac",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-14-4-forage-brood-feedback.svg": [
+      {
+        "kind": "wrap",
+        "text": "Feeding or forage improvement cannot create an instant field force: eggs and larvae requir",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-15-2-good-poor-flight-paths.svg": [
+      {
+        "kind": "internal-size",
+        "text": "entrance faces away from public movement; barrier encourages flight to rise",
+        "from": 15.0,
+        "to": 14
+      },
+      {
+        "kind": "wrap",
+        "text": "Also consider legal permission, neighbours, livestock, vehicle access and future changes a",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-15-3-drainage-stand-placement.svg": [
+      {
+        "kind": "wrap",
+        "text": "Flood rescue never justifies entering unsafe water, unstable ground or electrical hazards.",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-15-4-landscape-forage-mosaic.svg": [
+      {
+        "kind": "wrap",
+        "text": "Forage value changes through the year. Record bloom timing and hive response rather than t",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-16-1-small-apiary-layout.svg": [
+      {
+        "kind": "wrap",
+        "text": "Preserve safe working clearance and a route for emergency access. Entrance orientation and",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-16-2-growth-plan.svg": [
+      {
+        "kind": "wrap",
+        "text": "Growth constraints often appear first in time, storage, transport, disease control and rec",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-16-5-apiary-identification-system.svg": [
+      {
+        "kind": "wrap",
+        "text": "Do not use box colour or physical hive position as the only colony identity. Equipment and",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-17-1-common-movable-frame-hives.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Regional modular example",
+        "from": 20.0,
+        "to": 18
+      },
+      {
+        "kind": "wrap",
+        "text": "Do not mix frame/box dimensions between hive families merely because the equipment looks s",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-17-2-horizontal-vs-vertical-expansion.svg": [
+      {
+        "kind": "wrap",
+        "text": "Choose a system for local equipment availability, management goals, beekeeper physical cap",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-17-4-hive-system-comparison-matrix.svg": [
+      {
+        "kind": "wrap",
+        "text": "A 'best hive' claim is incomplete unless it states the management goal, beekeeper constrai",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-18-1-exploded-modular-hive.svg": [
+      {
+        "kind": "wrap",
+        "text": "A queen excluder is a management tool, not an essential component of every hive. Do not mi",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-18-2-frame-spacing-bee-space.svg": [
+      {
+        "kind": "wrap",
+        "text": "Use the frame and box dimensions specified for your hive family. This figure teaches the c",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-19-1-frame-anatomy.svg": [
+      {
+        "kind": "wrap",
+        "text": "Foundation authenticity cannot be judged reliably from colour alone. Frame and wire geomet",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-19-5-comb-age-sequence.svg": [
+      {
+        "kind": "internal-wrap",
+        "text": "more cocoon/debris history; residue risk can rise",
+        "lines": 2,
+        "font": 14.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-20-1-beginner-equipment-set.svg": [
+      {
+        "kind": "wrap",
+        "text": "Add gloves, spare boxes/frames, first-aid and task-specific tools according to colony temp",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-02/fig-20-4-clean-equipment-workflow.svg": [
+      {
+        "kind": "wrap",
+        "text": "No single disinfectant or cleaning method is universal. Match decontamination to the suspe",
+        "lines": 2,
+        "font": 17.0
+      }
+    ],
+    "assets/diagrams/wave-03/fig-27-10-autumn-preparation-timeline.svg": [
+      {
+        "kind": "internal-size",
+        "text": "Spring transition",
+        "from": 19.0,
+        "to": 14
+      }
+    ],
+    "assets/diagrams/wave-05/fig-50-1-minimal-processing-flow.svg": [
+      {
+        "kind": "internal-size",
+        "text": "6. Documented blending if intended",
+        "from": 19.0,
+        "to": 16
+      },
+      {
+        "kind": "internal-size",
+        "text": "7. Identified vessel",
+        "from": 19.0,
+        "to": 13
+      }
+    ],
+    "assets/diagrams/wave-05/fig-50-2-settling-tank-separation.svg": [
+      {
+        "kind": "internal-wrap",
+        "text": "outlet above settled layer",
+        "lines": 2,
+        "font": 14.0
+      }
+    ],
+    "assets/diagrams/wave-05/fig-52-3-colony-preparation-timeline.svg": [
+      {
+        "kind": "internal-wrap",
+        "text": "6. Comb-honey super placement",
+        "lines": 2,
+        "font": 14
+      },
+      {
+        "kind": "internal-size",
+        "text": "comb/sections when the",
+        "from": 14.0,
+        "to": 13
+      }
+    ],
+    "assets/diagrams/wave-07/fig-62-7-floral-claim-evidence.svg": [
+      {
+        "kind": "internal-size",
+        "text": "5. Defensible floral claim",
+        "from": 19.0,
+        "to": 17
+      }
+    ],
+    "assets/diagrams/wave-08/fig-66-1-hive-to-consumer-food-safety-chain.svg": [
+      {
+        "kind": "internal-size",
+        "text": "6. Dispatch / consumer",
+        "from": 19.0,
+        "to": 14
+      }
+    ]
+  }
+}

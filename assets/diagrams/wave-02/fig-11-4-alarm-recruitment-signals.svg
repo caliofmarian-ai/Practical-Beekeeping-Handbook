@@ -58,5 +58,5 @@
 <text x="765" y="707" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">dance/odour/trophallaxis support recruitment</text>
 <text x="765" y="734" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">source profitability shapes recruitment intensity</text>
 <rect x="55" y="865" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Alarm and food recruitment are context-dependent communication systems. Do not interpret one odour, vibration or dance element outside the behavioural setting.</text>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Alarm and food recruitment are context-dependent communication systems. Do not interpret one odour, vibration or dance element outside</tspan><tspan x="78" dy="20.7">the behavioural setting.</tspan></text>
 </svg>

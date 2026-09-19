@@ -124,9 +124,9 @@
 <path d="M 1315.6 238.18 L 1326.78 240.26" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
 <path d="M 1315.08 244.68 L 1326.26 242.6" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
 <path d="M 1310.92 248.84 L 1322.1 250.92" stroke="#5C2A1D" stroke-width="1.3" stroke-linecap="round"/>
-<text x="1140" y="610" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">Adult bee emerges with the</text>
-<text x="1140" y="633" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">foundress and mature daughters;</text>
-<text x="1140" y="656" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">mites return to adult-bee dispersal.</text>
+<text x="1140" y="610" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">Adult bee emerges with the</text>
+<text x="1140" y="633" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1140" dy="0">foundress and mature</tspan><tspan x="1140" dy="16.8">daughters;</tspan></text>
+<text x="1140" y="656" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1140" dy="0">mites return to adult-bee</tspan><tspan x="1140" dy="16.8">dispersal.</tspan></text>
 <rect x="55" y="885" width="1290" height="90" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Varroa reproduces inside capped brood. Worker brood commonly yields fewer mature daughters than longer-capped drone brood; do not infer colony mite level from one opened cell.</text>
+<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Varroa reproduces inside capped brood. Worker brood commonly yields fewer mature daughters than longer-capped drone brood; do</tspan><tspan x="78" dy="22.0">not infer colony mite level from one opened cell.</tspan></text>
 </svg>

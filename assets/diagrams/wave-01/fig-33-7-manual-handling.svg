@@ -5,7 +5,7 @@
 <desc id="desc">Manual-handling comparison of route planning, aid/team lift and stable stance versus twisting, solo overload and unstable footing.</desc>
 <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker></defs>
 <style>
-.bg{fill:#FFFFFF}.title{font:700 38px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
+.bg{fill:#FFFFFF}.title{font:700 34px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
 .box{fill:#E3F2FD;stroke:#0D47A1;stroke-width:3}.box2{fill:#E8F5E9;stroke:#2E7D32;stroke-width:3}
 .stop{fill:#FFEBEE;stroke:#C62828;stroke-width:5;stroke-dasharray:12 8}
 .legal{fill:#F3E5F5;stroke:#6A1B9A;stroke-width:4;stroke-dasharray:5 5}

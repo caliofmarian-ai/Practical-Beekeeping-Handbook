@@ -510,5 +510,5 @@
 <text x="762" y="817" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#1F2933" text-anchor="start">• inspect larvae/pupae and cappings closely</text>
 <text x="762" y="844" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#1F2933" text-anchor="start">• consider queen, disease, Varroa, nutrition, chilling</text>
 <rect x="55" y="900" width="1290" height="90" rx="16" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Brood pattern is evidence, not a diagnosis. A small number of gaps can be normal; heavy irregularity requires cell-level examination and colony history.</text>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Brood pattern is evidence, not a diagnosis. A small number of gaps can be normal; heavy irregularity requires cell-level examination</tspan><tspan x="78" dy="22.0">and colony history.</tspan></text>
 </svg>

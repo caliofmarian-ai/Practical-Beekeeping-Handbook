@@ -27,12 +27,12 @@
 <text x="755" y="175" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">alters reproductive opportunity and treatment exposure</text>
 <line x1="770" y1="240" x2="820" y2="430" stroke="#1565C0" stroke-width="2.5" marker-end="url(#ab)"/>
 <rect x="1045" y="140" width="290" height="180" rx="20" fill="#FFEBEE" stroke="#C62828" stroke-width="2.5"/>
-<text x="1063" y="171" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#C62828" text-anchor="start">Authorised synthetic acaricides</text>
-<text x="1065" y="205" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">use only current labelled products and resistance-aware planning</text>
+<text x="1063" y="171" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#C62828" text-anchor="start">Authorised synthetic acaricides</text>
+<text x="1065" y="205" font-family="Arial,Helvetica,sans-serif" font-size="14.0" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1065" dy="0">use only current labelled products</tspan><tspan x="1065" dy="16.8">and resistance-aware planning</tspan></text>
 <line x1="1080" y1="270" x2="820" y2="430" stroke="#1565C0" stroke-width="2.5" marker-end="url(#ab)"/>
 <rect x="1045" y="610" width="290" height="180" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
-<text x="1063" y="641" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Authorised organic-acid / botanical products</text>
-<text x="1065" y="675" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">temperature, brood and label constraints matter</text>
+<text x="1063" y="641" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#6A1B9A" text-anchor="start">Authorised organic-acid / botanical products</text>
+<text x="1065" y="675" font-family="Arial,Helvetica,sans-serif" font-size="14.0" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1065" dy="0">temperature, brood and label</tspan><tspan x="1065" dy="16.8">constraints matter</tspan></text>
 <line x1="1080" y1="640" x2="820" y2="570" stroke="#1565C0" stroke-width="2.5" marker-end="url(#ab)"/>
 <rect x="555" y="720" width="290" height="180" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
 <text x="573" y="751" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Apiary practices</text>
@@ -43,5 +43,5 @@
 <text x="85" y="675" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">quantitative checks before and after intervention</text>
 <line x1="320" y1="640" x2="580" y2="570" stroke="#1565C0" stroke-width="2.5" marker-end="url(#ab)"/>
 <rect x="55" y="915" width="1290" height="90" rx="16" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="945" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Exact products and action thresholds vary by jurisdiction, season and colony context. The diagram is a control-category map, not a treatment recipe.</text>
+<text x="78" y="945" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Exact products and action thresholds vary by jurisdiction, season and colony context. The diagram is a control-category map, not a</tspan><tspan x="78" dy="22.0">treatment recipe.</tspan></text>
 </svg>

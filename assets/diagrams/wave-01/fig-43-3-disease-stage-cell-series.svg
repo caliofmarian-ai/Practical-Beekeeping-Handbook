@@ -27,11 +27,11 @@
 <text x="755" y="705" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#52606D" text-anchor="start">Ropey material can occur</text>
 <text x="755" y="728" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#52606D" text-anchor="start">at a suitable stage only.</text>
 <rect x="1080" y="160" width="275" height="690" rx="20" fill="#FFEBEE" stroke="#C62828" stroke-width="2.5"/>
-<text x="1100" y="194" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#C62828" text-anchor="start">D — Dry adherent scale</text>
+<text x="1100" y="194" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#C62828" text-anchor="start">D — Dry adherent scale</text>
 <path d="M1125 310 L1217 275 L1310 310 L1290 660 L1145 660 Z" fill="#F6E7B0" stroke="#8D6E63" stroke-width="4"/>
 <path d="M1153 624 C1190 600 1255 600 1284 624 L1281 653 L1152 653 Z" fill="#4E3024"/>
 <text x="1096" y="705" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#52606D" text-anchor="start">Dry dark scale remains</text>
 <text x="1096" y="728" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#52606D" text-anchor="start">adherent to lower cell wall.</text>
 <rect x="55" y="900" width="1290" height="90" rx="16" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Use this series to recognise suspicious stages, not as a stand-alone diagnosis. Suspected AFB requires current local notification/confirmation procedures.</text>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Use this series to recognise suspicious stages, not as a stand-alone diagnosis. Suspected AFB requires current local</tspan><tspan x="78" dy="22.0">notification/confirmation procedures.</tspan></text>
 </svg>

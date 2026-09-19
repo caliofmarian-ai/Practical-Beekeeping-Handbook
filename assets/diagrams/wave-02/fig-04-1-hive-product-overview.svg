@@ -24,7 +24,7 @@
 <circle cx="1039" cy="277" r="15" fill="#E7B438"/>
 <circle cx="1055" cy="299" r="15" fill="#B76E1E"/>
 <circle cx="1025" cy="313" r="15" fill="#D8A927"/>
-<text x="1105" y="275" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">plant pollen carried by foragers; bee bread is stored/processed pollen</text>
+<text x="1105" y="275" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1105" dy="0">plant pollen carried by foragers;</tspan><tspan x="1105" dy="16.8">bee bread is stored/processed</tspan><tspan x="1105" dy="16.8">pollen</tspan></text>
 <rect x="70" y="530" width="390" height="300" rx="18" fill="#FFF8E1" stroke="#8D6E63" stroke-width="2.5"/>
 <text x="88" y="561" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#8D6E63" text-anchor="start">Propolis</text>
 <path d="M120 673 L145 625 L187 637 L195 673 L160 687 Z" fill="#7A4D31" stroke="#4E3224" stroke-width="3"/>
@@ -37,8 +37,8 @@
 <text x="968" y="561" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#C62828" text-anchor="start">Bee venom</text>
 <path d="M1035 620 C1010 647 1009 667 1035 690 C1061 667 1060 647 1035 620 Z" fill="#E6C6D0" stroke="#C62828" stroke-width="3"/>
 <path d="M1060 663 L1090 683" stroke="#C62828" stroke-width="5"/>
-<text x="1105" y="635" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">venom-gland/sting apparatus product; high allergy hazard</text>
+<text x="1105" y="635" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1105" dy="0">venom-gland/sting apparatus</tspan><tspan x="1105" dy="16.8">product; high allergy hazard</tspan></text>
 <text x="1105" y="745" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#C62828" text-anchor="start">ANAPHYLAXIS RISK</text>
 <rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Biological activity reported in research does not automatically authorise a consumer health claim. Product category and claims are regulated separately.</text>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Biological activity reported in research does not automatically authorise a consumer health claim. Product category and claims are regulated</tspan><tspan x="78" dy="20.7">separately.</tspan></text>
 </svg>

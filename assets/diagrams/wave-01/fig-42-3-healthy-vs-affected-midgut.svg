@@ -110,5 +110,5 @@
 <text x="1040" y="765" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#6A1B9A" text-anchor="start">intracellular stages / spores</text>
 <text x="1040" y="790" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#6A1B9A" text-anchor="start">can disrupt epithelial function</text>
 <rect x="55" y="900" width="1290" height="90" rx="16" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
-<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Field signs are non-specific. Diagnosis should use appropriate sampling, microscopy and/or molecular testing interpreted with colony history, season and other stressors.</text>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Field signs are non-specific. Diagnosis should use appropriate sampling, microscopy and/or molecular testing interpreted with colony</tspan><tspan x="78" dy="22.0">history, season and other stressors.</tspan></text>
 </svg>

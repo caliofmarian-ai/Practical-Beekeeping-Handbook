@@ -29,5 +29,5 @@
 <polyline points="110,450.0 348.0,600.0 645.5,612.0 907.3000000000001,312.0 1085.8,240.0 1300,408.0" fill="none" stroke="#6A1B9A" stroke-width="7"/>
 <text x="1140" y="325" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#6A1B9A" text-anchor="start">stores</text>
 <rect x="55" y="885" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The relative timing of brood, forage and adult population is the management signal. Replace these conceptual phases with local phenology, not month names.</text>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">The relative timing of brood, forage and adult population is the management signal. Replace these conceptual phases with local phenology,</tspan><tspan x="78" dy="20.7">not month names.</tspan></text>
 </svg>

@@ -28,7 +28,7 @@
 <text x="1030" y="625" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">log, wall, movable and indigenous systems</text>
 <circle cx="180" cy="515" r="78" fill="#F5F5F5" stroke="#757575" stroke-width="3"/>
 <text x="180" y="512" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#757575" text-anchor="middle">Americas</text>
-<text x="180" y="620" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#52606D" text-anchor="middle">honey hunting, stingless-bee and later imported systems</text>
+<text x="180" y="620" font-family="Arial,Helvetica,sans-serif" font-size="14.0" font-weight="500" fill="#52606D" text-anchor="middle"><tspan x="180" dy="0">honey hunting, stingless-bee and</tspan><tspan x="180" dy="16.8">later imported systems</tspan></text>
 <rect x="55" y="850" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="879" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">This overview is deliberately non-linear. Historical hive forms were shaped by local materials, bee species/subspecies, climate, culture and harvesting goals.</text>
+<text x="78" y="879" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">This overview is deliberately non-linear. Historical hive forms were shaped by local materials, bee species/subspecies, climate, culture and</tspan><tspan x="78" dy="20.7">harvesting goals.</tspan></text>
 </svg>

@@ -78,5 +78,5 @@
 <text x="975" y="672" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">no pollen basket</text>
 <text x="975" y="698" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">no worker-type sting</text>
 <rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Drones are not 'useless': their primary evolutionary role is mating and gene flow. Their abundance changes seasonally with colony and climate conditions.</text>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Drones are not 'useless': their primary evolutionary role is mating and gene flow. Their abundance changes seasonally with colony and</tspan><tspan x="78" dy="20.7">climate conditions.</tspan></text>
 </svg>

@@ -36,11 +36,11 @@
 <path d="M 867.0 255 C 880.5 232.5, 907.5 240.0, 900.0 259.5 C 892.5 273.0, 874.5 268.5, 877.5 256.5" fill="none" stroke="#6A1B9A" stroke-width="3.0"/>
 <path d="M920 255 C950 225 995 228 1020 210" fill="none" stroke="#6A1B9A" stroke-width="4"/>
 <rect x="1085" y="150" width="250" height="210" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
-<text x="1103" y="181" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">3 — Sporoplasm enters cell</text>
+<text x="1103" y="181" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#6A1B9A" text-anchor="start">3 — Sporoplasm enters cell</text>
 <rect x="1140" y="220" width="140" height="85" rx="18" fill="#F8D9C5" stroke="#B96F52" stroke-width="3"/>
 <circle cx="1210" cy="262" r="15" fill="#6A1B9A" opacity="0.75"/>
 <rect x="1085" y="530" width="250" height="210" rx="20" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
-<text x="1103" y="561" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">4 — Merogony / sporogony</text>
+<text x="1103" y="561" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#6A1B9A" text-anchor="start">4 — Merogony / sporogony</text>
 <rect x="1130" y="590" width="160" height="105" rx="18" fill="#F8D9C5" stroke="#B96F52" stroke-width="3"/>
 <circle cx="1175" cy="620" r="12" fill="#6A1B9A" opacity="0.70"/>
 <circle cx="1210" cy="615" r="12" fill="#6A1B9A" opacity="0.70"/>
@@ -67,5 +67,5 @@
 <line x1="805" y1="600" x2="735" y2="600" stroke="#6A1B9A" stroke-width="4" marker-end="url(#ap)"/>
 <line x1="600" y1="500" x2="600" y2="350" stroke="#6A1B9A" stroke-width="4" marker-end="url(#ap)"/>
 <rect x="55" y="900" width="1290" height="90" rx="16" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
-<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Microscopy can detect Nosema-like spores, but routine light microscopy does not reliably distinguish N. apis from N. ceranae. Molecular testing is used when species-level information is required.</text>
+<text x="78" y="930" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Microscopy can detect Nosema-like spores, but routine light microscopy does not reliably distinguish N. apis from N. ceranae.</tspan><tspan x="78" dy="22.0">Molecular testing is used when species-level information is required.</tspan></text>
 </svg>

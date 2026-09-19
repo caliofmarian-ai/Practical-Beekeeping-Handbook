@@ -24,7 +24,7 @@
 <line x1="1000" y1="275" x2="1035" y2="275" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
 <rect x="1045" y="180" width="280" height="190" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
 <text x="1063" y="211" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">4 Acquire healthy bees</text>
-<text x="1063" y="255" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">traceable source and health baseline</text>
+<text x="1063" y="255" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">traceable source and health baseline</text>
 <line x1="1185" y1="370" x2="1185" y2="455" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
 <rect x="70" y="480" width="280" height="190" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
 <text x="88" y="511" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">5 Inspect systematically</text>
@@ -40,7 +40,7 @@
 <line x1="1000" y1="575" x2="1035" y2="575" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
 <rect x="1045" y="480" width="280" height="190" rx="18" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
 <text x="1063" y="511" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#2E7D32" text-anchor="start">8 Keep records</text>
-<text x="1063" y="555" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">actions, results, treatments, follow-up</text>
+<text x="1063" y="555" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">actions, results, treatments, follow-up</text>
 <rect x="55" y="835" width="1290" height="80" rx="14" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2.5"/>
 <text x="78" y="864" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The path is iterative: records from inspections and monitoring feed back into better decisions rather than a one-way march toward harvest.</text>
 </svg>

@@ -63,5 +63,5 @@
 <text x="845" y="675" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">metabolism, immunity and detoxification.</text>
 <text x="845" y="700" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">Feeding damage therefore has broad effects.</text>
 <rect x="55" y="895" width="1290" height="90" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="925" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Diagram is a teaching cutaway, not a literal histological section. The key concept is that Varroa feeds while protected between body plates and targets fat-body-rich abdominal tissues.</text>
+<text x="78" y="925" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Diagram is a teaching cutaway, not a literal histological section. The key concept is that Varroa feeds while protected between body</tspan><tspan x="78" dy="22.0">plates and targets fat-body-rich abdominal tissues.</tspan></text>
 </svg>

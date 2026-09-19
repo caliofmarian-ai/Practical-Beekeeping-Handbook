@@ -33,5 +33,5 @@
 <polyline points="1090,700 1130,650 1170,670 1210,590 1250,610" fill="none" stroke="#2E7D32" stroke-width="6"/>
 <text x="1175" y="745" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#2E7D32" text-anchor="middle">trend data</text>
 <rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Use technology as an additional observation layer. Validate unusual sensor readings with colony inspection, calibrated equipment and biological context.</text>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Use technology as an additional observation layer. Validate unusual sensor readings with colony inspection, calibrated equipment and</tspan><tspan x="78" dy="20.7">biological context.</tspan></text>
 </svg>

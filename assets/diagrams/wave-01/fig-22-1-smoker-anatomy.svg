@@ -5,7 +5,7 @@
 <desc id="desc">Labelled technical schematic of a bee smoker showing lid and nozzle, fire chamber, internal grate, heat shield, bellows, air inlet and hanging hook.</desc>
 <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker></defs>
 <style>
-.bg{fill:#FFFFFF}.title{font:700 38px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
+.bg{fill:#FFFFFF}.title{font:700 34px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
 .box{fill:#E3F2FD;stroke:#0D47A1;stroke-width:3}.box2{fill:#E8F5E9;stroke:#2E7D32;stroke-width:3}
 .stop{fill:#FFEBEE;stroke:#C62828;stroke-width:5;stroke-dasharray:12 8}
 .legal{fill:#F3E5F5;stroke:#6A1B9A;stroke-width:4;stroke-dasharray:5 5}
@@ -21,7 +21,7 @@
 </style>
 <rect class="bg" x="0" y="0" width="1200" height="1600"/>
 <text class="title" x="60" y="70">Figure 22.1 — Smoker Anatomy</text>
-<text class="subtitle" x="60" y="108" text-anchor="start">A smoker is a controlled airflow/combustion tool; maintenance prevents hot smoke, flame and</text>
+<text class="subtitle" x="60" y="108" text-anchor="start"><tspan x="60" dy="0">A smoker is a controlled airflow/combustion tool; maintenance prevents hot smoke, flame</tspan><tspan x="60" dy="26.8">and</tspan></text>
 <text class="subtitle" x="60" y="136" text-anchor="start">spark hazards.</text>
 <rect x="440" y="380" width="260" height="570" rx="30" fill="#E3F2FD" stroke="#1565C0" stroke-width="5"/>
 <rect x="410" y="380" width="320" height="570" rx="35" fill="none" stroke="#52606D" stroke-width="4"/>

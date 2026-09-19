@@ -134,5 +134,5 @@
 <line x1="1190" y1="695" x2="1190" y2="770" stroke="#C62828" stroke-width="4"/>
 <text x="1190" y="690" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#C62828" text-anchor="middle">~day 24</text>
 <rect x="55" y="885" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Egg stage is about three days in all castes. Queen development is fastest, worker intermediate, drone slowest; capping and emergence are approximate, not identical in every colony.</text>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Egg stage is about three days in all castes. Queen development is fastest, worker intermediate, drone slowest; capping and emergence are</tspan><tspan x="78" dy="20.7">approximate, not identical in every colony.</tspan></text>
 </svg>

@@ -32,7 +32,7 @@
 <line x1="905" y1="640" x2="945" y2="640" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
 <rect x="955" y="520" width="390" height="235" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
 <text x="973" y="551" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">6 Claims and sale</text>
-<text x="975" y="605" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">origin/product claims supported and legally permitted</text>
+<text x="975" y="605" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#1F2933" text-anchor="start">origin/product claims supported and legally permitted</text>
 <rect x="55" y="870" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
 <text x="78" y="899" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Testing is risk- and product-dependent. No amount of processing or marketing can legitimately 'fix' an unidentified or contaminated lot.</text>
 </svg>

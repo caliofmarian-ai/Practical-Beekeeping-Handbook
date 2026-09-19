@@ -88,7 +88,7 @@
 <path d="M 958.4 444.8 L 967.0 446.4" stroke="#5C2A1D" stroke-width="1.0" stroke-linecap="round"/>
 <text x="870" y="575" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Daughters mature and mate inside the cell.</text>
 <rect x="1125" y="155" width="240" height="650" rx="20" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="1143" y="186" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">E — Adult emergence</text>
+<text x="1143" y="186" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#1565C0" text-anchor="start">E — Adult emergence</text>
 <path d="M1150 300 L1245.0 270 L1340 300 L1315 520 L1175 520 Z" fill="#F4E7A1" stroke="#8D6E63" stroke-width="4"/>
 <path d="M1150 300 L1245.0 270 L1340 300" fill="none" stroke="#B98755" stroke-width="18" stroke-linecap="round"/>
 <ellipse cx="1245.0" cy="455" rx="43" ry="92" fill="#F3E9D5" stroke="#C6BAA6" stroke-width="3"/>
@@ -113,7 +113,7 @@
 <path d="M 1302.0 263.6 L 1310.6 265.2" stroke="#5C2A1D" stroke-width="1.0" stroke-linecap="round"/>
 <path d="M 1301.6 268.6 L 1310.2 267.0" stroke="#5C2A1D" stroke-width="1.0" stroke-linecap="round"/>
 <path d="M 1298.4 271.8 L 1307.0 273.4" stroke="#5C2A1D" stroke-width="1.0" stroke-linecap="round"/>
-<text x="1140" y="575" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">Foundress + mature daughters leave with the bee.</text>
+<text x="1140" y="575" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1140" dy="0">Foundress + mature</tspan><tspan x="1140" dy="16.8">daughters leave with the</tspan><tspan x="1140" dy="16.8">bee.</tspan></text>
 <rect x="55" y="885" width="1290" height="90" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">The sequence is biologically ordered but not a rigid clock. Worker-brood cells usually permit fewer mature daughters than the longer capped period of drone brood.</text>
+<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">The sequence is biologically ordered but not a rigid clock. Worker-brood cells usually permit fewer mature daughters than the longer</tspan><tspan x="78" dy="22.0">capped period of drone brood.</tspan></text>
 </svg>

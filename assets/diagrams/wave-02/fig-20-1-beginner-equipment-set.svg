@@ -33,5 +33,5 @@
 <rect x="1057" y="575" width="96" height="150" rx="18" fill="#FAFAFA" stroke="#455A64" stroke-width="4"/>
 <line x1="1077" y1="615" x2="1133" y2="615" stroke="#1565C0" stroke-width="3"/><line x1="1077" y1="650" x2="1133" y2="650" stroke="#1565C0" stroke-width="3"/>
 <rect x="55" y="875" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Add gloves, spare boxes/frames, first-aid and task-specific tools according to colony temperament, hive system, health plan and local conditions.</text>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Add gloves, spare boxes/frames, first-aid and task-specific tools according to colony temperament, hive system, health plan and local</tspan><tspan x="78" dy="20.7">conditions.</tspan></text>
 </svg>

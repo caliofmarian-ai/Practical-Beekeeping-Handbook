@@ -5,7 +5,7 @@
 <desc id="desc">Clinical-awareness comparison between local sting effects and systemic emergency warning patterns with an explicit emergency-assistance action.</desc>
 <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker></defs>
 <style>
-.bg{fill:#FFFFFF}.title{font:700 38px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
+.bg{fill:#FFFFFF}.title{font:700 34px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
 .box{fill:#E3F2FD;stroke:#0D47A1;stroke-width:3}.box2{fill:#E8F5E9;stroke:#2E7D32;stroke-width:3}
 .stop{fill:#FFEBEE;stroke:#C62828;stroke-width:5;stroke-dasharray:12 8}
 .legal{fill:#F3E5F5;stroke:#6A1B9A;stroke-width:4;stroke-dasharray:5 5}
@@ -21,7 +21,7 @@
 </style>
 <rect class="bg" x="0" y="0" width="1200" height="1600"/>
 <text class="title" x="60" y="70">Figure 23.6 — Local Reaction Versus Emergency Warning Signs</text>
-<text class="subtitle" x="60" y="108" text-anchor="start">Recognise escalation cues without attempting to diagnose anaphylaxis from one isolated sign.</text>
+<text class="subtitle" x="60" y="108" text-anchor="start"><tspan x="60" dy="0">Recognise escalation cues without attempting to diagnose anaphylaxis from one isolated</tspan><tspan x="60" dy="26.8">sign.</tspan></text>
 <rect class="box" x="70" y="190" width="500" height="100" rx="22" ry="22"/>
 <text class="label" x="94" y="228" text-anchor="start">Limited local reaction</text>
 <rect class="legal" x="630" y="190" width="500" height="100" rx="22" ry="22"/>

@@ -43,7 +43,7 @@
 <text x="757" y="700" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">frame compatibility depends</text>
 <text x="757" y="721" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">on the exact system standard</text>
 <rect x="1070" y="160" width="290" height="650" rx="18" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2.5"/>
-<text x="1088" y="191" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#6A1B9A" text-anchor="start">Regional modular example</text>
+<text x="1088" y="191" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#6A1B9A" text-anchor="start">Regional modular example</text>
 <rect x="1140" y="300.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
 <rect x="1140" y="400.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
 <rect x="1140" y="500.0" width="150" height="100.0" rx="4" fill="#D9B57C" stroke="#8D6E63" stroke-width="3"/>
@@ -54,5 +54,5 @@
 <text x="1092" y="700" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">frame compatibility depends</text>
 <text x="1092" y="721" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">on the exact system standard</text>
 <rect x="55" y="865" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Do not mix frame/box dimensions between hive families merely because the equipment looks similar. Local availability and beekeeper ergonomics matter.</text>
+<text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Do not mix frame/box dimensions between hive families merely because the equipment looks similar. Local availability and beekeeper</tspan><tspan x="78" dy="20.7">ergonomics matter.</tspan></text>
 </svg>

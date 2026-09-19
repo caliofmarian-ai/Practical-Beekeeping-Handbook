@@ -16,7 +16,7 @@
 <path d="M260 320 C190 350 190 410 260 435 C330 410 330 350 260 320" fill="none" stroke="#1565C0" stroke-width="4"/>
 <path d="M260 352 C190 382 190 442 260 467 C330 442 330 382 260 352" fill="none" stroke="#1565C0" stroke-width="4"/>
 <path d="M260 384 C190 414 190 474 260 499 C330 474 330 414 260 384" fill="none" stroke="#1565C0" stroke-width="4"/>
-<text x="260" y="700" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#52606D" text-anchor="middle">longer waggle / slower repetition tendency → greater distance</text>
+<text x="260" y="700" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#52606D" text-anchor="middle">longer waggle / slower repetition tendency → greater distance</text>
 <rect x="520" y="180" width="360" height="620" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
 <text x="538" y="211" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">intermediate source</text>
 <line x1="700" y1="260" x2="700" y2="630" stroke="#757575" stroke-width="4" stroke-dasharray="8 7"/>
@@ -37,7 +37,7 @@
 <path d="M1140 480 C1070 510 1070 570 1140 595 C1210 570 1210 510 1140 480" fill="none" stroke="#1565C0" stroke-width="4"/>
 <path d="M1140 512 C1070 542 1070 602 1140 627 C1210 602 1210 542 1140 512" fill="none" stroke="#1565C0" stroke-width="4"/>
 <path d="M1140 544 C1070 574 1070 634 1140 659 C1210 634 1210 574 1140 544" fill="none" stroke="#1565C0" stroke-width="4"/>
-<text x="1140" y="700" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#52606D" text-anchor="middle">longer waggle / slower repetition tendency → greater distance</text>
+<text x="1140" y="700" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#52606D" text-anchor="middle">longer waggle / slower repetition tendency → greater distance</text>
 <rect x="55" y="865" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
 <text x="78" y="894" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Do not turn this concept into one universal metres-per-second formula. Honey bees calibrate dance information in a context-sensitive way.</text>
 </svg>

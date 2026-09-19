@@ -61,7 +61,7 @@
 <text x="1120" y="590" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#C62828" text-anchor="middle">feeding wound</text>
 <text x="950" y="650" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">Modern evidence supports major feeding</text>
 <text x="950" y="675" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">on fat-body tissue, which is important</text>
-<text x="950" y="700" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#1F2933" text-anchor="start">for metabolism, immunity and detoxification.</text>
+<text x="950" y="700" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">for metabolism, immunity and detoxification.</text>
 <rect x="55" y="885" width="1290" height="90" rx="16" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" fill="#1F2933" text-anchor="start">Varroa often shelters between abdominal sclerites or body regions. Absence of visible mites during a quick inspection does not establish a mite-free colony.</text>
+<text x="78" y="915" font-family="Arial,Helvetica,sans-serif" font-size="18.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Varroa often shelters between abdominal sclerites or body regions. Absence of visible mites during a quick inspection does not</tspan><tspan x="78" dy="22.0">establish a mite-free colony.</tspan></text>
 </svg>

@@ -101,7 +101,7 @@
 <polygon points="1180,582 1204,596 1204,624 1180,638 1156,624 1156,596" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
 <polygon points="1240,582 1264,596 1264,624 1240,638 1216,624 1216,596" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
 <polygon points="1300,582 1324,596 1324,624 1300,638 1276,624 1276,596" fill="#76513A" stroke="#8D6E63" stroke-width="3.2"/>
-<text x="1087" y="720" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">more cocoon/debris history; residue risk can rise</text>
+<text x="1087" y="720" font-family="Arial,Helvetica,sans-serif" font-size="14.0" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1087" dy="0">more cocoon/debris history;</tspan><tspan x="1087" dy="16.8">residue risk can rise</tspan></text>
 <rect x="55" y="875" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
 <text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Comb replacement decisions should use history, condition, disease/residue risk and management goals—not a colour threshold alone.</text>
 </svg>

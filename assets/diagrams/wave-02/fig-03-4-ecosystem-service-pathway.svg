@@ -51,7 +51,7 @@
 <text x="878" y="550" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">quantity or quality may improve</text>
 <line x1="1095" y1="440" x2="1130" y2="440" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
 <rect x="1130" y="260" width="235" height="360" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="1148" y="291" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#1565C0" text-anchor="start">Food / ecological outcomes</text>
+<text x="1148" y="291" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#1565C0" text-anchor="start">Food / ecological outcomes</text>
 <ellipse cx="1237.6" cy="410.0" rx="14.4" ry="8.0" fill="#8E63B6" transform="rotate(0 1237.6 410.0)"/>
 <ellipse cx="1225.438699100999" cy="426.7385946867947" rx="14.4" ry="8.0" fill="#8E63B6" transform="rotate(72 1225.438699100999 426.7385946867947)"/>
 <ellipse cx="1205.7613008990008" cy="420.3450204403475" rx="14.4" ry="8.0" fill="#8E63B6" transform="rotate(144 1205.7613008990008 420.3450204403475)"/>
@@ -59,7 +59,7 @@
 <ellipse cx="1225.438699100999" cy="393.2614053132053" rx="14.4" ry="8.0" fill="#8E63B6" transform="rotate(288 1225.438699100999 393.2614053132053)"/>
 <circle cx="1220" cy="410" r="8.8" fill="#F4C542"/>
 <circle cx="1285" cy="440" r="36" fill="#F6CF58" stroke="#A37312" stroke-width="3"/>
-<text x="1148" y="550" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" fill="#1F2933" text-anchor="start">yield, regeneration, wildlife resources</text>
+<text x="1148" y="550" font-family="Arial,Helvetica,sans-serif" font-size="14.0" font-weight="500" fill="#1F2933" text-anchor="start"><tspan x="1148" dy="0">yield, regeneration,</tspan><tspan x="1148" dy="16.8">wildlife resources</tspan></text>
 <rect x="55" y="850" width="1290" height="80" rx="14" fill="#FFF3E0" stroke="#EF6C00" stroke-width="2.5"/>
-<text x="78" y="879" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Do not convert this pathway into a universal percentage of food production. Pollinator dependence varies by crop, cultivar, region and production system.</text>
+<text x="78" y="879" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Do not convert this pathway into a universal percentage of food production. Pollinator dependence varies by crop, cultivar, region and</tspan><tspan x="78" dy="20.7">production system.</tspan></text>
 </svg>

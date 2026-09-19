@@ -79,7 +79,7 @@
 <text x="960" y="620" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">• very large compound eyes</text>
 <text x="960" y="647" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">• stout body</text>
 <text x="960" y="674" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">• no pollen basket</text>
-<text x="960" y="701" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500" fill="#1F2933" text-anchor="start">• no worker-type sting; male reproductive tract</text>
+<text x="960" y="701" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500" fill="#1F2933" text-anchor="start">• no worker-type sting; male reproductive tract</text>
 <rect x="55" y="885" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">Caste differences arise from sex determination and developmental/nutritional pathways. Queen and worker are female; drones develop from unfertilised eggs.</text>
+<text x="78" y="914" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">Caste differences arise from sex determination and developmental/nutritional pathways. Queen and worker are female; drones develop from</tspan><tspan x="78" dy="20.7">unfertilised eggs.</tspan></text>
 </svg>

@@ -30,22 +30,22 @@
 <text x="918" y="237" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="start">stored in comb after nectar/honeydew processing</text>
 <circle cx="1090" cy="320" r="8" fill="#8D6E63"/>
 <text x="1108" y="325" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#8D6E63" text-anchor="start">Wax</text>
-<text x="1108" y="347" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="start">worker wax glands → comb construction</text>
+<text x="1108" y="347" font-family="Arial,Helvetica,sans-serif" font-size="13.0" font-weight="500" fill="#52606D" text-anchor="start"><tspan x="1108" dy="0">worker wax glands → comb</tspan><tspan x="1108" dy="15.6">construction</tspan></text>
 <circle cx="950" cy="450" r="8" fill="#D98C10"/>
 <text x="968" y="455" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#D98C10" text-anchor="start">Pollen / bee bread</text>
 <text x="968" y="477" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="start">forager pollen loads → stored/processed cells</text>
 <circle cx="1080" cy="590" r="8" fill="#7A4D31"/>
 <text x="1098" y="595" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#7A4D31" text-anchor="start">Propolis</text>
-<text x="1098" y="617" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="start">plant resin → cracks and nest surfaces</text>
+<text x="1098" y="617" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="500" fill="#52606D" text-anchor="start">plant resin → cracks and nest surfaces</text>
 <circle cx="870" cy="700" r="8" fill="#6A1B9A"/>
 <text x="888" y="705" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#6A1B9A" text-anchor="start">Royal jelly</text>
 <text x="888" y="727" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="start">nurse glands → fed to larvae/queen</text>
 <circle cx="1130" cy="760" r="8" fill="#C62828"/>
 <text x="1148" y="765" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#C62828" text-anchor="start">Venom</text>
-<text x="1148" y="787" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500" fill="#52606D" text-anchor="start">venom gland + sting apparatus, not comb storage</text>
+<text x="1148" y="787" font-family="Arial,Helvetica,sans-serif" font-size="13.0" font-weight="500" fill="#52606D" text-anchor="start"><tspan x="1148" dy="0">venom gland + sting</tspan><tspan x="1148" dy="15.6">apparatus, not comb</tspan><tspan x="1148" dy="15.6">storage</tspan></text>
 <line x1="790" y1="300" x2="890" y2="210" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
 <line x1="620" y1="550" x2="1060" y2="590" stroke="#EF6C00" stroke-width="4" marker-end="url(#ao)"/>
 <line x1="670" y1="680" x2="850" y2="700" stroke="#1565C0" stroke-width="4" marker-end="url(#ab)"/>
 <rect x="55" y="875" width="1290" height="80" rx="14" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>
-<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" fill="#1F2933" text-anchor="start">The diagram is functional, not anatomical scale. It prevents a common misunderstanding: propolis, royal jelly and venom are not simply 'stored hive products' like honey.</text>
+<text x="78" y="904" font-family="Arial,Helvetica,sans-serif" font-size="17.0" font-weight="600" fill="#1F2933" text-anchor="start"><tspan x="78" dy="0">The diagram is functional, not anatomical scale. It prevents a common misunderstanding: propolis, royal jelly and venom are not simply</tspan><tspan x="78" dy="20.7">'stored hive products' like honey.</tspan></text>
 </svg>
