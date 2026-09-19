@@ -40,10 +40,12 @@ jobs:
           assert r["svg_count"]==256
           assert r["status"]=="READY_FOR_LAYOUT_PROOF", r
           assert not r["render_failures"]
-          assert not r["edge_clipping_flags"]
+          assert not r["text_overflow_flags"]
           assert not r["red_green_redundancy_failures"]
           assert not r["minimum_font_failures"]
           assert not r["family_marker_failures"]
           assert not r["missing_registry_items"]
           print("PASS: PBH-v1 final visual reconciliation READY_FOR_LAYOUT_PROOF")
           PY
+
+# validator-v2
