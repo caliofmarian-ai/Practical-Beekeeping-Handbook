@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="portrait-field" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <!-- semantic-color-pass:v1 -->
 <title id="title">Figure 33.6 — Vehicle Loading</title>
 <desc id="desc">Transport schematic comparing a low balanced restrained hive load with an unsecured tall stack that compromises stability and ventilation.</desc>
 <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker></defs>
 <style>
-.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,sans-serif;fill:#52606D}
+.bg{fill:#FFFFFF}.title{font:700 38px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
 .box{fill:#E3F2FD;stroke:#0D47A1;stroke-width:3}.box2{fill:#E8F5E9;stroke:#0D47A1;stroke-width:3}
 .stop{fill:#FFEBEE;stroke:#C62828;stroke-width:5;stroke-dasharray:12 8}
 .legal{fill:#F3E5F5;stroke:#6A1B9A;stroke-width:4;stroke-dasharray:5 5}
-.label{font:700 24px Arial,sans-serif;fill:#1F2933}.body{font:400 21px Arial,sans-serif;fill:#1F2933}.small{font:400 18px Arial,sans-serif;fill:#52606D}
+.label{font:700 24px Arial,Helvetica,sans-serif;fill:#1F2933}.body{font:400 21px Arial,Helvetica,sans-serif;fill:#1F2933}.small{font:400 18px Arial,Helvetica,sans-serif;fill:#52606D}
 .arrow{stroke:#1565C0;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#757575;stroke-width:2;fill:none}
-.hub{fill:#0D47A1;stroke:#0D47A1;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}
+.hub{fill:#0D47A1;stroke:#0D47A1;stroke-width:3}.hubtext{font:700 22px Arial,Helvetica,sans-serif;fill:#FFFFFF;text-anchor:middle}
 .note{fill:#FFF8E1;stroke:#8D6E63;stroke-width:2}
 .good{fill:#E8F5E9;stroke:#2E7D32;stroke-width:3}
 .warn{fill:#FFF3E0;stroke:#EF6C00;stroke-width:3;stroke-dasharray:8 5}
@@ -26,23 +27,23 @@
 <text class="label" x="94" y="238" text-anchor="start">Preferred loading</text>
 <text class="body" x="94" y="277" text-anchor="start">Low, balanced, ventilated and</text>
 <text class="body" x="94" y="304" text-anchor="start">independently restrained.</text>
-<rect x="140" y="910" width="360" height="90" fill="#ddd" stroke="#222" stroke-width="4"/>
-<rect x="170" y="600" width="120" height="280" fill="#E3F2FD" stroke="#222" stroke-width="4"/>
-<line x1="230" y1="575" x2="230" y2="900" stroke="#111" stroke-width="5"/>
-<rect x="320" y="600" width="120" height="280" fill="#E3F2FD" stroke="#222" stroke-width="4"/>
-<line x1="380" y1="575" x2="380" y2="900" stroke="#111" stroke-width="5"/>
+<rect x="140" y="910" width="360" height="90" fill="#ddd" stroke="#1F2933" stroke-width="4"/>
+<rect x="170" y="600" width="120" height="280" fill="#E3F2FD" stroke="#1F2933" stroke-width="4"/>
+<line x1="230" y1="575" x2="230" y2="900" stroke="#1F2933" stroke-width="5"/>
+<rect x="320" y="600" width="120" height="280" fill="#E3F2FD" stroke="#1F2933" stroke-width="4"/>
+<line x1="380" y1="575" x2="380" y2="900" stroke="#1F2933" stroke-width="5"/>
 <text class="body" x="120" y="1060" text-anchor="start">• low centre of gravity  • gaps for airflow  •</text>
 <text class="body" x="120" y="1088" text-anchor="start">vehicle restraint  • separate hive straps</text>
 <rect class="stop" x="630" y="200" width="500" height="1080" rx="22" ry="22"/>
 <text class="label" x="654" y="238" text-anchor="start">Unsafe loading</text>
 <text class="body" x="654" y="277" text-anchor="start">Tall unsecured stack, no independent</text>
 <text class="body" x="654" y="304" text-anchor="start">restraint and restricted airflow.</text>
-<rect x="700" y="910" width="360" height="90" fill="#ddd" stroke="#222" stroke-width="4"/>
-<rect x="820" y="830" width="140" height="160" fill="#fff" stroke="#222" stroke-width="4"/>
-<rect x="820" y="650" width="140" height="160" fill="#fff" stroke="#222" stroke-width="4"/>
-<rect x="820" y="470" width="140" height="160" fill="#fff" stroke="#222" stroke-width="4"/>
-<path d="M780,520 L1000,900" stroke="#111" stroke-width="8"/>
-<path d="M1000,520 L780,900" stroke="#111" stroke-width="8"/>
+<rect x="700" y="910" width="360" height="90" fill="#ddd" stroke="#1F2933" stroke-width="4"/>
+<rect x="820" y="830" width="140" height="160" fill="#FFFFFF" stroke="#1F2933" stroke-width="4"/>
+<rect x="820" y="650" width="140" height="160" fill="#FFFFFF" stroke="#1F2933" stroke-width="4"/>
+<rect x="820" y="470" width="140" height="160" fill="#FFFFFF" stroke="#1F2933" stroke-width="4"/>
+<path d="M780,520 L1000,900" stroke="#1F2933" stroke-width="8"/>
+<path d="M1000,520 L780,900" stroke="#1F2933" stroke-width="8"/>
 <text class="body" x="690" y="1060" text-anchor="start">• high unstable load  • no independent hive</text>
 <text class="body" x="690" y="1088" text-anchor="start">strap  • blocked ventilation  • greater</text>
 <text class="body" x="690" y="1116" text-anchor="start">rollover/separation risk</text>

@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="landscape-standard" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <title id="title">Figure 11.5 — Swarm Nest-Site Communication</title>
 <desc id="desc">Scout discovery, competing dances, evidence accumulation, quorum and swarm departure shown as a distributed group decision process.</desc>
 <defs>

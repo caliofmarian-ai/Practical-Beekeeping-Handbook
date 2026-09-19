@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="landscape-standard" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <title id="title">Figure 17.2 — Horizontal Versus Vertical Expansion</title>
 <desc id="desc">Vertical stacked hive compared with a horizontal long hive, focusing on management trade-offs rather than declaring a winner.</desc>
 <defs>
@@ -6,7 +7,7 @@
 <marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
 <marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
 </defs>
-<rect width="1400" height="1000" fill="#fff"/>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
 <text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 17.2 — Horizontal Versus Vertical Expansion</text>
 <text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Both systems can house healthy colonies; handling, lifting and expansion workflow differ.</text>
 <rect x="55" y="160" width="620" height="650" rx="18" fill="#E3F2FD" stroke="#1565C0" stroke-width="2.5"/>

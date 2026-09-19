@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="landscape-standard" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <title id="title">Figure 7.4 — Caste Development Comparison</title>
 <desc id="desc">Queen, worker and drone development compared by fertilisation status, cell type and approximate total time to adult emergence.</desc>
 <defs>

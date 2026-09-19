@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="portrait-field" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <!-- semantic-color-pass:v1 -->
 <title id="title">Figure 46.9 — Mode of Action and Resistance Selection</title>
 <desc id="desc">Conceptual population sequence showing selective removal of susceptible mites and disproportionate survival/reproduction of resistant mites after repeated use of one mode of action.</desc>
 <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker></defs>
 <style>
-.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,sans-serif;fill:#52606D}
+.bg{fill:#FFFFFF}.title{font:700 38px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
 .box{fill:#E3F2FD;stroke:#0D47A1;stroke-width:3}.box2{fill:#E8F5E9;stroke:#0D47A1;stroke-width:3}
 .stop{fill:#FFEBEE;stroke:#C62828;stroke-width:5;stroke-dasharray:12 8}
 .legal{fill:#F3E5F5;stroke:#6A1B9A;stroke-width:4;stroke-dasharray:5 5}
-.label{font:700 24px Arial,sans-serif;fill:#1F2933}.body{font:400 21px Arial,sans-serif;fill:#1F2933}.small{font:400 18px Arial,sans-serif;fill:#52606D}
+.label{font:700 24px Arial,Helvetica,sans-serif;fill:#1F2933}.body{font:400 21px Arial,Helvetica,sans-serif;fill:#1F2933}.small{font:400 18px Arial,Helvetica,sans-serif;fill:#52606D}
 .arrow{stroke:#1565C0;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#757575;stroke-width:2;fill:none}
-.hub{fill:#0D47A1;stroke:#0D47A1;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}
+.hub{fill:#0D47A1;stroke:#0D47A1;stroke-width:3}.hubtext{font:700 22px Arial,Helvetica,sans-serif;fill:#FFFFFF;text-anchor:middle}
 .note{fill:#FFF8E1;stroke:#8D6E63;stroke-width:2}
 .good{fill:#E8F5E9;stroke:#2E7D32;stroke-width:3}
 .warn{fill:#FFF3E0;stroke:#EF6C00;stroke-width:3;stroke-dasharray:8 5}
@@ -28,8 +29,8 @@
 <text class="body" x="94" y="364" text-anchor="start">population with a</text>
 <text class="body" x="94" y="391" text-anchor="start">small resistant</text>
 <text class="body" x="94" y="418" text-anchor="start">fraction.</text>
-<rect x="97" y="492" width="16" height="16" transform="rotate(45 105 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="142" y="492" width="16" height="16" transform="rotate(45 150 500)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="97" y="492" width="16" height="16" transform="rotate(45 105 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="142" y="492" width="16" height="16" transform="rotate(45 150 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
 <circle cx="195" cy="500" r="8" fill="#777"/>
 <circle cx="240" cy="500" r="8" fill="#777"/>
 <circle cx="105" cy="545" r="8" fill="#777"/>
@@ -49,11 +50,11 @@
 <text class="body" x="374" y="420" text-anchor="start">resistant</text>
 <text class="body" x="374" y="447" text-anchor="start">survivors are</text>
 <text class="body" x="374" y="474" text-anchor="start">over-represented.</text>
-<rect x="377" y="492" width="16" height="16" transform="rotate(45 385 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="422" y="492" width="16" height="16" transform="rotate(45 430 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="467" y="492" width="16" height="16" transform="rotate(45 475 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="512" y="492" width="16" height="16" transform="rotate(45 520 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="377" y="537" width="16" height="16" transform="rotate(45 385 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="377" y="492" width="16" height="16" transform="rotate(45 385 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="422" y="492" width="16" height="16" transform="rotate(45 430 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="467" y="492" width="16" height="16" transform="rotate(45 475 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="512" y="492" width="16" height="16" transform="rotate(45 520 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="377" y="537" width="16" height="16" transform="rotate(45 385 545)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
 <circle cx="430" cy="545" r="8" fill="#777"/>
 <circle cx="475" cy="545" r="8" fill="#777"/>
 <circle cx="520" cy="545" r="8" fill="#777"/>
@@ -71,13 +72,13 @@
 <text class="body" x="654" y="449" text-anchor="start">disproportionately</text>
 <text class="body" x="654" y="476" text-anchor="start">to future</text>
 <text class="body" x="654" y="503" text-anchor="start">population.</text>
-<rect x="657" y="492" width="16" height="16" transform="rotate(45 665 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="702" y="492" width="16" height="16" transform="rotate(45 710 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="747" y="492" width="16" height="16" transform="rotate(45 755 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="792" y="492" width="16" height="16" transform="rotate(45 800 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="657" y="537" width="16" height="16" transform="rotate(45 665 545)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="702" y="537" width="16" height="16" transform="rotate(45 710 545)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="747" y="537" width="16" height="16" transform="rotate(45 755 545)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="657" y="492" width="16" height="16" transform="rotate(45 665 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="702" y="492" width="16" height="16" transform="rotate(45 710 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="747" y="492" width="16" height="16" transform="rotate(45 755 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="792" y="492" width="16" height="16" transform="rotate(45 800 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="657" y="537" width="16" height="16" transform="rotate(45 665 545)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="702" y="537" width="16" height="16" transform="rotate(45 710 545)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="747" y="537" width="16" height="16" transform="rotate(45 755 545)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
 <circle cx="800" cy="545" r="8" fill="#777"/>
 <circle cx="665" cy="590" r="8" fill="#777"/>
 <circle cx="710" cy="590" r="8" fill="#777"/>
@@ -94,15 +95,15 @@
 <text class="body" x="934" y="474" text-anchor="start">continues without</text>
 <text class="body" x="934" y="501" text-anchor="start">effective</text>
 <text class="body" x="934" y="528" text-anchor="start">rotation/strategy.</text>
-<rect x="937" y="492" width="16" height="16" transform="rotate(45 945 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="982" y="492" width="16" height="16" transform="rotate(45 990 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="1027" y="492" width="16" height="16" transform="rotate(45 1035 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="1072" y="492" width="16" height="16" transform="rotate(45 1080 500)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="937" y="537" width="16" height="16" transform="rotate(45 945 545)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="982" y="537" width="16" height="16" transform="rotate(45 990 545)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="1027" y="537" width="16" height="16" transform="rotate(45 1035 545)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="1072" y="537" width="16" height="16" transform="rotate(45 1080 545)" fill="#fff" stroke="#111" stroke-width="3"/>
-<rect x="937" y="582" width="16" height="16" transform="rotate(45 945 590)" fill="#fff" stroke="#111" stroke-width="3"/>
+<rect x="937" y="492" width="16" height="16" transform="rotate(45 945 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="982" y="492" width="16" height="16" transform="rotate(45 990 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="1027" y="492" width="16" height="16" transform="rotate(45 1035 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="1072" y="492" width="16" height="16" transform="rotate(45 1080 500)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="937" y="537" width="16" height="16" transform="rotate(45 945 545)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="982" y="537" width="16" height="16" transform="rotate(45 990 545)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="1027" y="537" width="16" height="16" transform="rotate(45 1035 545)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="1072" y="537" width="16" height="16" transform="rotate(45 1080 545)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<rect x="937" y="582" width="16" height="16" transform="rotate(45 945 590)" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
 <circle cx="990" cy="590" r="8" fill="#777"/>
 <circle cx="1035" cy="590" r="8" fill="#777"/>
 <circle cx="1080" cy="590" r="8" fill="#777"/>

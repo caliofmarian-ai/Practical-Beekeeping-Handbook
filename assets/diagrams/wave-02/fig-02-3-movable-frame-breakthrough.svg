@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="landscape-standard" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <title id="title">Figure 2.3 — Movable-Frame Breakthrough</title>
 <desc id="desc">Technical comparison of fixed comb attached to a hive wall versus removable frames preserving deliberate bee-space gaps.</desc>
 <defs>
