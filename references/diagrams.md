@@ -4,9 +4,9 @@
 
 **SELECTED V1 DIAGRAM PRODUCTION COMPLETE — READY FOR LAYOUT PROOF**
 
-This register defines the book-wide system for process flows, biological timelines, decision trees, data graphics, maps, technical cutaways, comparison matrices, and research/evidence diagrams. It converts many chapter-specific visual ideas into a coherent diagram language.
+This register defines the book-wide system for process flows, biological timelines, decision trees, data graphics, maps, technical cutaways, comparison matrices, and research/evidence diagrams. The selected Version 1 production set has now been produced and reconciled into the PBH-v1 visual language.
 
-Issue #101 remains open until final diagram assets are produced, reviewed, placed, and proof-checked.
+Issue #101 remains open because diagram placement, page-context review and final PDF/EPUB/print proof are still required.
 
 ---
 
