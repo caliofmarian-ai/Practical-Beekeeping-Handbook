@@ -10,9 +10,9 @@
 The A_CORE registry remains fixed at **40 photographs**. Source coverage has advanced to:
 
 - **15 / 40** A_CORE photographs with at least one documented candidate;
-- **13 / 40** with at least one candidate whose reuse rights are already clear (public domain, CC0, CC BY or CC BY-SA);
+- **14 / 40** with at least one candidate whose reuse rights are already clear (public domain, CC0, CC BY or CC BY-SA);
 - **11 / 40** with at least one technical `MATCH`;
-- **6 / 40** with a currently selected source that has both strong technical match and publication-ready rights/resolution evidence.
+- **7 / 40** with a currently selected source that has both strong technical match and publication-ready rights/resolution evidence.
 
 ## Newly promoted strong candidates
 
@@ -37,6 +37,16 @@ Wikimedia Commons file **Honey bee with Deformed Wing Virus and Varroa destructo
 - selected as the current primary source.
 
 The final caption must still state that visible deformed wings do **not** quantify current Varroa infestation.
+
+### P40.02 — Tropilaelaps Specimen
+
+USDA Bee Mite ID / Wikimedia Commons **1-Tropilaelaps female dors20x.jpg**:
+
+- 1293 × 1200 px;
+- public-domain USDA work;
+- dorsal female specimen at 20×;
+- selected as the current primary source;
+- caption remains genus-level unless species identity is independently confirmed for the exact specimen.
 
 ## Strong candidates awaiting layout/extraction checks
 
