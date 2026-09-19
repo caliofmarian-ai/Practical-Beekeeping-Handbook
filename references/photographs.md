@@ -15,7 +15,7 @@ The 93-shot register has been rationalised into **40 A_CORE**, **25 B_SUPPORTING
 The first sourcing pass separates real diagnostic/documentary evidence, real field/process photography, and controlled real capture. Generated imagery is **not** accepted as a final photograph. USDA ARS public-domain candidates are now recorded for the first A_CORE subjects; final approval still requires technical match, resolution and placement review.
 
 
-**Pass 02 update:** diagnostic/brood sourcing now has **15/40 A_CORE** items with candidates and **6/40** currently selected sources that meet the present technical/rights/resolution gate. High-value additions include healthy capped worker brood (CC BY 4.0), a deformed-wing/Varroa photograph (CC0), an EFB candidate (CC BY-SA 4.0, single-column size only), and peer-reviewed Nosema microscopy (CC BY 4.0, resolution check pending).
+**Pass 02 update:** diagnostic/brood sourcing now has **15/40 A_CORE** items with candidates and **7/40** currently selected sources that meet the present technical/rights/resolution gate. High-value additions include healthy capped worker brood (CC BY 4.0), a deformed-wing/Varroa photograph (CC0), an EFB candidate (CC BY-SA 4.0, single-column size only), and peer-reviewed Nosema microscopy (CC BY 4.0, resolution check pending), plus a public-domain USDA Tropilaelaps specimen.
 ---
 
 ## 1. Photograph Selection Rules
