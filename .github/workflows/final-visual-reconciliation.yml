@@ -1,0 +1,49 @@
+name: final-visual-reconciliation
+on:
+  push:
+    branches:
+      - publishing/visual-reconciliation-final
+    paths:
+      - "scripts/finalize_visual_reconciliation.py"
+      - ".github/workflows/final-visual-reconciliation.yml"
+permissions:
+  contents: write
+jobs:
+  final-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publishing/visual-reconciliation-final
+          fetch-depth: 0
+      - name: Install render dependencies
+        run: python3 -m pip install --quiet cairosvg pillow
+      - name: Apply and audit final visual reconciliation
+        run: python3 scripts/finalize_visual_reconciliation.py --apply
+      - name: Commit final reconciliation output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/diagrams assets/visual-reconciliation-final.json docs/reviews/VISUAL_RECONCILIATION_FINAL.md
+          if git diff --cached --quiet; then
+            echo "No final reconciliation changes."
+          else
+            git commit -m "Finalize PBH-v1 visual reconciliation"
+            git push origin HEAD:publishing/visual-reconciliation-final
+          fi
+      - name: Enforce READY_FOR_LAYOUT_PROOF
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          r=json.loads(Path("assets/visual-reconciliation-final.json").read_text())
+          assert r["svg_count"]==256
+          assert r["status"]=="READY_FOR_LAYOUT_PROOF", r
+          assert not r["render_failures"]
+          assert not r["edge_clipping_flags"]
+          assert not r["red_green_redundancy_failures"]
+          assert not r["minimum_font_failures"]
+          assert not r["family_marker_failures"]
+          assert not r["missing_registry_items"]
+          print("PASS: PBH-v1 final visual reconciliation READY_FOR_LAYOUT_PROOF")
+          PY
