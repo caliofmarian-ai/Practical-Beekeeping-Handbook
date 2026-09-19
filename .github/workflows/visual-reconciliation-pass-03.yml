@@ -1,0 +1,33 @@
+name: visual-reconciliation-pass-03
+on:
+  push:
+    branches:
+      - publishing/visual-reconciliation-pass-03
+    paths:
+      - "scripts/proof_visual_reconciliation.py"
+      - ".github/workflows/visual-reconciliation-pass-03.yml"
+permissions:
+  contents: write
+jobs:
+  proof:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publishing/visual-reconciliation-pass-03
+          fetch-depth: 0
+      - name: Install render dependencies
+        run: python3 -m pip install --quiet cairosvg pillow
+      - name: Run proof-level visual QA
+        run: python3 scripts/proof_visual_reconciliation.py
+      - name: Commit QA report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/visual-reconciliation-pass-03.json docs/reviews/VISUAL_RECONCILIATION_PASS_03.md
+          if git diff --cached --quiet; then
+            echo "No report changes."
+          else
+            git commit -m "Add PBH-v1 proof-level visual QA report"
+            git push origin HEAD:publishing/visual-reconciliation-pass-03
+          fi
