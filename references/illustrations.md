@@ -4,9 +4,9 @@
 
 **SELECTED V1 VISUAL PRODUCTION COMPLETE — READY FOR LAYOUT PROOF**
 
-This register consolidates the illustration planning for Chapters 1–74. It is not a substitute for the final production assets. In accordance with the handbook workflow, no provisional artwork is inserted into the reader-facing manuscript. Final professional illustrations will be generated, reviewed, rights-cleared where necessary, and placed during layout.
+This register began as the pre-layout illustration plan for Chapters 1–74. The rationalised Version 1 production set is now complete at **230 / 230 A_CORE figures**, and the repository contains **256 reconciled SVG assets** including canonical masters, derivatives and supporting production assets. PBH-v1 has passed render/accessibility proof and the final editorial visual spot-check.
 
-Issue #100 remains open until those assets are complete.
+Issue #100 remains open because figure placement, page-context review and final PDF/EPUB/print proof are still required.
 
 ---
 
