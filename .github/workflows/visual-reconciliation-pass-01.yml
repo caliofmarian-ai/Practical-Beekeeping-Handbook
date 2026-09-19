@@ -1,0 +1,53 @@
+name: visual-reconciliation-pass-01
+
+on:
+  push:
+    branches:
+      - publishing/visual-reconciliation-pass-01
+    paths:
+      - "scripts/reconcile_visual_foundations.py"
+      - "docs/standards/VISUAL_FOUNDATIONS_V1.md"
+      - ".github/workflows/visual-reconciliation-pass-01.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publishing/visual-reconciliation-pass-01
+          fetch-depth: 0
+      - name: Apply safe global visual foundations
+        run: python3 scripts/reconcile_visual_foundations.py --apply
+      - name: Validate 256 SVGs and reconciliation metadata
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+          files=sorted(Path("assets/diagrams").glob("**/*.svg"))
+          assert len(files)==256, len(files)
+          for p in files:
+              t=p.read_text(encoding="utf-8")
+              ET.fromstring(t)
+              assert 'data-visual-system="PBH-v1"' in t, p
+              assert 'data-canvas-profile=' in t, p
+              assert 'preserveAspectRatio="xMidYMid meet"' in t, p
+              assert 'role="img"' in t, p
+              assert 'aria-labelledby="title desc"' in t, p
+              assert '<title' in t and '<desc' in t, p
+          print("PASS: 256 SVGs reconciled to PBH-v1 foundations")
+          PY
+      - name: Commit reconciliation output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/diagrams assets/visual-reconciliation-pass-01.json docs/reviews/VISUAL_RECONCILIATION_PASS_01.md
+          if git diff --cached --quiet; then
+            echo "No reconciliation changes to commit."
+          else
+            git commit -m "Apply PBH-v1 visual foundations reconciliation"
+            git push origin HEAD:publishing/visual-reconciliation-pass-01
+          fi

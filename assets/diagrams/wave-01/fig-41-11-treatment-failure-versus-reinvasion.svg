@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="portrait-field" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <!-- semantic-color-pass:v1 -->
 <title id="title">Figure 41.11 — Treatment Failure Versus Reinvasion</title>
 <desc id="desc">Two timelines showing a high mite result immediately after control versus a later rise after an initially good verification result.</desc>
 <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/></marker></defs>
 <style>
-.bg{fill:#fff}.title{font:700 38px Arial,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,sans-serif;fill:#52606D}
+.bg{fill:#FFFFFF}.title{font:700 38px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
 .box{fill:#F3E5F5;stroke:#4A148C;stroke-width:3}.box2{fill:#E3F2FD;stroke:#4A148C;stroke-width:3}
 .stop{fill:#FFEBEE;stroke:#C62828;stroke-width:5;stroke-dasharray:12 8}
 .legal{fill:#F3E5F5;stroke:#6A1B9A;stroke-width:4;stroke-dasharray:5 5}
-.label{font:700 24px Arial,sans-serif;fill:#1F2933}.body{font:400 21px Arial,sans-serif;fill:#1F2933}.small{font:400 18px Arial,sans-serif;fill:#52606D}
+.label{font:700 24px Arial,Helvetica,sans-serif;fill:#1F2933}.body{font:400 21px Arial,Helvetica,sans-serif;fill:#1F2933}.small{font:400 18px Arial,Helvetica,sans-serif;fill:#52606D}
 .arrow{stroke:#6A1B9A;stroke-width:4;fill:none;marker-end:url(#arrow)}.thin{stroke:#757575;stroke-width:2;fill:none}
-.hub{fill:#4A148C;stroke:#4A148C;stroke-width:3}.hubtext{font:700 22px Arial,sans-serif;fill:#fff;text-anchor:middle}
+.hub{fill:#4A148C;stroke:#4A148C;stroke-width:3}.hubtext{font:700 22px Arial,Helvetica,sans-serif;fill:#FFFFFF;text-anchor:middle}
 .note{fill:#FFF8E1;stroke:#8D6E63;stroke-width:2}
 .good{fill:#E8F5E9;stroke:#2E7D32;stroke-width:3}
 .warn{fill:#FFF3E0;stroke:#EF6C00;stroke-width:3;stroke-dasharray:8 5}
@@ -25,18 +26,18 @@
 <rect class="stop" x="70" y="220" width="1060" height="420" rx="22" ry="22"/>
 <text class="label" x="94" y="258" text-anchor="start">Pattern A — possible poor efficacy / application problem</text>
 <text class="body" x="94" y="297" text-anchor="start">Pre-control high → control applied → immediate verification remains high.</text>
-<circle cx="170" cy="500" r="22" fill="#222"/>
+<circle cx="170" cy="500" r="22" fill="#1F2933"/>
 <text class="body" x="170" y="555" text-anchor="middle">Pre-count: high</text>
 <path class="arrow" d="M195,500 L405,500"/>
-<circle cx="430" cy="500" r="22" fill="#222"/>
+<circle cx="430" cy="500" r="22" fill="#1F2933"/>
 <text class="body" x="430" y="555" text-anchor="middle">Control</text>
 <path class="arrow" d="M455,500 L665,500"/>
-<circle cx="690" cy="500" r="22" fill="#222"/>
+<circle cx="690" cy="500" r="22" fill="#1F2933"/>
 <text class="body" x="690" y="555" text-anchor="middle">Early</text>
 <text class="body" x="690" y="581" text-anchor="middle">verification:</text>
 <text class="body" x="690" y="607" text-anchor="middle">still high</text>
 <path class="arrow" d="M715,500 L925,500"/>
-<circle cx="950" cy="500" r="22" fill="#222"/>
+<circle cx="950" cy="500" r="22" fill="#1F2933"/>
 <text class="body" x="950" y="555" text-anchor="middle">Investigate</text>
 <text class="body" x="950" y="581" text-anchor="middle">sampling,</text>
 <text class="body" x="950" y="607" text-anchor="middle">application,</text>
@@ -45,17 +46,17 @@
 <rect class="box" x="70" y="730" width="1060" height="430" rx="22" ry="22"/>
 <text class="label" x="94" y="768" text-anchor="start">Pattern B — later reinvasion possible</text>
 <text class="body" x="94" y="807" text-anchor="start">Pre-control high → control → early verification low → later retest rises again.</text>
-<circle cx="170" cy="1010" r="22" fill="#222"/>
+<circle cx="170" cy="1010" r="22" fill="#1F2933"/>
 <text class="body" x="170" y="1065" text-anchor="middle">Pre-count: high</text>
 <path class="arrow" d="M195,1010 L405,1010"/>
-<circle cx="430" cy="1010" r="22" fill="#222"/>
+<circle cx="430" cy="1010" r="22" fill="#1F2933"/>
 <text class="body" x="430" y="1065" text-anchor="middle">Control</text>
 <path class="arrow" d="M455,1010 L665,1010"/>
-<circle cx="690" cy="1010" r="22" fill="#222"/>
+<circle cx="690" cy="1010" r="22" fill="#1F2933"/>
 <text class="body" x="690" y="1065" text-anchor="middle">Early</text>
 <text class="body" x="690" y="1091" text-anchor="middle">verification: low</text>
 <path class="arrow" d="M715,1010 L925,1010"/>
-<circle cx="950" cy="1010" r="22" fill="#222"/>
+<circle cx="950" cy="1010" r="22" fill="#1F2933"/>
 <text class="body" x="950" y="1065" text-anchor="middle">Later retest:</text>
 <text class="body" x="950" y="1091" text-anchor="middle">rising</text>
 <text class="body" x="250" y="1165" text-anchor="start">Investigate robbing, drifting and nearby</text>

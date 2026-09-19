@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="landscape-standard" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <title id="title">Figure 36.6 — Honey Batch Traceability</title><desc id="desc">Farm-to-container honey traceability chain from apiary source through sale and complaint investigation.</desc><defs>
 <marker id="ab" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker>
 <marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>

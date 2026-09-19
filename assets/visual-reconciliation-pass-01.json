@@ -1,0 +1,2778 @@
+{
+  "visual_system": "PBH-v1",
+  "svg_count": 256,
+  "changed_file_count": 256,
+  "changed": {
+    "assets/diagrams/wave-01/fig-21-1-protective-clothing-system.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-21-2-veil-clearance.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-21-3-clothing-selection-by-task.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-21-4-pre-inspection-ppe-check.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-22-1-smoker-anatomy.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-22-3-smoker-fuels.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-22-4-smoker-lighting-sequence.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-22-6-hot-smoker-fire-safety-zone.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-23-1-apiary-hazard-map.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-23-10-smoker-vegetation-fire-safety.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-23-11-treatment-ppe-label-discipline.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-23-2-risk-assessment-sequence.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-23-3-hierarchy-of-controls.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-23-6-local-vs-emergency-sting-signs.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-23-9-heat-cold-dehydration-prevention.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-24-1-starting-units-compared.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-24-10-early-success-warning-signs.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-24-11-new-colony-biosecurity.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-24-2-prepared-receiving-hive.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-24-7-swarm-installation.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-24-9-first-inspection-decision-timeline.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-25-1-inspection-depth-ladder.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-25-11-swarm-preparation-evidence.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-25-13-inspection-record-follow-up-loop.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-25-3-inspection-questions-before-opening.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-25-5-queenright-evidence.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-25-7-brood-pattern-interpretation.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-33-12-emergency-box-separation.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-33-14-post-move-inspection.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-33-4-entrance-closure.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-33-6-vehicle-loading.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-33-7-manual-handling.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-38-1-emergency-triage-sequence.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-38-10-recovery-monitoring-timeline.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-38-2-starvation-versus-accessible-stores.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-38-4-transport-overheating.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-38-6-storm-damaged-hive-recovery.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-38-7-sudden-mortality-evidence-map.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-38-8-suspected-disease-biosecurity-zone.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-39-1-disease-investigation-framework.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-39-13-differential-diagnosis-matrix.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-39-2-healthy-brood-reference.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-39-3-patchy-brood-multiple-causes.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-39-4-afb-suspicion-features.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-40-13-monitoring-method-matches-question.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-40-3-varroa-reproductive-cycle.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-40-4-varroa-on-adult-bees.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-40-7-varroa-tropilaelaps-comparison.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-40-8-tropilaelaps-life-cycle.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-41-10-varroa-control-categories.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-41-11-treatment-failure-versus-reinvasion.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-41-13-pre-treatment-safety-check.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-41-3-adult-bee-feeding-site.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-41-6-adult-bee-wash-procedure.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-41-7-monitoring-methods-compared.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-41-9-thresholds-contextual.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-42-1-nosema-life-cycle.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-42-11-nosema-management-framework.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-42-3-healthy-vs-affected-midgut.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-42-4-dysentery-not-diagnosis.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-42-6-nosema-microscopy-workflow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-42-8-microscopy-vs-pcr.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-42-9-positive-result-not-equal-cause.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-43-10-cleaning-versus-decontamination.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-43-11-antibiotics-do-not-eradicate-afb.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-43-12-afb-trace-back-trace-forward.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-43-13-afb-response-decision-flow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-43-2-healthy-brood-vs-early-afb.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-43-3-disease-stage-cell-series.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-43-6-afb-differential-diagnosis.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-43-9-afb-laboratory-confirmation-pathways.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-44-10-efb-follow-up-after-recovery.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-44-11-efb-apiary-contact-map.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-44-2-healthy-vs-efb-open-brood.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-44-4-efb-versus-afb.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-44-5-efb-differential-diagnosis.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-44-6-efb-disease-expression-colony-stress.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-44-8-efb-sampling-diagnostic-pathway.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-44-9-shook-swarm-principle.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-45-1-infection-versus-clinical-disease.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-45-10-pooled-vs-individual-sampling.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-45-11-viral-differential-diagnosis.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-45-12-virus-management-framework.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-45-2-viral-transmission-routes.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-45-3-varroa-dwv-interaction.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-45-9-rt-pcr-workflow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-46-1-honey-bee-ipm-cycle.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-46-10-treatment-failure-investigation.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-46-12-established-vs-exotic-regulated-pest.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-46-3-surveillance-versus-monitoring.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-46-4-ipm-thresholds-contextual.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-46-6-drone-brood-removal-sequence.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-01/fig-46-9-mode-of-action-resistance-selection.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "font-stack",
+      "white-token",
+      "ink-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-01-2-what-a-colony-contains.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-01-3-beekeeping-year-at-a-glance.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-01-4-beginner-decision-path.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-02-1-beekeeping-development-timeline.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-02-3-movable-frame-breakthrough.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-02-4-global-traditions.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-03-2-pollination-network.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-03-3-managed-vs-wild-pollinators.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-03-4-ecosystem-service-pathway.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-04-1-hive-product-overview.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-04-4-from-colony-to-market.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-05-2-evidence-based-decision-loop.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-05-3-traditional-vs-precision-tools.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-05-4-modern-risk-landscape.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-06-4-internal-systems.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-06-5-caste-anatomy-comparison.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-07-1-complete-development-cycle.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-07-2-larval-growth-feeding.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-07-4-caste-development-comparison.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-08-1-queen-anatomy-identification.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-08-2-queen-reproductive-system.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-08-3-mating-sperm-storage.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-09-1-worker-task-progression.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-09-2-worker-specialised-structures.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-09-3-forager-resource-types.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-10-1-drone-identification.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-10-2-drone-development.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-10-3-drone-reproductive-anatomy.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-11-2-distance-dance-tempo.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-11-4-alarm-recruitment-signals.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-11-5-swarm-nest-site-communication.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-12-2-orientation-vs-robbing.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-12-4-grooming-hygienic-behaviour.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-12-5-clustering-thermoregulation.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-13-1-brood-nest-organisation.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-13-2-colony-superorganism.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-13-4-resource-flow-colony.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-14-1-annual-colony-population-cycle.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-14-2-temperate-warm-climate-patterns.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-14-4-forage-brood-feedback.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-15-2-good-poor-flight-paths.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-15-3-drainage-stand-placement.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-15-4-landscape-forage-mosaic.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-16-1-small-apiary-layout.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-16-2-growth-plan.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-16-5-apiary-identification-system.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-17-1-common-movable-frame-hives.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-17-2-horizontal-vs-vertical-expansion.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-17-4-hive-system-comparison-matrix.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-18-1-exploded-modular-hive.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-18-2-frame-spacing-bee-space.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-18-3-floor-types.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-19-1-frame-anatomy.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-19-4-straight-natural-comb.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-19-5-comb-age-sequence.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-20-1-beginner-equipment-set.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-20-2-equipment-by-task.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-02/fig-20-4-clean-equipment-workflow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-26-1-natural-and-supplemental-nutrition.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-26-6-brood-nest-before-after-overfeeding.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-26-7-feeding-decision-flow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-27-10-autumn-preparation-timeline.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-27-12-winter-feeding-decision-chart.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-27-7-condensation-and-moisture.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-28-1-natural-swarm-cycle.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-28-3-brood-nest-restriction.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-28-5-queen-cell-types.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-29-1-swarm-reproductive-sequence.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-29-10-installing-the-swarm.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-29-15-first-inspection.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-30-1-resources-required-for-a-split.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-30-14-failed-split-decision.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-30-2-donor-colony-assessment.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-31-11-queen-development-status-decision.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-31-2-queen-failure-vs-other-problems.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-31-5-finding-removing-old-queen.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-32-10-queen-cell-protection.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-32-11-mating-nucleus.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-03/fig-32-3-breeder-colony-selection.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-34-1-biological-colony-year.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-34-2-seasonal-decision-framework.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-34-4-seasonal-inspection-objectives.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-35-2-monthly-priority-matrix.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-35-3-one-month-ahead-equipment-planning.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-35-4-monthly-inspection-record.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-36-2-colony-inspection-record-sheet.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-36-6-honey-batch-traceability.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-36-7-record-review-cycle.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-37-1-inspection-mistakes.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-37-3-queen-cell-decision-guide.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-04/fig-37-6-harvest-mistakes.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-47-10-storage-space-decision.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-47-3-environmental-controls-nectar-secretion.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-47-9-colony-population-timing-before-flow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-48-1-harvest-readiness-decision-flow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-48-3-honey-refractometer-use.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-48-4-representative-moisture-sampling.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-49-1-one-way-honey-room-workflow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-49-13-extraction-safety-hazards.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-49-4-tangential-vs-radial-extraction.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-50-1-minimal-processing-flow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-50-2-settling-tank-separation.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-50-3-straining-vs-filtered-honey.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-51-12-storage-sampling.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-51-2-food-safety-quality-shelf-life.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-51-3-hygroscopicity-and-sealing.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-52-2-fresh-broodless-vs-used-brood-comb.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-52-3-colony-preparation-timeline.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-05/fig-52-9-comb-honey-defect-atlas.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-53-1-controlled-vs-uncontrolled-crystallisation.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-53-10-rework-decision.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-53-11-plain-vs-flavoured-controls.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-54-1-wax-source-streams.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-54-12-end-use-decision.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-54-2-new-vs-old-brood-comb.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-55-1-wax-production-worker-bee.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-55-2-wax-source-streams.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-55-3-new-vs-old-brood-comb.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-56-2-pollen-in-colony-nutrition.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-56-3-bee-pollen-vs-bee-bread.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-56-5-colony-cost-over-trapping.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-57-2-propolis-envelope.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-57-4-trap-vs-random-scraping.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06a/fig-57-5-cold-harvest-workflow.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06b/fig-58-1-nurse-bee-glands-royal-jelly.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06b/fig-58-2-queen-vs-worker-feeding.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06b/fig-58-8-royal-jelly-quality-dimensions.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06b/fig-59-1-worker-bee-sting-apparatus.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06b/fig-59-14-medical-evidence-boundary.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-06b/fig-59-4-raw-venom-vs-vit.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-60-2-revenue-streams-biological-inputs.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-60-9-compliance-map.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-61-5-manual-vs-mechanised-cost-tradeoff.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-61-7-buy-rent-share-outsource-decision.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-62-3-value-proposition.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-62-7-floral-claim-evidence.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-63-10-claim-library.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-63-5-brand-proof-pyramid.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-64-4-online-product-page-anatomy.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-64-9-product-specific-shipping.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-65-1-farmers-market-business-model.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-07/fig-65-2-market-day-contribution.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-08/fig-66-1-hive-to-consumer-food-safety-chain.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-08/fig-66-3-product-risk-comparison.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-08/fig-67-1-backward-forward-traceability.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-08/fig-67-12-digital-traceability-resilience.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-08/fig-68-11-legal-change-management.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-08/fig-68-4-primary-production-vs-processing-packing.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-08/fig-69-1-risk-treatment-framework.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-08/fig-69-7-policy-anatomy.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-70-5-organic-feeding-decision.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-70-7-organic-varroa-ipm.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-71-10-biodiversity-monitoring-toolkit.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-71-2-managed-vs-wild-pollinator-community.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-72-11-monitoring-before-after.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-72-9-managed-hive-stocking-sensitive-habitat.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-73-8-confusion-matrix-disease-detection.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-73-9-research-frontiers-map.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-74-10-honey-authenticity-digital-traceability.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ],
+    "assets/diagrams/wave-09/fig-74-2-technology-adoption-framework.svg": [
+      "visual-system-marker",
+      "canvas-profile-marker",
+      "preserve-aspect-ratio",
+      "white-token",
+      "reconciliation-comment"
+    ]
+  },
+  "wave_counts": {
+    "wave-01": 94,
+    "wave-02": 60,
+    "wave-03": 21,
+    "wave-04": 12,
+    "wave-05": 18,
+    "wave-06a": 15,
+    "wave-06b": 6,
+    "wave-07": 12,
+    "wave-08": 8,
+    "wave-09": 10
+  },
+  "canvas_profiles": {
+    "portrait-field": 76,
+    "landscape-scientific": 18,
+    "landscape-standard": 162
+  },
+  "missing_title": [],
+  "missing_desc": [],
+  "missing_aria": [],
+  "missing_visual_system_marker": [],
+  "font_deviation": [],
+  "unknown_colour_files": [
+    {
+      "path": "assets/diagrams/wave-01/fig-21-1-protective-clothing-system.svg",
+      "colours": [
+        "#EAF2F8"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-21-2-veil-clearance.svg",
+      "colours": [
+        "#555",
+        "#EAF2F8"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-22-1-smoker-anatomy.svg",
+      "colours": [
+        "#555",
+        "#EAF2F8"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-23-1-apiary-hazard-map.svg",
+      "colours": [
+        "#555",
+        "#EAF2F8"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-24-2-prepared-receiving-hive.svg",
+      "colours": [
+        "#555",
+        "#777",
+        "#EDF4F8"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-25-7-brood-pattern-interpretation.svg",
+      "colours": [
+        "#3E2B22",
+        "#5A4030",
+        "#795A43"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-33-6-vehicle-loading.svg",
+      "colours": [
+        "#DDD"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-2-starvation-versus-accessible-stores.svg",
+      "colours": [
+        "#555",
+        "#777",
+        "#DDD"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-38-4-transport-overheating.svg",
+      "colours": [
+        "#555",
+        "#DDD"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-2-healthy-brood-reference.svg",
+      "colours": [
+        "#FFFBEA"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-3-patchy-brood-multiple-causes.svg",
+      "colours": [
+        "#3E2B22",
+        "#5A4030",
+        "#795A43"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-4-afb-suspicion-features.svg",
+      "colours": [
+        "#3E2B22",
+        "#4E3024",
+        "#5A4030",
+        "#795A43",
+        "#7A3F20",
+        "#F6E7B0",
+        "#FFF1CF"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-3-varroa-reproductive-cycle.svg",
+      "colours": [
+        "#5C2A1D",
+        "#9E4B2F",
+        "#A67C73",
+        "#B96B4B",
+        "#C6BAA6",
+        "#D8EEF6",
+        "#F3E9D5",
+        "#F4E7A1",
+        "#F7C8D1"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-4-varroa-on-adult-bees.svg",
+      "colours": [
+        "#5C2A1D",
+        "#6D4C41",
+        "#9B6414",
+        "#9E4B2F",
+        "#B96B4B",
+        "#B97714",
+        "#C89A70",
+        "#EAAE3A"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-7-varroa-tropilaelaps-comparison.svg",
+      "colours": [
+        "#5C2A1D",
+        "#603226",
+        "#9E4B2F",
+        "#A95B3A",
+        "#B96B4B",
+        "#BF7654"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-8-tropilaelaps-life-cycle.svg",
+      "colours": [
+        "#603226",
+        "#6D4C41",
+        "#A67C73",
+        "#A95B3A",
+        "#BF7654",
+        "#C6BAA6",
+        "#E1C8B8",
+        "#E7D9CE",
+        "#F3E9D5",
+        "#F4E7A1",
+        "#F4EFE8"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg",
+      "colours": [
+        "#5C2A1D",
+        "#9E4B2F",
+        "#A67C73",
+        "#B96B4B",
+        "#C6BAA6",
+        "#D8EEF6",
+        "#F3E9D5",
+        "#F4E7A1",
+        "#F7C8D1"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-3-adult-bee-feeding-site.svg",
+      "colours": [
+        "#5C2A1D",
+        "#6D4C41",
+        "#9B6414",
+        "#9E4B2F",
+        "#B96B4B",
+        "#B97714",
+        "#C89A70",
+        "#EAAE3A"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-1-nosema-life-cycle.svg",
+      "colours": [
+        "#6D4C41",
+        "#726F67",
+        "#9A673A",
+        "#B96F52",
+        "#C98F4F",
+        "#E5B77D",
+        "#E8E4D8",
+        "#F8D9C5"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-3-healthy-vs-affected-midgut.svg",
+      "colours": [
+        "#6D4C41",
+        "#726F67",
+        "#9A673A",
+        "#B86A8A",
+        "#B96F52",
+        "#C98F4F",
+        "#E5B77D",
+        "#E8E4D8",
+        "#F2D2C3",
+        "#F7D8C7"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-2-healthy-brood-vs-early-afb.svg",
+      "colours": [
+        "#3E2B22",
+        "#5A4030",
+        "#795A43"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-3-disease-stage-cell-series.svg",
+      "colours": [
+        "#4E3024",
+        "#7A3F20",
+        "#8C4A2F",
+        "#F6E7B0"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-2-healthy-vs-efb-open-brood.svg",
+      "colours": [
+        "#9B5E2E",
+        "#C9893E",
+        "#D9A441"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-3-varroa-dwv-interaction.svg",
+      "colours": [
+        "#5C2A1D",
+        "#6D4C41",
+        "#7B1FA2",
+        "#9E4B2F",
+        "#A67C73",
+        "#B96B4B",
+        "#C6BAA6",
+        "#D8E6EC",
+        "#F3E9D5",
+        "#F4E7A1"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-6-drone-brood-removal-sequence.svg",
+      "colours": [
+        "#5C2A1D",
+        "#6D4C41",
+        "#9E4B2F",
+        "#B96B4B",
+        "#FFF3C8",
+        "#FFF8DE"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-9-mode-of-action-resistance-selection.svg",
+      "colours": [
+        "#777"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-02-3-movable-frame-breakthrough.svg",
+      "colours": [
+        "#F4E7A1",
+        "#FFFDF0"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-02-4-global-traditions.svg",
+      "colours": [
+        "#90A4AE",
+        "#F8FBFD"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-2-pollination-network.svg",
+      "colours": [
+        "#81C784",
+        "#BA68C8",
+        "#E57373",
+        "#F4C542"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-3-managed-vs-wild-pollinators.svg",
+      "colours": [
+        "#6A8FB3",
+        "#7B4A7A",
+        "#7FBF6A",
+        "#9CCCE2",
+        "#D46FA8",
+        "#D98CDB",
+        "#F4C542"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-4-ecosystem-service-pathway.svg",
+      "colours": [
+        "#8E63B6",
+        "#A37312",
+        "#B23A3A",
+        "#D46FA8",
+        "#D7E8A2",
+        "#E57373",
+        "#F4C542",
+        "#FFF7CC"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-1-hive-product-overview.svg",
+      "colours": [
+        "#4E3224",
+        "#7A4D31",
+        "#9A6A0A",
+        "#B76E1E",
+        "#C2A85A",
+        "#D8A927",
+        "#E0A51B",
+        "#E6C6D0",
+        "#E7B438",
+        "#F4E7A1",
+        "#FFF3D1"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg",
+      "colours": [
+        "#7A4D31"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-05-3-traditional-vs-precision-tools.svg",
+      "colours": [
+        "#455A64",
+        "#4E5964",
+        "#546E7A",
+        "#607D8B",
+        "#9AA5B1",
+        "#ECEFF1",
+        "#FAFAFA"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg",
+      "colours": [
+        "#2F2B28"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-4-internal-systems.svg",
+      "colours": [
+        "#B68D39",
+        "#C98F4F",
+        "#D69A5C",
+        "#E9B677"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-1-complete-development-cycle.svg",
+      "colours": [
+        "#CFD8DC"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-2-larval-growth-feeding.svg",
+      "colours": [
+        "#C7A94E",
+        "#E2DDD0",
+        "#FFF3D1"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-08-2-queen-reproductive-system.svg",
+      "colours": [
+        "#AD5A7C",
+        "#C97E9D",
+        "#DDEAF8",
+        "#F7D7E2"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-08-3-mating-sperm-storage.svg",
+      "colours": [
+        "#6FA8DC",
+        "#A9A79F",
+        "#DDEAF8",
+        "#FFFDF7"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-09-2-worker-specialised-structures.svg",
+      "colours": [
+        "#9A6A0A",
+        "#E9B93E",
+        "#FFFBEA"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-09-3-forager-resource-types.svg",
+      "colours": [
+        "#4E3224",
+        "#7A4D31",
+        "#90CAF9"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-10-2-drone-development.svg",
+      "colours": [
+        "#7B563A",
+        "#D5A777",
+        "#D7AC7D"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-10-3-drone-reproductive-anatomy.svg",
+      "colours": [
+        "#A85F4A",
+        "#A98252",
+        "#AA7047",
+        "#EAB6A6",
+        "#F0C6A2",
+        "#F6E8C6"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-11-4-alarm-recruitment-signals.svg",
+      "colours": [
+        "#3D2E24",
+        "#D46FA8",
+        "#F4C542"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-11-5-swarm-nest-site-communication.svg",
+      "colours": [
+        "#3D2E24",
+        "#F5D982"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-12-2-orientation-vs-robbing.svg",
+      "colours": [
+        "#3D2E24",
+        "#81C784",
+        "#E7D48A"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-12-4-grooming-hygienic-behaviour.svg",
+      "colours": [
+        "#7E5638",
+        "#FFF5D6"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-12-5-clustering-thermoregulation.svg",
+      "colours": [
+        "#3D2E24"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-13-1-brood-nest-organisation.svg",
+      "colours": [
+        "#5C3C27",
+        "#7E5638",
+        "#B66D13",
+        "#E3A62D",
+        "#F5D66B"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-13-4-resource-flow-colony.svg",
+      "colours": [
+        "#7A4D31"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-14-1-annual-colony-population-cycle.svg",
+      "colours": [
+        "#ECEFF1"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-2-good-poor-flight-paths.svg",
+      "colours": [
+        "#3D2E24",
+        "#607D8B",
+        "#6FAE62",
+        "#9E9E9E",
+        "#ECEFF1"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-3-drainage-stand-placement.svg",
+      "colours": [
+        "#3D2E24",
+        "#6B9B55",
+        "#B3E5FC",
+        "#B9D9A0"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-4-landscape-forage-mosaic.svg",
+      "colours": [
+        "#3D2E24",
+        "#5B9A57",
+        "#6FAE62",
+        "#7C5A38",
+        "#7EAB62",
+        "#90A4AE",
+        "#B36DB8",
+        "#C6A22B",
+        "#D46FA8",
+        "#E6C748",
+        "#F4C542",
+        "#F5E6A9",
+        "#F8FBF4"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-16-1-small-apiary-layout.svg",
+      "colours": [
+        "#3A2D24",
+        "#72A765",
+        "#7C5A38",
+        "#90A4AE",
+        "#CFBE9A",
+        "#D9B57C",
+        "#ECEFF1",
+        "#F8FBF4"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-16-2-growth-plan.svg",
+      "colours": [
+        "#3A2D24",
+        "#CFBE9A",
+        "#D9B57C"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-17-1-common-movable-frame-hives.svg",
+      "colours": [
+        "#3A2D24",
+        "#CFBE9A",
+        "#D9B57C"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-17-2-horizontal-vs-vertical-expansion.svg",
+      "colours": [
+        "#3A2D24",
+        "#CFBE9A",
+        "#D9B57C"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-18-1-exploded-modular-hive.svg",
+      "colours": [
+        "#3A2D24",
+        "#BFA376",
+        "#CFA46A",
+        "#CFBE9A",
+        "#D9B57C",
+        "#EEE1C6"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-18-2-frame-spacing-bee-space.svg",
+      "colours": [
+        "#7A4D31",
+        "#D9B57C",
+        "#F4E7A1"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-18-3-floor-types.svg",
+      "colours": [
+        "#3A2D24",
+        "#607D8B",
+        "#CFBE9A",
+        "#CFD8DC",
+        "#D9B57C"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-19-1-frame-anatomy.svg",
+      "colours": [
+        "#9E9E9E",
+        "#D9B57C",
+        "#FFF9DE"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-19-4-straight-natural-comb.svg",
+      "colours": [
+        "#D9B57C",
+        "#F4E7A1"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-19-5-comb-age-sequence.svg",
+      "colours": [
+        "#76513A",
+        "#C99459",
+        "#F1D277",
+        "#FFF3B0"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-20-1-beginner-equipment-set.svg",
+      "colours": [
+        "#455A64",
+        "#4E5964",
+        "#546E7A",
+        "#90CAF9",
+        "#A9B4BD",
+        "#F6D9BA",
+        "#F7E4A6",
+        "#FAFAFA"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-26-6-brood-nest-before-after-overfeeding.svg",
+      "colours": [
+        "#A65C00",
+        "#B8860B",
+        "#F3C85B"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-28-1-natural-swarm-cycle.svg",
+      "colours": [
+        "#C69C5D"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-28-3-brood-nest-restriction.svg",
+      "colours": [
+        "#A65C00",
+        "#B8860B",
+        "#F3C85B"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-28-5-queen-cell-types.svg",
+      "colours": [
+        "#C69C5D"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-29-1-swarm-reproductive-sequence.svg",
+      "colours": [
+        "#C69C5D"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-29-10-installing-the-swarm.svg",
+      "colours": [
+        "#C69C5D"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-29-15-first-inspection.svg",
+      "colours": [
+        "#F3C85B"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-30-1-resources-required-for-a-split.svg",
+      "colours": [
+        "#C69C5D",
+        "#F3C85B"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-30-2-donor-colony-assessment.svg",
+      "colours": [
+        "#A65C00"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-31-2-queen-failure-vs-other-problems.svg",
+      "colours": [
+        "#F3C85B"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-32-10-queen-cell-protection.svg",
+      "colours": [
+        "#C69C5D"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-32-11-mating-nucleus.svg",
+      "colours": [
+        "#C69C5D",
+        "#F3C85B"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-32-3-breeder-colony-selection.svg",
+      "colours": [
+        "#C69C5D"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-04/fig-37-1-inspection-mistakes.svg",
+      "colours": [
+        "#FFFDF2"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-47-10-storage-space-decision.svg",
+      "colours": [
+        "#F3C85B"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-50-2-settling-tank-separation.svg",
+      "colours": [
+        "#F3E0B7",
+        "#FAFAFA"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-51-12-storage-sampling.svg",
+      "colours": [
+        "#F3E0B7"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-52-2-fresh-broodless-vs-used-brood-comb.svg",
+      "colours": [
+        "#A66F43",
+        "#B78657",
+        "#D7B58A",
+        "#E4C49F"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-52-9-comb-honey-defect-atlas.svg",
+      "colours": [
+        "#F1E0A5",
+        "#F6D79D"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-53-1-controlled-vs-uncontrolled-crystallisation.svg",
+      "colours": [
+        "#F2F6FF"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-54-2-new-vs-old-brood-comb.svg",
+      "colours": [
+        "#8A5A2B",
+        "#A46E3A",
+        "#D2A77C",
+        "#D7B58A",
+        "#E5C9A9"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-55-3-new-vs-old-brood-comb.svg",
+      "colours": [
+        "#8A5A2B",
+        "#A46E3A",
+        "#D2A77C",
+        "#D7B58A",
+        "#E5C9A9"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-56-3-bee-pollen-vs-bee-bread.svg",
+      "colours": [
+        "#9A5C22",
+        "#C06A1B"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-57-2-propolis-envelope.svg",
+      "colours": [
+        "#8A5A2B",
+        "#EFE7D8"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-57-4-trap-vs-random-scraping.svg",
+      "colours": [
+        "#4E342E",
+        "#607D8B",
+        "#8A5A2B",
+        "#D9C3A5"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-58-1-nurse-bee-glands-royal-jelly.svg",
+      "colours": [
+        "#4B4B4B",
+        "#F8F2E6"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-58-2-queen-vs-worker-feeding.svg",
+      "colours": [
+        "#F8F2E6"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-71-10-biodiversity-monitoring-toolkit.svg",
+      "colours": [
+        "#F9A825"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-71-2-managed-vs-wild-pollinator-community.svg",
+      "colours": [
+        "#90A4AE",
+        "#F9A825"
+      ]
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-72-11-monitoring-before-after.svg",
+      "colours": [
+        "#F9A825"
+      ]
+    }
+  ],
+  "stroke_width_inventory": [
+    "0",
+    "0.17600000000000002",
+    "0.192",
+    "0.22",
+    "0.24",
+    "0.256",
+    "0.288",
+    "0.32",
+    "0.33",
+    "0.34500000000000003",
+    "0.36",
+    "0.375",
+    "0.4",
+    "0.405",
+    "0.42000000000000004",
+    "0.44800000000000006",
+    "0.48",
+    "0.5",
+    "0.5249999999999999",
+    "0.54",
+    "0.56",
+    "0.6",
+    "0.6000000000000001",
+    "0.63",
+    "0.64",
+    "0.6400000000000001",
+    "0.66",
+    "0.672",
+    "0.6900000000000001",
+    "0.7",
+    "0.72",
+    "0.7200000000000001",
+    "0.75",
+    "0.78",
+    "0.8",
+    "0.81",
+    "0.8250000000000001",
+    "0.84",
+    "0.8400000000000001",
+    "0.88",
+    "0.8800000000000001",
+    "0.8999999999999999",
+    "0.9",
+    "0.92",
+    "0.96",
+    "1",
+    "1.0",
+    "1.02",
+    "1.0499999999999998",
+    "1.08",
+    "1.1",
+    "1.12",
+    "1.125",
+    "1.1400000000000001",
+    "1.2",
+    "1.2000000000000002",
+    "1.24",
+    "1.26",
+    "1.3",
+    "1.35",
+    "1.36",
+    "1.4",
+    "1.4000000000000001",
+    "1.44",
+    "1.5",
+    "1.52",
+    "1.56",
+    "1.6",
+    "1.6500000000000001",
+    "1.68",
+    "1.7",
+    "1.7000000000000002",
+    "1.75",
+    "1.7999999999999998",
+    "1.8",
+    "1.8599999999999999",
+    "1.9",
+    "10",
+    "10.5",
+    "12",
+    "13.2",
+    "13.5",
+    "14",
+    "16",
+    "16.5",
+    "17.0",
+    "17.05",
+    "18",
+    "18.0",
+    "19.0",
+    "2",
+    "2.0",
+    "2.0999999999999996",
+    "2.1",
+    "2.2",
+    "2.25",
+    "2.3",
+    "2.32",
+    "2.4",
+    "2.5",
+    "2.55",
+    "2.6",
+    "2.7",
+    "2.72",
+    "2.75",
+    "2.8",
+    "2.8499999999999996",
+    "2.9",
+    "20",
+    "20.0",
+    "21.0",
+    "21.45",
+    "21.5",
+    "22",
+    "22.5",
+    "23.099999999999998",
+    "23.25",
+    "23.8",
+    "25.2",
+    "26.599999999999998",
+    "28",
+    "28.0",
+    "29.25",
+    "29.400000000000002",
+    "3",
+    "3.0",
+    "3.1",
+    "3.1500000000000004",
+    "3.2",
+    "3.4",
+    "3.5",
+    "3.75",
+    "3.8",
+    "30.099999999999998",
+    "31.5",
+    "34",
+    "4",
+    "4.050000000000001",
+    "4.35",
+    "5",
+    "5.1",
+    "5.8",
+    "6",
+    "6.25",
+    "6.300000000000001",
+    "6.75",
+    "6.8",
+    "7",
+    "7.15",
+    "8",
+    "8.4",
+    "9",
+    "9.75",
+    "9.9"
+  ]
+}

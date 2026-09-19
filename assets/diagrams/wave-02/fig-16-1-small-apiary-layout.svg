@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="landscape-standard" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <title id="title">Figure 16.1 — Small Apiary Layout</title>
 <desc id="desc">Example small-apiary plan showing staggered hive entrances, landmarks, working aisle, vehicle approach and emergency access.</desc>
 <defs>
@@ -6,7 +7,7 @@
 <marker id="ag" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2E7D32"/></marker>
 <marker id="ao" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#EF6C00"/></marker>
 </defs>
-<rect width="1400" height="1000" fill="#fff"/>
+<rect width="1400" height="1000" fill="#FFFFFF"/>
 <text x="55" y="60" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#1F2933">Figure 16.1 — Small Apiary Layout</text>
 <text x="55" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" fill="#52606D" text-anchor="start">Example layout only; statutory spacing and site rules vary by jurisdiction and property.</text>
 <rect x="60" y="150" width="1280" height="690" rx="22" fill="#F8FBF4" stroke="#90A4AE" stroke-width="2"/>

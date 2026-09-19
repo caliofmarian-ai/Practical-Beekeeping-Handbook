@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1050" viewBox="0 0 1400 1050" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="landscape-scientific" preserveAspectRatio="xMidYMid meet">
+<!-- visual-system:PBH-v1 -->
 <title id="title">Figure 41.1 — Varroa Life Cycle in Worker Brood</title>
 <desc id="desc">Detailed worker-brood Varroa cycle showing pre-capping invasion, feeding site, male-first egg sequence, daughter development and emergence.</desc>
 <defs>
