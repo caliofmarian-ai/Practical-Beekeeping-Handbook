@@ -14,9 +14,11 @@ from __future__ import annotations
 import hashlib
 import json
 import sys
+import time
 from io import BytesIO
 from pathlib import Path
 from urllib.parse import urlparse
+from urllib.error import HTTPError, URLError
 from urllib.request import Request, build_opener, HTTPRedirectHandler
 
 from PIL import Image
@@ -31,6 +33,8 @@ ALLOWED_HOSTS = {
     "upload.wikimedia.org",
 }
 MAX_BYTES = 30 * 1024 * 1024
+MAX_FETCH_ATTEMPTS = 5
+RETRY_DELAYS_SECONDS = (2, 5, 10, 20)
 
 
 class SafeRedirect(HTTPRedirectHandler):
@@ -66,17 +70,35 @@ def fetch_bytes(url: str) -> bytes:
         },
     )
     opener = build_opener(SafeRedirect())
-    with opener.open(req, timeout=60) as response:
-        final_host = (urlparse(response.geturl()).hostname or "").lower()
-        if final_host not in ALLOWED_HOSTS:
-            raise RuntimeError(f"final host not allowlisted: {final_host}")
-        length = response.headers.get("Content-Length")
-        if length and int(length) > MAX_BYTES:
-            raise RuntimeError(f"payload too large: {length} bytes")
-        data = response.read(MAX_BYTES + 1)
-        if len(data) > MAX_BYTES:
-            raise RuntimeError("payload exceeded maximum allowed size")
-        return data
+    for attempt in range(1, MAX_FETCH_ATTEMPTS + 1):
+        try:
+            with opener.open(req, timeout=60) as response:
+                final_host = (urlparse(response.geturl()).hostname or "").lower()
+                if final_host not in ALLOWED_HOSTS:
+                    raise RuntimeError(f"final host not allowlisted: {final_host}")
+                length = response.headers.get("Content-Length")
+                if length and int(length) > MAX_BYTES:
+                    raise RuntimeError(f"payload too large: {length} bytes")
+                data = response.read(MAX_BYTES + 1)
+                if len(data) > MAX_BYTES:
+                    raise RuntimeError("payload exceeded maximum allowed size")
+                return data
+        except HTTPError as exc:
+            retryable = exc.code in {429, 500, 502, 503, 504}
+            if not retryable or attempt == MAX_FETCH_ATTEMPTS:
+                raise
+            retry_after = exc.headers.get("Retry-After")
+            delay = int(retry_after) if retry_after and retry_after.isdigit() else RETRY_DELAYS_SECONDS[attempt - 1]
+            print(f"HTTP {exc.code} for {url}; retrying in {delay}s", file=sys.stderr)
+            time.sleep(delay)
+        except URLError:
+            if attempt == MAX_FETCH_ATTEMPTS:
+                raise
+            delay = RETRY_DELAYS_SECONDS[attempt - 1]
+            print(f"Network error for {url}; retrying in {delay}s", file=sys.stderr)
+            time.sleep(delay)
+
+    raise RuntimeError(f"failed to fetch after {MAX_FETCH_ATTEMPTS} attempts: {url}")
 
 
 def inspect_image(data: bytes):
