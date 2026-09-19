@@ -8,9 +8,10 @@
 **Wave 04 A_CORE coverage:** 12 / 12
 **Wave 05 A_CORE coverage:** 18 / 18
 **Wave 06a A_CORE coverage:** 15 / 15
-**Actual SVGs in Wave 01 + Wave 02 + Wave 03 + Wave 04 + Wave 05 + Wave 06a:** 220
-**Produced A_CORE coverage:** 194 / 230
-**A_CORE still unproduced:** 36
+**Wave 06b A_CORE coverage:** 6 / 6
+**Actual SVGs in Wave 01 + Wave 02 + Wave 03 + Wave 04 + Wave 05 + Wave 06a + Wave 06b:** 226
+**Produced A_CORE coverage:** 200 / 230
+**A_CORE still unproduced:** 30
 **High-fidelity A_CORE still unproduced:** 0
 
 ## Semantic colour legend
@@ -38,9 +39,11 @@ Colour remains supplementary: labels, border/shape logic and captions preserve m
 - [Wave 05 Manifest CSV](visual-index/wave-05-manifest.csv)
 - [Wave 06a — Chapters 53–57 A_CORE Gallery](visual-index/wave-06a.md)
 - [Wave 06a Manifest CSV](visual-index/wave-06a-manifest.csv)
+- [Wave 06b — Chapters 58–59 A_CORE Gallery](visual-index/wave-06b.md)
+- [Wave 06b Manifest CSV](visual-index/wave-06b-manifest.csv)
 
 ## Current production status
 
-Waves 01–05 are complete for their selected A_CORE scopes. Wave 06a adds all 15 A_CORE figures in Chapters 53–57.
+Waves 01–05 are complete for their selected A_CORE scopes. Wave 06a completes Chapters 53–57 and Wave 06b completes the high-fidelity A_CORE scope in Chapters 58–59.
 
 All visuals remain subject to final print-size, greyscale, accessibility and page-layout proof before publication.
