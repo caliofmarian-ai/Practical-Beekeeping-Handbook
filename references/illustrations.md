@@ -2,11 +2,11 @@
 
 ## Status
 
-**PRE-LAYOUT REGISTER — FINAL ARTWORK NOT YET PRODUCED**
+**SELECTED V1 VISUAL PRODUCTION COMPLETE — READY FOR LAYOUT PROOF**
 
-This register consolidates the illustration planning for Chapters 1–74. It is not a substitute for the final production assets. In accordance with the handbook workflow, no provisional artwork is inserted into the reader-facing manuscript. Final professional illustrations will be generated, reviewed, rights-cleared where necessary, and placed during layout.
+This register began as the pre-layout illustration plan for Chapters 1–74. The rationalised Version 1 production set is now complete at **230 / 230 A_CORE figures**, and the repository contains **256 reconciled SVG assets** including canonical masters, derivatives and supporting production assets. PBH-v1 has passed render/accessibility proof and the final editorial visual spot-check.
 
-Issue #100 remains open until those assets are complete.
+Issue #100 remains open because figure placement, page-context review and final PDF/EPUB/print proof are still required.
 
 ---
 
@@ -19,7 +19,7 @@ The final pre-production audit confirms:
 - the archived noncanonical Honey Quality draft and archived plan remain under `docs/reference/` and are **not** part of the canonical figure sequence;
 - the chapter plans currently define **760** planned figures in the machine-readable visual-production manifest.
 
-The canonical plan naming gap is therefore closed. Final artwork itself remains pending production/review under Issue #100.
+The canonical plan naming gap is closed. The selected Version 1 A_CORE artwork has now been produced and reconciled; lower-priority planned visuals remain source material unless promoted during final layout.
 
 ---
 
@@ -169,15 +169,15 @@ The detailed working titles reside in the chapter plan files. This master regist
 
 | Part | Chapters | Plan status | Production status |
 |---|---|---|---|
-| I — Foundations | 1–5 | Complete | Artwork pending |
-| II — Honey Bee Biology | 6–14 | Complete | Artwork pending |
-| III — Starting an Apiary | 15–23 | Complete; standard filenames | Artwork pending |
-| IV — Colony Management | 24–38 | Complete; standard filenames | Artwork pending |
-| V — Bee Health | 39–46 | Complete | Artwork pending |
-| VI — Honey Production | 47–54 | Complete | Artwork pending |
-| VII — Other Hive Products | 55–59 | Complete | Artwork pending |
-| VIII — Business | 60–69 | Complete | Artwork pending |
-| IX — Sustainability | 70–74 | Complete | Artwork pending |
+| I — Foundations | 1–5 | Complete | A_CORE production complete; layout placement pending |
+| II — Honey Bee Biology | 6–14 | Complete | A_CORE production complete; layout placement pending |
+| III — Starting an Apiary | 15–23 | Complete; standard filenames | A_CORE production complete; layout placement pending |
+| IV — Colony Management | 24–38 | Complete; standard filenames | A_CORE production complete; layout placement pending |
+| V — Bee Health | 39–46 | Complete | A_CORE production complete; layout placement pending |
+| VI — Honey Production | 47–54 | Complete | A_CORE production complete; layout placement pending |
+| VII — Other Hive Products | 55–59 | Complete | A_CORE production complete; layout placement pending |
+| VIII — Business | 60–69 | Complete | A_CORE production complete; layout placement pending |
+| IX — Sustainability | 70–74 | Complete | A_CORE production complete; layout placement pending |
 
 ---
 
@@ -373,7 +373,7 @@ Only after all five gates is status changed to **APPROVED FOR LAYOUT**.
 - `PLACED` — inserted into final layout.
 - `PROOF VERIFIED` — checked in final PDF/EPUB/print proof.
 
-At the time of this register, chapter visual content is predominantly **PLANNED**. That is intentional; final artwork production is the next publishing phase, not something to fake with placeholders.
+At the current publishing checkpoint, the rationalised Version 1 **A_CORE** production set is complete. Produced SVGs have been reconciled into PBH-v1 and passed proof-level render/accessibility QA plus editorial spot-check. Remaining statuses are principally **PLACED** and **PROOF VERIFIED** during final layout/export.
 
 ---
 
@@ -383,14 +383,16 @@ Issue #100 is complete only when:
 
 - [x] every canonical chapter has a visual plan;
 - [x] the master register exists;
-- [ ] duplicate/merge decisions are finalised after technical review;
-- [ ] every selected figure has a final production brief;
-- [ ] final assets are created;
-- [ ] technical accuracy is approved;
-- [ ] rights/provenance are documented;
-- [ ] alt text is written;
-- [ ] print/greyscale legibility is verified;
+- [x] duplicate/merge decisions are finalised for the selected Version 1 production set;
+- [x] every selected A_CORE figure has a production brief / production record;
+- [x] selected Version 1 A_CORE assets are created (**230 / 230**);
+- [x] technical/scientific review is recorded across the production waves;
+- [x] rights/provenance are documented for produced assets;
+- [x] SVG accessibility metadata (title/description) is present and validated;
+- [x] asset-level render, greyscale and minimum-text proof is complete;
+- [x] full-book PBH-v1 reconciliation and editorial spot-check are complete;
 - [ ] figures are placed in final layout;
+- [ ] long-text/caption/callout behaviour is verified in real page context;
 - [ ] final PDF/EPUB/print proofs are checked.
 
-**Therefore this reference register is a major completion step, but Issue #100 must remain open until layout assets are actually produced and verified.**
+**Current state: READY_FOR_LAYOUT_PROOF. Issue #100 remains open only for placement and final-format proof gates.**

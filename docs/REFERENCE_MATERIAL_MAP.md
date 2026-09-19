@@ -11,8 +11,8 @@ This file maps `docs/BOOK_OUTLINE.md` Reference Material items 75–85 to reposi
 | 79 | Useful Websites | `references/useful-websites.md` | #126 | Complete; final link check pending |
 | 80 | Appendices | `appendices/appendices.md` | #98 | Practical forms/templates complete; formatting into print/digital forms pending |
 | 81 | Tables | `references/tables.md` | #99 | Consolidated reference tables complete; final layout/legality recheck pending |
-| 82 | Illustrations | `references/illustrations.md` + `docs/illustration-plans/**` | #100 | Planning/register complete; final artwork pending |
-| 83 | Diagrams | `references/diagrams.md` | #101 | Diagram system/register complete; final diagram assets pending |
+| 82 | Illustrations | `references/illustrations.md` + `docs/illustration-plans/**` | #100 | Selected v1 production/reconciliation complete; placement/final proof pending |
+| 83 | Diagrams | `references/diagrams.md` | #101 | Selected v1 production/reconciliation complete; placement/final proof pending |
 | 84 | Photographs | `references/photographs.md` | #102 | Shot/provenance register complete; sourcing/rights/final photos pending |
 | 85 | Index | `references/index.md` | #103 | Semantic index complete; final page locators pending pagination |
 
