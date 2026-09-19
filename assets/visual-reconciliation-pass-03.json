@@ -1,0 +1,5785 @@
+{
+  "visual_system": "PBH-v1",
+  "pass": 3,
+  "svg_count": 256,
+  "render_failures": [],
+  "blank_like_renders": [],
+  "critical_text_under_10": [],
+  "small_text_10_to_under_12": [],
+  "long_single_text_nodes": [
+    {
+      "path": "assets/diagrams/wave-01/fig-25-7-brood-pattern-interpretation.svg",
+      "chars": 152,
+      "text": "Brood pattern is evidence, not a diagnosis. A small number of gaps can be normal; heavy irregularity requires cell-level examination and colony history."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-2-healthy-brood-reference.svg",
+      "chars": 146,
+      "text": "Healthy larvae are pearly white and C-shaped; healthy worker-brood cappings are generally coherent, medium brown, slightly convex and unpunctured."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-3-patchy-brood-multiple-causes.svg",
+      "chars": 160,
+      "text": "Do not diagnose from a patchy frame alone. Use cell-level morphology, colony history, Varroa measurement and validated laboratory/official pathways when needed."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-39-4-afb-suspicion-features.svg",
+      "chars": 169,
+      "text": "If AFB is suspected, stop movement as required locally, preserve evidence and follow the competent-authority pathway. Odour or one visual sign is never sufficient alone."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-3-varroa-reproductive-cycle.svg",
+      "chars": 175,
+      "text": "Varroa reproduces inside capped brood. Worker brood commonly yields fewer mature daughters than longer-capped drone brood; do not infer colony mite level from one opened cell."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-4-varroa-on-adult-bees.svg",
+      "chars": 156,
+      "text": "Varroa often shelters between abdominal sclerites or body regions. Absence of visible mites during a quick inspection does not establish a mite-free colony."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-7-varroa-tropilaelaps-comparison.svg",
+      "chars": 117,
+      "text": "Shape is useful for field recognition; species-level confirmation of Tropilaelaps may require specialist examination."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-7-varroa-tropilaelaps-comparison.svg",
+      "chars": 188,
+      "text": "Relative proportions are the key field cue: Varroa is wider than long; Tropilaelaps is longer than wide. Morphology alone may be insufficient for species-level Tropilaelaps identif"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-8-tropilaelaps-life-cycle.svg",
+      "chars": 120,
+      "text": "Tropilaelaps spends nearly its entire reproductive cycle in sealed brood and has only a brief adult-bee dispersal phase."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-40-8-tropilaelaps-life-cycle.svg",
+      "chars": 200,
+      "text": "Recent review evidence places the adult-bee dispersal period at roughly 1\u20132 days in typical conditions. Do not depict Tropilaelaps as completely incapable of short survival or disp"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg",
+      "chars": 162,
+      "text": "The sequence is biologically ordered but not a rigid clock. Worker-brood cells usually permit fewer mature daughters than the longer capped period of drone brood."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-10-varroa-control-categories.svg",
+      "chars": 148,
+      "text": "Exact products and action thresholds vary by jurisdiction, season and colony context. The diagram is a control-category map, not a treatment recipe."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-41-3-adult-bee-feeding-site.svg",
+      "chars": 184,
+      "text": "Diagram is a teaching cutaway, not a literal histological section. The key concept is that Varroa feeds while protected between body plates and targets fat-body-rich abdominal tiss"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-1-nosema-life-cycle.svg",
+      "chars": 195,
+      "text": "Microscopy can detect Nosema-like spores, but routine light microscopy does not reliably distinguish N. apis from N. ceranae. Molecular testing is used when species-level informati"
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-42-3-healthy-vs-affected-midgut.svg",
+      "chars": 169,
+      "text": "Field signs are non-specific. Diagnosis should use appropriate sampling, microscopy and/or molecular testing interpreted with colony history, season and other stressors."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-2-healthy-brood-vs-early-afb.svg",
+      "chars": 155,
+      "text": "Pattern supports investigation but does not prove AFB. Differentials include EFB, sacbrood, chilled brood, queen problems and Varroa-associated brood loss."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-43-3-disease-stage-cell-series.svg",
+      "chars": 154,
+      "text": "Use this series to recognise suspicious stages, not as a stand-alone diagnosis. Suspected AFB requires current local notification/confirmation procedures."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-44-2-healthy-vs-efb-open-brood.svg",
+      "chars": 168,
+      "text": "EFB is not diagnosed by colour, odour or one larval posture alone. Chilling, sacbrood, nutrition, queen problems and other brood disease remain important differentials."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-3-varroa-dwv-interaction.svg",
+      "chars": 113,
+      "text": "Varroa changes viral transmission during development; visible deformed wings represent only one possible outcome."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-45-3-varroa-dwv-interaction.svg",
+      "chars": 177,
+      "text": "Deformed wings strongly suggest Varroa-associated viral damage in the right context, but phenotype alone does not quantify current mite pressure or prove a single virus variant."
+    },
+    {
+      "path": "assets/diagrams/wave-01/fig-46-6-drone-brood-removal-sequence.svg",
+      "chars": 156,
+      "text": "Critical failure mode: if intentionally trapped infested drone brood is left to emerge, the method can add mites back to the colony rather than remove them."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-01-2-what-a-colony-contains.svg",
+      "chars": 134,
+      "text": "This cutaway is schematic. Brood, pollen and honey are organised dynamically and should not be read as fixed to these exact positions."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-01-3-beekeeping-year-at-a-glance.svg",
+      "chars": 124,
+      "text": "Warm climates may not have a broodless winter. Use local phenology and colony observations rather than fixed seasonal dates."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-01-4-beginner-decision-path.svg",
+      "chars": 138,
+      "text": "The path is iterative: records from inspections and monitoring feed back into better decisions rather than a one-way march toward harvest."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-02-1-beekeeping-development-timeline.svg",
+      "chars": 165,
+      "text": "Historical practices should be interpreted in their regional context. The sequence does not imply that every society progressed through the same hive forms or dates."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-02-3-movable-frame-breakthrough.svg",
+      "chars": 125,
+      "text": "Bee space is a design principle, not one universal hive dimension. Actual frame and box dimensions depend on the hive system."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-02-4-global-traditions.svg",
+      "chars": 158,
+      "text": "This overview is deliberately non-linear. Historical hive forms were shaped by local materials, bee species/subspecies, climate, culture and harvesting goals."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-2-pollination-network.svg",
+      "chars": 181,
+      "text": "Managed honey bees can be valuable crop pollinators, but pollinator abundance is not the same as pollinator biodiversity. Conservation should include diverse wild pollinator groups"
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-3-managed-vs-wild-pollinators.svg",
+      "chars": 147,
+      "text": "A good pollinator strategy can support both responsible managed-bee husbandry and wild-pollinator habitat without treating them as interchangeable."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-4-ecosystem-service-pathway.svg",
+      "chars": 112,
+      "text": "The pathway is conditional: some plants depend strongly on animal pollination, others only partly or not at all."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-03-4-ecosystem-service-pathway.svg",
+      "chars": 153,
+      "text": "Do not convert this pathway into a universal percentage of food production. Pollinator dependence varies by crop, cultivar, region and production system."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-1-hive-product-overview.svg",
+      "chars": 152,
+      "text": "Biological activity reported in research does not automatically authorise a consumer health claim. Product category and claims are regulated separately."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg",
+      "chars": 111,
+      "text": "The map separates where a product is made, collected, stored or delivered; not every product is stored in comb."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg",
+      "chars": 169,
+      "text": "The diagram is functional, not anatomical scale. It prevents a common misunderstanding: propolis, royal jelly and venom are not simply 'stored hive products' like honey."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-4-from-colony-to-market.svg",
+      "chars": 122,
+      "text": "Different products need different controls, but every commercial chain must preserve identity, safety and truthful claims."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-04-4-from-colony-to-market.svg",
+      "chars": 136,
+      "text": "Testing is risk- and product-dependent. No amount of processing or marketing can legitimately 'fix' an unidentified or contaminated lot."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-05-2-evidence-based-decision-loop.svg",
+      "chars": 161,
+      "text": "Examples: mite count before/after control, hive weight before/after feeding, colony response after requeening. Verification prevents repeated ineffective action."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-05-3-traditional-vs-precision-tools.svg",
+      "chars": 152,
+      "text": "Use technology as an additional observation layer. Validate unusual sensor readings with colony inspection, calibrated equipment and biological context."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-05-4-modern-risk-landscape.svg",
+      "chars": 162,
+      "text": "A modern management plan should not optimise only honey yield. Colony health, food compliance, environmental risk and business resilience all constrain decisions."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg",
+      "chars": 169,
+      "text": "External structures are linked to function: sensing and feeding at the head, locomotion at the thorax, and major digestive/reproductive/defensive systems in the abdomen."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-4-internal-systems.svg",
+      "chars": 183,
+      "text": "The crop temporarily carries nectar/water; digestion and absorption occur mainly in the midgut. Tracheae deliver gases directly to tissues rather than using blood to transport oxyg"
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-06-5-caste-anatomy-comparison.svg",
+      "chars": 154,
+      "text": "Caste differences arise from sex determination and developmental/nutritional pathways. Queen and worker are female; drones develop from unfertilised eggs."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-1-complete-development-cycle.svg",
+      "chars": 180,
+      "text": "Egg stage is about three days in all castes. Queen development is fastest, worker intermediate, drone slowest; capping and emergence are approximate, not identical in every colony."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-2-larval-growth-feeding.svg",
+      "chars": 158,
+      "text": "Healthy larvae are pearly white, moist/glistening and curled in a C shape on the cell floor. Exact age should not be inferred from size alone without context."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-4-caste-development-comparison.svg",
+      "chars": 133,
+      "text": "Developmental nutrition determines queen versus worker among fertilised female eggs; drones are haploid males from unfertilised eggs."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-07-4-caste-development-comparison.svg",
+      "chars": 161,
+      "text": "Approximate development times are useful for management but should not be treated as a rigid clock. Colony temperature and biological variation can shift timing."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-08-1-queen-anatomy-identification.svg",
+      "chars": 146,
+      "text": "Queen appearance varies with age, mating status and egg-laying state. A newly emerged virgin can be smaller and faster than a mature laying queen."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-08-2-queen-reproductive-system.svg",
+      "chars": 119,
+      "text": "The queen can lay fertilised eggs that develop as females (workers/queens) or unfertilised eggs that develop as drones."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-08-3-mating-sperm-storage.svg",
+      "chars": 138,
+      "text": "Fertilisation status determines sex; nutrition and developmental environment determine queen versus worker among fertilised female larvae."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-09-1-worker-task-progression.svg",
+      "chars": 132,
+      "text": "Age polyethism describes a tendency, not a timetable. Nutrition, season, colony demography and disturbance can reshape worker roles."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-09-2-worker-specialised-structures.svg",
+      "chars": 146,
+      "text": "Structure size and gland development change with worker age and task state. Insets are magnified and not drawn to the same scale as the whole bee."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-09-3-forager-resource-types.svg",
+      "chars": 174,
+      "text": "Nectar and water are transported internally in the crop. Pollen and resin are carried externally on specialised hind-leg structures; neither is carried as liquid in the crop."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-10-1-drone-identification.svg",
+      "chars": 153,
+      "text": "Drones are not 'useless': their primary evolutionary role is mating and gene flow. Their abundance changes seasonally with colony and climate conditions."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-10-2-drone-development.svg",
+      "chars": 160,
+      "text": "Cell/capping appearance supports caste identification, but exact development timing varies. Queen, worker and drone schedules are approximate biological guides."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-10-3-drone-reproductive-anatomy.svg",
+      "chars": 146,
+      "text": "The endophallus is normally inverted inside the abdomen and everts during mating. This figure is educational, not a procedural insemination guide."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-11-2-distance-dance-tempo.svg",
+      "chars": 137,
+      "text": "Do not turn this concept into one universal metres-per-second formula. Honey bees calibrate dance information in a context-sensitive way."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-11-4-alarm-recruitment-signals.svg",
+      "chars": 159,
+      "text": "Alarm and food recruitment are context-dependent communication systems. Do not interpret one odour, vibration or dance element outside the behavioural setting."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-11-5-swarm-nest-site-communication.svg",
+      "chars": 128,
+      "text": "The queen does not select the new cavity. Scout-worker recruitment and quorum dynamics are central to nest-site decision-making."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-12-2-orientation-vs-robbing.svg",
+      "chars": 162,
+      "text": "Do not close a colony completely without considering ventilation. First remove exposed feed/honey, reduce defendable entrance as appropriate and stop the trigger."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-12-4-grooming-hygienic-behaviour.svg",
+      "chars": 126,
+      "text": "Hygienic behaviour can reduce disease expression but does not make a colony immune or cancel monitoring/reporting obligations."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-12-5-clustering-thermoregulation.svg",
+      "chars": 134,
+      "text": "Bearding alone is not proof of dangerous overheating; interpret it with temperature, ventilation, hive condition and colony behaviour."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-13-1-brood-nest-organisation.svg",
+      "chars": 142,
+      "text": "Use the pattern as a reading aid, not a geometric law. A colony can be healthy with stores and brood arranged differently from this schematic."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-13-2-colony-superorganism.svg",
+      "chars": 163,
+      "text": "The queen is not a human-style ruler. Colony organisation is distributed through signals, local interactions, physiology, age structure and environmental feedback."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-13-4-resource-flow-colony.svg",
+      "chars": 166,
+      "text": "Resource flow is not linear inventory handling: the same nectar/water/pollen pool is continually redistributed among adult maintenance, brood, storage and processing."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-14-1-annual-colony-population-cycle.svg",
+      "chars": 154,
+      "text": "The relative timing of brood, forage and adult population is the management signal. Replace these conceptual phases with local phenology, not month names."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-14-2-temperate-warm-climate-patterns.svg",
+      "chars": 137,
+      "text": "A 'January task' in one region may be biologically wrong elsewhere. Base management on brood state, forage, weather and colony condition."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-14-4-forage-brood-feedback.svg",
+      "chars": 160,
+      "text": "Feeding or forage improvement cannot create an instant field force: eggs and larvae require development time before new adults become nurses and later foragers."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-2-good-poor-flight-paths.svg",
+      "chars": 166,
+      "text": "Also consider legal permission, neighbours, livestock, vehicle access and future changes at the site. A good flight path today may become poor after site use changes."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-3-drainage-stand-placement.svg",
+      "chars": 157,
+      "text": "Flood rescue never justifies entering unsafe water, unstable ground or electrical hazards. Site selection should prevent predictable exposure where possible."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-15-4-landscape-forage-mosaic.svg",
+      "chars": 162,
+      "text": "Forage value changes through the year. Record bloom timing and hive response rather than treating a mapped circle around the apiary as uniformly available forage."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-16-1-small-apiary-layout.svg",
+      "chars": 143,
+      "text": "Preserve safe working clearance and a route for emergency access. Entrance orientation and landmarks can also reduce drift and public conflict."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-16-2-growth-plan.svg",
+      "chars": 166,
+      "text": "Growth constraints often appear first in time, storage, transport, disease control and records\u2014not hive availability. Expand only when the operating system can scale."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-16-5-apiary-identification-system.svg",
+      "chars": 164,
+      "text": "Do not use box colour or physical hive position as the only colony identity. Equipment and colony location can change; the record identifier must remain controlled."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-17-1-common-movable-frame-hives.svg",
+      "chars": 149,
+      "text": "Do not mix frame/box dimensions between hive families merely because the equipment looks similar. Local availability and beekeeper ergonomics matter."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-17-2-horizontal-vs-vertical-expansion.svg",
+      "chars": 145,
+      "text": "Choose a system for local equipment availability, management goals, beekeeper physical capacity and compatible processing equipment\u2014not ideology."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-17-4-hive-system-comparison-matrix.svg",
+      "chars": 142,
+      "text": "A 'best hive' claim is incomplete unless it states the management goal, beekeeper constraints, climate, frame standard and local supply chain."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-18-1-exploded-modular-hive.svg",
+      "chars": 113,
+      "text": "Component order shown for a common vertical modular concept; exact dimensions belong to the chosen hive standard."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-18-1-exploded-modular-hive.svg",
+      "chars": 146,
+      "text": "A queen excluder is a management tool, not an essential component of every hive. Do not mix component dimensions from incompatible hive standards."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-18-2-frame-spacing-bee-space.svg",
+      "chars": 122,
+      "text": "Bee space is a functional gap concept; exact target dimensions depend on the hive standard and local equipment tolerances."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-18-2-frame-spacing-bee-space.svg",
+      "chars": 150,
+      "text": "Use the frame and box dimensions specified for your hive family. This figure teaches the consequence of bad spacing, not a universal millimetre value."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-18-3-floor-types.svg",
+      "chars": 130,
+      "text": "Natural mite fall and screened floors are supporting tools. Quantitative Varroa monitoring and effective control remain necessary."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-19-1-frame-anatomy.svg",
+      "chars": 148,
+      "text": "Foundation authenticity cannot be judged reliably from colour alone. Frame and wire geometry must be compatible with the hive and extraction method."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-19-4-straight-natural-comb.svg",
+      "chars": 116,
+      "text": "Fresh natural comb is soft and mechanically vulnerable; guide alignment and hive level strongly affect construction."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-19-4-straight-natural-comb.svg",
+      "chars": 140,
+      "text": "Never rotate or lay heavy new foundationless comb flat in hot conditions unless supported; comb can tear or collapse before wax fully melts."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-19-5-comb-age-sequence.svg",
+      "chars": 129,
+      "text": "Comb replacement decisions should use history, condition, disease/residue risk and management goals\u2014not a colour threshold alone."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-20-1-beginner-equipment-set.svg",
+      "chars": 145,
+      "text": "Add gloves, spare boxes/frames, first-aid and task-specific tools according to colony temperament, hive system, health plan and local conditions."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-20-2-equipment-by-task.svg",
+      "chars": 137,
+      "text": "Food-contact harvest/processing tools should remain visibly and physically separate from dirty field tools and disease-suspect equipment."
+    },
+    {
+      "path": "assets/diagrams/wave-02/fig-20-4-clean-equipment-workflow.svg",
+      "chars": 165,
+      "text": "No single disinfectant or cleaning method is universal. Match decontamination to the suspected pathogen, material, food-contact status and current official guidance."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-26-1-natural-and-supplemental-nutrition.svg",
+      "chars": 111,
+      "text": "Feeding should not mask poor forage, queen failure, disease, parasite pressure or unsuitable apiary conditions."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-27-7-condensation-and-moisture.svg",
+      "chars": 135,
+      "text": "Avoid presenting one opening or insulation thickness as universal. Watch for wet insulation, trapped water and condensation above bees."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-29-1-swarm-reproductive-sequence.svg",
+      "chars": 121,
+      "text": "A clustered swarm is not automatically harmless. Assess access, public risk, heat and handling conditions before capture."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-29-10-installing-the-swarm.svg",
+      "chars": 112,
+      "text": "Different installation methods share the same goals: transfer the queen and workers safely into a prepared hive."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-29-10-installing-the-swarm.svg",
+      "chars": 124,
+      "text": "Choose the method according to swarm condition, queen status, weather and equipment; avoid crushing, overheating and escape."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-30-1-resources-required-for-a-split.svg",
+      "chars": 122,
+      "text": "Quantities depend on season, climate, donor strength and the queen plan. Do not strip the donor below a viable population."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-30-2-donor-colony-assessment.svg",
+      "chars": 115,
+      "text": "A brood pattern or photograph alone cannot certify colony health. Investigate before transferring suspect material."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-31-2-queen-failure-vs-other-problems.svg",
+      "chars": 111,
+      "text": "Requeening follows differential assessment. Brood appearance alone does not establish queen failure or disease."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-31-5-finding-removing-old-queen.svg",
+      "chars": 112,
+      "text": "Minimise disturbance and follow an introduction method appropriate to queen source, colony condition and season."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-32-10-queen-cell-protection.svg",
+      "chars": 119,
+      "text": "Exact transport temperature, duration and manipulation windows depend on validated queen-rearing practice and cell age."
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-32-11-mating-nucleus.svg",
+      "chars": 112,
+      "text": "A mating nucleus must be compact but biologically complete enough to regulate brood, defend itself and support a"
+    },
+    {
+      "path": "assets/diagrams/wave-03/fig-32-11-mating-nucleus.svg",
+      "chars": 117,
+      "text": "Population, food and entrance size depend on local conditions; confirm emergence and mating success before expansion."
+    },
+    {
+      "path": "assets/diagrams/wave-04/fig-34-1-biological-colony-year.svg",
+      "chars": 112,
+      "text": "Use colony phase rather than calendar date alone. Brood expansion leads the later adult-population response, and"
+    },
+    {
+      "path": "assets/diagrams/wave-04/fig-34-1-biological-colony-year.svg",
+      "chars": 113,
+      "text": "All curves are conceptual. Climate, latitude, forage, colony genetics and weather can shift timing substantially."
+    },
+    {
+      "path": "assets/diagrams/wave-04/fig-34-4-seasonal-inspection-objectives.svg",
+      "chars": 112,
+      "text": "Open colonies only for a defined objective and under conditions appropriate to the task. Winter checks can often"
+    },
+    {
+      "path": "assets/diagrams/wave-04/fig-35-2-monthly-priority-matrix.svg",
+      "chars": 119,
+      "text": "Health rows indicate monitoring priority only; they do not imply a treatment product, threshold or authorised schedule."
+    },
+    {
+      "path": "assets/diagrams/wave-04/fig-36-6-honey-batch-traceability.svg",
+      "chars": 145,
+      "text": "This is a legally neutral information model. Exact identifiers, retention periods and recipient records depend on jurisdiction and business type."
+    },
+    {
+      "path": "assets/diagrams/wave-04/fig-37-1-inspection-mistakes.svg",
+      "chars": 111,
+      "text": "Most inspection damage is preventable: prepare the task, keep exposure purposeful and close the hive carefully."
+    },
+    {
+      "path": "assets/diagrams/wave-04/fig-37-3-queen-cell-decision-guide.svg",
+      "chars": 112,
+      "text": "Queen cells must be interpreted with queen status, brood age, colony population, seasonal context and management"
+    },
+    {
+      "path": "assets/diagrams/wave-04/fig-37-6-harvest-mistakes.svg",
+      "chars": 120,
+      "text": "Hygiene and traceability requirements vary by jurisdiction; follow applicable food law and competent-authority guidance."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-47-10-storage-space-decision.svg",
+      "chars": 140,
+      "text": "Undrawn foundation may not function as immediate storage at the same rate as drawn comb. Match supering decisions to colony strength and the"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-47-3-environmental-controls-nectar-secretion.svg",
+      "chars": 138,
+      "text": "These controls interact and differ by plant species, cultivar, soil and weather; no single temperature or humidity threshold is universal."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-47-9-colony-population-timing-before-flow.svg",
+      "chars": 136,
+      "text": "Worker development and age-related task transition vary with colony conditions; the graphic shows planning logic, not an exact universal"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-48-1-harvest-readiness-decision-flow.svg",
+      "chars": 111,
+      "text": "Harvest readiness is a multi-factor decision. A capped appearance alone does not quantify moisture or establish"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-48-1-harvest-readiness-decision-flow.svg",
+      "chars": 143,
+      "text": "Legal composition limits and treatment restrictions differ by jurisdiction and product. Use current competent-authority and label requirements."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-48-3-honey-refractometer-use.svg",
+      "chars": 112,
+      "text": "A refractometer estimates moisture from refractive properties; correct sampling and instrument control matter as"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-48-3-honey-refractometer-use.svg",
+      "chars": 129,
+      "text": "Do not treat one drop or one unverified instrument reading as proof that an entire lot meets a legal or commercial specification."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-48-4-representative-moisture-sampling.svg",
+      "chars": 135,
+      "text": "The exact sampling plan should match lot size, variability, regulatory/commercial requirements and the consequence of a wrong decision."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-49-1-one-way-honey-room-workflow.svg",
+      "chars": 111,
+      "text": "Move product from field-exposed receiving toward protected bulk storage while preventing dirty equipment, waste"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-49-1-one-way-honey-room-workflow.svg",
+      "chars": 136,
+      "text": "Room design must fit the operation and local food-hygiene requirements; the principle is controlled flow and cleanable, dry food-contact"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-49-13-extraction-safety-hazards.svg",
+      "chars": 142,
+      "text": "Follow equipment manufacturer instructions and workplace/food-safety requirements. This plate identifies hazards; it is not a machine-specific"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-49-4-tangential-vs-radial-extraction.svg",
+      "chars": 111,
+      "text": "Extractor geometry changes frame orientation and how honey leaves comb. Both systems require balanced loads and"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-50-1-minimal-processing-flow.svg",
+      "chars": 134,
+      "text": "Avoid unnecessary heat and unnecessary removal of natural constituents. Record any blending or processing that changes lot identity or"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-50-2-settling-tank-separation.svg",
+      "chars": 143,
+      "text": "Settling time depends on viscosity, temperature, particle size and tank geometry. Do not add unnecessary heat solely to force a fixed schedule."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-50-3-straining-vs-filtered-honey.svg",
+      "chars": 111,
+      "text": "Ordinary beekeeping terminology and legal product definitions are not always identical. The legal label depends"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-50-3-straining-vs-filtered-honey.svg",
+      "chars": 138,
+      "text": "Codex and current EU rules provide examples of defined 'filtered honey' concepts, but the artwork does not apply that wording universally."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-51-12-storage-sampling.svg",
+      "chars": 143,
+      "text": "Use a documented sampling plan appropriate to product state, lot size and required tests. Keep sample identity and storage/transport conditions"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-51-2-food-safety-quality-shelf-life.svg",
+      "chars": 145,
+      "text": "There is no single universal shelf life for every honey, package and market. Validate claims against the product, packaging and applicable rules."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-51-3-hygroscopicity-and-sealing.svg",
+      "chars": 143,
+      "text": "Packaging must be food-suitable and compatible with the intended storage period. Condensation, damaged closures and repeated opening can change"
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-52-2-fresh-broodless-vs-used-brood-comb.svg",
+      "chars": 143,
+      "text": "This comparison explains product suitability; it does not imply that every dark brood comb is acutely contaminated or unsafe for all hive uses."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-52-3-colony-preparation-timeline.svg",
+      "chars": 136,
+      "text": "Use local phenology rather than a fixed month. Treatment/harvest restrictions must be resolved before comb intended for sale is exposed."
+    },
+    {
+      "path": "assets/diagrams/wave-05/fig-52-9-comb-honey-defect-atlas.svg",
+      "chars": 133,
+      "text": "Grade against the intended market specification and applicable law. Capping appearance alone is not a direct moisture or purity test."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-53-1-controlled-vs-uncontrolled-crystallisation.svg",
+      "chars": 145,
+      "text": "Crystal size and behaviour depend on honey composition, seed quality and process history. The microstructure is conceptual, not microscope scale."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-53-10-rework-decision.svg",
+      "chars": 135,
+      "text": "Applicable food law, lot specifications and traceability requirements govern whether rework is permitted and how it must be documented."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-53-11-plain-vs-flavoured-controls.svg",
+      "chars": 111,
+      "text": "Ingredient-added products are not just a flavour variation; formulation, allergens, stability, traceability and"
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-53-11-plain-vs-flavoured-controls.svg",
+      "chars": 138,
+      "text": "Product definitions and allergen/labelling rules are jurisdiction-specific. Use current market law and approved ingredient specifications."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-54-1-wax-source-streams.svg",
+      "chars": 142,
+      "text": "Melting and filtering remove physical material but do not automatically eliminate wax-soluble residues or establish disease/grade suitability."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-54-12-end-use-decision.svg",
+      "chars": 143,
+      "text": "Legal and specification requirements differ by market. Melting, filtering or pale colour do not by themselves establish cosmetic, food-additive"
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-54-2-new-vs-old-brood-comb.svg",
+      "chars": 139,
+      "text": "The cross-section is conceptual. Source history and analytical evidence matter more than colour alone when deciding wax quality or end use."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-55-1-wax-production-worker-bee.svg",
+      "chars": 112,
+      "text": "Wax production is an abdominal worker-bee function. The route shown connects the wax-mirror region, external wax"
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-55-1-wax-production-worker-bee.svg",
+      "chars": 142,
+      "text": "Anatomical placement follows current standard beeswax references; the drawing is a labelled technical schematic, not a scale reconstruction of"
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-55-2-wax-source-streams.svg",
+      "chars": 142,
+      "text": "Melting and filtering remove physical material but do not automatically eliminate wax-soluble residues or establish disease/grade suitability."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-55-3-new-vs-old-brood-comb.svg",
+      "chars": 139,
+      "text": "The cross-section is conceptual. Source history and analytical evidence matter more than colour alone when deciding wax quality or end use."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-56-2-pollen-in-colony-nutrition.svg",
+      "chars": 142,
+      "text": "Pollen composition varies greatly by plant source. The figure shows functional roles, not a universal nutrient recipe or a human-health claim."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-56-3-bee-pollen-vs-bee-bread.svg",
+      "chars": 142,
+      "text": "Avoid reducing bee-bread formation to a single universal 'fermentation recipe'; botanical source, colony handling and storage conditions vary."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-56-5-colony-cost-over-trapping.svg",
+      "chars": 111,
+      "text": "Commercial pollen harvest competes directly with colony nutrition; trap operation must respond to actual colony"
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-56-5-colony-cost-over-trapping.svg",
+      "chars": 125,
+      "text": "The figure intentionally omits a universal trap-on schedule or percentage. Monitor colony strength, brood, intake and stores."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-57-2-propolis-envelope.svg",
+      "chars": 143,
+      "text": "Extent of propolis use varies among colonies, genetics and nesting conditions. This figure illustrates functions without implying one universal"
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-57-4-trap-vs-random-scraping.svg",
+      "chars": 132,
+      "text": "Trap material itself must be suitable for the intended product system. Colour alone cannot prove propolis identity, purity or grade."
+    },
+    {
+      "path": "assets/diagrams/wave-06a/fig-57-5-cold-harvest-workflow.svg",
+      "chars": 142,
+      "text": "No single temperature is prescribed because trap design and validated handling systems differ. Prevent contamination and maintain traceability"
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-58-1-nurse-bee-glands-royal-jelly.svg",
+      "chars": 131,
+      "text": "Anatomy follows current honey-bee gland literature. The drawing is intentionally schematic; acini and ducts are not shown to scale."
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-58-2-queen-vs-worker-feeding.svg",
+      "chars": 141,
+      "text": "This is a feeding-pattern concept, not a fixed recipe or exact volume schedule. Larval age, colony condition and nurse-bee physiology matter."
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-58-8-royal-jelly-quality-dimensions.svg",
+      "chars": 142,
+      "text": "Use the current specification and validated methods relevant to the market. Do not convert one laboratory marker into a universal freshness or"
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-59-1-worker-bee-sting-apparatus.svg",
+      "chars": 144,
+      "text": "Based on current functional-anatomy literature including 3D/micro-CT work. Spatial relationships are simplified for teaching; the image is not a"
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-59-14-medical-evidence-boundary.svg",
+      "chars": 145,
+      "text": "Venom immunotherapy for sting allergy is the established specialist use shown here. Other claimed therapeutic uses require their own high-quality"
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-59-4-raw-venom-vs-vit.svg",
+      "chars": 111,
+      "text": "Raw bee venom and venom immunotherapy are not interchangeable categories. VIT is a regulated specialist medical"
+    },
+    {
+      "path": "assets/diagrams/wave-06b/fig-59-4-raw-venom-vs-vit.svg",
+      "chars": 144,
+      "text": "Do not attempt self-desensitisation. A history of systemic sting reaction warrants medical assessment; emergency care should follow the person's"
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-60-2-revenue-streams-biological-inputs.svg",
+      "chars": 142,
+      "text": "Revenue streams can compete for the same colony resources. Growth should be limited by biological capacity, labour, processing, compliance and"
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-60-9-compliance-map.svg",
+      "chars": 129,
+      "text": "Always check current local rules and competent-authority guidance. Requirements vary by jurisdiction, business model and product."
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-61-5-manual-vs-mechanised-cost-tradeoff.svg",
+      "chars": 138,
+      "text": "No fixed colony count triggers mechanisation. Use current quotations, realistic throughput, maintenance, labour and financing assumptions."
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-61-7-buy-rent-share-outsource-decision.svg",
+      "chars": 125,
+      "text": "Recalculate when volume, labour cost, finance cost or market access changes. A formerly correct choice can become uneconomic."
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-62-3-value-proposition.svg",
+      "chars": 137,
+      "text": "Health, origin, organic and environmental claims require the evidence and legal basis applicable to the market where the product is sold."
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-62-7-floral-claim-evidence.svg",
+      "chars": 140,
+      "text": "The exact evidentiary and naming requirements are jurisdiction-specific. Use current market law, recognised methods and competent laboratory"
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-63-10-claim-library.svg",
+      "chars": 136,
+      "text": "This is a governance model, not a universal legal form. Each claim still requires review against the current rules of the target market."
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-63-5-brand-proof-pyramid.svg",
+      "chars": 112,
+      "text": "A brand promise is strongest when the visible marketing layer rests on traceable product, service and compliance"
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-63-5-brand-proof-pyramid.svg",
+      "chars": 141,
+      "text": "A logo, rustic design or sustainability language does not substitute for evidence. Keep proof records current for every claim the brand uses."
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-64-4-online-product-page-anatomy.svg",
+      "chars": 137,
+      "text": "Check current distance-selling and consumer rules for the target market. Do not hide mandatory product information behind marketing copy."
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-64-9-product-specific-shipping.svg",
+      "chars": 112,
+      "text": "Shipping design follows the product. Glass, fragile comb and perishable chilled/frozen products should not share"
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-64-9-product-specific-shipping.svg",
+      "chars": 143,
+      "text": "Use validated packaging and carrier arrangements appropriate to the route, season and product specification. Jurisdictional transport rules may"
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-65-1-farmers-market-business-model.svg",
+      "chars": 144,
+      "text": "Organiser rules, local trading permissions and food-business requirements differ by jurisdiction. Check them before committing stock and labour."
+    },
+    {
+      "path": "assets/diagrams/wave-07/fig-65-2-market-day-contribution.svg",
+      "chars": 126,
+      "text": "The values shown are illustrative proportions, not recommended prices or universal costs. Replace them with actual event data."
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-66-1-hive-to-consumer-food-safety-chain.svg",
+      "chars": 111,
+      "text": "Food safety begins in the apiary and continues through handling, processing, storage, packing and distribution."
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-66-1-hive-to-consumer-food-safety-chain.svg",
+      "chars": 140,
+      "text": "Controls must match the product and operation. Primary production, later processing and retail may sit under different hygiene requirements."
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-66-3-product-risk-comparison.svg",
+      "chars": 142,
+      "text": "This is a relative control comparison, not a legal risk ranking. Apply the specification and competent-authority requirements relevant to each"
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-67-1-backward-forward-traceability.svg",
+      "chars": 141,
+      "text": "External legal duties vary by jurisdiction; internal traceability should be designed strongly enough to support investigation, withdrawal and"
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-67-12-digital-traceability-resilience.svg",
+      "chars": 112,
+      "text": "Digital records improve search and scale only if they remain available during an incident. Backup without tested"
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-67-12-digital-traceability-resilience.svg",
+      "chars": 140,
+      "text": "Security controls should match the operation and data sensitivity. Do not store the only copy of traceability evidence inside one account or"
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-68-11-legal-change-management.svg",
+      "chars": 139,
+      "text": "Use official current sources. A blog, old checklist or previous label is not sufficient evidence that a legal requirement is still current."
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-68-4-primary-production-vs-processing-packing.svg",
+      "chars": 145,
+      "text": "Do not copy this diagram as a universal registration rule. Check the current authority and legal classification in the country where the business"
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-69-1-risk-treatment-framework.svg",
+      "chars": 134,
+      "text": "Policy availability and legal/contractual insurance duties vary. Base cover decisions on the actual business risk register and current"
+    },
+    {
+      "path": "assets/diagrams/wave-08/fig-69-7-policy-anatomy.svg",
+      "chars": 139,
+      "text": "Policy wording varies by insurer and jurisdiction. Seek competent insurance advice for material risks rather than assuming a generic policy"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-70-5-organic-feeding-decision.svg",
+      "chars": 141,
+      "text": "EU example: current Regulation (EU) 2018/848 permits feeding only where colony survival is endangered by climatic conditions, using specified"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-70-7-organic-varroa-ipm.svg",
+      "chars": 141,
+      "text": "No dose or universal treatment threshold is shown. Permitted substances under an organic standard are not automatically authorised veterinary"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-71-10-biodiversity-monitoring-toolkit.svg",
+      "chars": 143,
+      "text": "Choose methods that match the conservation objective and identification skill available. More complex technology does not automatically produce"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-71-2-managed-vs-wild-pollinator-community.svg",
+      "chars": 144,
+      "text": "This comparison does not imply that managed honey bees are always harmful or always beneficial to wild pollinators; effects depend on landscape,"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-72-11-monitoring-before-after.svg",
+      "chars": 137,
+      "text": "Where possible, add reference/control sites and repeated seasons; a simple before/after comparison alone cannot rule out weather or wider"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-72-9-managed-hive-stocking-sensitive-habitat.svg",
+      "chars": 111,
+      "text": "Managed hive placement near high-value habitat should begin with ecological objectives, baseline evidence and a"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-72-9-managed-hive-stocking-sensitive-habitat.svg",
+      "chars": 143,
+      "text": "No universal hive-density threshold is shown because carrying capacity and competition risk vary with habitat, season, floral resources, colony"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-73-8-confusion-matrix-disease-detection.svg",
+      "chars": 139,
+      "text": "Performance estimated on training/internal data can be optimistic. External validation on independent colonies, locations and conditions is"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-73-9-research-frontiers-map.svg",
+      "chars": 145,
+      "text": "Separate established findings from emerging capability and speculative application. Replication, independent validation and practical effect size"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-74-10-honey-authenticity-digital-traceability.svg",
+      "chars": 138,
+      "text": "Use validated analytical methods and current origin/labelling law. Blockchain or other advanced ledgers are optional infrastructure, not a"
+    },
+    {
+      "path": "assets/diagrams/wave-09/fig-74-2-technology-adoption-framework.svg",
+      "chars": 145,
+      "text": "A useful tool can still be the wrong purchase at one scale or location. Keep human override and exportable records for safety-critical decisions."
+    }
+  ],
+  "red_green_dual_semantic_files": [
+    "assets/diagrams/wave-01/fig-21-1-protective-clothing-system.svg",
+    "assets/diagrams/wave-01/fig-21-2-veil-clearance.svg",
+    "assets/diagrams/wave-01/fig-21-3-clothing-selection-by-task.svg",
+    "assets/diagrams/wave-01/fig-21-4-pre-inspection-ppe-check.svg",
+    "assets/diagrams/wave-01/fig-22-1-smoker-anatomy.svg",
+    "assets/diagrams/wave-01/fig-22-3-smoker-fuels.svg",
+    "assets/diagrams/wave-01/fig-22-4-smoker-lighting-sequence.svg",
+    "assets/diagrams/wave-01/fig-22-6-hot-smoker-fire-safety-zone.svg",
+    "assets/diagrams/wave-01/fig-23-1-apiary-hazard-map.svg",
+    "assets/diagrams/wave-01/fig-23-10-smoker-vegetation-fire-safety.svg",
+    "assets/diagrams/wave-01/fig-23-11-treatment-ppe-label-discipline.svg",
+    "assets/diagrams/wave-01/fig-23-2-risk-assessment-sequence.svg",
+    "assets/diagrams/wave-01/fig-23-3-hierarchy-of-controls.svg",
+    "assets/diagrams/wave-01/fig-23-6-local-vs-emergency-sting-signs.svg",
+    "assets/diagrams/wave-01/fig-23-9-heat-cold-dehydration-prevention.svg",
+    "assets/diagrams/wave-01/fig-24-1-starting-units-compared.svg",
+    "assets/diagrams/wave-01/fig-24-10-early-success-warning-signs.svg",
+    "assets/diagrams/wave-01/fig-24-11-new-colony-biosecurity.svg",
+    "assets/diagrams/wave-01/fig-24-2-prepared-receiving-hive.svg",
+    "assets/diagrams/wave-01/fig-24-7-swarm-installation.svg",
+    "assets/diagrams/wave-01/fig-24-9-first-inspection-decision-timeline.svg",
+    "assets/diagrams/wave-01/fig-25-1-inspection-depth-ladder.svg",
+    "assets/diagrams/wave-01/fig-25-11-swarm-preparation-evidence.svg",
+    "assets/diagrams/wave-01/fig-25-13-inspection-record-follow-up-loop.svg",
+    "assets/diagrams/wave-01/fig-25-3-inspection-questions-before-opening.svg",
+    "assets/diagrams/wave-01/fig-25-5-queenright-evidence.svg",
+    "assets/diagrams/wave-01/fig-33-12-emergency-box-separation.svg",
+    "assets/diagrams/wave-01/fig-33-14-post-move-inspection.svg",
+    "assets/diagrams/wave-01/fig-33-4-entrance-closure.svg",
+    "assets/diagrams/wave-01/fig-33-6-vehicle-loading.svg",
+    "assets/diagrams/wave-01/fig-33-7-manual-handling.svg",
+    "assets/diagrams/wave-01/fig-38-1-emergency-triage-sequence.svg",
+    "assets/diagrams/wave-01/fig-38-10-recovery-monitoring-timeline.svg",
+    "assets/diagrams/wave-01/fig-38-2-starvation-versus-accessible-stores.svg",
+    "assets/diagrams/wave-01/fig-38-4-transport-overheating.svg",
+    "assets/diagrams/wave-01/fig-38-6-storm-damaged-hive-recovery.svg",
+    "assets/diagrams/wave-01/fig-38-7-sudden-mortality-evidence-map.svg",
+    "assets/diagrams/wave-01/fig-38-8-suspected-disease-biosecurity-zone.svg",
+    "assets/diagrams/wave-01/fig-39-1-disease-investigation-framework.svg",
+    "assets/diagrams/wave-01/fig-39-13-differential-diagnosis-matrix.svg",
+    "assets/diagrams/wave-01/fig-39-3-patchy-brood-multiple-causes.svg",
+    "assets/diagrams/wave-01/fig-40-13-monitoring-method-matches-question.svg",
+    "assets/diagrams/wave-01/fig-41-10-varroa-control-categories.svg",
+    "assets/diagrams/wave-01/fig-41-11-treatment-failure-versus-reinvasion.svg",
+    "assets/diagrams/wave-01/fig-41-13-pre-treatment-safety-check.svg",
+    "assets/diagrams/wave-01/fig-41-6-adult-bee-wash-procedure.svg",
+    "assets/diagrams/wave-01/fig-41-7-monitoring-methods-compared.svg",
+    "assets/diagrams/wave-01/fig-41-9-thresholds-contextual.svg",
+    "assets/diagrams/wave-01/fig-42-11-nosema-management-framework.svg",
+    "assets/diagrams/wave-01/fig-42-4-dysentery-not-diagnosis.svg",
+    "assets/diagrams/wave-01/fig-42-6-nosema-microscopy-workflow.svg",
+    "assets/diagrams/wave-01/fig-42-8-microscopy-vs-pcr.svg",
+    "assets/diagrams/wave-01/fig-42-9-positive-result-not-equal-cause.svg",
+    "assets/diagrams/wave-01/fig-43-10-cleaning-versus-decontamination.svg",
+    "assets/diagrams/wave-01/fig-43-11-antibiotics-do-not-eradicate-afb.svg",
+    "assets/diagrams/wave-01/fig-43-12-afb-trace-back-trace-forward.svg",
+    "assets/diagrams/wave-01/fig-43-13-afb-response-decision-flow.svg",
+    "assets/diagrams/wave-01/fig-43-2-healthy-brood-vs-early-afb.svg",
+    "assets/diagrams/wave-01/fig-43-3-disease-stage-cell-series.svg",
+    "assets/diagrams/wave-01/fig-43-6-afb-differential-diagnosis.svg",
+    "assets/diagrams/wave-01/fig-43-9-afb-laboratory-confirmation-pathways.svg",
+    "assets/diagrams/wave-01/fig-44-10-efb-follow-up-after-recovery.svg",
+    "assets/diagrams/wave-01/fig-44-11-efb-apiary-contact-map.svg",
+    "assets/diagrams/wave-01/fig-44-2-healthy-vs-efb-open-brood.svg",
+    "assets/diagrams/wave-01/fig-44-4-efb-versus-afb.svg",
+    "assets/diagrams/wave-01/fig-44-5-efb-differential-diagnosis.svg",
+    "assets/diagrams/wave-01/fig-44-6-efb-disease-expression-colony-stress.svg",
+    "assets/diagrams/wave-01/fig-44-8-efb-sampling-diagnostic-pathway.svg",
+    "assets/diagrams/wave-01/fig-44-9-shook-swarm-principle.svg",
+    "assets/diagrams/wave-01/fig-45-1-infection-versus-clinical-disease.svg",
+    "assets/diagrams/wave-01/fig-45-10-pooled-vs-individual-sampling.svg",
+    "assets/diagrams/wave-01/fig-45-11-viral-differential-diagnosis.svg",
+    "assets/diagrams/wave-01/fig-45-12-virus-management-framework.svg",
+    "assets/diagrams/wave-01/fig-45-2-viral-transmission-routes.svg",
+    "assets/diagrams/wave-01/fig-45-3-varroa-dwv-interaction.svg",
+    "assets/diagrams/wave-01/fig-45-9-rt-pcr-workflow.svg",
+    "assets/diagrams/wave-01/fig-46-1-honey-bee-ipm-cycle.svg",
+    "assets/diagrams/wave-01/fig-46-10-treatment-failure-investigation.svg",
+    "assets/diagrams/wave-01/fig-46-12-established-vs-exotic-regulated-pest.svg",
+    "assets/diagrams/wave-01/fig-46-3-surveillance-versus-monitoring.svg",
+    "assets/diagrams/wave-01/fig-46-4-ipm-thresholds-contextual.svg",
+    "assets/diagrams/wave-01/fig-46-6-drone-brood-removal-sequence.svg",
+    "assets/diagrams/wave-01/fig-46-9-mode-of-action-resistance-selection.svg",
+    "assets/diagrams/wave-02/fig-04-1-hive-product-overview.svg",
+    "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg",
+    "assets/diagrams/wave-02/fig-05-4-modern-risk-landscape.svg",
+    "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg",
+    "assets/diagrams/wave-02/fig-06-4-internal-systems.svg",
+    "assets/diagrams/wave-02/fig-07-1-complete-development-cycle.svg",
+    "assets/diagrams/wave-02/fig-09-2-worker-specialised-structures.svg",
+    "assets/diagrams/wave-02/fig-11-4-alarm-recruitment-signals.svg",
+    "assets/diagrams/wave-02/fig-12-2-orientation-vs-robbing.svg",
+    "assets/diagrams/wave-02/fig-15-2-good-poor-flight-paths.svg",
+    "assets/diagrams/wave-02/fig-15-3-drainage-stand-placement.svg",
+    "assets/diagrams/wave-02/fig-18-1-exploded-modular-hive.svg",
+    "assets/diagrams/wave-02/fig-18-2-frame-spacing-bee-space.svg",
+    "assets/diagrams/wave-02/fig-19-4-straight-natural-comb.svg",
+    "assets/diagrams/wave-02/fig-20-4-clean-equipment-workflow.svg",
+    "assets/diagrams/wave-03/fig-27-7-condensation-and-moisture.svg",
+    "assets/diagrams/wave-03/fig-29-15-first-inspection.svg",
+    "assets/diagrams/wave-03/fig-30-2-donor-colony-assessment.svg",
+    "assets/diagrams/wave-03/fig-31-11-queen-development-status-decision.svg",
+    "assets/diagrams/wave-03/fig-31-2-queen-failure-vs-other-problems.svg",
+    "assets/diagrams/wave-03/fig-32-10-queen-cell-protection.svg",
+    "assets/diagrams/wave-03/fig-32-3-breeder-colony-selection.svg",
+    "assets/diagrams/wave-04/fig-34-1-biological-colony-year.svg",
+    "assets/diagrams/wave-04/fig-34-2-seasonal-decision-framework.svg",
+    "assets/diagrams/wave-04/fig-34-4-seasonal-inspection-objectives.svg",
+    "assets/diagrams/wave-04/fig-35-2-monthly-priority-matrix.svg",
+    "assets/diagrams/wave-04/fig-35-3-one-month-ahead-equipment-planning.svg",
+    "assets/diagrams/wave-04/fig-35-4-monthly-inspection-record.svg",
+    "assets/diagrams/wave-04/fig-36-2-colony-inspection-record-sheet.svg",
+    "assets/diagrams/wave-04/fig-36-6-honey-batch-traceability.svg",
+    "assets/diagrams/wave-04/fig-36-7-record-review-cycle.svg",
+    "assets/diagrams/wave-04/fig-37-1-inspection-mistakes.svg",
+    "assets/diagrams/wave-04/fig-37-3-queen-cell-decision-guide.svg",
+    "assets/diagrams/wave-04/fig-37-6-harvest-mistakes.svg",
+    "assets/diagrams/wave-05/fig-47-10-storage-space-decision.svg",
+    "assets/diagrams/wave-05/fig-47-3-environmental-controls-nectar-secretion.svg",
+    "assets/diagrams/wave-05/fig-47-9-colony-population-timing-before-flow.svg",
+    "assets/diagrams/wave-05/fig-48-1-harvest-readiness-decision-flow.svg",
+    "assets/diagrams/wave-05/fig-48-3-honey-refractometer-use.svg",
+    "assets/diagrams/wave-05/fig-48-4-representative-moisture-sampling.svg",
+    "assets/diagrams/wave-05/fig-49-1-one-way-honey-room-workflow.svg",
+    "assets/diagrams/wave-05/fig-49-13-extraction-safety-hazards.svg",
+    "assets/diagrams/wave-05/fig-49-4-tangential-vs-radial-extraction.svg",
+    "assets/diagrams/wave-05/fig-50-1-minimal-processing-flow.svg",
+    "assets/diagrams/wave-05/fig-50-2-settling-tank-separation.svg",
+    "assets/diagrams/wave-05/fig-50-3-straining-vs-filtered-honey.svg",
+    "assets/diagrams/wave-05/fig-51-12-storage-sampling.svg",
+    "assets/diagrams/wave-05/fig-51-2-food-safety-quality-shelf-life.svg",
+    "assets/diagrams/wave-05/fig-51-3-hygroscopicity-and-sealing.svg",
+    "assets/diagrams/wave-05/fig-52-2-fresh-broodless-vs-used-brood-comb.svg",
+    "assets/diagrams/wave-05/fig-52-3-colony-preparation-timeline.svg",
+    "assets/diagrams/wave-05/fig-52-9-comb-honey-defect-atlas.svg",
+    "assets/diagrams/wave-06a/fig-53-1-controlled-vs-uncontrolled-crystallisation.svg",
+    "assets/diagrams/wave-06a/fig-53-10-rework-decision.svg",
+    "assets/diagrams/wave-06a/fig-53-11-plain-vs-flavoured-controls.svg",
+    "assets/diagrams/wave-06a/fig-54-1-wax-source-streams.svg",
+    "assets/diagrams/wave-06a/fig-54-12-end-use-decision.svg",
+    "assets/diagrams/wave-06a/fig-54-2-new-vs-old-brood-comb.svg",
+    "assets/diagrams/wave-06a/fig-55-1-wax-production-worker-bee.svg",
+    "assets/diagrams/wave-06a/fig-55-2-wax-source-streams.svg",
+    "assets/diagrams/wave-06a/fig-55-3-new-vs-old-brood-comb.svg",
+    "assets/diagrams/wave-06a/fig-56-2-pollen-in-colony-nutrition.svg",
+    "assets/diagrams/wave-06a/fig-56-3-bee-pollen-vs-bee-bread.svg",
+    "assets/diagrams/wave-06a/fig-56-5-colony-cost-over-trapping.svg",
+    "assets/diagrams/wave-06a/fig-57-2-propolis-envelope.svg",
+    "assets/diagrams/wave-06a/fig-57-4-trap-vs-random-scraping.svg",
+    "assets/diagrams/wave-06a/fig-57-5-cold-harvest-workflow.svg",
+    "assets/diagrams/wave-06b/fig-58-1-nurse-bee-glands-royal-jelly.svg",
+    "assets/diagrams/wave-06b/fig-58-2-queen-vs-worker-feeding.svg",
+    "assets/diagrams/wave-06b/fig-58-8-royal-jelly-quality-dimensions.svg",
+    "assets/diagrams/wave-06b/fig-59-1-worker-bee-sting-apparatus.svg",
+    "assets/diagrams/wave-06b/fig-59-14-medical-evidence-boundary.svg",
+    "assets/diagrams/wave-06b/fig-59-4-raw-venom-vs-vit.svg",
+    "assets/diagrams/wave-07/fig-60-2-revenue-streams-biological-inputs.svg",
+    "assets/diagrams/wave-07/fig-60-9-compliance-map.svg",
+    "assets/diagrams/wave-07/fig-61-5-manual-vs-mechanised-cost-tradeoff.svg",
+    "assets/diagrams/wave-07/fig-61-7-buy-rent-share-outsource-decision.svg",
+    "assets/diagrams/wave-07/fig-62-3-value-proposition.svg",
+    "assets/diagrams/wave-07/fig-62-7-floral-claim-evidence.svg",
+    "assets/diagrams/wave-07/fig-63-10-claim-library.svg",
+    "assets/diagrams/wave-07/fig-63-5-brand-proof-pyramid.svg",
+    "assets/diagrams/wave-07/fig-64-4-online-product-page-anatomy.svg",
+    "assets/diagrams/wave-07/fig-64-9-product-specific-shipping.svg",
+    "assets/diagrams/wave-07/fig-65-1-farmers-market-business-model.svg",
+    "assets/diagrams/wave-07/fig-65-2-market-day-contribution.svg",
+    "assets/diagrams/wave-08/fig-66-1-hive-to-consumer-food-safety-chain.svg",
+    "assets/diagrams/wave-08/fig-66-3-product-risk-comparison.svg",
+    "assets/diagrams/wave-08/fig-67-1-backward-forward-traceability.svg",
+    "assets/diagrams/wave-08/fig-67-12-digital-traceability-resilience.svg",
+    "assets/diagrams/wave-08/fig-68-11-legal-change-management.svg",
+    "assets/diagrams/wave-08/fig-68-4-primary-production-vs-processing-packing.svg",
+    "assets/diagrams/wave-08/fig-69-1-risk-treatment-framework.svg",
+    "assets/diagrams/wave-08/fig-69-7-policy-anatomy.svg",
+    "assets/diagrams/wave-09/fig-70-5-organic-feeding-decision.svg",
+    "assets/diagrams/wave-09/fig-70-7-organic-varroa-ipm.svg",
+    "assets/diagrams/wave-09/fig-71-10-biodiversity-monitoring-toolkit.svg",
+    "assets/diagrams/wave-09/fig-71-2-managed-vs-wild-pollinator-community.svg",
+    "assets/diagrams/wave-09/fig-72-11-monitoring-before-after.svg",
+    "assets/diagrams/wave-09/fig-72-9-managed-hive-stocking-sensitive-habitat.svg",
+    "assets/diagrams/wave-09/fig-73-8-confusion-matrix-disease-detection.svg",
+    "assets/diagrams/wave-09/fig-73-9-research-frontiers-map.svg",
+    "assets/diagrams/wave-09/fig-74-10-honey-authenticity-digital-traceability.svg",
+    "assets/diagrams/wave-09/fig-74-2-technology-adoption-framework.svg"
+  ],
+  "master_derivatives_missing": [],
+  "canvas_profiles": {
+    "portrait-field": 76,
+    "landscape-scientific": 18,
+    "landscape-standard": 162
+  },
+  "minimum_font_stats_by_profile": {
+    "portrait-field": {
+      "count": 76,
+      "min": 18.0,
+      "median": 18.0,
+      "p10": 18.0
+    },
+    "landscape-scientific": {
+      "count": 18,
+      "min": 14.0,
+      "median": 15.5,
+      "p10": 14.0
+    },
+    "landscape-standard": {
+      "count": 162,
+      "min": 12.0,
+      "median": 14.0,
+      "p10": 13.0
+    }
+  },
+  "render_summary": {
+    "assets/diagrams/wave-01/fig-21-1-protective-clothing-system.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 243.58,
+        "grayscale_stddev": 38.834,
+        "whiteish_fraction": 0.79175,
+        "dark_fraction": 0.02861
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 243.648,
+        "grayscale_stddev": 37.424,
+        "whiteish_fraction": 0.7875,
+        "dark_fraction": 0.02515
+      }
+    },
+    "assets/diagrams/wave-01/fig-21-2-veil-clearance.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 239.026,
+        "grayscale_stddev": 29.568,
+        "whiteish_fraction": 0.35044,
+        "dark_fraction": 0.01317
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.013,
+        "grayscale_stddev": 27.865,
+        "whiteish_fraction": 0.34891,
+        "dark_fraction": 0.00876
+      }
+    },
+    "assets/diagrams/wave-01/fig-21-3-clothing-selection-by-task.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 232.536,
+        "grayscale_stddev": 41.093,
+        "whiteish_fraction": 0.34493,
+        "dark_fraction": 0.02929
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 233.179,
+        "grayscale_stddev": 36.598,
+        "whiteish_fraction": 0.34208,
+        "dark_fraction": 0.01645
+      }
+    },
+    "assets/diagrams/wave-01/fig-21-4-pre-inspection-ppe-check.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.971,
+        "grayscale_stddev": 32.132,
+        "whiteish_fraction": 0.62353,
+        "dark_fraction": 0.00976
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.013,
+        "grayscale_stddev": 29.843,
+        "whiteish_fraction": 0.61749,
+        "dark_fraction": 0.0083
+      }
+    },
+    "assets/diagrams/wave-01/fig-22-1-smoker-anatomy.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 247.284,
+        "grayscale_stddev": 27.443,
+        "whiteish_fraction": 0.79129,
+        "dark_fraction": 0.01316
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 247.368,
+        "grayscale_stddev": 26.097,
+        "whiteish_fraction": 0.79,
+        "dark_fraction": 0.00973
+      }
+    },
+    "assets/diagrams/wave-01/fig-22-3-smoker-fuels.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.52,
+        "grayscale_stddev": 33.349,
+        "whiteish_fraction": 0.67195,
+        "dark_fraction": 0.01571
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.563,
+        "grayscale_stddev": 31.883,
+        "whiteish_fraction": 0.66968,
+        "dark_fraction": 0.01431
+      }
+    },
+    "assets/diagrams/wave-01/fig-22-4-smoker-lighting-sequence.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 246.383,
+        "grayscale_stddev": 28.19,
+        "whiteish_fraction": 0.77272,
+        "dark_fraction": 0.01004
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 246.399,
+        "grayscale_stddev": 26.526,
+        "whiteish_fraction": 0.77054,
+        "dark_fraction": 0.00653
+      }
+    },
+    "assets/diagrams/wave-01/fig-22-6-hot-smoker-fire-safety-zone.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 243.723,
+        "grayscale_stddev": 30.09,
+        "whiteish_fraction": 0.67591,
+        "dark_fraction": 0.00927
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 243.71,
+        "grayscale_stddev": 27.923,
+        "whiteish_fraction": 0.67023,
+        "dark_fraction": 0.00787
+      }
+    },
+    "assets/diagrams/wave-01/fig-23-1-apiary-hazard-map.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.431,
+        "grayscale_stddev": 31.347,
+        "whiteish_fraction": 0.35831,
+        "dark_fraction": 0.01302
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.473,
+        "grayscale_stddev": 29.21,
+        "whiteish_fraction": 0.35668,
+        "dark_fraction": 0.0075
+      }
+    },
+    "assets/diagrams/wave-01/fig-23-10-smoker-vegetation-fire-safety.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.248,
+        "grayscale_stddev": 33.246,
+        "whiteish_fraction": 0.62166,
+        "dark_fraction": 0.01136
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.253,
+        "grayscale_stddev": 31.106,
+        "whiteish_fraction": 0.61716,
+        "dark_fraction": 0.00988
+      }
+    },
+    "assets/diagrams/wave-01/fig-23-11-treatment-ppe-label-discipline.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.872,
+        "grayscale_stddev": 33.788,
+        "whiteish_fraction": 0.61971,
+        "dark_fraction": 0.01237
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 240.869,
+        "grayscale_stddev": 31.237,
+        "whiteish_fraction": 0.61334,
+        "dark_fraction": 0.009
+      }
+    },
+    "assets/diagrams/wave-01/fig-23-2-risk-assessment-sequence.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 239.777,
+        "grayscale_stddev": 34.412,
+        "whiteish_fraction": 0.56917,
+        "dark_fraction": 0.01097
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.782,
+        "grayscale_stddev": 31.888,
+        "whiteish_fraction": 0.56141,
+        "dark_fraction": 0.01028
+      }
+    },
+    "assets/diagrams/wave-01/fig-23-3-hierarchy-of-controls.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.275,
+        "grayscale_stddev": 30.564,
+        "whiteish_fraction": 0.59159,
+        "dark_fraction": 0.00963
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.298,
+        "grayscale_stddev": 28.848,
+        "whiteish_fraction": 0.58918,
+        "dark_fraction": 0.00831
+      }
+    },
+    "assets/diagrams/wave-01/fig-23-6-local-vs-emergency-sting-signs.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.161,
+        "grayscale_stddev": 34.481,
+        "whiteish_fraction": 0.66609,
+        "dark_fraction": 0.01487
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.203,
+        "grayscale_stddev": 32.929,
+        "whiteish_fraction": 0.66397,
+        "dark_fraction": 0.0132
+      }
+    },
+    "assets/diagrams/wave-01/fig-23-9-heat-cold-dehydration-prevention.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 244.943,
+        "grayscale_stddev": 29.362,
+        "whiteish_fraction": 0.72605,
+        "dark_fraction": 0.00936
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 244.92,
+        "grayscale_stddev": 27.453,
+        "whiteish_fraction": 0.72241,
+        "dark_fraction": 0.00768
+      }
+    },
+    "assets/diagrams/wave-01/fig-24-1-starting-units-compared.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 236.322,
+        "grayscale_stddev": 38.788,
+        "whiteish_fraction": 0.47937,
+        "dark_fraction": 0.02408
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 236.772,
+        "grayscale_stddev": 35.499,
+        "whiteish_fraction": 0.47349,
+        "dark_fraction": 0.01833
+      }
+    },
+    "assets/diagrams/wave-01/fig-24-10-early-success-warning-signs.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.077,
+        "grayscale_stddev": 35.227,
+        "whiteish_fraction": 0.64408,
+        "dark_fraction": 0.01802
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.182,
+        "grayscale_stddev": 33.543,
+        "whiteish_fraction": 0.64179,
+        "dark_fraction": 0.01655
+      }
+    },
+    "assets/diagrams/wave-01/fig-24-11-new-colony-biosecurity.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.046,
+        "grayscale_stddev": 33.103,
+        "whiteish_fraction": 0.62283,
+        "dark_fraction": 0.00917
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.028,
+        "grayscale_stddev": 30.816,
+        "whiteish_fraction": 0.61698,
+        "dark_fraction": 0.00841
+      }
+    },
+    "assets/diagrams/wave-01/fig-24-2-prepared-receiving-hive.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 245.491,
+        "grayscale_stddev": 30.216,
+        "whiteish_fraction": 0.77094,
+        "dark_fraction": 0.01327
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 245.579,
+        "grayscale_stddev": 28.094,
+        "whiteish_fraction": 0.76818,
+        "dark_fraction": 0.00848
+      }
+    },
+    "assets/diagrams/wave-01/fig-24-7-swarm-installation.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.55,
+        "grayscale_stddev": 32.341,
+        "whiteish_fraction": 0.62366,
+        "dark_fraction": 0.00708
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.506,
+        "grayscale_stddev": 30.055,
+        "whiteish_fraction": 0.61743,
+        "dark_fraction": 0.0073
+      }
+    },
+    "assets/diagrams/wave-01/fig-24-9-first-inspection-decision-timeline.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 243.216,
+        "grayscale_stddev": 31.028,
+        "whiteish_fraction": 0.67483,
+        "dark_fraction": 0.00714
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 243.152,
+        "grayscale_stddev": 29.027,
+        "whiteish_fraction": 0.6685,
+        "dark_fraction": 0.00751
+      }
+    },
+    "assets/diagrams/wave-01/fig-25-1-inspection-depth-ladder.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.229,
+        "grayscale_stddev": 30.099,
+        "whiteish_fraction": 0.58374,
+        "dark_fraction": 0.01016
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.185,
+        "grayscale_stddev": 28.206,
+        "whiteish_fraction": 0.58164,
+        "dark_fraction": 0.00646
+      }
+    },
+    "assets/diagrams/wave-01/fig-25-11-swarm-preparation-evidence.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 243.128,
+        "grayscale_stddev": 31.256,
+        "whiteish_fraction": 0.674,
+        "dark_fraction": 0.00993
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 243.101,
+        "grayscale_stddev": 29.145,
+        "whiteish_fraction": 0.66948,
+        "dark_fraction": 0.00766
+      }
+    },
+    "assets/diagrams/wave-01/fig-25-13-inspection-record-follow-up-loop.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 243.171,
+        "grayscale_stddev": 38.237,
+        "whiteish_fraction": 0.78596,
+        "dark_fraction": 0.03228
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 243.246,
+        "grayscale_stddev": 37.101,
+        "whiteish_fraction": 0.78338,
+        "dark_fraction": 0.03022
+      }
+    },
+    "assets/diagrams/wave-01/fig-25-3-inspection-questions-before-opening.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 239.855,
+        "grayscale_stddev": 33.968,
+        "whiteish_fraction": 0.56853,
+        "dark_fraction": 0.00893
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.789,
+        "grayscale_stddev": 31.683,
+        "whiteish_fraction": 0.5609,
+        "dark_fraction": 0.00884
+      }
+    },
+    "assets/diagrams/wave-01/fig-25-5-queenright-evidence.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.106,
+        "grayscale_stddev": 28.326,
+        "whiteish_fraction": 0.39552,
+        "dark_fraction": 0.00883
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 240.023,
+        "grayscale_stddev": 26.631,
+        "whiteish_fraction": 0.39301,
+        "dark_fraction": 0.00618
+      }
+    },
+    "assets/diagrams/wave-01/fig-25-7-brood-pattern-interpretation.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 215.231,
+        "grayscale_stddev": 49.965,
+        "whiteish_fraction": 0.29386,
+        "dark_fraction": 0.0063
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 215.273,
+        "grayscale_stddev": 49.079,
+        "whiteish_fraction": 0.29074,
+        "dark_fraction": 0.00529
+      }
+    },
+    "assets/diagrams/wave-01/fig-33-12-emergency-box-separation.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.522,
+        "grayscale_stddev": 33.14,
+        "whiteish_fraction": 0.56851,
+        "dark_fraction": 0.01147
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 240.531,
+        "grayscale_stddev": 30.727,
+        "whiteish_fraction": 0.56211,
+        "dark_fraction": 0.009
+      }
+    },
+    "assets/diagrams/wave-01/fig-33-14-post-move-inspection.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 243.389,
+        "grayscale_stddev": 30.921,
+        "whiteish_fraction": 0.67604,
+        "dark_fraction": 0.00895
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 243.402,
+        "grayscale_stddev": 28.647,
+        "whiteish_fraction": 0.67,
+        "dark_fraction": 0.00742
+      }
+    },
+    "assets/diagrams/wave-01/fig-33-4-entrance-closure.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 243.34,
+        "grayscale_stddev": 30.876,
+        "whiteish_fraction": 0.65213,
+        "dark_fraction": 0.0115
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 243.358,
+        "grayscale_stddev": 29.316,
+        "whiteish_fraction": 0.64815,
+        "dark_fraction": 0.01085
+      }
+    },
+    "assets/diagrams/wave-01/fig-33-6-vehicle-loading.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 239.155,
+        "grayscale_stddev": 32.241,
+        "whiteish_fraction": 0.40118,
+        "dark_fraction": 0.01788
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.107,
+        "grayscale_stddev": 30.519,
+        "whiteish_fraction": 0.39876,
+        "dark_fraction": 0.01107
+      }
+    },
+    "assets/diagrams/wave-01/fig-33-7-manual-handling.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.761,
+        "grayscale_stddev": 33.49,
+        "whiteish_fraction": 0.5736,
+        "dark_fraction": 0.01407
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 240.811,
+        "grayscale_stddev": 31.645,
+        "whiteish_fraction": 0.56929,
+        "dark_fraction": 0.01253
+      }
+    },
+    "assets/diagrams/wave-01/fig-38-1-emergency-triage-sequence.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.069,
+        "grayscale_stddev": 33.382,
+        "whiteish_fraction": 0.55188,
+        "dark_fraction": 0.01076
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.999,
+        "grayscale_stddev": 30.582,
+        "whiteish_fraction": 0.54568,
+        "dark_fraction": 0.00685
+      }
+    },
+    "assets/diagrams/wave-01/fig-38-10-recovery-monitoring-timeline.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 244.153,
+        "grayscale_stddev": 29.35,
+        "whiteish_fraction": 0.67408,
+        "dark_fraction": 0.00781
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 244.132,
+        "grayscale_stddev": 27.213,
+        "whiteish_fraction": 0.66901,
+        "dark_fraction": 0.00498
+      }
+    },
+    "assets/diagrams/wave-01/fig-38-2-starvation-versus-accessible-stores.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 234.982,
+        "grayscale_stddev": 43.044,
+        "whiteish_fraction": 0.43805,
+        "dark_fraction": 0.01599
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 235.015,
+        "grayscale_stddev": 41.542,
+        "whiteish_fraction": 0.43279,
+        "dark_fraction": 0.01391
+      }
+    },
+    "assets/diagrams/wave-01/fig-38-4-transport-overheating.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.233,
+        "grayscale_stddev": 30.66,
+        "whiteish_fraction": 0.43968,
+        "dark_fraction": 0.01234
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.131,
+        "grayscale_stddev": 29.521,
+        "whiteish_fraction": 0.43536,
+        "dark_fraction": 0.0112
+      }
+    },
+    "assets/diagrams/wave-01/fig-38-6-storm-damaged-hive-recovery.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.463,
+        "grayscale_stddev": 31.289,
+        "whiteish_fraction": 0.62122,
+        "dark_fraction": 0.00953
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.497,
+        "grayscale_stddev": 28.962,
+        "whiteish_fraction": 0.61598,
+        "dark_fraction": 0.00612
+      }
+    },
+    "assets/diagrams/wave-01/fig-38-7-sudden-mortality-evidence-map.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 238.938,
+        "grayscale_stddev": 34.726,
+        "whiteish_fraction": 0.45034,
+        "dark_fraction": 0.01519
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.487,
+        "grayscale_stddev": 31.231,
+        "whiteish_fraction": 0.44704,
+        "dark_fraction": 0.0098
+      }
+    },
+    "assets/diagrams/wave-01/fig-38-8-suspected-disease-biosecurity-zone.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.351,
+        "grayscale_stddev": 31.484,
+        "whiteish_fraction": 0.62066,
+        "dark_fraction": 0.01027
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.378,
+        "grayscale_stddev": 29.113,
+        "whiteish_fraction": 0.61552,
+        "dark_fraction": 0.00652
+      }
+    },
+    "assets/diagrams/wave-01/fig-39-1-disease-investigation-framework.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 237.237,
+        "grayscale_stddev": 37.022,
+        "whiteish_fraction": 0.55083,
+        "dark_fraction": 0.01035
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 237.171,
+        "grayscale_stddev": 34.546,
+        "whiteish_fraction": 0.54337,
+        "dark_fraction": 0.01105
+      }
+    },
+    "assets/diagrams/wave-01/fig-39-13-differential-diagnosis-matrix.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 232.877,
+        "grayscale_stddev": 41.265,
+        "whiteish_fraction": 0.37747,
+        "dark_fraction": 0.03104
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 233.359,
+        "grayscale_stddev": 38.402,
+        "whiteish_fraction": 0.37258,
+        "dark_fraction": 0.02391
+      }
+    },
+    "assets/diagrams/wave-01/fig-39-2-healthy-brood-reference.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 234.722,
+        "grayscale_stddev": 35.936,
+        "whiteish_fraction": 0.52838,
+        "dark_fraction": 0.00296
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 234.607,
+        "grayscale_stddev": 34.708,
+        "whiteish_fraction": 0.51603,
+        "dark_fraction": 0.00195
+      }
+    },
+    "assets/diagrams/wave-01/fig-39-3-patchy-brood-multiple-causes.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 225.197,
+        "grayscale_stddev": 43.543,
+        "whiteish_fraction": 0.30191,
+        "dark_fraction": 0.00858
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 224.922,
+        "grayscale_stddev": 42.297,
+        "whiteish_fraction": 0.29473,
+        "dark_fraction": 0.00638
+      }
+    },
+    "assets/diagrams/wave-01/fig-39-4-afb-suspicion-features.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 231.51,
+        "grayscale_stddev": 40.866,
+        "whiteish_fraction": 0.34113,
+        "dark_fraction": 0.01881
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 231.502,
+        "grayscale_stddev": 39.433,
+        "whiteish_fraction": 0.33508,
+        "dark_fraction": 0.01677
+      }
+    },
+    "assets/diagrams/wave-01/fig-40-13-monitoring-method-matches-question.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.048,
+        "grayscale_stddev": 34.901,
+        "whiteish_fraction": 0.62113,
+        "dark_fraction": 0.01872
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.989,
+        "grayscale_stddev": 32.557,
+        "whiteish_fraction": 0.61445,
+        "dark_fraction": 0.01083
+      }
+    },
+    "assets/diagrams/wave-01/fig-40-3-varroa-reproductive-cycle.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 232.577,
+        "grayscale_stddev": 33.17,
+        "whiteish_fraction": 0.37998,
+        "dark_fraction": 0.0051
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 232.318,
+        "grayscale_stddev": 32.58,
+        "whiteish_fraction": 0.37629,
+        "dark_fraction": 0.00263
+      }
+    },
+    "assets/diagrams/wave-01/fig-40-4-varroa-on-adult-bees.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 229.117,
+        "grayscale_stddev": 36.479,
+        "whiteish_fraction": 0.31182,
+        "dark_fraction": 0.00883
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 229.173,
+        "grayscale_stddev": 36.0,
+        "whiteish_fraction": 0.30938,
+        "dark_fraction": 0.00446
+      }
+    },
+    "assets/diagrams/wave-01/fig-40-7-varroa-tropilaelaps-comparison.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 228.668,
+        "grayscale_stddev": 46.463,
+        "whiteish_fraction": 0.30243,
+        "dark_fraction": 0.02102
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 228.74,
+        "grayscale_stddev": 45.641,
+        "whiteish_fraction": 0.29996,
+        "dark_fraction": 0.01809
+      }
+    },
+    "assets/diagrams/wave-01/fig-40-8-tropilaelaps-life-cycle.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 239.772,
+        "grayscale_stddev": 32.562,
+        "whiteish_fraction": 0.62011,
+        "dark_fraction": 0.00796
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 239.918,
+        "grayscale_stddev": 29.558,
+        "whiteish_fraction": 0.60814,
+        "dark_fraction": 0.00438
+      }
+    },
+    "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 234.187,
+        "grayscale_stddev": 31.521,
+        "whiteish_fraction": 0.36495,
+        "dark_fraction": 0.00702
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 234.224,
+        "grayscale_stddev": 30.01,
+        "whiteish_fraction": 0.35834,
+        "dark_fraction": 0.00255
+      }
+    },
+    "assets/diagrams/wave-01/fig-41-10-varroa-control-categories.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 242.844,
+        "grayscale_stddev": 27.91,
+        "whiteish_fraction": 0.60545,
+        "dark_fraction": 0.00639
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 242.969,
+        "grayscale_stddev": 25.458,
+        "whiteish_fraction": 0.59708,
+        "dark_fraction": 0.00282
+      }
+    },
+    "assets/diagrams/wave-01/fig-41-11-treatment-failure-versus-reinvasion.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 238.562,
+        "grayscale_stddev": 33.783,
+        "whiteish_fraction": 0.45534,
+        "dark_fraction": 0.01978
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 238.501,
+        "grayscale_stddev": 32.05,
+        "whiteish_fraction": 0.45111,
+        "dark_fraction": 0.01491
+      }
+    },
+    "assets/diagrams/wave-01/fig-41-13-pre-treatment-safety-check.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 237.484,
+        "grayscale_stddev": 37.272,
+        "whiteish_fraction": 0.56777,
+        "dark_fraction": 0.01398
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 237.597,
+        "grayscale_stddev": 34.557,
+        "whiteish_fraction": 0.56033,
+        "dark_fraction": 0.01223
+      }
+    },
+    "assets/diagrams/wave-01/fig-41-3-adult-bee-feeding-site.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 228.711,
+        "grayscale_stddev": 36.753,
+        "whiteish_fraction": 0.29129,
+        "dark_fraction": 0.00962
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 228.778,
+        "grayscale_stddev": 35.574,
+        "whiteish_fraction": 0.29203,
+        "dark_fraction": 0.00461
+      }
+    },
+    "assets/diagrams/wave-01/fig-41-6-adult-bee-wash-procedure.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 238.27,
+        "grayscale_stddev": 36.212,
+        "whiteish_fraction": 0.56765,
+        "dark_fraction": 0.01279
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 238.309,
+        "grayscale_stddev": 33.756,
+        "whiteish_fraction": 0.5614,
+        "dark_fraction": 0.01195
+      }
+    },
+    "assets/diagrams/wave-01/fig-41-7-monitoring-methods-compared.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 230.237,
+        "grayscale_stddev": 40.609,
+        "whiteish_fraction": 0.29612,
+        "dark_fraction": 0.03364
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 230.726,
+        "grayscale_stddev": 37.267,
+        "whiteish_fraction": 0.29007,
+        "dark_fraction": 0.02417
+      }
+    },
+    "assets/diagrams/wave-01/fig-41-9-thresholds-contextual.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 239.298,
+        "grayscale_stddev": 46.201,
+        "whiteish_fraction": 0.77247,
+        "dark_fraction": 0.0488
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.385,
+        "grayscale_stddev": 44.987,
+        "whiteish_fraction": 0.76751,
+        "dark_fraction": 0.04519
+      }
+    },
+    "assets/diagrams/wave-01/fig-42-1-nosema-life-cycle.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 234.903,
+        "grayscale_stddev": 33.819,
+        "whiteish_fraction": 0.46521,
+        "dark_fraction": 0.00684
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 234.96,
+        "grayscale_stddev": 32.256,
+        "whiteish_fraction": 0.45839,
+        "dark_fraction": 0.00419
+      }
+    },
+    "assets/diagrams/wave-01/fig-42-11-nosema-management-framework.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 237.582,
+        "grayscale_stddev": 47.057,
+        "whiteish_fraction": 0.73946,
+        "dark_fraction": 0.04815
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 237.505,
+        "grayscale_stddev": 46.016,
+        "whiteish_fraction": 0.73402,
+        "dark_fraction": 0.04534
+      }
+    },
+    "assets/diagrams/wave-01/fig-42-3-healthy-vs-affected-midgut.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 231.307,
+        "grayscale_stddev": 32.327,
+        "whiteish_fraction": 0.30716,
+        "dark_fraction": 0.00676
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 231.267,
+        "grayscale_stddev": 30.79,
+        "whiteish_fraction": 0.3029,
+        "dark_fraction": 0.00312
+      }
+    },
+    "assets/diagrams/wave-01/fig-42-4-dysentery-not-diagnosis.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 239.673,
+        "grayscale_stddev": 28.276,
+        "whiteish_fraction": 0.39921,
+        "dark_fraction": 0.01303
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.631,
+        "grayscale_stddev": 26.474,
+        "whiteish_fraction": 0.39735,
+        "dark_fraction": 0.00537
+      }
+    },
+    "assets/diagrams/wave-01/fig-42-6-nosema-microscopy-workflow.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.271,
+        "grayscale_stddev": 34.131,
+        "whiteish_fraction": 0.62277,
+        "dark_fraction": 0.00893
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 240.275,
+        "grayscale_stddev": 31.771,
+        "whiteish_fraction": 0.61631,
+        "dark_fraction": 0.00868
+      }
+    },
+    "assets/diagrams/wave-01/fig-42-8-microscopy-vs-pcr.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 230.36,
+        "grayscale_stddev": 39.909,
+        "whiteish_fraction": 0.26996,
+        "dark_fraction": 0.03306
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 230.874,
+        "grayscale_stddev": 37.274,
+        "whiteish_fraction": 0.26434,
+        "dark_fraction": 0.02709
+      }
+    },
+    "assets/diagrams/wave-01/fig-42-9-positive-result-not-equal-cause.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 239.92,
+        "grayscale_stddev": 34.703,
+        "whiteish_fraction": 0.62034,
+        "dark_fraction": 0.01029
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.907,
+        "grayscale_stddev": 32.506,
+        "whiteish_fraction": 0.61371,
+        "dark_fraction": 0.00996
+      }
+    },
+    "assets/diagrams/wave-01/fig-43-10-cleaning-versus-decontamination.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.405,
+        "grayscale_stddev": 29.763,
+        "whiteish_fraction": 0.55304,
+        "dark_fraction": 0.00952
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.332,
+        "grayscale_stddev": 28.06,
+        "whiteish_fraction": 0.54857,
+        "dark_fraction": 0.00839
+      }
+    },
+    "assets/diagrams/wave-01/fig-43-11-antibiotics-do-not-eradicate-afb.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.42,
+        "grayscale_stddev": 29.064,
+        "whiteish_fraction": 0.48593,
+        "dark_fraction": 0.01005
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 240.293,
+        "grayscale_stddev": 27.997,
+        "whiteish_fraction": 0.48342,
+        "dark_fraction": 0.00756
+      }
+    },
+    "assets/diagrams/wave-01/fig-43-12-afb-trace-back-trace-forward.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 237.064,
+        "grayscale_stddev": 48.181,
+        "whiteish_fraction": 0.73454,
+        "dark_fraction": 0.05145
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 237.195,
+        "grayscale_stddev": 46.624,
+        "whiteish_fraction": 0.73054,
+        "dark_fraction": 0.04577
+      }
+    },
+    "assets/diagrams/wave-01/fig-43-13-afb-response-decision-flow.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 237.026,
+        "grayscale_stddev": 37.565,
+        "whiteish_fraction": 0.55141,
+        "dark_fraction": 0.01334
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 237.011,
+        "grayscale_stddev": 34.541,
+        "whiteish_fraction": 0.54435,
+        "dark_fraction": 0.01052
+      }
+    },
+    "assets/diagrams/wave-01/fig-43-2-healthy-brood-vs-early-afb.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 212.661,
+        "grayscale_stddev": 52.282,
+        "whiteish_fraction": 0.29667,
+        "dark_fraction": 0.01079
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 212.69,
+        "grayscale_stddev": 50.986,
+        "whiteish_fraction": 0.29125,
+        "dark_fraction": 0.00948
+      }
+    },
+    "assets/diagrams/wave-01/fig-43-3-disease-stage-cell-series.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 236.118,
+        "grayscale_stddev": 32.212,
+        "whiteish_fraction": 0.37088,
+        "dark_fraction": 0.00996
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 236.001,
+        "grayscale_stddev": 31.218,
+        "whiteish_fraction": 0.36577,
+        "dark_fraction": 0.00854
+      }
+    },
+    "assets/diagrams/wave-01/fig-43-6-afb-differential-diagnosis.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 229.997,
+        "grayscale_stddev": 43.099,
+        "whiteish_fraction": 0.34115,
+        "dark_fraction": 0.0351
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 230.758,
+        "grayscale_stddev": 38.612,
+        "whiteish_fraction": 0.33774,
+        "dark_fraction": 0.02324
+      }
+    },
+    "assets/diagrams/wave-01/fig-43-9-afb-laboratory-confirmation-pathways.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.199,
+        "grayscale_stddev": 32.459,
+        "whiteish_fraction": 0.67484,
+        "dark_fraction": 0.0084
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.137,
+        "grayscale_stddev": 30.434,
+        "whiteish_fraction": 0.66893,
+        "dark_fraction": 0.00848
+      }
+    },
+    "assets/diagrams/wave-01/fig-44-10-efb-follow-up-after-recovery.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.211,
+        "grayscale_stddev": 32.505,
+        "whiteish_fraction": 0.67651,
+        "dark_fraction": 0.00884
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.194,
+        "grayscale_stddev": 30.351,
+        "whiteish_fraction": 0.67085,
+        "dark_fraction": 0.00868
+      }
+    },
+    "assets/diagrams/wave-01/fig-44-11-efb-apiary-contact-map.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 237.963,
+        "grayscale_stddev": 46.953,
+        "whiteish_fraction": 0.73689,
+        "dark_fraction": 0.04908
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 238.056,
+        "grayscale_stddev": 45.577,
+        "whiteish_fraction": 0.73319,
+        "dark_fraction": 0.04407
+      }
+    },
+    "assets/diagrams/wave-01/fig-44-2-healthy-vs-efb-open-brood.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 238.026,
+        "grayscale_stddev": 28.159,
+        "whiteish_fraction": 0.30161,
+        "dark_fraction": 0.00408
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 238.069,
+        "grayscale_stddev": 26.276,
+        "whiteish_fraction": 0.29526,
+        "dark_fraction": 0.00264
+      }
+    },
+    "assets/diagrams/wave-01/fig-44-4-efb-versus-afb.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 228.579,
+        "grayscale_stddev": 43.292,
+        "whiteish_fraction": 0.28836,
+        "dark_fraction": 0.03493
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 229.42,
+        "grayscale_stddev": 38.859,
+        "whiteish_fraction": 0.28624,
+        "dark_fraction": 0.02007
+      }
+    },
+    "assets/diagrams/wave-01/fig-44-5-efb-differential-diagnosis.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 228.568,
+        "grayscale_stddev": 43.273,
+        "whiteish_fraction": 0.28621,
+        "dark_fraction": 0.03503
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 229.385,
+        "grayscale_stddev": 38.864,
+        "whiteish_fraction": 0.28348,
+        "dark_fraction": 0.02002
+      }
+    },
+    "assets/diagrams/wave-01/fig-44-6-efb-disease-expression-colony-stress.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 236.637,
+        "grayscale_stddev": 48.41,
+        "whiteish_fraction": 0.73009,
+        "dark_fraction": 0.05073
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 236.697,
+        "grayscale_stddev": 46.864,
+        "whiteish_fraction": 0.72463,
+        "dark_fraction": 0.04515
+      }
+    },
+    "assets/diagrams/wave-01/fig-44-8-efb-sampling-diagnostic-pathway.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 239.316,
+        "grayscale_stddev": 36.044,
+        "whiteish_fraction": 0.61975,
+        "dark_fraction": 0.01113
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 239.267,
+        "grayscale_stddev": 33.714,
+        "whiteish_fraction": 0.61333,
+        "dark_fraction": 0.01123
+      }
+    },
+    "assets/diagrams/wave-01/fig-44-9-shook-swarm-principle.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.307,
+        "grayscale_stddev": 32.541,
+        "whiteish_fraction": 0.67653,
+        "dark_fraction": 0.00997
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.393,
+        "grayscale_stddev": 30.05,
+        "whiteish_fraction": 0.67058,
+        "dark_fraction": 0.00821
+      }
+    },
+    "assets/diagrams/wave-01/fig-45-1-infection-versus-clinical-disease.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.734,
+        "grayscale_stddev": 31.79,
+        "whiteish_fraction": 0.67635,
+        "dark_fraction": 0.00941
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 242.687,
+        "grayscale_stddev": 29.584,
+        "whiteish_fraction": 0.67041,
+        "dark_fraction": 0.00805
+      }
+    },
+    "assets/diagrams/wave-01/fig-45-10-pooled-vs-individual-sampling.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 238.761,
+        "grayscale_stddev": 34.916,
+        "whiteish_fraction": 0.57109,
+        "dark_fraction": 0.01586
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 238.703,
+        "grayscale_stddev": 33.282,
+        "whiteish_fraction": 0.56761,
+        "dark_fraction": 0.01166
+      }
+    },
+    "assets/diagrams/wave-01/fig-45-11-viral-differential-diagnosis.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 230.74,
+        "grayscale_stddev": 41.984,
+        "whiteish_fraction": 0.34153,
+        "dark_fraction": 0.03285
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 231.42,
+        "grayscale_stddev": 37.662,
+        "whiteish_fraction": 0.33794,
+        "dark_fraction": 0.02202
+      }
+    },
+    "assets/diagrams/wave-01/fig-45-12-virus-management-framework.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 236.967,
+        "grayscale_stddev": 47.953,
+        "whiteish_fraction": 0.73745,
+        "dark_fraction": 0.04955
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 236.897,
+        "grayscale_stddev": 46.826,
+        "whiteish_fraction": 0.73134,
+        "dark_fraction": 0.04653
+      }
+    },
+    "assets/diagrams/wave-01/fig-45-2-viral-transmission-routes.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 237.569,
+        "grayscale_stddev": 47.167,
+        "whiteish_fraction": 0.74297,
+        "dark_fraction": 0.04778
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 237.504,
+        "grayscale_stddev": 46.089,
+        "whiteish_fraction": 0.73813,
+        "dark_fraction": 0.04503
+      }
+    },
+    "assets/diagrams/wave-01/fig-45-3-varroa-dwv-interaction.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 236.136,
+        "grayscale_stddev": 29.969,
+        "whiteish_fraction": 0.35649,
+        "dark_fraction": 0.00763
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 236.044,
+        "grayscale_stddev": 28.712,
+        "whiteish_fraction": 0.35416,
+        "dark_fraction": 0.00295
+      }
+    },
+    "assets/diagrams/wave-01/fig-45-9-rt-pcr-workflow.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.776,
+        "grayscale_stddev": 33.171,
+        "whiteish_fraction": 0.62251,
+        "dark_fraction": 0.00798
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 240.734,
+        "grayscale_stddev": 31.014,
+        "whiteish_fraction": 0.6161,
+        "dark_fraction": 0.00807
+      }
+    },
+    "assets/diagrams/wave-01/fig-46-1-honey-bee-ipm-cycle.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 242.993,
+        "grayscale_stddev": 38.223,
+        "whiteish_fraction": 0.77451,
+        "dark_fraction": 0.03247
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 243.106,
+        "grayscale_stddev": 36.96,
+        "whiteish_fraction": 0.77212,
+        "dark_fraction": 0.03016
+      }
+    },
+    "assets/diagrams/wave-01/fig-46-10-treatment-failure-investigation.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.311,
+        "grayscale_stddev": 34.426,
+        "whiteish_fraction": 0.63923,
+        "dark_fraction": 0.01747
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.337,
+        "grayscale_stddev": 32.594,
+        "whiteish_fraction": 0.63766,
+        "dark_fraction": 0.012
+      }
+    },
+    "assets/diagrams/wave-01/fig-46-12-established-vs-exotic-regulated-pest.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.095,
+        "grayscale_stddev": 33.773,
+        "whiteish_fraction": 0.60893,
+        "dark_fraction": 0.0213
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.385,
+        "grayscale_stddev": 31.35,
+        "whiteish_fraction": 0.60596,
+        "dark_fraction": 0.01462
+      }
+    },
+    "assets/diagrams/wave-01/fig-46-3-surveillance-versus-monitoring.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.92,
+        "grayscale_stddev": 31.789,
+        "whiteish_fraction": 0.64258,
+        "dark_fraction": 0.01136
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.824,
+        "grayscale_stddev": 30.555,
+        "whiteish_fraction": 0.64098,
+        "dark_fraction": 0.00996
+      }
+    },
+    "assets/diagrams/wave-01/fig-46-4-ipm-thresholds-contextual.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 240.456,
+        "grayscale_stddev": 43.208,
+        "whiteish_fraction": 0.77327,
+        "dark_fraction": 0.04442
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 240.543,
+        "grayscale_stddev": 42.004,
+        "whiteish_fraction": 0.7682,
+        "dark_fraction": 0.04279
+      }
+    },
+    "assets/diagrams/wave-01/fig-46-6-drone-brood-removal-sequence.svg": {
+      "520": {
+        "width": 520,
+        "height": 390,
+        "grayscale_mean": 237.838,
+        "grayscale_stddev": 30.715,
+        "whiteish_fraction": 0.35732,
+        "dark_fraction": 0.00618
+      },
+      "390": {
+        "width": 390,
+        "height": 292,
+        "grayscale_mean": 237.906,
+        "grayscale_stddev": 29.519,
+        "whiteish_fraction": 0.35093,
+        "dark_fraction": 0.00425
+      }
+    },
+    "assets/diagrams/wave-01/fig-46-9-mode-of-action-resistance-selection.svg": {
+      "520": {
+        "width": 520,
+        "height": 693,
+        "grayscale_mean": 241.306,
+        "grayscale_stddev": 33.054,
+        "whiteish_fraction": 0.60152,
+        "dark_fraction": 0.01355
+      },
+      "390": {
+        "width": 390,
+        "height": 520,
+        "grayscale_mean": 241.315,
+        "grayscale_stddev": 30.796,
+        "whiteish_fraction": 0.59764,
+        "dark_fraction": 0.00831
+      }
+    },
+    "assets/diagrams/wave-02/fig-01-2-what-a-colony-contains.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 238.149,
+        "grayscale_stddev": 32.645,
+        "whiteish_fraction": 0.66416,
+        "dark_fraction": 0.00321
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 238.075,
+        "grayscale_stddev": 31.497,
+        "whiteish_fraction": 0.65242,
+        "dark_fraction": 0.0021
+      }
+    },
+    "assets/diagrams/wave-02/fig-01-3-beekeeping-year-at-a-glance.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.535,
+        "grayscale_stddev": 25.293,
+        "whiteish_fraction": 0.74156,
+        "dark_fraction": 0.00498
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.653,
+        "grayscale_stddev": 23.76,
+        "whiteish_fraction": 0.7362,
+        "dark_fraction": 0.00376
+      }
+    },
+    "assets/diagrams/wave-02/fig-01-4-beginner-decision-path.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.22,
+        "grayscale_stddev": 27.597,
+        "whiteish_fraction": 0.58902,
+        "dark_fraction": 0.00492
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.451,
+        "grayscale_stddev": 25.777,
+        "whiteish_fraction": 0.58734,
+        "dark_fraction": 0.00346
+      }
+    },
+    "assets/diagrams/wave-02/fig-02-1-beekeeping-development-timeline.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 247.987,
+        "grayscale_stddev": 26.256,
+        "whiteish_fraction": 0.86606,
+        "dark_fraction": 0.00633
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 248.108,
+        "grayscale_stddev": 24.717,
+        "whiteish_fraction": 0.85677,
+        "dark_fraction": 0.00524
+      }
+    },
+    "assets/diagrams/wave-02/fig-02-3-movable-frame-breakthrough.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.087,
+        "grayscale_stddev": 29.548,
+        "whiteish_fraction": 0.37391,
+        "dark_fraction": 0.00379
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 239.087,
+        "grayscale_stddev": 27.802,
+        "whiteish_fraction": 0.37425,
+        "dark_fraction": 0.00225
+      }
+    },
+    "assets/diagrams/wave-02/fig-02-4-global-traditions.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.124,
+        "grayscale_stddev": 21.05,
+        "whiteish_fraction": 0.79849,
+        "dark_fraction": 0.00248
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.262,
+        "grayscale_stddev": 19.537,
+        "whiteish_fraction": 0.79253,
+        "dark_fraction": 0.00146
+      }
+    },
+    "assets/diagrams/wave-02/fig-03-2-pollination-network.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 247.77,
+        "grayscale_stddev": 23.59,
+        "whiteish_fraction": 0.81572,
+        "dark_fraction": 0.00362
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 247.778,
+        "grayscale_stddev": 22.37,
+        "whiteish_fraction": 0.80946,
+        "dark_fraction": 0.00184
+      }
+    },
+    "assets/diagrams/wave-02/fig-03-3-managed-vs-wild-pollinators.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 235.448,
+        "grayscale_stddev": 29.627,
+        "whiteish_fraction": 0.31558,
+        "dark_fraction": 0.00489
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 235.562,
+        "grayscale_stddev": 28.116,
+        "whiteish_fraction": 0.31774,
+        "dark_fraction": 0.00333
+      }
+    },
+    "assets/diagrams/wave-02/fig-03-4-ecosystem-service-pathway.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.989,
+        "grayscale_stddev": 28.404,
+        "whiteish_fraction": 0.59535,
+        "dark_fraction": 0.00376
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.176,
+        "grayscale_stddev": 26.682,
+        "whiteish_fraction": 0.58891,
+        "dark_fraction": 0.00297
+      }
+    },
+    "assets/diagrams/wave-02/fig-04-1-hive-product-overview.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.045,
+        "grayscale_stddev": 25.06,
+        "whiteish_fraction": 0.38974,
+        "dark_fraction": 0.0048
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.118,
+        "grayscale_stddev": 23.893,
+        "whiteish_fraction": 0.38881,
+        "dark_fraction": 0.004
+      }
+    },
+    "assets/diagrams/wave-02/fig-04-2-product-origin-map.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 236.44,
+        "grayscale_stddev": 32.381,
+        "whiteish_fraction": 0.62131,
+        "dark_fraction": 0.00435
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 236.547,
+        "grayscale_stddev": 31.082,
+        "whiteish_fraction": 0.61799,
+        "dark_fraction": 0.00312
+      }
+    },
+    "assets/diagrams/wave-02/fig-04-4-from-colony-to-market.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.711,
+        "grayscale_stddev": 26.053,
+        "whiteish_fraction": 0.49929,
+        "dark_fraction": 0.00423
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.907,
+        "grayscale_stddev": 23.922,
+        "whiteish_fraction": 0.49954,
+        "dark_fraction": 0.00295
+      }
+    },
+    "assets/diagrams/wave-02/fig-05-2-evidence-based-decision-loop.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.955,
+        "grayscale_stddev": 25.368,
+        "whiteish_fraction": 0.77497,
+        "dark_fraction": 0.00445
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 247.03,
+        "grayscale_stddev": 23.86,
+        "whiteish_fraction": 0.77213,
+        "dark_fraction": 0.00289
+      }
+    },
+    "assets/diagrams/wave-02/fig-05-3-traditional-vs-precision-tools.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 237.98,
+        "grayscale_stddev": 30.407,
+        "whiteish_fraction": 0.34143,
+        "dark_fraction": 0.00591
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 238.072,
+        "grayscale_stddev": 29.005,
+        "whiteish_fraction": 0.34186,
+        "dark_fraction": 0.00448
+      }
+    },
+    "assets/diagrams/wave-02/fig-05-4-modern-risk-landscape.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.704,
+        "grayscale_stddev": 24.007,
+        "whiteish_fraction": 0.74711,
+        "dark_fraction": 0.00344
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.802,
+        "grayscale_stddev": 22.355,
+        "whiteish_fraction": 0.74373,
+        "dark_fraction": 0.00176
+      }
+    },
+    "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.666,
+        "grayscale_stddev": 32.412,
+        "whiteish_fraction": 0.7397,
+        "dark_fraction": 0.00949
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.633,
+        "grayscale_stddev": 31.387,
+        "whiteish_fraction": 0.73281,
+        "dark_fraction": 0.00756
+      }
+    },
+    "assets/diagrams/wave-02/fig-06-4-internal-systems.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.243,
+        "grayscale_stddev": 30.682,
+        "whiteish_fraction": 0.85061,
+        "dark_fraction": 0.01077
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 245.397,
+        "grayscale_stddev": 29.278,
+        "whiteish_fraction": 0.84485,
+        "dark_fraction": 0.00634
+      }
+    },
+    "assets/diagrams/wave-02/fig-06-5-caste-anatomy-comparison.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 234.915,
+        "grayscale_stddev": 32.274,
+        "whiteish_fraction": 0.30949,
+        "dark_fraction": 0.00924
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 234.765,
+        "grayscale_stddev": 30.351,
+        "whiteish_fraction": 0.30482,
+        "dark_fraction": 0.0051
+      }
+    },
+    "assets/diagrams/wave-02/fig-07-1-complete-development-cycle.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.558,
+        "grayscale_stddev": 25.829,
+        "whiteish_fraction": 0.39269,
+        "dark_fraction": 0.00355
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 239.798,
+        "grayscale_stddev": 23.582,
+        "whiteish_fraction": 0.38702,
+        "dark_fraction": 0.00221
+      }
+    },
+    "assets/diagrams/wave-02/fig-07-2-larval-growth-feeding.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.048,
+        "grayscale_stddev": 25.484,
+        "whiteish_fraction": 0.43162,
+        "dark_fraction": 0.00261
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.273,
+        "grayscale_stddev": 23.426,
+        "whiteish_fraction": 0.42409,
+        "dark_fraction": 0.00192
+      }
+    },
+    "assets/diagrams/wave-02/fig-07-4-caste-development-comparison.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.296,
+        "grayscale_stddev": 25.974,
+        "whiteish_fraction": 0.46688,
+        "dark_fraction": 0.00319
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.414,
+        "grayscale_stddev": 24.139,
+        "whiteish_fraction": 0.46321,
+        "dark_fraction": 0.0021
+      }
+    },
+    "assets/diagrams/wave-02/fig-08-1-queen-anatomy-identification.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 234.424,
+        "grayscale_stddev": 29.013,
+        "whiteish_fraction": 0.2759,
+        "dark_fraction": 0.00632
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 234.459,
+        "grayscale_stddev": 27.366,
+        "whiteish_fraction": 0.27329,
+        "dark_fraction": 0.00316
+      }
+    },
+    "assets/diagrams/wave-02/fig-08-2-queen-reproductive-system.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 232.67,
+        "grayscale_stddev": 30.634,
+        "whiteish_fraction": 0.26492,
+        "dark_fraction": 0.01092
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 232.597,
+        "grayscale_stddev": 28.799,
+        "whiteish_fraction": 0.26253,
+        "dark_fraction": 0.0063
+      }
+    },
+    "assets/diagrams/wave-02/fig-08-3-mating-sperm-storage.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 236.616,
+        "grayscale_stddev": 30.408,
+        "whiteish_fraction": 0.35618,
+        "dark_fraction": 0.01046
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 236.461,
+        "grayscale_stddev": 29.312,
+        "whiteish_fraction": 0.35534,
+        "dark_fraction": 0.00425
+      }
+    },
+    "assets/diagrams/wave-02/fig-09-1-worker-task-progression.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 244.52,
+        "grayscale_stddev": 25.727,
+        "whiteish_fraction": 0.63889,
+        "dark_fraction": 0.00474
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 244.648,
+        "grayscale_stddev": 23.873,
+        "whiteish_fraction": 0.63523,
+        "dark_fraction": 0.00336
+      }
+    },
+    "assets/diagrams/wave-02/fig-09-2-worker-specialised-structures.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.437,
+        "grayscale_stddev": 30.002,
+        "whiteish_fraction": 0.71975,
+        "dark_fraction": 0.00703
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.685,
+        "grayscale_stddev": 28.103,
+        "whiteish_fraction": 0.71192,
+        "dark_fraction": 0.00509
+      }
+    },
+    "assets/diagrams/wave-02/fig-09-3-forager-resource-types.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.654,
+        "grayscale_stddev": 25.774,
+        "whiteish_fraction": 0.35478,
+        "dark_fraction": 0.00371
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.57,
+        "grayscale_stddev": 24.929,
+        "whiteish_fraction": 0.35582,
+        "dark_fraction": 0.00267
+      }
+    },
+    "assets/diagrams/wave-02/fig-10-1-drone-identification.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 237.214,
+        "grayscale_stddev": 29.667,
+        "whiteish_fraction": 0.352,
+        "dark_fraction": 0.00796
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 237.065,
+        "grayscale_stddev": 28.939,
+        "whiteish_fraction": 0.3544,
+        "dark_fraction": 0.00362
+      }
+    },
+    "assets/diagrams/wave-02/fig-10-2-drone-development.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 229.76,
+        "grayscale_stddev": 39.191,
+        "whiteish_fraction": 0.32211,
+        "dark_fraction": 0.00234
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 229.859,
+        "grayscale_stddev": 38.175,
+        "whiteish_fraction": 0.32471,
+        "dark_fraction": 0.00159
+      }
+    },
+    "assets/diagrams/wave-02/fig-10-3-drone-reproductive-anatomy.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 237.992,
+        "grayscale_stddev": 27.214,
+        "whiteish_fraction": 0.26437,
+        "dark_fraction": 0.00504
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 238.225,
+        "grayscale_stddev": 25.286,
+        "whiteish_fraction": 0.26025,
+        "dark_fraction": 0.00404
+      }
+    },
+    "assets/diagrams/wave-02/fig-11-2-distance-dance-tempo.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 238.206,
+        "grayscale_stddev": 29.606,
+        "whiteish_fraction": 0.41603,
+        "dark_fraction": 0.00822
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 238.415,
+        "grayscale_stddev": 27.677,
+        "whiteish_fraction": 0.41027,
+        "dark_fraction": 0.00292
+      }
+    },
+    "assets/diagrams/wave-02/fig-11-4-alarm-recruitment-signals.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 235.776,
+        "grayscale_stddev": 29.657,
+        "whiteish_fraction": 0.31854,
+        "dark_fraction": 0.00625
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 235.596,
+        "grayscale_stddev": 28.501,
+        "whiteish_fraction": 0.32058,
+        "dark_fraction": 0.00513
+      }
+    },
+    "assets/diagrams/wave-02/fig-11-5-swarm-nest-site-communication.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 238.104,
+        "grayscale_stddev": 29.5,
+        "whiteish_fraction": 0.46225,
+        "dark_fraction": 0.0071
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 238.249,
+        "grayscale_stddev": 28.175,
+        "whiteish_fraction": 0.46031,
+        "dark_fraction": 0.00438
+      }
+    },
+    "assets/diagrams/wave-02/fig-12-2-orientation-vs-robbing.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 236.347,
+        "grayscale_stddev": 29.108,
+        "whiteish_fraction": 0.31807,
+        "dark_fraction": 0.00633
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 236.256,
+        "grayscale_stddev": 27.906,
+        "whiteish_fraction": 0.32019,
+        "dark_fraction": 0.00476
+      }
+    },
+    "assets/diagrams/wave-02/fig-12-4-grooming-hygienic-behaviour.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 235.148,
+        "grayscale_stddev": 31.848,
+        "whiteish_fraction": 0.31772,
+        "dark_fraction": 0.00368
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 235.002,
+        "grayscale_stddev": 30.701,
+        "whiteish_fraction": 0.31965,
+        "dark_fraction": 0.00245
+      }
+    },
+    "assets/diagrams/wave-02/fig-12-5-clustering-thermoregulation.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 234.278,
+        "grayscale_stddev": 29.108,
+        "whiteish_fraction": 0.31654,
+        "dark_fraction": 0.00882
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 234.222,
+        "grayscale_stddev": 27.805,
+        "whiteish_fraction": 0.31953,
+        "dark_fraction": 0.00519
+      }
+    },
+    "assets/diagrams/wave-02/fig-13-1-brood-nest-organisation.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 231.034,
+        "grayscale_stddev": 33.692,
+        "whiteish_fraction": 0.25578,
+        "dark_fraction": 0.0029
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 231.02,
+        "grayscale_stddev": 32.793,
+        "whiteish_fraction": 0.25835,
+        "dark_fraction": 0.00187
+      }
+    },
+    "assets/diagrams/wave-02/fig-13-2-colony-superorganism.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.558,
+        "grayscale_stddev": 24.574,
+        "whiteish_fraction": 0.74658,
+        "dark_fraction": 0.00374
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.703,
+        "grayscale_stddev": 22.624,
+        "whiteish_fraction": 0.74251,
+        "dark_fraction": 0.00195
+      }
+    },
+    "assets/diagrams/wave-02/fig-13-4-resource-flow-colony.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.522,
+        "grayscale_stddev": 28.87,
+        "whiteish_fraction": 0.51628,
+        "dark_fraction": 0.00802
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.416,
+        "grayscale_stddev": 26.901,
+        "whiteish_fraction": 0.50987,
+        "dark_fraction": 0.00326
+      }
+    },
+    "assets/diagrams/wave-02/fig-14-1-annual-colony-population-cycle.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.891,
+        "grayscale_stddev": 32.007,
+        "whiteish_fraction": 0.856,
+        "dark_fraction": 0.0142
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 245.99,
+        "grayscale_stddev": 30.666,
+        "whiteish_fraction": 0.8458,
+        "dark_fraction": 0.01104
+      }
+    },
+    "assets/diagrams/wave-02/fig-14-2-temperate-warm-climate-patterns.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.062,
+        "grayscale_stddev": 26.181,
+        "whiteish_fraction": 0.45314,
+        "dark_fraction": 0.00411
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.207,
+        "grayscale_stddev": 24.194,
+        "whiteish_fraction": 0.45106,
+        "dark_fraction": 0.00268
+      }
+    },
+    "assets/diagrams/wave-02/fig-14-4-forage-brood-feedback.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.76,
+        "grayscale_stddev": 26.279,
+        "whiteish_fraction": 0.79747,
+        "dark_fraction": 0.00448
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.91,
+        "grayscale_stddev": 24.321,
+        "whiteish_fraction": 0.79204,
+        "dark_fraction": 0.00277
+      }
+    },
+    "assets/diagrams/wave-02/fig-15-2-good-poor-flight-paths.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 234.797,
+        "grayscale_stddev": 31.376,
+        "whiteish_fraction": 0.32012,
+        "dark_fraction": 0.00528
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 234.879,
+        "grayscale_stddev": 29.985,
+        "whiteish_fraction": 0.32246,
+        "dark_fraction": 0.00437
+      }
+    },
+    "assets/diagrams/wave-02/fig-15-3-drainage-stand-placement.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 232.999,
+        "grayscale_stddev": 31.733,
+        "whiteish_fraction": 0.3204,
+        "dark_fraction": 0.00932
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 233.133,
+        "grayscale_stddev": 30.213,
+        "whiteish_fraction": 0.32291,
+        "dark_fraction": 0.00824
+      }
+    },
+    "assets/diagrams/wave-02/fig-15-4-landscape-forage-mosaic.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 237.567,
+        "grayscale_stddev": 34.377,
+        "whiteish_fraction": 0.75102,
+        "dark_fraction": 0.00496
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 237.644,
+        "grayscale_stddev": 33.439,
+        "whiteish_fraction": 0.74817,
+        "dark_fraction": 0.00389
+      }
+    },
+    "assets/diagrams/wave-02/fig-16-1-small-apiary-layout.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 235.539,
+        "grayscale_stddev": 32.594,
+        "whiteish_fraction": 0.6661,
+        "dark_fraction": 0.0057
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 235.612,
+        "grayscale_stddev": 31.334,
+        "whiteish_fraction": 0.66163,
+        "dark_fraction": 0.00367
+      }
+    },
+    "assets/diagrams/wave-02/fig-16-2-growth-plan.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 236.459,
+        "grayscale_stddev": 30.438,
+        "whiteish_fraction": 0.40909,
+        "dark_fraction": 0.0066
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 236.274,
+        "grayscale_stddev": 29.452,
+        "whiteish_fraction": 0.40602,
+        "dark_fraction": 0.00379
+      }
+    },
+    "assets/diagrams/wave-02/fig-16-5-apiary-identification-system.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.708,
+        "grayscale_stddev": 25.399,
+        "whiteish_fraction": 0.59502,
+        "dark_fraction": 0.00413
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.566,
+        "grayscale_stddev": 24.168,
+        "whiteish_fraction": 0.5932,
+        "dark_fraction": 0.00241
+      }
+    },
+    "assets/diagrams/wave-02/fig-17-1-common-movable-frame-hives.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 230.295,
+        "grayscale_stddev": 34.567,
+        "whiteish_fraction": 0.34927,
+        "dark_fraction": 0.00737
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 230.449,
+        "grayscale_stddev": 33.224,
+        "whiteish_fraction": 0.34955,
+        "dark_fraction": 0.00452
+      }
+    },
+    "assets/diagrams/wave-02/fig-17-2-horizontal-vs-vertical-expansion.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 229.598,
+        "grayscale_stddev": 33.842,
+        "whiteish_fraction": 0.31837,
+        "dark_fraction": 0.00463
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 229.421,
+        "grayscale_stddev": 33.127,
+        "whiteish_fraction": 0.32101,
+        "dark_fraction": 0.00339
+      }
+    },
+    "assets/diagrams/wave-02/fig-17-4-hive-system-comparison-matrix.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.448,
+        "grayscale_stddev": 26.174,
+        "whiteish_fraction": 0.78454,
+        "dark_fraction": 0.00343
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.658,
+        "grayscale_stddev": 24.189,
+        "whiteish_fraction": 0.77501,
+        "dark_fraction": 0.00226
+      }
+    },
+    "assets/diagrams/wave-02/fig-18-1-exploded-modular-hive.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 234.089,
+        "grayscale_stddev": 35.971,
+        "whiteish_fraction": 0.59129,
+        "dark_fraction": 0.00369
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 234.12,
+        "grayscale_stddev": 34.917,
+        "whiteish_fraction": 0.58522,
+        "dark_fraction": 0.00309
+      }
+    },
+    "assets/diagrams/wave-02/fig-18-2-frame-spacing-bee-space.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 231.24,
+        "grayscale_stddev": 33.657,
+        "whiteish_fraction": 0.35912,
+        "dark_fraction": 0.00393
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 231.27,
+        "grayscale_stddev": 32.581,
+        "whiteish_fraction": 0.3585,
+        "dark_fraction": 0.00256
+      }
+    },
+    "assets/diagrams/wave-02/fig-18-3-floor-types.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 231.816,
+        "grayscale_stddev": 32.103,
+        "whiteish_fraction": 0.32383,
+        "dark_fraction": 0.00306
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 231.749,
+        "grayscale_stddev": 31.053,
+        "whiteish_fraction": 0.32648,
+        "dark_fraction": 0.00277
+      }
+    },
+    "assets/diagrams/wave-02/fig-19-1-frame-anatomy.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.76,
+        "grayscale_stddev": 29.664,
+        "whiteish_fraction": 0.80012,
+        "dark_fraction": 0.00204
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.794,
+        "grayscale_stddev": 28.41,
+        "whiteish_fraction": 0.79081,
+        "dark_fraction": 0.00142
+      }
+    },
+    "assets/diagrams/wave-02/fig-19-4-straight-natural-comb.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 237.627,
+        "grayscale_stddev": 26.9,
+        "whiteish_fraction": 0.31989,
+        "dark_fraction": 0.00321
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 237.653,
+        "grayscale_stddev": 25.668,
+        "whiteish_fraction": 0.32196,
+        "dark_fraction": 0.0018
+      }
+    },
+    "assets/diagrams/wave-02/fig-19-5-comb-age-sequence.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 233.459,
+        "grayscale_stddev": 38.527,
+        "whiteish_fraction": 0.37313,
+        "dark_fraction": 0.02417
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 233.615,
+        "grayscale_stddev": 37.357,
+        "whiteish_fraction": 0.37201,
+        "dark_fraction": 0.02211
+      }
+    },
+    "assets/diagrams/wave-02/fig-20-1-beginner-equipment-set.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.386,
+        "grayscale_stddev": 26.922,
+        "whiteish_fraction": 0.49942,
+        "dark_fraction": 0.00383
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.49,
+        "grayscale_stddev": 24.704,
+        "whiteish_fraction": 0.49487,
+        "dark_fraction": 0.00221
+      }
+    },
+    "assets/diagrams/wave-02/fig-20-2-equipment-by-task.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.46,
+        "grayscale_stddev": 25.112,
+        "whiteish_fraction": 0.41029,
+        "dark_fraction": 0.00293
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.714,
+        "grayscale_stddev": 23.72,
+        "whiteish_fraction": 0.40832,
+        "dark_fraction": 0.00165
+      }
+    },
+    "assets/diagrams/wave-02/fig-20-4-clean-equipment-workflow.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.276,
+        "grayscale_stddev": 26.654,
+        "whiteish_fraction": 0.41641,
+        "dark_fraction": 0.00389
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.141,
+        "grayscale_stddev": 25.668,
+        "whiteish_fraction": 0.41496,
+        "dark_fraction": 0.00256
+      }
+    },
+    "assets/diagrams/wave-03/fig-26-1-natural-and-supplemental-nutrition.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.65,
+        "grayscale_stddev": 22.465,
+        "whiteish_fraction": 0.67113,
+        "dark_fraction": 0.00354
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.849,
+        "grayscale_stddev": 20.72,
+        "whiteish_fraction": 0.66762,
+        "dark_fraction": 0.00296
+      }
+    },
+    "assets/diagrams/wave-03/fig-26-6-brood-nest-before-after-overfeeding.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.508,
+        "grayscale_stddev": 25.671,
+        "whiteish_fraction": 0.55009,
+        "dark_fraction": 0.00525
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.802,
+        "grayscale_stddev": 22.649,
+        "whiteish_fraction": 0.54079,
+        "dark_fraction": 0.00266
+      }
+    },
+    "assets/diagrams/wave-03/fig-26-7-feeding-decision-flow.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.309,
+        "grayscale_stddev": 26.57,
+        "whiteish_fraction": 0.51821,
+        "dark_fraction": 0.00322
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.539,
+        "grayscale_stddev": 24.72,
+        "whiteish_fraction": 0.51233,
+        "dark_fraction": 0.00275
+      }
+    },
+    "assets/diagrams/wave-03/fig-27-10-autumn-preparation-timeline.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 247.19,
+        "grayscale_stddev": 24.763,
+        "whiteish_fraction": 0.79829,
+        "dark_fraction": 0.00325
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 247.428,
+        "grayscale_stddev": 23.0,
+        "whiteish_fraction": 0.79609,
+        "dark_fraction": 0.0026
+      }
+    },
+    "assets/diagrams/wave-03/fig-27-12-winter-feeding-decision-chart.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.232,
+        "grayscale_stddev": 28.067,
+        "whiteish_fraction": 0.51673,
+        "dark_fraction": 0.00379
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.53,
+        "grayscale_stddev": 25.92,
+        "whiteish_fraction": 0.51088,
+        "dark_fraction": 0.00312
+      }
+    },
+    "assets/diagrams/wave-03/fig-27-7-condensation-and-moisture.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.187,
+        "grayscale_stddev": 26.334,
+        "whiteish_fraction": 0.35907,
+        "dark_fraction": 0.00668
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.483,
+        "grayscale_stddev": 24.544,
+        "whiteish_fraction": 0.36113,
+        "dark_fraction": 0.00463
+      }
+    },
+    "assets/diagrams/wave-03/fig-28-1-natural-swarm-cycle.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.201,
+        "grayscale_stddev": 23.52,
+        "whiteish_fraction": 0.4499,
+        "dark_fraction": 0.00207
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.435,
+        "grayscale_stddev": 21.629,
+        "whiteish_fraction": 0.44915,
+        "dark_fraction": 0.00173
+      }
+    },
+    "assets/diagrams/wave-03/fig-28-3-brood-nest-restriction.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.459,
+        "grayscale_stddev": 25.281,
+        "whiteish_fraction": 0.54577,
+        "dark_fraction": 0.00409
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.716,
+        "grayscale_stddev": 22.7,
+        "whiteish_fraction": 0.54025,
+        "dark_fraction": 0.00182
+      }
+    },
+    "assets/diagrams/wave-03/fig-28-5-queen-cell-types.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.908,
+        "grayscale_stddev": 22.977,
+        "whiteish_fraction": 0.70088,
+        "dark_fraction": 0.00197
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.158,
+        "grayscale_stddev": 21.336,
+        "whiteish_fraction": 0.69863,
+        "dark_fraction": 0.00156
+      }
+    },
+    "assets/diagrams/wave-03/fig-29-1-swarm-reproductive-sequence.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.366,
+        "grayscale_stddev": 24.662,
+        "whiteish_fraction": 0.44851,
+        "dark_fraction": 0.00279
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.62,
+        "grayscale_stddev": 22.74,
+        "whiteish_fraction": 0.44785,
+        "dark_fraction": 0.00221
+      }
+    },
+    "assets/diagrams/wave-03/fig-29-10-installing-the-swarm.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.855,
+        "grayscale_stddev": 22.216,
+        "whiteish_fraction": 0.67543,
+        "dark_fraction": 0.00217
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.106,
+        "grayscale_stddev": 20.405,
+        "whiteish_fraction": 0.67657,
+        "dark_fraction": 0.00176
+      }
+    },
+    "assets/diagrams/wave-03/fig-29-15-first-inspection.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.264,
+        "grayscale_stddev": 24.438,
+        "whiteish_fraction": 0.3614,
+        "dark_fraction": 0.00181
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.565,
+        "grayscale_stddev": 22.029,
+        "whiteish_fraction": 0.36022,
+        "dark_fraction": 0.00143
+      }
+    },
+    "assets/diagrams/wave-03/fig-30-1-resources-required-for-a-split.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.793,
+        "grayscale_stddev": 24.948,
+        "whiteish_fraction": 0.4214,
+        "dark_fraction": 0.00338
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.116,
+        "grayscale_stddev": 22.734,
+        "whiteish_fraction": 0.42204,
+        "dark_fraction": 0.00219
+      }
+    },
+    "assets/diagrams/wave-03/fig-30-14-failed-split-decision.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.976,
+        "grayscale_stddev": 25.886,
+        "whiteish_fraction": 0.58199,
+        "dark_fraction": 0.00285
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.264,
+        "grayscale_stddev": 23.661,
+        "whiteish_fraction": 0.57788,
+        "dark_fraction": 0.00228
+      }
+    },
+    "assets/diagrams/wave-03/fig-30-2-donor-colony-assessment.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.85,
+        "grayscale_stddev": 24.774,
+        "whiteish_fraction": 0.55332,
+        "dark_fraction": 0.00422
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.132,
+        "grayscale_stddev": 21.723,
+        "whiteish_fraction": 0.54369,
+        "dark_fraction": 0.00183
+      }
+    },
+    "assets/diagrams/wave-03/fig-31-11-queen-development-status-decision.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.563,
+        "grayscale_stddev": 27.261,
+        "whiteish_fraction": 0.57931,
+        "dark_fraction": 0.00412
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.908,
+        "grayscale_stddev": 24.486,
+        "whiteish_fraction": 0.57533,
+        "dark_fraction": 0.00319
+      }
+    },
+    "assets/diagrams/wave-03/fig-31-2-queen-failure-vs-other-problems.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.567,
+        "grayscale_stddev": 25.235,
+        "whiteish_fraction": 0.43156,
+        "dark_fraction": 0.00379
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.888,
+        "grayscale_stddev": 22.963,
+        "whiteish_fraction": 0.43143,
+        "dark_fraction": 0.00257
+      }
+    },
+    "assets/diagrams/wave-03/fig-31-5-finding-removing-old-queen.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.676,
+        "grayscale_stddev": 21.602,
+        "whiteish_fraction": 0.67239,
+        "dark_fraction": 0.00314
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.91,
+        "grayscale_stddev": 19.837,
+        "whiteish_fraction": 0.67292,
+        "dark_fraction": 0.00266
+      }
+    },
+    "assets/diagrams/wave-03/fig-32-10-queen-cell-protection.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 244.611,
+        "grayscale_stddev": 22.863,
+        "whiteish_fraction": 0.59057,
+        "dark_fraction": 0.0023
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 244.877,
+        "grayscale_stddev": 20.977,
+        "whiteish_fraction": 0.59122,
+        "dark_fraction": 0.00184
+      }
+    },
+    "assets/diagrams/wave-03/fig-32-11-mating-nucleus.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.934,
+        "grayscale_stddev": 24.454,
+        "whiteish_fraction": 0.42107,
+        "dark_fraction": 0.00262
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.225,
+        "grayscale_stddev": 22.177,
+        "whiteish_fraction": 0.42151,
+        "dark_fraction": 0.00148
+      }
+    },
+    "assets/diagrams/wave-03/fig-32-3-breeder-colony-selection.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.323,
+        "grayscale_stddev": 24.455,
+        "whiteish_fraction": 0.43457,
+        "dark_fraction": 0.00243
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.642,
+        "grayscale_stddev": 22.204,
+        "whiteish_fraction": 0.43526,
+        "dark_fraction": 0.00187
+      }
+    },
+    "assets/diagrams/wave-04/fig-34-1-biological-colony-year.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 247.849,
+        "grayscale_stddev": 24.218,
+        "whiteish_fraction": 0.81608,
+        "dark_fraction": 0.00402
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 248.063,
+        "grayscale_stddev": 22.42,
+        "whiteish_fraction": 0.8119,
+        "dark_fraction": 0.00253
+      }
+    },
+    "assets/diagrams/wave-04/fig-34-2-seasonal-decision-framework.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.89,
+        "grayscale_stddev": 28.434,
+        "whiteish_fraction": 0.52363,
+        "dark_fraction": 0.00357
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.155,
+        "grayscale_stddev": 25.812,
+        "whiteish_fraction": 0.51762,
+        "dark_fraction": 0.00286
+      }
+    },
+    "assets/diagrams/wave-04/fig-34-4-seasonal-inspection-objectives.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.484,
+        "grayscale_stddev": 25.981,
+        "whiteish_fraction": 0.41942,
+        "dark_fraction": 0.00353
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.82,
+        "grayscale_stddev": 23.874,
+        "whiteish_fraction": 0.41944,
+        "dark_fraction": 0.00205
+      }
+    },
+    "assets/diagrams/wave-04/fig-35-2-monthly-priority-matrix.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.68,
+        "grayscale_stddev": 24.936,
+        "whiteish_fraction": 0.61894,
+        "dark_fraction": 0.0023
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.908,
+        "grayscale_stddev": 22.005,
+        "whiteish_fraction": 0.60547,
+        "dark_fraction": 0.00188
+      }
+    },
+    "assets/diagrams/wave-04/fig-35-3-one-month-ahead-equipment-planning.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.489,
+        "grayscale_stddev": 26.247,
+        "whiteish_fraction": 0.56942,
+        "dark_fraction": 0.00512
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.82,
+        "grayscale_stddev": 23.795,
+        "whiteish_fraction": 0.56743,
+        "dark_fraction": 0.0038
+      }
+    },
+    "assets/diagrams/wave-04/fig-35-4-monthly-inspection-record.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.901,
+        "grayscale_stddev": 22.864,
+        "whiteish_fraction": 0.7122,
+        "dark_fraction": 0.00274
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 247.092,
+        "grayscale_stddev": 20.759,
+        "whiteish_fraction": 0.70416,
+        "dark_fraction": 0.00198
+      }
+    },
+    "assets/diagrams/wave-04/fig-36-2-colony-inspection-record-sheet.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.796,
+        "grayscale_stddev": 23.199,
+        "whiteish_fraction": 0.71129,
+        "dark_fraction": 0.00307
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.992,
+        "grayscale_stddev": 21.064,
+        "whiteish_fraction": 0.7032,
+        "dark_fraction": 0.00221
+      }
+    },
+    "assets/diagrams/wave-04/fig-36-6-honey-batch-traceability.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.441,
+        "grayscale_stddev": 24.784,
+        "whiteish_fraction": 0.48613,
+        "dark_fraction": 0.00331
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.731,
+        "grayscale_stddev": 22.709,
+        "whiteish_fraction": 0.486,
+        "dark_fraction": 0.00267
+      }
+    },
+    "assets/diagrams/wave-04/fig-36-7-record-review-cycle.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 247.885,
+        "grayscale_stddev": 22.362,
+        "whiteish_fraction": 0.78506,
+        "dark_fraction": 0.00277
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 248.077,
+        "grayscale_stddev": 20.54,
+        "whiteish_fraction": 0.7835,
+        "dark_fraction": 0.00183
+      }
+    },
+    "assets/diagrams/wave-04/fig-37-1-inspection-mistakes.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.244,
+        "grayscale_stddev": 24.851,
+        "whiteish_fraction": 0.52446,
+        "dark_fraction": 0.00248
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.495,
+        "grayscale_stddev": 23.509,
+        "whiteish_fraction": 0.52491,
+        "dark_fraction": 0.00188
+      }
+    },
+    "assets/diagrams/wave-04/fig-37-3-queen-cell-decision-guide.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.105,
+        "grayscale_stddev": 27.488,
+        "whiteish_fraction": 0.53015,
+        "dark_fraction": 0.00342
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.433,
+        "grayscale_stddev": 25.373,
+        "whiteish_fraction": 0.53092,
+        "dark_fraction": 0.00277
+      }
+    },
+    "assets/diagrams/wave-04/fig-37-6-harvest-mistakes.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.13,
+        "grayscale_stddev": 23.504,
+        "whiteish_fraction": 0.5033,
+        "dark_fraction": 0.00224
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.424,
+        "grayscale_stddev": 21.949,
+        "whiteish_fraction": 0.50332,
+        "dark_fraction": 0.00174
+      }
+    },
+    "assets/diagrams/wave-05/fig-47-10-storage-space-decision.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.616,
+        "grayscale_stddev": 24.251,
+        "whiteish_fraction": 0.68962,
+        "dark_fraction": 0.00236
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 245.893,
+        "grayscale_stddev": 22.039,
+        "whiteish_fraction": 0.68708,
+        "dark_fraction": 0.00178
+      }
+    },
+    "assets/diagrams/wave-05/fig-47-3-environmental-controls-nectar-secretion.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.282,
+        "grayscale_stddev": 27.062,
+        "whiteish_fraction": 0.62083,
+        "dark_fraction": 0.00571
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.564,
+        "grayscale_stddev": 24.744,
+        "whiteish_fraction": 0.61788,
+        "dark_fraction": 0.00331
+      }
+    },
+    "assets/diagrams/wave-05/fig-47-9-colony-population-timing-before-flow.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.902,
+        "grayscale_stddev": 26.889,
+        "whiteish_fraction": 0.75816,
+        "dark_fraction": 0.00604
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.168,
+        "grayscale_stddev": 25.004,
+        "whiteish_fraction": 0.7547,
+        "dark_fraction": 0.00305
+      }
+    },
+    "assets/diagrams/wave-05/fig-48-1-harvest-readiness-decision-flow.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.783,
+        "grayscale_stddev": 27.854,
+        "whiteish_fraction": 0.50391,
+        "dark_fraction": 0.00383
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.061,
+        "grayscale_stddev": 25.525,
+        "whiteish_fraction": 0.49955,
+        "dark_fraction": 0.00304
+      }
+    },
+    "assets/diagrams/wave-05/fig-48-3-honey-refractometer-use.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.634,
+        "grayscale_stddev": 26.777,
+        "whiteish_fraction": 0.46339,
+        "dark_fraction": 0.00405
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.997,
+        "grayscale_stddev": 24.248,
+        "whiteish_fraction": 0.45979,
+        "dark_fraction": 0.00202
+      }
+    },
+    "assets/diagrams/wave-05/fig-48-4-representative-moisture-sampling.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.936,
+        "grayscale_stddev": 27.615,
+        "whiteish_fraction": 0.52086,
+        "dark_fraction": 0.00307
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.23,
+        "grayscale_stddev": 25.185,
+        "whiteish_fraction": 0.52061,
+        "dark_fraction": 0.00239
+      }
+    },
+    "assets/diagrams/wave-05/fig-49-1-one-way-honey-room-workflow.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.36,
+        "grayscale_stddev": 26.841,
+        "whiteish_fraction": 0.56179,
+        "dark_fraction": 0.00495
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.683,
+        "grayscale_stddev": 24.537,
+        "whiteish_fraction": 0.55834,
+        "dark_fraction": 0.00292
+      }
+    },
+    "assets/diagrams/wave-05/fig-49-13-extraction-safety-hazards.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.004,
+        "grayscale_stddev": 25.454,
+        "whiteish_fraction": 0.42712,
+        "dark_fraction": 0.00378
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.325,
+        "grayscale_stddev": 23.293,
+        "whiteish_fraction": 0.42434,
+        "dark_fraction": 0.00219
+      }
+    },
+    "assets/diagrams/wave-05/fig-49-4-tangential-vs-radial-extraction.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.792,
+        "grayscale_stddev": 27.127,
+        "whiteish_fraction": 0.48508,
+        "dark_fraction": 0.00647
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.126,
+        "grayscale_stddev": 25.41,
+        "whiteish_fraction": 0.48494,
+        "dark_fraction": 0.00508
+      }
+    },
+    "assets/diagrams/wave-05/fig-50-1-minimal-processing-flow.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.873,
+        "grayscale_stddev": 24.892,
+        "whiteish_fraction": 0.79248,
+        "dark_fraction": 0.00484
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 247.132,
+        "grayscale_stddev": 23.091,
+        "whiteish_fraction": 0.79051,
+        "dark_fraction": 0.00249
+      }
+    },
+    "assets/diagrams/wave-05/fig-50-2-settling-tank-separation.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 244.927,
+        "grayscale_stddev": 23.024,
+        "whiteish_fraction": 0.62454,
+        "dark_fraction": 0.00255
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 245.149,
+        "grayscale_stddev": 21.866,
+        "whiteish_fraction": 0.62516,
+        "dark_fraction": 0.00203
+      }
+    },
+    "assets/diagrams/wave-05/fig-50-3-straining-vs-filtered-honey.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.394,
+        "grayscale_stddev": 25.273,
+        "whiteish_fraction": 0.38895,
+        "dark_fraction": 0.00322
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.698,
+        "grayscale_stddev": 23.451,
+        "whiteish_fraction": 0.38964,
+        "dark_fraction": 0.00257
+      }
+    },
+    "assets/diagrams/wave-05/fig-51-12-storage-sampling.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.566,
+        "grayscale_stddev": 25.925,
+        "whiteish_fraction": 0.39894,
+        "dark_fraction": 0.00245
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 239.913,
+        "grayscale_stddev": 22.958,
+        "whiteish_fraction": 0.39536,
+        "dark_fraction": 0.00166
+      }
+    },
+    "assets/diagrams/wave-05/fig-51-2-food-safety-quality-shelf-life.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.359,
+        "grayscale_stddev": 25.479,
+        "whiteish_fraction": 0.67531,
+        "dark_fraction": 0.00423
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 245.577,
+        "grayscale_stddev": 23.594,
+        "whiteish_fraction": 0.67363,
+        "dark_fraction": 0.00247
+      }
+    },
+    "assets/diagrams/wave-05/fig-51-3-hygroscopicity-and-sealing.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.798,
+        "grayscale_stddev": 23.077,
+        "whiteish_fraction": 0.38378,
+        "dark_fraction": 0.00289
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.135,
+        "grayscale_stddev": 21.371,
+        "whiteish_fraction": 0.38465,
+        "dark_fraction": 0.00226
+      }
+    },
+    "assets/diagrams/wave-05/fig-52-2-fresh-broodless-vs-used-brood-comb.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 236.667,
+        "grayscale_stddev": 29.463,
+        "whiteish_fraction": 0.3889,
+        "dark_fraction": 0.00382
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 236.928,
+        "grayscale_stddev": 28.295,
+        "whiteish_fraction": 0.39252,
+        "dark_fraction": 0.00306
+      }
+    },
+    "assets/diagrams/wave-05/fig-52-3-colony-preparation-timeline.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.935,
+        "grayscale_stddev": 24.95,
+        "whiteish_fraction": 0.78289,
+        "dark_fraction": 0.00514
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 247.218,
+        "grayscale_stddev": 22.671,
+        "whiteish_fraction": 0.78183,
+        "dark_fraction": 0.00248
+      }
+    },
+    "assets/diagrams/wave-05/fig-52-9-comb-honey-defect-atlas.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.737,
+        "grayscale_stddev": 26.122,
+        "whiteish_fraction": 0.39784,
+        "dark_fraction": 0.00264
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.032,
+        "grayscale_stddev": 23.727,
+        "whiteish_fraction": 0.39328,
+        "dark_fraction": 0.00192
+      }
+    },
+    "assets/diagrams/wave-06a/fig-53-1-controlled-vs-uncontrolled-crystallisation.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.718,
+        "grayscale_stddev": 25.211,
+        "whiteish_fraction": 0.51438,
+        "dark_fraction": 0.00365
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.994,
+        "grayscale_stddev": 23.549,
+        "whiteish_fraction": 0.51524,
+        "dark_fraction": 0.00293
+      }
+    },
+    "assets/diagrams/wave-06a/fig-53-10-rework-decision.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.649,
+        "grayscale_stddev": 26.356,
+        "whiteish_fraction": 0.57264,
+        "dark_fraction": 0.00614
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.96,
+        "grayscale_stddev": 23.367,
+        "whiteish_fraction": 0.56992,
+        "dark_fraction": 0.00205
+      }
+    },
+    "assets/diagrams/wave-06a/fig-53-11-plain-vs-flavoured-controls.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.472,
+        "grayscale_stddev": 23.745,
+        "whiteish_fraction": 0.36105,
+        "dark_fraction": 0.00332
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.841,
+        "grayscale_stddev": 21.882,
+        "whiteish_fraction": 0.36544,
+        "dark_fraction": 0.00278
+      }
+    },
+    "assets/diagrams/wave-06a/fig-54-1-wax-source-streams.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.84,
+        "grayscale_stddev": 28.173,
+        "whiteish_fraction": 0.57323,
+        "dark_fraction": 0.0031
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.098,
+        "grayscale_stddev": 25.857,
+        "whiteish_fraction": 0.56843,
+        "dark_fraction": 0.00232
+      }
+    },
+    "assets/diagrams/wave-06a/fig-54-12-end-use-decision.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 244.654,
+        "grayscale_stddev": 23.295,
+        "whiteish_fraction": 0.62151,
+        "dark_fraction": 0.00262
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 244.874,
+        "grayscale_stddev": 21.51,
+        "whiteish_fraction": 0.61982,
+        "dark_fraction": 0.00189
+      }
+    },
+    "assets/diagrams/wave-06a/fig-54-2-new-vs-old-brood-comb.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 236.668,
+        "grayscale_stddev": 30.023,
+        "whiteish_fraction": 0.39489,
+        "dark_fraction": 0.00302
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 236.976,
+        "grayscale_stddev": 28.939,
+        "whiteish_fraction": 0.39961,
+        "dark_fraction": 0.00241
+      }
+    },
+    "assets/diagrams/wave-06a/fig-55-1-wax-production-worker-bee.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 232.57,
+        "grayscale_stddev": 33.472,
+        "whiteish_fraction": 0.3309,
+        "dark_fraction": 0.00791
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 232.947,
+        "grayscale_stddev": 31.516,
+        "whiteish_fraction": 0.33124,
+        "dark_fraction": 0.00602
+      }
+    },
+    "assets/diagrams/wave-06a/fig-55-2-wax-source-streams.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.846,
+        "grayscale_stddev": 28.185,
+        "whiteish_fraction": 0.57346,
+        "dark_fraction": 0.00313
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.103,
+        "grayscale_stddev": 25.866,
+        "whiteish_fraction": 0.56858,
+        "dark_fraction": 0.00235
+      }
+    },
+    "assets/diagrams/wave-06a/fig-55-3-new-vs-old-brood-comb.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 236.65,
+        "grayscale_stddev": 30.031,
+        "whiteish_fraction": 0.39441,
+        "dark_fraction": 0.003
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 236.961,
+        "grayscale_stddev": 28.945,
+        "whiteish_fraction": 0.39915,
+        "dark_fraction": 0.00246
+      }
+    },
+    "assets/diagrams/wave-06a/fig-56-2-pollen-in-colony-nutrition.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.914,
+        "grayscale_stddev": 25.081,
+        "whiteish_fraction": 0.46203,
+        "dark_fraction": 0.0031
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.218,
+        "grayscale_stddev": 23.318,
+        "whiteish_fraction": 0.46132,
+        "dark_fraction": 0.0024
+      }
+    },
+    "assets/diagrams/wave-06a/fig-56-3-bee-pollen-vs-bee-bread.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.595,
+        "grayscale_stddev": 25.818,
+        "whiteish_fraction": 0.39597,
+        "dark_fraction": 0.00259
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.906,
+        "grayscale_stddev": 24.585,
+        "whiteish_fraction": 0.40102,
+        "dark_fraction": 0.0021
+      }
+    },
+    "assets/diagrams/wave-06a/fig-56-5-colony-cost-over-trapping.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.765,
+        "grayscale_stddev": 24.528,
+        "whiteish_fraction": 0.36418,
+        "dark_fraction": 0.00273
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.101,
+        "grayscale_stddev": 23.072,
+        "whiteish_fraction": 0.36855,
+        "dark_fraction": 0.00212
+      }
+    },
+    "assets/diagrams/wave-06a/fig-57-2-propolis-envelope.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.625,
+        "grayscale_stddev": 34.421,
+        "whiteish_fraction": 0.66703,
+        "dark_fraction": 0.0023
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 239.816,
+        "grayscale_stddev": 33.184,
+        "whiteish_fraction": 0.66466,
+        "dark_fraction": 0.00177
+      }
+    },
+    "assets/diagrams/wave-06a/fig-57-4-trap-vs-random-scraping.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 236.537,
+        "grayscale_stddev": 31.474,
+        "whiteish_fraction": 0.39141,
+        "dark_fraction": 0.00462
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 236.859,
+        "grayscale_stddev": 30.172,
+        "whiteish_fraction": 0.39533,
+        "dark_fraction": 0.00387
+      }
+    },
+    "assets/diagrams/wave-06a/fig-57-5-cold-harvest-workflow.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.396,
+        "grayscale_stddev": 26.695,
+        "whiteish_fraction": 0.52927,
+        "dark_fraction": 0.00294
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.671,
+        "grayscale_stddev": 24.544,
+        "whiteish_fraction": 0.52732,
+        "dark_fraction": 0.00236
+      }
+    },
+    "assets/diagrams/wave-06b/fig-58-1-nurse-bee-glands-royal-jelly.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 230.299,
+        "grayscale_stddev": 44.119,
+        "whiteish_fraction": 0.33903,
+        "dark_fraction": 0.05218
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 230.565,
+        "grayscale_stddev": 42.72,
+        "whiteish_fraction": 0.33801,
+        "dark_fraction": 0.04902
+      }
+    },
+    "assets/diagrams/wave-06b/fig-58-2-queen-vs-worker-feeding.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.588,
+        "grayscale_stddev": 25.257,
+        "whiteish_fraction": 0.47589,
+        "dark_fraction": 0.0032
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.806,
+        "grayscale_stddev": 22.78,
+        "whiteish_fraction": 0.47404,
+        "dark_fraction": 0.00255
+      }
+    },
+    "assets/diagrams/wave-06b/fig-58-8-royal-jelly-quality-dimensions.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.918,
+        "grayscale_stddev": 28.175,
+        "whiteish_fraction": 0.68247,
+        "dark_fraction": 0.00582
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 244.259,
+        "grayscale_stddev": 25.71,
+        "whiteish_fraction": 0.67872,
+        "dark_fraction": 0.00344
+      }
+    },
+    "assets/diagrams/wave-06b/fig-59-1-worker-bee-sting-apparatus.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.586,
+        "grayscale_stddev": 27.478,
+        "whiteish_fraction": 0.31527,
+        "dark_fraction": 0.00769
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 239.953,
+        "grayscale_stddev": 25.107,
+        "whiteish_fraction": 0.3137,
+        "dark_fraction": 0.00555
+      }
+    },
+    "assets/diagrams/wave-06b/fig-59-14-medical-evidence-boundary.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.26,
+        "grayscale_stddev": 29.654,
+        "whiteish_fraction": 0.50378,
+        "dark_fraction": 0.00537
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 239.626,
+        "grayscale_stddev": 27.023,
+        "whiteish_fraction": 0.49711,
+        "dark_fraction": 0.00262
+      }
+    },
+    "assets/diagrams/wave-06b/fig-59-4-raw-venom-vs-vit.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.518,
+        "grayscale_stddev": 25.748,
+        "whiteish_fraction": 0.3573,
+        "dark_fraction": 0.00388
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 239.872,
+        "grayscale_stddev": 24.014,
+        "whiteish_fraction": 0.36112,
+        "dark_fraction": 0.00288
+      }
+    },
+    "assets/diagrams/wave-07/fig-60-2-revenue-streams-biological-inputs.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.455,
+        "grayscale_stddev": 26.232,
+        "whiteish_fraction": 0.61491,
+        "dark_fraction": 0.00405
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.773,
+        "grayscale_stddev": 23.865,
+        "whiteish_fraction": 0.61125,
+        "dark_fraction": 0.00312
+      }
+    },
+    "assets/diagrams/wave-07/fig-60-9-compliance-map.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.447,
+        "grayscale_stddev": 24.345,
+        "whiteish_fraction": 0.44984,
+        "dark_fraction": 0.00197
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.79,
+        "grayscale_stddev": 21.465,
+        "whiteish_fraction": 0.44742,
+        "dark_fraction": 0.00157
+      }
+    },
+    "assets/diagrams/wave-07/fig-61-5-manual-vs-mechanised-cost-tradeoff.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 237.529,
+        "grayscale_stddev": 29.613,
+        "whiteish_fraction": 0.36117,
+        "dark_fraction": 0.00766
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 237.796,
+        "grayscale_stddev": 28.592,
+        "whiteish_fraction": 0.36589,
+        "dark_fraction": 0.00686
+      }
+    },
+    "assets/diagrams/wave-07/fig-61-7-buy-rent-share-outsource-decision.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.765,
+        "grayscale_stddev": 27.741,
+        "whiteish_fraction": 0.55714,
+        "dark_fraction": 0.00568
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.079,
+        "grayscale_stddev": 24.848,
+        "whiteish_fraction": 0.55247,
+        "dark_fraction": 0.00303
+      }
+    },
+    "assets/diagrams/wave-07/fig-62-3-value-proposition.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.049,
+        "grayscale_stddev": 24.462,
+        "whiteish_fraction": 0.72619,
+        "dark_fraction": 0.00375
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.271,
+        "grayscale_stddev": 22.085,
+        "whiteish_fraction": 0.72208,
+        "dark_fraction": 0.00193
+      }
+    },
+    "assets/diagrams/wave-07/fig-62-7-floral-claim-evidence.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 244.506,
+        "grayscale_stddev": 24.605,
+        "whiteish_fraction": 0.65072,
+        "dark_fraction": 0.00272
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 244.71,
+        "grayscale_stddev": 22.89,
+        "whiteish_fraction": 0.6497,
+        "dark_fraction": 0.00244
+      }
+    },
+    "assets/diagrams/wave-07/fig-63-10-claim-library.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 246.113,
+        "grayscale_stddev": 23.571,
+        "whiteish_fraction": 0.72837,
+        "dark_fraction": 0.00227
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.566,
+        "grayscale_stddev": 22.552,
+        "whiteish_fraction": 0.73139,
+        "dark_fraction": 0.00144
+      }
+    },
+    "assets/diagrams/wave-07/fig-63-5-brand-proof-pyramid.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.982,
+        "grayscale_stddev": 25.237,
+        "whiteish_fraction": 0.6327,
+        "dark_fraction": 0.00409
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 244.249,
+        "grayscale_stddev": 23.138,
+        "whiteish_fraction": 0.63117,
+        "dark_fraction": 0.00186
+      }
+    },
+    "assets/diagrams/wave-07/fig-64-4-online-product-page-anatomy.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.803,
+        "grayscale_stddev": 24.497,
+        "whiteish_fraction": 0.70146,
+        "dark_fraction": 0.00275
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.234,
+        "grayscale_stddev": 22.725,
+        "whiteish_fraction": 0.69515,
+        "dark_fraction": 0.00216
+      }
+    },
+    "assets/diagrams/wave-07/fig-64-9-product-specific-shipping.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.019,
+        "grayscale_stddev": 23.548,
+        "whiteish_fraction": 0.42708,
+        "dark_fraction": 0.00362
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.306,
+        "grayscale_stddev": 21.822,
+        "whiteish_fraction": 0.42667,
+        "dark_fraction": 0.00205
+      }
+    },
+    "assets/diagrams/wave-07/fig-65-1-farmers-market-business-model.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.68,
+        "grayscale_stddev": 26.791,
+        "whiteish_fraction": 0.44955,
+        "dark_fraction": 0.0052
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.957,
+        "grayscale_stddev": 23.82,
+        "whiteish_fraction": 0.44426,
+        "dark_fraction": 0.00257
+      }
+    },
+    "assets/diagrams/wave-07/fig-65-2-market-day-contribution.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.806,
+        "grayscale_stddev": 22.936,
+        "whiteish_fraction": 0.63677,
+        "dark_fraction": 0.00419
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 246.07,
+        "grayscale_stddev": 20.221,
+        "whiteish_fraction": 0.63262,
+        "dark_fraction": 0.00213
+      }
+    },
+    "assets/diagrams/wave-08/fig-66-1-hive-to-consumer-food-safety-chain.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.341,
+        "grayscale_stddev": 26.997,
+        "whiteish_fraction": 0.56968,
+        "dark_fraction": 0.00531
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.704,
+        "grayscale_stddev": 23.846,
+        "whiteish_fraction": 0.56272,
+        "dark_fraction": 0.00314
+      }
+    },
+    "assets/diagrams/wave-08/fig-66-3-product-risk-comparison.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.48,
+        "grayscale_stddev": 23.793,
+        "whiteish_fraction": 0.48456,
+        "dark_fraction": 0.00314
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.822,
+        "grayscale_stddev": 21.576,
+        "whiteish_fraction": 0.48389,
+        "dark_fraction": 0.0021
+      }
+    },
+    "assets/diagrams/wave-08/fig-67-1-backward-forward-traceability.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 244.12,
+        "grayscale_stddev": 25.865,
+        "whiteish_fraction": 0.67101,
+        "dark_fraction": 0.00336
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 244.284,
+        "grayscale_stddev": 23.971,
+        "whiteish_fraction": 0.66583,
+        "dark_fraction": 0.00288
+      }
+    },
+    "assets/diagrams/wave-08/fig-67-12-digital-traceability-resilience.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.789,
+        "grayscale_stddev": 26.026,
+        "whiteish_fraction": 0.63062,
+        "dark_fraction": 0.00338
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 244.127,
+        "grayscale_stddev": 23.341,
+        "whiteish_fraction": 0.62562,
+        "dark_fraction": 0.00267
+      }
+    },
+    "assets/diagrams/wave-08/fig-68-11-legal-change-management.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.653,
+        "grayscale_stddev": 27.224,
+        "whiteish_fraction": 0.54854,
+        "dark_fraction": 0.00515
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.993,
+        "grayscale_stddev": 24.625,
+        "whiteish_fraction": 0.54577,
+        "dark_fraction": 0.00268
+      }
+    },
+    "assets/diagrams/wave-08/fig-68-4-primary-production-vs-processing-packing.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 238.027,
+        "grayscale_stddev": 26.187,
+        "whiteish_fraction": 0.35718,
+        "dark_fraction": 0.00485
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 238.456,
+        "grayscale_stddev": 24.517,
+        "whiteish_fraction": 0.36068,
+        "dark_fraction": 0.00397
+      }
+    },
+    "assets/diagrams/wave-08/fig-69-1-risk-treatment-framework.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 244.396,
+        "grayscale_stddev": 24.632,
+        "whiteish_fraction": 0.62437,
+        "dark_fraction": 0.00376
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 244.591,
+        "grayscale_stddev": 22.232,
+        "whiteish_fraction": 0.6197,
+        "dark_fraction": 0.0025
+      }
+    },
+    "assets/diagrams/wave-08/fig-69-7-policy-anatomy.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 241.288,
+        "grayscale_stddev": 28.179,
+        "whiteish_fraction": 0.56597,
+        "dark_fraction": 0.00288
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.699,
+        "grayscale_stddev": 25.357,
+        "whiteish_fraction": 0.56453,
+        "dark_fraction": 0.00146
+      }
+    },
+    "assets/diagrams/wave-09/fig-70-5-organic-feeding-decision.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 243.474,
+        "grayscale_stddev": 25.621,
+        "whiteish_fraction": 0.61553,
+        "dark_fraction": 0.00291
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 243.772,
+        "grayscale_stddev": 23.212,
+        "whiteish_fraction": 0.61242,
+        "dark_fraction": 0.00233
+      }
+    },
+    "assets/diagrams/wave-09/fig-70-7-organic-varroa-ipm.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.488,
+        "grayscale_stddev": 26.465,
+        "whiteish_fraction": 0.75404,
+        "dark_fraction": 0.00339
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 245.83,
+        "grayscale_stddev": 24.163,
+        "whiteish_fraction": 0.75069,
+        "dark_fraction": 0.00188
+      }
+    },
+    "assets/diagrams/wave-09/fig-71-10-biodiversity-monitoring-toolkit.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.623,
+        "grayscale_stddev": 27.005,
+        "whiteish_fraction": 0.47406,
+        "dark_fraction": 0.00285
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.056,
+        "grayscale_stddev": 24.018,
+        "whiteish_fraction": 0.47286,
+        "dark_fraction": 0.0023
+      }
+    },
+    "assets/diagrams/wave-09/fig-71-2-managed-vs-wild-pollinator-community.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.735,
+        "grayscale_stddev": 25.942,
+        "whiteish_fraction": 0.35738,
+        "dark_fraction": 0.00432
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 241.141,
+        "grayscale_stddev": 24.223,
+        "whiteish_fraction": 0.36162,
+        "dark_fraction": 0.00348
+      }
+    },
+    "assets/diagrams/wave-09/fig-72-11-monitoring-before-after.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.294,
+        "grayscale_stddev": 24.694,
+        "whiteish_fraction": 0.40813,
+        "dark_fraction": 0.00328
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.619,
+        "grayscale_stddev": 23.04,
+        "whiteish_fraction": 0.41029,
+        "dark_fraction": 0.00199
+      }
+    },
+    "assets/diagrams/wave-09/fig-72-9-managed-hive-stocking-sensitive-habitat.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 240.498,
+        "grayscale_stddev": 28.973,
+        "whiteish_fraction": 0.54004,
+        "dark_fraction": 0.00464
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 240.911,
+        "grayscale_stddev": 26.468,
+        "whiteish_fraction": 0.53571,
+        "dark_fraction": 0.00353
+      }
+    },
+    "assets/diagrams/wave-09/fig-73-8-confusion-matrix-disease-detection.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 242.531,
+        "grayscale_stddev": 27.515,
+        "whiteish_fraction": 0.57756,
+        "dark_fraction": 0.00507
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 242.726,
+        "grayscale_stddev": 24.894,
+        "whiteish_fraction": 0.57301,
+        "dark_fraction": 0.00244
+      }
+    },
+    "assets/diagrams/wave-09/fig-73-9-research-frontiers-map.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 245.202,
+        "grayscale_stddev": 27.397,
+        "whiteish_fraction": 0.72655,
+        "dark_fraction": 0.00467
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 245.5,
+        "grayscale_stddev": 24.966,
+        "whiteish_fraction": 0.72333,
+        "dark_fraction": 0.00256
+      }
+    },
+    "assets/diagrams/wave-09/fig-74-10-honey-authenticity-digital-traceability.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.373,
+        "grayscale_stddev": 29.351,
+        "whiteish_fraction": 0.46834,
+        "dark_fraction": 0.00435
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 239.814,
+        "grayscale_stddev": 26.568,
+        "whiteish_fraction": 0.4649,
+        "dark_fraction": 0.00343
+      }
+    },
+    "assets/diagrams/wave-09/fig-74-2-technology-adoption-framework.svg": {
+      "520": {
+        "width": 520,
+        "height": 371,
+        "grayscale_mean": 239.384,
+        "grayscale_stddev": 28.825,
+        "whiteish_fraction": 0.48497,
+        "dark_fraction": 0.00392
+      },
+      "390": {
+        "width": 390,
+        "height": 279,
+        "grayscale_mean": 239.724,
+        "grayscale_stddev": 27.006,
+        "whiteish_fraction": 0.48362,
+        "dark_fraction": 0.00306
+      }
+    }
+  }
+}
