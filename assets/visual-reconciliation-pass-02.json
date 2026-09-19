@@ -1,0 +1,36 @@
+{
+  "visual_system": "PBH-v1",
+  "pass": 2,
+  "svg_count": 256,
+  "changed_file_count": 256,
+  "change_counts": {
+    "#EAF2F8->#E3F2FD": 9,
+    "healthy-panel-stroke": 37,
+    "panel:#E3F2FD:#1F2933->#1565C0": 6,
+    "pass-marker": 256,
+    "#555->#52606D": 9,
+    "panel:#FFF8E1:#1F2933->#8D6E63": 1,
+    "#EDF4F8->#E3F2FD": 2,
+    "#777->#757575": 43,
+    "#DDD->#F5F5F5": 5,
+    "panel:#F5F5F5:#1F2933->#757575": 4,
+    "panel:#FFF3E0:#1F2933->#EF6C00": 1,
+    "panel:#FFF8E1:#D4A017->#8D6E63": 1
+  },
+  "wave_changed_counts": {
+    "wave-01": 94,
+    "wave-02": 60,
+    "wave-03": 21,
+    "wave-04": 12,
+    "wave-05": 18,
+    "wave-06a": 15,
+    "wave-06b": 6,
+    "wave-07": 12,
+    "wave-08": 8,
+    "wave-09": 10
+  },
+  "semantic_panel_changes": 13,
+  "neutral_or_monochrome_before": [],
+  "neutral_or_monochrome_after": [],
+  "master_registry_missing": []
+}

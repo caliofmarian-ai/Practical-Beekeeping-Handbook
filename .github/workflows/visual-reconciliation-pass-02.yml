@@ -1,0 +1,52 @@
+name: visual-reconciliation-pass-02
+on:
+  push:
+    branches:
+      - publishing/visual-reconciliation-pass-02
+    paths:
+      - "scripts/reconcile_visual_families.py"
+      - "assets/visual-master-registry.json"
+      - "docs/standards/FIGMA_VISUAL_SYSTEM_REFERENCE.md"
+      - ".github/workflows/visual-reconciliation-pass-02.yml"
+permissions:
+  contents: write
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publishing/visual-reconciliation-pass-02
+          fetch-depth: 0
+      - name: Apply family grammar reconciliation
+        run: python3 scripts/reconcile_visual_families.py --apply
+      - name: Validate
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import json,xml.etree.ElementTree as ET
+          files=sorted(Path("assets/diagrams").glob("**/*.svg"))
+          assert len(files)==256
+          for p in files:
+              t=p.read_text(encoding="utf-8")
+              ET.fromstring(t)
+              assert 'data-visual-system="PBH-v1"' in t
+              assert 'data-reconciliation-pass="02"' in t
+          reg=json.loads(Path("assets/visual-master-registry.json").read_text())
+          assert len(reg["families"])>=10
+          rep=json.loads(Path("assets/visual-reconciliation-pass-02.json").read_text())
+          assert rep["svg_count"]==256
+          assert len(rep["master_registry_missing"])==0
+          print("PASS: PBH-v1 family reconciliation complete")
+          PY
+      - name: Commit reconciliation output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/diagrams assets/visual-reconciliation-pass-02.json docs/reviews/VISUAL_RECONCILIATION_PASS_02.md
+          if git diff --cached --quiet; then
+            echo "No reconciliation changes."
+          else
+            git commit -m "Apply PBH-v1 family grammar reconciliation"
+            git push origin HEAD:publishing/visual-reconciliation-pass-02
+          fi

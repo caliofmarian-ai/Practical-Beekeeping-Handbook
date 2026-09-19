@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="portrait-field" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc" data-visual-system="PBH-v1" data-canvas-profile="portrait-field" preserveAspectRatio="xMidYMid meet" data-reconciliation-pass="02">
 <!-- visual-system:PBH-v1 -->
 <!-- semantic-color-pass:v1 -->
 <title id="title">Figure 23.3 — Hierarchy of Controls for Beekeeping</title>
@@ -6,7 +6,7 @@
 <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#1565C0"/></marker></defs>
 <style>
 .bg{fill:#FFFFFF}.title{font:700 38px Arial,Helvetica,sans-serif;fill:#1F2933}.subtitle{font:400 22px Arial,Helvetica,sans-serif;fill:#52606D}
-.box{fill:#E3F2FD;stroke:#0D47A1;stroke-width:3}.box2{fill:#E8F5E9;stroke:#0D47A1;stroke-width:3}
+.box{fill:#E3F2FD;stroke:#0D47A1;stroke-width:3}.box2{fill:#E8F5E9;stroke:#2E7D32;stroke-width:3}
 .stop{fill:#FFEBEE;stroke:#C62828;stroke-width:5;stroke-dasharray:12 8}
 .legal{fill:#F3E5F5;stroke:#6A1B9A;stroke-width:4;stroke-dasharray:5 5}
 .label{font:700 24px Arial,Helvetica,sans-serif;fill:#1F2933}.body{font:400 21px Arial,Helvetica,sans-serif;fill:#1F2933}.small{font:400 18px Arial,Helvetica,sans-serif;fill:#52606D}
