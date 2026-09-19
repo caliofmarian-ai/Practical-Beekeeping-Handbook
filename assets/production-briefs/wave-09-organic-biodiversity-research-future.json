@@ -1,0 +1,140 @@
+{
+  "wave": 9,
+  "batch": "organic-biodiversity-research-future",
+  "scope": "A_CORE Chapters 70–74",
+  "asset_count": 10,
+  "status": "PRODUCTION_COMPLETE_FINAL_RECONCILIATION_PENDING",
+  "reconciliation_spec": "docs/standards/VISUAL_SYSTEM_RECONCILIATION_V1.md",
+  "design_reference": {
+    "tool": "Figma/FigJam",
+    "diagram_id": "f5a6e6f9-aa84-4705-ab27-08d016414d47",
+    "purpose": "Layout exploration for Figure 74.2 only; GitHub SVG remains canonical."
+  },
+  "current_reference_checks": [
+    "Regulation (EU) 2018/848 Annex II Part II section 1.9.6 — current consolidated organic beekeeping rules checked 19 September 2026",
+    "All-Ireland Pollinator Plan 2026–2030 — launched 9 July 2026; vision pockets of nature every 200 metres; 50 strategic aims, 75 success metrics, 10 work packages",
+    "WOAH Scientific Commission report — Tropilaelaps mercedesae documented into extreme east of Europe (Russia); anthropogenic movement contributes to spread"
+  ],
+  "assets": [
+    {
+      "figure_id": "70.5",
+      "chapter": 70,
+      "title": "Organic Feeding Decision",
+      "path": "assets/diagrams/wave-09/fig-70-5-organic-feeding-decision.svg",
+      "source_plan": "docs/illustration-plans/chapter-70-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    },
+    {
+      "figure_id": "70.7",
+      "chapter": 70,
+      "title": "Organic Varroa IPM",
+      "path": "assets/diagrams/wave-09/fig-70-7-organic-varroa-ipm.svg",
+      "source_plan": "docs/illustration-plans/chapter-70-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    },
+    {
+      "figure_id": "71.2",
+      "chapter": 71,
+      "title": "Managed Honey Bee Versus Wild Pollinator Community",
+      "path": "assets/diagrams/wave-09/fig-71-2-managed-vs-wild-pollinator-community.svg",
+      "source_plan": "docs/illustration-plans/chapter-71-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    },
+    {
+      "figure_id": "71.10",
+      "chapter": 71,
+      "title": "Biodiversity Monitoring Toolkit",
+      "path": "assets/diagrams/wave-09/fig-71-10-biodiversity-monitoring-toolkit.svg",
+      "source_plan": "docs/illustration-plans/chapter-71-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    },
+    {
+      "figure_id": "72.9",
+      "chapter": 72,
+      "title": "Managed Hive Stocking Near Sensitive Habitat",
+      "path": "assets/diagrams/wave-09/fig-72-9-managed-hive-stocking-sensitive-habitat.svg",
+      "source_plan": "docs/illustration-plans/chapter-72-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    },
+    {
+      "figure_id": "72.11",
+      "chapter": 72,
+      "title": "Monitoring Before and After",
+      "path": "assets/diagrams/wave-09/fig-72-11-monitoring-before-after.svg",
+      "source_plan": "docs/illustration-plans/chapter-72-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    },
+    {
+      "figure_id": "73.8",
+      "chapter": 73,
+      "title": "Confusion Matrix for Disease Detection",
+      "path": "assets/diagrams/wave-09/fig-73-8-confusion-matrix-disease-detection.svg",
+      "source_plan": "docs/illustration-plans/chapter-73-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    },
+    {
+      "figure_id": "73.9",
+      "chapter": 73,
+      "title": "Research Frontiers Map",
+      "path": "assets/diagrams/wave-09/fig-73-9-research-frontiers-map.svg",
+      "source_plan": "docs/illustration-plans/chapter-73-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    },
+    {
+      "figure_id": "74.2",
+      "chapter": 74,
+      "title": "Technology-Adoption Framework",
+      "path": "assets/diagrams/wave-09/fig-74-2-technology-adoption-framework.svg",
+      "source_plan": "docs/illustration-plans/chapter-74-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    },
+    {
+      "figure_id": "74.10",
+      "chapter": 74,
+      "title": "Honey Authenticity and Digital Traceability",
+      "path": "assets/diagrams/wave-09/fig-74-10-honey-authenticity-digital-traceability.svg",
+      "source_plan": "docs/illustration-plans/chapter-74-illustration-plan.md",
+      "editorial_priority": "A_CORE",
+      "status": "ACTUAL_VECTOR_CREATED",
+      "rights_status": "ORIGINAL_ASSET_FOR_HANDBOOK",
+      "accessibility_status": "SVG_TITLE_DESC_AND_NON_COLOUR_CUES_PRESENT",
+      "layout_status": "PENDING_FINAL_RECONCILIATION"
+    }
+  ]
+}
