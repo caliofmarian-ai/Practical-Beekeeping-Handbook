@@ -1,0 +1,175 @@
+{
+  "visual_system": "PBH-v1",
+  "rule": "Reuse canonical masters; derivatives may simplify or crop but must not contradict morphology, scale conventions or semantic state grammar.",
+  "families": {
+    "HEALTHY_BROOD_REFERENCE": {
+      "masters": [
+        "assets/diagrams/wave-01/fig-39-2-healthy-brood-reference.svg"
+      ],
+      "derivatives": [
+        "26.6",
+        "28.3",
+        "30.2",
+        "31.2",
+        "43.2",
+        "44.2"
+      ],
+      "locked": [
+        "worker-cell geometry",
+        "healthy larval appearance",
+        "capped-worker-brood convention"
+      ]
+    },
+    "VARROA_CORE": {
+      "masters": [
+        "assets/diagrams/wave-01/fig-40-4-varroa-on-adult-bees.svg",
+        "assets/diagrams/wave-01/fig-41-1-varroa-life-cycle-worker-brood.svg"
+      ],
+      "derivatives": [
+        "40.3",
+        "40.7",
+        "40.8",
+        "41.3",
+        "45.3",
+        "46.6",
+        "70.7"
+      ],
+      "locked": [
+        "relative mite morphology",
+        "feeding-site logic",
+        "adult-bee scale conventions"
+      ]
+    },
+    "BEE_CASTE_ANATOMY": {
+      "masters": [
+        "assets/diagrams/wave-02/fig-06-1-external-worker-anatomy.svg",
+        "assets/diagrams/wave-02/fig-08-1-queen-anatomy-identification.svg",
+        "assets/diagrams/wave-02/fig-10-1-drone-identification.svg"
+      ],
+      "locked": [
+        "worker/queen/drone proportions",
+        "segment naming",
+        "wing/leg attachment logic"
+      ]
+    },
+    "QUEEN_CELL_FAMILY": {
+      "masters": [
+        "assets/diagrams/wave-03/fig-28-5-queen-cell-types.svg"
+      ],
+      "derivatives": [
+        "31.11",
+        "32.10",
+        "32.11"
+      ],
+      "locked": [
+        "cell orientation",
+        "queen-cell silhouette",
+        "context-not-diagnosis wording"
+      ]
+    },
+    "HONEY_QUALITY_FAMILY": {
+      "masters": [
+        "assets/diagrams/wave-05/fig-48-3-honey-refractometer-use.svg",
+        "assets/diagrams/wave-05/fig-50-2-settling-tank-separation.svg"
+      ],
+      "derivatives": [
+        "47.3",
+        "48.1",
+        "48.4",
+        "51.3",
+        "52.9",
+        "53.1",
+        "58.8",
+        "66.3"
+      ],
+      "locked": [
+        "honey-gold natural palette",
+        "lab=purple",
+        "hold=orange",
+        "reject=red"
+      ]
+    },
+    "CLEAN_ZONE_SYSTEM": {
+      "masters": [
+        "assets/diagrams/wave-05/fig-49-1-one-way-honey-room-workflow.svg"
+      ],
+      "derivatives": [
+        "48.3",
+        "35.3",
+        "57.5"
+      ],
+      "locked": [
+        "one-way flow",
+        "clean/dirty separation",
+        "food-contact process blue"
+      ]
+    },
+    "TRACEABILITY_CHAIN": {
+      "masters": [
+        "assets/diagrams/wave-08/fig-67-1-backward-forward-traceability.svg"
+      ],
+      "derivatives": [
+        "36.6",
+        "36.7",
+        "67.12",
+        "74.10"
+      ],
+      "locked": [
+        "source-process-product-destination",
+        "verification purple",
+        "verified green"
+      ]
+    },
+    "WAX_SOURCE_STREAM_MASTER": {
+      "masters": [
+        "assets/diagrams/wave-06a/fig-54-1-wax-source-streams.svg"
+      ],
+      "derivatives": [
+        "55.2"
+      ],
+      "locked": [
+        "cappings/light comb/brood comb/suspect streams"
+      ]
+    },
+    "COMB_AGE_CUTAWAY_MASTER": {
+      "masters": [
+        "assets/diagrams/wave-06a/fig-54-2-new-vs-old-brood-comb.svg"
+      ],
+      "derivatives": [
+        "55.3",
+        "52.2"
+      ],
+      "locked": [
+        "cocoon-layer concept",
+        "fresh-vs-brood-use distinction"
+      ]
+    },
+    "NURSE_GLAND_ROYAL_JELLY_MASTER": {
+      "masters": [
+        "assets/diagrams/wave-06b/fig-58-1-nurse-bee-glands-royal-jelly.svg"
+      ],
+      "derivatives": [
+        "58.2",
+        "58.8"
+      ],
+      "locked": [
+        "hypopharyngeal + mandibular gland contribution",
+        "schematic-not-scale caveat"
+      ]
+    },
+    "STING_VENOM_ANATOMY_MASTER": {
+      "masters": [
+        "assets/diagrams/wave-06b/fig-59-1-worker-bee-sting-apparatus.svg"
+      ],
+      "derivatives": [
+        "59.4",
+        "59.14"
+      ],
+      "locked": [
+        "venom gland/reservoir",
+        "stylet + paired lancets",
+        "raw venom != VIT"
+      ]
+    }
+  }
+}
