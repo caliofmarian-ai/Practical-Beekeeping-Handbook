@@ -31,6 +31,7 @@ OUTPUT_MANIFEST = OUTPUT_DIR / "photo-source-files.json"
 ALLOWED_HOSTS = {
     "www.ars.usda.gov",
     "upload.wikimedia.org",
+    "thumb.wikimedia.org",
 }
 MAX_BYTES = 30 * 1024 * 1024
 MAX_FETCH_ATTEMPTS = 5
@@ -140,6 +141,10 @@ def main():
         raise SystemExit("batch manifest must be inside repository")
 
     batch = load_json(batch_path)
+    output_manifest_rel = batch.get("output_manifest", "assets/photos/a-core/source-candidates/photo-source-files.json")
+    output_manifest = (ROOT / output_manifest_rel).resolve()
+    if ROOT not in output_manifest.parents:
+        raise RuntimeError("output manifest must be inside repository")
     registry = load_json(REGISTRY)
     photos = {p["asset_id"]: p for p in registry["photos"]}
 
@@ -243,7 +248,7 @@ def main():
         "resolution_hold_count": sum(1 for r in results if not r["resolution_gate_pass"]),
         "assets": results,
     }
-    save_json(OUTPUT_MANIFEST, output)
+    save_json(output_manifest, output)
     save_json(REGISTRY, registry)
 
     print(json.dumps({
