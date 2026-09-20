@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 3,
     "with_candidates": 34,
     "rights_clear_candidates": 33,
-    "primary_ready_candidates": 27,
+    "primary_ready_candidates": 28,
     "technical_matches_any_rights_state": 31,
-    "selected_source_files_ready": 27,
-    "selected_source_files_resolution_pass": 27
+    "selected_source_files_ready": 28,
+    "selected_source_files_resolution_pass": 28
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -974,7 +974,7 @@
           "technical_match_status": "MATCH_CONTEXTUAL",
           "technical_note": "Clean real brood-frame photograph described by the creator as a typical American-foulbrood appearance. It is useful as a whole-frame contextual image but is not treated as laboratory-confirmed provenance; the specialist-provenance P43.02 scale photograph and current diagnostic guidance provide the stronger evidence layer.",
           "resolution_pixels": "3008x2000 original; 1280x851 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_status": "SOURCE_FILE_READY",
           "editorial_note": "Caption must state that patchy/damaged brood appearance raises suspicion but does not confirm AFB; official/laboratory confirmation may be required.",
           "repository_source_path": "assets/photos/a-core/source-candidates/p43-01-afb-brood-frame-context.jpg",
           "source_sha256": "57a8185c5914ec4c5dc960501ee4fc4760182467a0fed6f3738fc95d2328065c",
@@ -982,7 +982,8 @@
           "downloaded_height_px": 851,
           "downloaded_bytes": 309147,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated Wikimedia derivative is 1280×851 px, suitable for the intended single-column/medium placement. Final crop, colour and page proof remain pending."
         }
       ],
       "download_status": "SOURCE_FILE_READY",

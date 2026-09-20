@@ -687,11 +687,16 @@
       "working_title": "AFB Brood Frame",
       "shot_brief": "Confirmed case showing patchy sealed brood and suspicious cappings.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_CONTEXTUAL_WITH_DIAGNOSTIC_CAVEAT",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p43-01-afb-brood-frame-context.jpg",
+      "source_sha256": "7222ba139915824513675d0d9c33a61bacd2b91bef0fa65bc5c17b8bea36377d",
+      "source_width_px": 1280,
+      "source_height_px": 851,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P43.02",

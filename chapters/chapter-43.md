@@ -124,6 +124,10 @@ However, patchiness also occurs with:
 
 Patchy brood therefore signals investigation rather than proving AFB.
 
+![Whole brood-comb view with an irregular brood pattern described by the source as typical American foulbrood appearance](../assets/photos/a-core/source-candidates/p43-01-afb-brood-frame-context.jpg)
+
+*Photo 43.1 — AFB brood-frame context. This real whole-frame photograph was described by its creator as a typical appearance of brood affected by American foulbrood. Use it to recognise a pattern that warrants closer investigation, not to diagnose AFB from patchiness alone. Compare suspicious cells with the specific signs in this chapter and follow current competent-authority or laboratory confirmation requirements. Photo by Tanarus, CC BY-SA 3.0.*
+
 ## 43.8 Capping Changes
 
 AFB-affected sealed cells may have:

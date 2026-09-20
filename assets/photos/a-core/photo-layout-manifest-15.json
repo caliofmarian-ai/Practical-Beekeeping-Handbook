@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P43.01",
+      "photo_id": "43.1",
+      "chapter": 43,
+      "chapter_path": "chapters/chapter-43.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p43-01-afb-brood-frame-context.jpg",
+      "alt_text": "Whole brood-comb view with an irregular brood pattern described by the source as typical American foulbrood appearance",
+      "caption": "AFB brood-frame context. The image shows a whole-frame pattern that can warrant closer investigation but does not diagnose AFB from brood patchiness alone.",
+      "credit": "Photo by Tanarus, CC BY-SA 3.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF",
+      "diagnostic_boundary": "Contextual source-described AFB appearance; not treated as laboratory-confirmed provenance. Use with specific signs and current official/laboratory confirmation framework.",
+      "companion_asset": "P43.02",
+      "companion_note": "P43.02 provides a specialist-provenance close-up of adherent AFB scale."
+    }
+  ]
+}
