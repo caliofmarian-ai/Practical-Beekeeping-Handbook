@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-07",
+  "purpose": "Extract and validate P57.01 propolis collector traps and harvested raw propolis from the registered CC BY 4.0 Molecules article.",
+  "assets": [
+    {
+      "asset_id": "P57.01",
+      "slug": "propolis-trap",
+      "source_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8156449/",
+      "source_document_url": "https://mdpi-res.com/d_attachment/molecules/molecules-26-02930/article_deploy/molecules-26-02930-with-cover.pdf?version=1689482406",
+      "page_number": 3,
+      "image_rank": 0,
+      "minimum_width_px": 900,
+      "minimum_height_px": 600,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-07.json"
+}
