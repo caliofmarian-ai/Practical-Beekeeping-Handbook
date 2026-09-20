@@ -31,6 +31,7 @@ OUTPUT_MANIFEST = OUTPUT_DIR / "photo-source-files.json"
 ALLOWED_HOSTS = {
     "www.ars.usda.gov",
     "upload.wikimedia.org",
+    "thumb.wikimedia.org",
 }
 MAX_BYTES = 30 * 1024 * 1024
 MAX_FETCH_ATTEMPTS = 5
