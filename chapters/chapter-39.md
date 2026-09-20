@@ -140,6 +140,10 @@ Healthy capped worker brood generally forms coherent areas with relatively few u
 
 A disease assessment begins by comparing abnormal cells with nearby normal cells of similar age.
 
+![Honey bee comb showing eggs, larvae at several ages, capped brood and pollen cells](../assets/photos/a-core/source-candidates/p39-01-healthy-larvae-reference.jpg)
+
+*Photo 39.1 — Healthy larvae reference. Eggs, larvae at several ages, capped brood and pollen cells provide a normal-development reference before disease signs are interpreted. Photo by Joska16, CC BY-SA 4.0.*
+
 ## 39.6 Why Patchy Brood Is Not a Diagnosis
 
 Patchy brood can result from:
@@ -297,6 +301,10 @@ Mummies may be found in cells, on the hive floor, or at the entrance after worke
 Chalkbrood severity is influenced by colony condition and environment. Brood chilling, dampness, weak adult coverage, and susceptible stock can contribute to disease expression.
 
 Management focuses on colony strength, appropriate ventilation and moisture control, reduction of avoidable brood chilling, hygienic stock where appropriate, and correction of underlying stress. Treatment claims should not be accepted without reliable evidence and legal authorisation.
+
+![Brood comb containing visible chalkbrood mummies](../assets/photos/a-core/source-candidates/p39-02-chalkbrood-mummies.jpg)
+
+*Photo 39.2 — Chalkbrood mummies. White to darker hardened mummies can occur in brood cells or be removed from them; appearance should be interpreted with colony history and other signs. Photo by Conall, CC BY 2.0.*
 
 ## 39.12 Stonebrood
 
