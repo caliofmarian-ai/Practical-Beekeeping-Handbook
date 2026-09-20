@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-14",
+  "purpose": "Fetch and validate two clean rights-clear A_CORE equipment photographs: P22.02 hive tool in real use and P48.02 portable honey refractometer.",
+  "assets": [
+    {
+      "asset_id": "P22.02",
+      "slug": "hive-tool-in-use",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_beekeeper%27s_hand_holding_a_hive_tool_(48414383032).jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Close-up_of_a_beekeeper%27s_hand_holding_a_hive_tool_%2848414383032%29.jpg/1280px-Close-up_of_a_beekeeper%27s_hand_holding_a_hive_tool_%2848414383032%29.jpg",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 800,
+      "placement_intent": "single-column-or-medium"
+    },
+    {
+      "asset_id": "P48.02",
+      "slug": "honey-refractometer",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:1990s_portable_German_Graze_WYM_5_honey_refractometer.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1990s_portable_German_Graze_WYM_5_honey_refractometer.jpg/1280px-1990s_portable_German_Graze_WYM_5_honey_refractometer.jpg",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 400,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-14.json"
+}
