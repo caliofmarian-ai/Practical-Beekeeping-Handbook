@@ -9,7 +9,8 @@
     "photo-assets-batch-06",
     "photo-assets-batch-07",
     "photo-assets-batch-09",
-    "photo-assets-batch-10"
+    "photo-assets-batch-10",
+    "photo-assets-batch-11"
   ],
   "policy": {
     "files_are_unmodified_or_officially_scaled_source_candidates": true,
@@ -17,8 +18,8 @@
     "sha256_required": true,
     "rights_and_technical_review_remain_required": true
   },
-  "asset_count": 16,
-  "resolution_pass_count": 16,
+  "asset_count": 18,
+  "resolution_pass_count": 18,
   "resolution_hold_count": 0,
   "assets": [
     {
@@ -467,6 +468,68 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "rights_basis": "The article is open access under CC BY 4.0 and identifies the photograph as by R. Odemer.",
       "source_image_id": "Figure 1 — wax-producing worker honey bee"
+    },
+    {
+      "asset_id": "P56.01",
+      "photo_id": "56.1",
+      "title": "Pollen Pellets in Trap Drawer",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Corbiculette_in_trappola.JPG",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Corbiculette_in_trappola.JPG/1280px-Corbiculette_in_trappola.JPG",
+      "repository_path": "assets/photos/a-core/source-candidates/p56-01-pollen-pellets-trap.jpg",
+      "sha256": "ab1475169e0e326c7ac08677c98dc65ea2934232ac87efc0fae00c14c0b742cc",
+      "bytes": 284607,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1280,
+      "height_px": 960,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.27,
+        "height_in": 3.2,
+        "width_mm": 108.4,
+        "height_mm": 81.3
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "creator": "Matteo Giusti (Matteogiusti)",
+      "credit": "Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0; link source and licence and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rights_basis": "Wikimedia Commons records the work by Matteogiusti under Creative Commons Attribution-ShareAlike 3.0 Unported; the page identifies Matteo Giusti as the source/author.",
+      "source_image_id": "Corbiculette in trappola.JPG"
+    },
+    {
+      "asset_id": "P56.02",
+      "photo_id": "56.2",
+      "title": "Cleaned/Dried or Frozen Pollen Product",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Corbiculette_congelate.JPG",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Corbiculette_congelate.JPG/1280px-Corbiculette_congelate.JPG",
+      "repository_path": "assets/photos/a-core/source-candidates/p56-02-frozen-pollen-product.jpg",
+      "sha256": "577b087eb861fc4dd66820a67c07132211b065aabcdb623a2b2b9bcace21a8f6",
+      "bytes": 257540,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1280,
+      "height_px": 960,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.27,
+        "height_in": 3.2,
+        "width_mm": 108.4,
+        "height_mm": 81.3
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "creator": "Matteo Giusti (Matteogiusti)",
+      "credit": "Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0; link source and licence and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rights_basis": "Wikimedia Commons records the uploader's own work under Creative Commons Attribution-ShareAlike 3.0 Unported.",
+      "source_image_id": "Corbiculette congelate.JPG"
     },
     {
       "asset_id": "P57.01",
