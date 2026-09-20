@@ -224,6 +224,10 @@ Bee stocks differ in:
 
 Selection can improve production, but high yield should not replace health or manageable behaviour as breeding goals.
 
+![Opened queen cells containing queen larvae floating in royal jelly](../assets/photos/a-core/source-candidates/p58-01-royal-jelly-queen-cell.jpg)
+
+*Photo 58.1 — Royal jelly in queen cells. The opened cells show queen larvae surrounded by royal jelly, illustrating the biological system used in commercial royal-jelly production. Photo by Waugsberg, CC BY-SA 3.0.*
+
 ## 58.17 Production Cycles
 
 Commercial royal-jelly production repeats a short queen-cell provisioning cycle.

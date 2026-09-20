@@ -121,6 +121,10 @@ The middle legs assist in handling pollen and transferring materials.
 
 The hind legs contain structures used for collecting and transporting pollen, including the corbicula, commonly called the pollen basket.
 
+![Worker honey bee carrying a visible pollen load on the hind leg](../assets/photos/a-core/source-candidates/p09-01-worker-carrying-pollen.jpg)
+
+*Photo 9.1 — Worker carrying pollen. A visible corbicular pollen load illustrates how workers transport collected pollen on the hind legs. Photo by Andreas Trepte, CC BY-SA 2.5.*
+
 ### Abdomen
 
 The worker abdomen contains:

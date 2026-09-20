@@ -655,6 +655,10 @@ Drone brood is more prominently domed.
 
 ---
 
+![Frame with extensive normally capped worker brood and nurse bees](../assets/photos/a-core/source-candidates/p25-02-healthy-capped-worker-brood.jpg)
+
+*Photo 25.2 — Healthy capped worker brood. Use the normal capping texture and broad brood area as a visual reference, not as proof that a colony is disease-free. Photo by Einebillion, CC BY 4.0.*
+
 ## Brood Pattern
 
 A strong brood pattern is generally:
