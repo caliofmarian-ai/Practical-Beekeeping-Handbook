@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P46.01",
+      "photo_id": "46.1",
+      "chapter": 46,
+      "chapter_path": "chapters/chapter-46.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p46-01-varroa-monitoring-practice.jpg",
+      "alt_text": "Beekeeper in protective clothing carrying out powdered-sugar Varroa monitoring with a bee-sample container and collection tray",
+      "caption": "Monitoring in practice. This field example shows a beekeeper using a powdered-sugar method to sample for Varroa while wearing protective clothing. It illustrates one real monitoring workflow, not a universal preference for one sampling method; colony ID, method, date, sample size and result still need to be recorded.",
+      "credit": "Photo by Jürg Vollmer, CC BY-SA 4.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    }
+  ]
+}

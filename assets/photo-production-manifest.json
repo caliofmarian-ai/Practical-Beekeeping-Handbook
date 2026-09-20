@@ -733,11 +733,16 @@
       "working_title": "Monitoring in Practice",
       "shot_brief": "Beekeeper performing a validated mite sample with PPE and record sheet. **Rights priority for diagnostic photos:** original inspector/laboratory collaboration or clearly licensed institutional image; avoid generic stock libraries. ---",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p46-01-varroa-monitoring-practice.jpg",
+      "source_sha256": "4d42d6475c355e8f431bd434705fe58d6a678f3a2207e9073059d9a794fb8559",
+      "source_width_px": 1280,
+      "source_height_px": 853,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P47.01",
