@@ -7,11 +7,11 @@
       "asset_id": "P44.01",
       "slug": "efb-larvae",
       "source_page_url": "https://commons.wikimedia.org/wiki/File:European_foulbrood_CZ.jpg",
-      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/European_foulbrood_CZ.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/European_foulbrood_CZ.jpg/640px-European_foulbrood_CZ.jpg",
       "minimum_width_px": 600,
       "minimum_height_px": 450
     }
   ],
-  "run_revision": 3,
+  "run_revision": 4,
   "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-04.json"
 }
