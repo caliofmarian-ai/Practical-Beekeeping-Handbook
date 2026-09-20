@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-13",
+  "purpose": "Fetch and validate P46.01 real Varroa monitoring photograph showing powdered-sugar sampling with beekeeper PPE.",
+  "assets": [
+    {
+      "asset_id": "P46.01",
+      "slug": "varroa-monitoring-practice",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Puderzuckermethode.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puderzuckermethode.jpg/1280px-Puderzuckermethode.jpg",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 800,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 2,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-13.json"
+}
