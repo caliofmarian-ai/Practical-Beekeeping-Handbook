@@ -7,7 +7,9 @@
     "photo-assets-batch-03",
     "photo-assets-batch-05",
     "photo-assets-batch-06",
-    "photo-assets-batch-07"
+    "photo-assets-batch-07",
+    "photo-assets-batch-09",
+    "photo-assets-batch-10"
   ],
   "policy": {
     "files_are_unmodified_or_officially_scaled_source_candidates": true,
@@ -15,8 +17,8 @@
     "sha256_required": true,
     "rights_and_technical_review_remain_required": true
   },
-  "asset_count": 13,
-  "resolution_pass_count": 13,
+  "asset_count": 16,
+  "resolution_pass_count": 16,
   "resolution_hold_count": 0,
   "assets": [
     {
@@ -80,6 +82,37 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
       "rights_basis": "Copyright holder licenses the image under Creative Commons Attribution-ShareAlike 2.5 Generic.",
       "source_image_id": "Apis mellifera Western honey bee.jpg"
+    },
+    {
+      "asset_id": "P15.01",
+      "photo_id": "15.1",
+      "title": "Good Apiary Site",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:35_beehives_apiary_in_Latvia,_2026-08-16.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/35_beehives_apiary_in_Latvia%2C_2026-08-16.jpg/1280px-35_beehives_apiary_in_Latvia%2C_2026-08-16.jpg",
+      "repository_path": "assets/photos/a-core/source-candidates/p15-01-good-apiary-site.jpg",
+      "sha256": "0b35c1daa7aa3e028d0b5c811d4066d171b056f8ed6349b845350f5cc7253444",
+      "bytes": 662948,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1280,
+      "height_px": 964,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.27,
+        "height_in": 3.21,
+        "width_mm": 108.4,
+        "height_mm": 81.6
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "creator": "Mr-L4PSA",
+      "credit": "Mr-L4PSA, CC BY 4.0; link to the Commons source and licence; indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_basis": "Wikimedia Commons records the 16 August 2026 photograph as the uploader's own work under Creative Commons Attribution 4.0 International.",
+      "source_image_id": "35 beehives apiary in Latvia, 2026-08-16.jpg"
     },
     {
       "asset_id": "P25.02",
@@ -268,6 +301,37 @@
       "source_image_id": "Honey bee with Deformed Wing Virus and Varroa destructor.jpg"
     },
     {
+      "asset_id": "P42.01",
+      "photo_id": "42.1",
+      "title": "Nosema-Like Spores Under Microscope",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Spory_nosemy,_zv%C4%9Bt%C5%A1eno_1000x.png",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Spory_nosemy%2C_zv%C4%9Bt%C5%A1eno_1000x.png",
+      "repository_path": "assets/photos/a-core/source-candidates/p42-01-nosema-spores-micrograph.png",
+      "sha256": "680d766bfaec65a8e3662046342caf45e7a6276351b5e8b9fe262027abecb30e",
+      "bytes": 1346012,
+      "format": "PNG",
+      "mode": "RGB",
+      "width_px": 1600,
+      "height_px": 1200,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 5.33,
+        "height_in": 4,
+        "width_mm": 135.5,
+        "height_mm": 101.6
+      },
+      "minimum_width_px": 1400,
+      "minimum_height_px": 1000,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "creator": "Lukáš Vomastek",
+      "credit": "Lukáš Vomastek, CC BY-SA 4.0; link to the Commons source and licence; indicate any crop or other modification.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights_basis": "Wikimedia Commons records the 17 June 2023 file as the uploader's own work by Lukáš Vomastek under Creative Commons Attribution-ShareAlike 4.0 International.",
+      "source_image_id": "Spory nosemy, zvětšeno 1000x.png"
+    },
+    {
       "asset_id": "P44.01",
       "photo_id": "44.1",
       "title": "EFB Larvae",
@@ -341,6 +405,37 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "rights_basis": "Copyright holder released the own-work photograph under Creative Commons Attribution-ShareAlike 4.0 International.",
       "source_image_id": "Uncapping honeycomb.jpg"
+    },
+    {
+      "asset_id": "P52.01",
+      "photo_id": "52.1",
+      "title": "Premium Comb Honey",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Comb_honey.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Comb_honey.jpg/1280px-Comb_honey.jpg",
+      "repository_path": "assets/photos/a-core/source-candidates/p52-01-fully-capped-comb-honey.jpg",
+      "sha256": "748ec466a008954073b309f203441d834f4dd48a6318434036d1879f4a90d653",
+      "bytes": 202128,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1280,
+      "height_px": 817,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.27,
+        "height_in": 2.72,
+        "width_mm": 108.4,
+        "height_mm": 69.2
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 800,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN_CREATOR_RELEASE",
+      "creator": "Migco",
+      "credit": "Public-domain image by Migco; retain source record. Credit is recommended for traceability.",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Comb_honey.jpg#Licensing",
+      "rights_basis": "Wikimedia Commons records the image as the uploader's own work released into the public domain worldwide.",
+      "source_image_id": "Comb honey.jpg"
     },
     {
       "asset_id": "P55.01",
