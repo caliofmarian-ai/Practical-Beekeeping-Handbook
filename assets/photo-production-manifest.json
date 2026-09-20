@@ -993,11 +993,16 @@
       "working_title": "Propolis Trap",
       "shot_brief": "Filled flexible trap before removal.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p57-01-propolis-trap.jpg",
+      "source_sha256": "c411de63aa3f47d961c29a6d828f34cd04f4ac604bc0c25e798da9c9b8f49526",
+      "source_width_px": 2439,
+      "source_height_px": 1725,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P57.02",
