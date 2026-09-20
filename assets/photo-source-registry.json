@@ -866,9 +866,9 @@
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
       "source_status": "CANDIDATE_IDENTIFIED",
-      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "rights_status": "VERIFIED_CC_BY_4_0",
       "technical_match_status": "MATCH",
-      "selected_source": null,
+      "selected_source": "https://eprints.ncl.ac.uk/301006",
       "candidates": [
         {
           "recommendation": "PRIMARY_CANDIDATE_LAYOUT_LIMITED",
@@ -887,6 +887,25 @@
           "resolution_pixels": "676x506",
           "resolution_status": "SINGLE_COLUMN_ONLY",
           "resolution_note": "At 300 ppi the native width is about 57 mm. Keep near native size, avoid aggressive crop/upscale, and verify in print proof."
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE_AUTHORITATIVE_PDF",
+          "institution": "Newcastle University ePrints / Journal of Apicultural Research / COLOSS",
+          "source_page_url": "https://eprints.ncl.ac.uk/301006",
+          "source_document_url": "https://eprints.ncl.ac.uk/fulltext.aspx?pub_id=301006&ts=639249791598322829&url=301006/1256C31F-EB54-48FA-9305-9150EDE3A5F6.pdf",
+          "source_figure": "Figure 1",
+          "source_image_id": "Figure 1 — Malpositioned and discoloured larvae in brood with symptoms of European foulbrood",
+          "creator": "Eva Forsgren",
+          "source_caption": "Malpositioned and discoloured larvae in brood with symptoms of European foulbrood.",
+          "rights_status": "VERIFIED_CC_BY_4_0",
+          "rights_basis": "Newcastle University ePrints explicitly licenses the accepted manuscript under Creative Commons Attribution 4.0 International; Figure 1 is credited to Eva Forsgren and no separate restrictive figure licence is stated.",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "required_or_requested_credit": "Photo by Eva Forsgren. Source: Budge et al., Standard methods for European foulbrood research 2.0, Journal of Apicultural Research, CC BY 4.0. Indicate any modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Authoritative modern EFB methods reference; Figure 1 directly shows malpositioned and discoloured larvae with EFB symptoms. Diagnostic caption must retain the chapter's confirmation caveat.",
+          "extraction_page": 4,
+          "extraction_selector": "topmost_large_raster",
+          "resolution_status": "REVIEW_AT_EXTRACTION"
         }
       ]
     },
