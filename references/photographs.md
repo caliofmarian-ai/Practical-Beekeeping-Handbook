@@ -2,7 +2,7 @@
 
 ## Status
 
-**PRE-LAYOUT SHOT REGISTER — FINAL PHOTOGRAPHS NOT YET SOURCED/CREATED**
+**PRE-LAYOUT PHOTO SOURCING IN PROGRESS — FINAL PHOTO SET NOT YET COMPLETE**
 
 Photographs are used only when a real field appearance, product condition, behaviour, site, or diagnostic pattern adds information that a technical illustration cannot communicate as well. Decorative stock photography is excluded from the production plan.
 
