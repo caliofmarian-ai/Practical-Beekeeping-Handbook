@@ -57,9 +57,18 @@
           "rights_policy_url": "https://www.ars.usda.gov/oc/images/copyright/",
           "required_or_requested_credit": "Photo by Peggy Greb, USDA Agricultural Research Service.",
           "technical_match_status": "MATCH",
-          "technical_note": "Real honey bee in contact with floral structures; high-resolution 300 dpi download is offered by source."
+          "technical_note": "Real honey bee in contact with floral structures; high-resolution 300 dpi download is offered by source.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p03-01-honey-bee-on-flower.jpg",
+          "source_sha256": "a7185badfd0430e75da843b23f449e453121de562965edca5afea62bc82079ef",
+          "downloaded_width_px": 1631,
+          "downloaded_height_px": 1080,
+          "downloaded_bytes": 356611,
+          "resolution_gate_pass": false,
+          "placement_status": "HOLD_RESOLUTION"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_DOWNLOADED_HOLD",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p03-01-honey-bee-on-flower.jpg"
     },
     {
       "asset_id": "P09.01",
@@ -87,9 +96,18 @@
           "rights_policy_url": "https://www.ars.usda.gov/oc/images/copyright/",
           "required_or_requested_credit": "Photo by Peggy Greb, USDA Agricultural Research Service.",
           "technical_match_status": "MATCH",
-          "technical_note": "Corbicular pollen is visibly present on the hind leg."
+          "technical_note": "Corbicular pollen is visibly present on the hind leg.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p09-01-worker-carrying-pollen.jpg",
+          "source_sha256": "2c6b2704cdd651bf7bf9933d92cdf67b5c948f9da01dbab80a480993685a1f64",
+          "downloaded_width_px": 640,
+          "downloaded_height_px": 426,
+          "downloaded_bytes": 337609,
+          "resolution_gate_pass": false,
+          "placement_status": "HOLD_RESOLUTION"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_DOWNLOADED_HOLD",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p09-01-worker-carrying-pollen.jpg"
     },
     {
       "asset_id": "P13.01",
@@ -241,9 +259,18 @@
           "technical_note": "Directly matches healthy capped worker brood with nurse bees.",
           "resolution_pixels": "4032x3024",
           "resolution_status": "PRINT_READY",
-          "resolution_note": "Enough pixels for substantially larger than single-column placement at 300 ppi."
+          "resolution_note": "Enough pixels for substantially larger than single-column placement at 300 ppi.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p25-02-healthy-capped-worker-brood.jpg",
+          "source_sha256": "346130a7bd4e236d8f8c2fdfb5a03b5997541b52ee3631c5bade16b5c2c1168a",
+          "downloaded_width_px": 4032,
+          "downloaded_height_px": 3024,
+          "downloaded_bytes": 6504288,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p25-02-healthy-capped-worker-brood.jpg"
     },
     {
       "asset_id": "P33.01",
@@ -355,7 +382,7 @@
           "recommendation": "PRIMARY_CANDIDATE",
           "institution": "Wikimedia Commons / original photographer",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:HoneyComb.jpg",
-          "direct_image_url": null,
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HoneyComb.jpg",
           "source_image_id": "HoneyComb.jpg",
           "creator": "Joska16",
           "source_caption": "Apis mellifera comb showing eggs, young and older larvae, capping, capped brood, hatching and pollen cells.",
@@ -366,9 +393,18 @@
           "technical_match_status": "MATCH",
           "technical_note": "High-resolution real comb photograph directly supplies several larval ages plus brood context; suitable as the normal-development reference.",
           "resolution_pixels": "3244x3947",
-          "resolution_status": "PRINT_READY"
+          "resolution_status": "PRINT_READY",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p39-01-healthy-larvae-reference.jpg",
+          "source_sha256": "932dd56663c8ef1e8a178f72e0b80c9d1a98b47d0092ff19feea9e45c0d223f9",
+          "downloaded_width_px": 3244,
+          "downloaded_height_px": 3947,
+          "downloaded_bytes": 2857878,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p39-01-healthy-larvae-reference.jpg"
     },
     {
       "asset_id": "P39.02",
@@ -396,9 +432,18 @@
           "rights_policy_url": "https://www.ars.usda.gov/oc/images/copyright/",
           "required_or_requested_credit": "Photo by Jeff Pettis, USDA Agricultural Research Service.",
           "technical_match_status": "MATCH",
-          "technical_note": "Authentic chalkbrood mummies in brood-comb context; technically suitable as documentary disease imagery."
+          "technical_note": "Authentic chalkbrood mummies in brood-comb context; technically suitable as documentary disease imagery.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p39-02-chalkbrood-mummies.jpg",
+          "source_sha256": "be87a30773bd862b94ef83d694769a05dd82004fdcc085c5d51574e886a159e4",
+          "downloaded_width_px": 640,
+          "downloaded_height_px": 421,
+          "downloaded_bytes": 130572,
+          "resolution_gate_pass": false,
+          "placement_status": "HOLD_RESOLUTION"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_DOWNLOADED_HOLD",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p39-02-chalkbrood-mummies.jpg"
     },
     {
       "asset_id": "P39.03",
@@ -458,9 +503,18 @@
           "rights_policy_url": "https://www.ars.usda.gov/oc/images/copyright/",
           "required_or_requested_credit": "Photo by Stephen Ausmus, USDA Agricultural Research Service.",
           "technical_match_status": "MATCH",
-          "technical_note": "Clear real-scale adult-bee/Varroa context."
+          "technical_note": "Clear real-scale adult-bee/Varroa context.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p40-01-adult-female-varroa-on-bee.jpg",
+          "source_sha256": "9c52b7f9db6f39a3266a66d12826a65b44265847dd016be7a0da958baf17d8fd",
+          "downloaded_width_px": 640,
+          "downloaded_height_px": 422,
+          "downloaded_bytes": 160940,
+          "resolution_gate_pass": false,
+          "placement_status": "HOLD_RESOLUTION"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_DOWNLOADED_HOLD",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p40-01-adult-female-varroa-on-bee.jpg"
     },
     {
       "asset_id": "P40.02",
@@ -505,9 +559,18 @@
           "technical_note": "Direct specimen image suitable for the planned Tropilaelaps morphology reference; caption should remain genus-level unless species identity is independently confirmed for this exact specimen.",
           "resolution_pixels": "1293x1200",
           "resolution_status": "PRINT_READY",
-          "resolution_note": "Adequate for normal book placement at 300 ppi."
+          "resolution_note": "Adequate for normal book placement at 300 ppi.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p40-02-tropilaelaps-specimen.jpg",
+          "source_sha256": "913279f649e8a6bc81b6aa57c55e97957f496d112f9ab8e15589a24a1d584206",
+          "downloaded_width_px": 1293,
+          "downloaded_height_px": 1200,
+          "downloaded_bytes": 669126,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p40-02-tropilaelaps-specimen.jpg"
     },
     {
       "asset_id": "P41.01",
@@ -568,9 +631,18 @@
           "technical_note": "Clear deformed-wing phenotype in a real honey bee with a visible Varroa mite; caption must not equate phenotype with a quantitative mite count.",
           "resolution_pixels": "2277x1761",
           "resolution_status": "PRINT_READY",
-          "resolution_note": "Adequate for normal book placement at 300 ppi."
+          "resolution_note": "Adequate for normal book placement at 300 ppi.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p41-02-deformed-wing-bee.jpg",
+          "source_sha256": "ab30e9a52765789b75d56f8b3874daedcd9835e663e14aa561a7c4f11d83382c",
+          "downloaded_width_px": 2277,
+          "downloaded_height_px": 1761,
+          "downloaded_bytes": 704485,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p41-02-deformed-wing-bee.jpg"
     },
     {
       "asset_id": "P42.01",
@@ -846,7 +918,7 @@
           "recommendation": "PRIMARY_CANDIDATE",
           "institution": "Wikimedia Commons / original photographer",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:Uncapping_honeycomb.jpg",
-          "direct_image_url": null,
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Uncapping_honeycomb.jpg",
           "source_image_id": "Uncapping honeycomb.jpg",
           "creator": "Wyatt Tyrone Smith",
           "source_caption": "Honeycomb in a wooden frame being uncapped with a scraping tool before extraction.",
@@ -857,9 +929,18 @@
           "technical_match_status": "MATCH",
           "technical_note": "Direct real-process match for uncapping detail with ample resolution; final crop must preserve safe-handling context.",
           "resolution_pixels": "2448x3264",
-          "resolution_status": "PRINT_READY"
+          "resolution_status": "PRINT_READY",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p49-02-uncapping-detail.jpg",
+          "source_sha256": "63e4a6ed3e65cea514499600453b1f1d9aa8af65eac259689420d23db259e443",
+          "downloaded_width_px": 3264,
+          "downloaded_height_px": 2448,
+          "downloaded_bytes": 2617168,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p49-02-uncapping-detail.jpg"
     },
     {
       "asset_id": "P52.01",
@@ -1093,7 +1174,7 @@
           "recommendation": "PRIMARY_CANDIDATE_SINGLE_COLUMN",
           "institution": "Wikimedia Commons / original photographer",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:Weiselzellen_68a.jpg",
-          "direct_image_url": null,
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Weiselzellen_68a.jpg",
           "source_image_id": "Weiselzellen 68a.jpg",
           "creator": "Waugsberg",
           "source_caption": "Two opened queen cells showing Western honey-bee queen larvae floating in royal jelly.",
@@ -1104,9 +1185,18 @@
           "technical_match_status": "MATCH",
           "technical_note": "Direct real-material match for royal jelly in queen-cell context. Resolution supports conservative single-column placement rather than a large spread.",
           "resolution_pixels": "1644x1096",
-          "resolution_status": "SINGLE_COLUMN_PRINT_READY"
+          "resolution_status": "SINGLE_COLUMN_PRINT_READY",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p58-01-royal-jelly-queen-cell.jpg",
+          "source_sha256": "c76dc7951140a758163d85707c9746a3820185342f4d752630b61c99b706f2ca",
+          "downloaded_width_px": 1644,
+          "downloaded_height_px": 1096,
+          "downloaded_bytes": 1358949,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p58-01-royal-jelly-queen-cell.jpg"
     },
     {
       "asset_id": "P58.02",
