@@ -377,9 +377,18 @@
           "technical_note": "Clean real photograph of a clearly identifiable first-aid box suitable for the chapter's preparedness section. The image illustrates accessibility and identification only; actual contents depend on training, risk assessment, local guidance and personal medical needs.",
           "resolution_pixels": "4128x3096 original; 1280x960 selected derivative",
           "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
-          "editorial_note": "Do not imply that the pictured box itself guarantees adequate preparedness or that one fixed kit contents list is universal."
+          "editorial_note": "Do not imply that the pictured box itself guarantees adequate preparedness or that one fixed kit contents list is universal.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p23-01-first-aid-emergency-kit.jpg",
+          "source_sha256": "99d8e7ae02befb86c749e58a75b9e507fe25bde7cffc66011d8aedcea2bb2c62",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 960,
+          "downloaded_bytes": 132866,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p23-01-first-aid-emergency-kit.jpg"
     },
     {
       "asset_id": "P25.02",
