@@ -256,6 +256,10 @@ Grade separately by:
 
 Do not hide scrapings inside a premium trap-propolis lot.
 
+![Beekeeper scraping propolis from the inside surfaces of a wooden hive box](../assets/photos/a-core/source-candidates/p57-02-scraped-propolis-context.jpg)
+
+*Photo 57.2 — Scraped propolis source context. Scraping can recover usable propolis from known clean untreated hive surfaces, but the collection method does not itself establish a premium grade. Keep scraped material separate from trap-collected propolis and assess source surface, waxiness, visible debris, treatment history and contamination risk. Photo by fishermansdaughter, CC BY 2.0.*
+
 ## 57.19 Painted Hives
 
 Avoid human-use propolis from interfaces where resin has contacted unsuitable paint.
