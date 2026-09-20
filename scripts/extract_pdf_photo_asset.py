@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parents[1]
 REGISTRY = ROOT / "assets" / "photo-source-registry.json"
 OUTPUT_DIR = ROOT / "assets" / "photos" / "a-core" / "source-candidates"
 
-ALLOWED_HOSTS = {"eprints.ncl.ac.uk"}
+ALLOWED_HOSTS = {"eprints.ncl.ac.uk", "mdpi-res.com", "www.mdpi.com", "orbi.uliege.be"}
 MAX_PDF_BYTES = 100 * 1024 * 1024
 
 
