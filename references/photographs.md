@@ -42,6 +42,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 08 update:** P46.01 (Monitoring in Practice) now uses Jürg Vollmer's real CC BY-SA 4.0 photograph of powdered-sugar Varroa sampling. The validated 1280×853 source is placed in Chapter 46 with a caption that preserves method/recording limitations. The selected A_CORE set is now **20/20 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_08.md`.
 
+**Layout-prep 09 update:** P22.02 (Hive Tools) and P48.02 (Refractometer Use) now use real rights-clear photographs and are placed in Chapters 22 and 48. Both previously planned controlled-capture slots were replaced by suitable external real photography, leaving five controlled-capture A_CORE positions. The selected A_CORE set is now **22/22 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_09.md`.
+
 ---
 
 ## 1. Photograph Selection Rules

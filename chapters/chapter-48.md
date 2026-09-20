@@ -175,6 +175,10 @@ Limitations:
 
 Both can work well when maintained correctly.
 
+![Portable optical honey refractometer with its prism cover open](../assets/photos/a-core/source-candidates/p48-02-honey-refractometer.jpg)
+
+*Photo 48.2 — Portable honey refractometer. This optical instrument is designed for honey moisture measurement. The photograph identifies the equipment only: accurate results still depend on correct calibration, a clean dry prism, a representative sample, suitable temperature conditions and correct reading technique. Photo by R. Henrik Nilsson, CC BY 4.0.*
+
 ## 48.10 Calibration
 
 Follow the instrument manufacturer's calibration procedure.

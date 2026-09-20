@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 5,
     "with_candidates": 32,
     "rights_clear_candidates": 31,
-    "primary_ready_candidates": 20,
+    "primary_ready_candidates": 22,
     "technical_matches_any_rights_state": 25,
-    "selected_source_files_ready": 20,
-    "selected_source_files_resolution_pass": 20
+    "selected_source_files_ready": 22,
+    "selected_source_files_resolution_pass": 22
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -333,7 +333,7 @@
           "technical_match_status": "MATCH",
           "technical_note": "Authentic field image clearly shows the form, working edges and real wear of a standard hive tool. It supports the chapter's maintenance and safe-use discussion without promoting a particular brand.",
           "resolution_pixels": "5497x3665 original; 1280x853 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_status": "SOURCE_FILE_READY",
           "editorial_note": "Use as the representative hive-tool photograph; the chapter text covers alternative tool designs and wear/damage checks.",
           "repository_source_path": "assets/photos/a-core/source-candidates/p22-02-hive-tool-in-use.jpg",
           "source_sha256": "5ff43b652ff74fc1ae4325bd5e1b1c155b244c50a5a1e643d4ede30957569286",
@@ -341,7 +341,8 @@
           "downloaded_height_px": 853,
           "downloaded_bytes": 137370,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated Wikimedia derivative is 1280×853 px, suitable for the intended single-column/medium placement. Final crop/colour/page proof remains pending."
         }
       ],
       "download_status": "SOURCE_FILE_READY",
@@ -1162,7 +1163,7 @@
           "technical_match_status": "MATCH",
           "technical_note": "Clean real photograph of a portable honey-specific optical refractometer. The photograph identifies the equipment; sample placement, prism cleaning, calibration and reading technique remain in the chapter text.",
           "resolution_pixels": "3678x1251 original; 1280x435 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_status": "SOURCE_FILE_READY",
           "editorial_note": "Use as an equipment reference, not as a step-by-step demonstration of sampling.",
           "repository_source_path": "assets/photos/a-core/source-candidates/p48-02-honey-refractometer.jpg",
           "source_sha256": "1e89c7f1cfd1a758ae73bdb680bb9c1346b741eb5e80a7c5dc18e40007cd4e1d",
@@ -1170,7 +1171,8 @@
           "downloaded_height_px": 435,
           "downloaded_bytes": 155225,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated Wikimedia derivative is 1280×435 px; the wide equipment profile is suitable for the intended single-column/medium placement without upscale. Final crop/colour/page proof remains pending."
         }
       ],
       "download_status": "SOURCE_FILE_READY",
