@@ -905,9 +905,30 @@
           "technical_note": "Authoritative modern EFB methods reference; Figure 1 directly shows malpositioned and discoloured larvae with EFB symptoms. Diagnostic caption must retain the chapter's confirmation caveat.",
           "extraction_page": 4,
           "extraction_selector": "topmost_large_raster",
-          "resolution_status": "REVIEW_AT_EXTRACTION"
+          "resolution_status": "REVIEW_AT_EXTRACTION",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg",
+          "source_sha256": "b59114504732abdaf7cf8fa4267dec24568f10ba82b7faf81b7abf71afa5242c",
+          "downloaded_width_px": 700,
+          "downloaded_height_px": 531,
+          "downloaded_bytes": 47653,
+          "resolution_gate_pass": false,
+          "placement_status": "HOLD_RESOLUTION",
+          "extraction_record": {
+            "xref": 37,
+            "bbox": [
+              42.54999923706055,
+              70.79997253417969,
+              294.79998779296875,
+              262.0999755859375
+            ],
+            "embedded_width_px": 700,
+            "embedded_height_px": 531,
+            "qualifying_image_count": 2
+          }
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_DOWNLOADED_HOLD",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg"
     },
     {
       "asset_id": "P45.01",
