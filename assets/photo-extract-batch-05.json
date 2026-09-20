@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-05",
+  "purpose": "Extract and validate the authoritative EFB Figure 1 photograph from the CC BY 4.0 accepted manuscript.",
+  "assets": [
+    {
+      "asset_id": "P44.01",
+      "slug": "efb-larvae",
+      "source_page_url": "https://eprints.ncl.ac.uk/301006",
+      "source_document_url": "https://eprints.ncl.ac.uk/fulltext.aspx?pub_id=301006&ts=639249791598322829&url=301006/1256C31F-EB54-48FA-9305-9150EDE3A5F6.pdf",
+      "page_number": 4,
+      "image_rank": 0,
+      "minimum_width_px": 675,
+      "minimum_height_px": 500,
+      "placement_intent": "single-column-only",
+      "proof_requirement": "minimal-or-no-crop; verify at final print size"
+    }
+  ],
+  "run_revision": 2,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-05.json"
+}

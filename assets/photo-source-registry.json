@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 8,
     "with_candidates": 29,
     "rights_clear_candidates": 28,
-    "primary_ready_candidates": 10,
+    "primary_ready_candidates": 11,
     "technical_matches_any_rights_state": 18,
-    "selected_source_files_ready": 10,
-    "selected_source_files_resolution_pass": 10
+    "selected_source_files_ready": 11,
+    "selected_source_files_resolution_pass": 11
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -866,9 +866,9 @@
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
       "source_status": "CANDIDATE_IDENTIFIED",
-      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "rights_status": "VERIFIED_CC_BY_4_0",
       "technical_match_status": "MATCH",
-      "selected_source": null,
+      "selected_source": "https://eprints.ncl.ac.uk/301006",
       "candidates": [
         {
           "recommendation": "PRIMARY_CANDIDATE_LAYOUT_LIMITED",
@@ -887,8 +887,49 @@
           "resolution_pixels": "676x506",
           "resolution_status": "SINGLE_COLUMN_ONLY",
           "resolution_note": "At 300 ppi the native width is about 57 mm. Keep near native size, avoid aggressive crop/upscale, and verify in print proof."
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE_AUTHORITATIVE_PDF",
+          "institution": "Newcastle University ePrints / Journal of Apicultural Research / COLOSS",
+          "source_page_url": "https://eprints.ncl.ac.uk/301006",
+          "source_document_url": "https://eprints.ncl.ac.uk/fulltext.aspx?pub_id=301006&ts=639249791598322829&url=301006/1256C31F-EB54-48FA-9305-9150EDE3A5F6.pdf",
+          "source_figure": "Figure 1",
+          "source_image_id": "Figure 1 — Malpositioned and discoloured larvae in brood with symptoms of European foulbrood",
+          "creator": "Eva Forsgren",
+          "source_caption": "Malpositioned and discoloured larvae in brood with symptoms of European foulbrood.",
+          "rights_status": "VERIFIED_CC_BY_4_0",
+          "rights_basis": "Newcastle University ePrints explicitly licenses the accepted manuscript under Creative Commons Attribution 4.0 International; Figure 1 is credited to Eva Forsgren and no separate restrictive figure licence is stated.",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "required_or_requested_credit": "Photo by Eva Forsgren. Source: Budge et al., Standard methods for European foulbrood research 2.0, Journal of Apicultural Research, CC BY 4.0. Indicate any modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Authoritative modern EFB methods reference; Figure 1 directly shows malpositioned and discoloured larvae with EFB symptoms. Diagnostic caption must retain the chapter's confirmation caveat.",
+          "extraction_page": 4,
+          "extraction_selector": "topmost_large_raster",
+          "resolution_status": "SINGLE_COLUMN_PRINT_READY",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg",
+          "source_sha256": "b59114504732abdaf7cf8fa4267dec24568f10ba82b7faf81b7abf71afa5242c",
+          "downloaded_width_px": 700,
+          "downloaded_height_px": 531,
+          "downloaded_bytes": 47653,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY",
+          "extraction_record": {
+            "xref": 37,
+            "bbox": [
+              42.54999923706055,
+              70.79997253417969,
+              294.79998779296875,
+              262.0999755859375
+            ],
+            "embedded_width_px": 700,
+            "embedded_height_px": 531,
+            "qualifying_image_count": 2
+          },
+          "resolution_note": "Embedded source is 700×531 px, equivalent to about 59.3×45.0 mm at 300 ppi. Approved only for conservative single-column placement with minimal/no crop and mandatory final print proof."
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg"
     },
     {
       "asset_id": "P45.01",

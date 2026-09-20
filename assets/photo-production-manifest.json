@@ -685,11 +685,16 @@
       "working_title": "EFB Larvae",
       "shot_brief": "Confirmed or authoritative image showing abnormal larval colour/position.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_SINGLE_COLUMN",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg",
+      "source_sha256": "b59114504732abdaf7cf8fa4267dec24568f10ba82b7faf81b7abf71afa5242c",
+      "source_width_px": 700,
+      "source_height_px": 531,
+      "placement_intent": "single-column-only"
     },
     {
       "asset_id": "P45.01",
@@ -1345,5 +1350,5 @@
     }
   ],
   "generated_date": "2026-09-20",
-  "photo_source_ready_count": 10
+  "photo_source_ready_count": 11
 }

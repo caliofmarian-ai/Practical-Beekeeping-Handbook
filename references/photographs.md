@@ -28,6 +28,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 **Selected-source file update:** all **10/10 currently selected A_CORE photographs** now have real source files in `assets/photos/a-core/source-candidates/` and pass the resolution gate for their intended placement (**10 PASS / 0 HOLD**). Rights, creator/source, SHA-256 and dimensions are recorded in `photo-source-files-current.json`. This is source-file readiness, not final page approval; cropping, captions, alt text, placement and print/EPUB/PDF proof still remain. See `docs/reviews/PHOTO_ASSET_BATCH_03.md`.
 **Layout-prep 01 update:** all **10/10 SOURCE_FILE_READY** selected A_CORE photographs are now referenced directly from their local repository files in the relevant chapter Markdown, with editorial captions, alt text, and creator/rights credit. The placement manifest is `assets/photos/a-core/photo-layout-manifest-01.json`. This is chapter-source placement, not final PDF/EPUB/print proof. See `docs/reviews/PHOTO_LAYOUT_PREP_01.md`.
 
+**Layout-prep 02 update:** P44.01 (EFB Larvae) now uses an authoritative CC BY 4.0 COLOSS/JAR figure by Eva Forsgren, extracted from the Newcastle accepted-manuscript PDF without resampling. The 700×531 source passes its intended single-column gate (about 59.3 mm wide at 300 ppi) and is placed in Chapter 44 with diagnostic limitations, alt text and credit. The selected source-file set is now **11/11 ready**. See `docs/reviews/PHOTO_LAYOUT_PREP_02.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
