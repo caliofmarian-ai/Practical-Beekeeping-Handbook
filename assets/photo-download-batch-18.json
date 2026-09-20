@@ -6,13 +6,13 @@
     {
       "asset_id": "P23.01",
       "slug": "first-aid-emergency-kit",
-      "source_page_url": "https://commons.wikimedia.org/wiki/File:A-first-aid-kit.jpg",
-      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/A-first-aid-kit.jpg/900px-A-first-aid-kit.jpg",
-      "minimum_width_px": 880,
-      "minimum_height_px": 450,
-      "placement_intent": "single-column"
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:A_first_aid_box.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/A_first_aid_box.jpg/1280px-A_first_aid_box.jpg",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900,
+      "placement_intent": "single-column-or-medium"
     }
   ],
-  "run_revision": 2,
+  "run_revision": 3,
   "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-18.json"
 }
