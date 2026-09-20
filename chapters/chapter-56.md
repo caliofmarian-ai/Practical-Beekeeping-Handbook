@@ -292,6 +292,10 @@ Drawers should be:
 
 Wood or mesh parts should not shed contaminants into the food product.
 
+![Honey bees moving through a pollen-trap grid with detached pollen pellets visible on the collection surface](../assets/photos/a-core/source-candidates/p56-01-pollen-pellets-trap.jpg)
+
+*Photo 56.1 — Pollen trap in use. Returning workers pass through the trap openings while detached corbicular pollen pellets are visible on the collection surface. A trap should remove only part of the incoming pollen and must be kept clean, dry and free of traffic blockage. Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0.*
+
 ## 56.21 Collect Frequently
 
 Fresh pollen is moist and biologically active.
@@ -387,6 +391,10 @@ Requirements include:
 - clean packaging;
 - stable freezer temperature;
 - controlled thawing.
+
+![Close-up of collected bee-pollen pellets preserved by freezing](../assets/photos/a-core/source-candidates/p56-02-frozen-pollen-product.jpg)
+
+*Photo 56.2 — Frozen bee-collected pollen pellets. Freezing can preserve fresh pollen with little heat exposure when the product is collected hygienically and frozen promptly. These are bee-collected pollen pellets, not bee bread stored and modified inside comb cells. Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0.*
 
 ## 56.29 Cold Chain
 
