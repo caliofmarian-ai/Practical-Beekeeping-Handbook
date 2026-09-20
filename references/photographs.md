@@ -40,6 +40,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 07 update:** P13.01 (Healthy Brood-Nest Frame) now uses a real CC BY-SA 4.0 frame photograph by John Pons showing brood, pollen and stores on the same frame. It is placed in Chapter 13 with a caption that treats the radial organisation as a common example rather than a universal rule. The selected A_CORE set is now **19/19 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_07.md`.
 
+**Layout-prep 08 update:** P46.01 (Monitoring in Practice) now uses Jürg Vollmer's real CC BY-SA 4.0 photograph of powdered-sugar Varroa sampling. The validated 1280×853 source is placed in Chapter 46 with a caption that preserves method/recording limitations. The selected A_CORE set is now **20/20 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_08.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
