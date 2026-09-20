@@ -1067,11 +1067,16 @@
       "working_title": "Raw Propolis Grades",
       "shot_brief": "Clean trap propolis versus contaminated scraping examples.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_2_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_CONTEXTUAL_PAIR",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p57-02-scraped-propolis-context.jpg",
+      "source_sha256": "39e96bf97c1d8c3da6fa1685233e5470875d4a587663852153a0203c39993ca1",
+      "source_width_px": 1280,
+      "source_height_px": 960,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P58.01",
