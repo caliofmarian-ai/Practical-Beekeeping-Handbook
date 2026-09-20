@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-18",
+  "purpose": "Fetch and validate P23.01 real first-aid kit photograph from a public-domain CDC source.",
+  "assets": [
+    {
+      "asset_id": "P23.01",
+      "slug": "first-aid-emergency-kit",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:A-first-aid-kit.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/A-first-aid-kit.jpg",
+      "minimum_width_px": 900,
+      "minimum_height_px": 450,
+      "placement_intent": "single-column"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-18.json"
+}
