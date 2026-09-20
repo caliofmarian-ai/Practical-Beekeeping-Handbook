@@ -107,6 +107,10 @@ Adult bees move mites:
 
 Visible mites on adult bees usually indicate substantial exposure, but absence of visible mites does not indicate a mite-free colony.
 
+![Adult female Varroa mite on an adult honey bee](../assets/photos/a-core/source-candidates/p40-01-adult-female-varroa-on-bee.jpg)
+
+*Photo 40.1 — Adult female Varroa on a bee. The mite is shown at realistic scale on its host; failure to see mites during a routine inspection does not establish a low infestation level. USDA photo by Scott Bauer; public domain.*
+
 ## 40.7 Varroa Damage to Developing Bees
 
 Parasitised pupae may emerge with:
@@ -200,6 +204,10 @@ Tropilaelaps mites are:
 Varroa mites are broader and more flattened and can survive for longer periods feeding on adult bees.
 
 The stronger brood dependence of Tropilaelaps has major implications for surveillance and control.
+
+![Dorsal microscopic view of a female Tropilaelaps mite](../assets/photos/a-core/source-candidates/p40-02-tropilaelaps-specimen.jpg)
+
+*Photo 40.2 — Tropilaelaps specimen. Confirmed specimen image used for morphological context; field identification of an unfamiliar mite should follow current surveillance and laboratory guidance. Image by Pavel Klimov, Bee Mite ID / USDA; public domain.*
 
 ## 40.14 Tropilaelaps Reproduction and Damage
 
