@@ -932,11 +932,16 @@
       "working_title": "Beeswax Scales on Worker",
       "shot_brief": "Macro or authoritative microscopy image if possible.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_SINGLE_COLUMN",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p55-01-beeswax-scales-worker.jpg",
+      "source_sha256": "eeea95b73c652cab43f73ff7e59493855e504a71d0ddbc7854eac1d466ed40fc",
+      "source_width_px": 661,
+      "source_height_px": 440,
+      "placement_intent": "single-column"
     },
     {
       "asset_id": "P55.02",
