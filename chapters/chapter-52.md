@@ -92,6 +92,10 @@ They can simplify retail presentation, but performance depends on:
 
 Reusable food-contact parts must be cleaned and replaced when damaged.
 
+![Ross Round comb-honey sections showing a fully capped centre section beside an unfinished section](../assets/photos/a-core/source-candidates/p52-01-fully-capped-comb-honey.jpg)
+
+*Photo 52.1 — Comb-honey completion. The centre round is fully built and capped, while the adjacent section is still unfinished. This side-by-side appearance helps explain why section honey is graded by completion and presentation rather than by total honey mass alone. Public-domain photograph by Migco.*
+
 ## 52.5 Cut Comb
 
 Cut comb is produced on a larger frame and divided after harvest.
