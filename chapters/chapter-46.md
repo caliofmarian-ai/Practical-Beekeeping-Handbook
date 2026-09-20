@@ -229,6 +229,10 @@ Standardise:
 
 Changing methods without noting the change can create false trends.
 
+![Beekeeper in protective clothing carrying out powdered-sugar Varroa monitoring with a bee-sample container and collection tray](../assets/photos/a-core/source-candidates/p46-01-varroa-monitoring-practice.jpg)
+
+*Photo 46.1 — Monitoring in practice. This field example shows a beekeeper using a powdered-sugar method to sample for Varroa while wearing protective clothing. The photograph illustrates one real monitoring workflow, not a universal preference for one sampling method. Record the colony ID, sample method, date, sample size and result separately so repeated measurements remain comparable. Photo by Jürg Vollmer, CC BY-SA 4.0.*
+
 ## 46.13 Sampling Error
 
 Monitoring is an estimate.
