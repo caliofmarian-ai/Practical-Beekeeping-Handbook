@@ -20,6 +20,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 **Controlled-capture update:** all **8/8 CONTROLLED_REAL_CAPTURE** A_CORE positions now have an executable, safety-bounded shot card in `docs/production/CONTROLLED_PHOTO_CAPTURE_BRIEF_01.md`. This makes them ready to commission or capture, but does not change their unsourced/unapproved status.
 
 **Pass 03 update:** field/process/product sourcing now reaches **22/40 A_CORE** items with at least one candidate, **21/40** with at least one rights-clear candidate, **14/40** with at least one technical `MATCH`, and **10/40** currently selected sources meeting the present technical/rights/resolution gate. New selected sources cover healthy larvae/development, uncapping detail and royal jelly in queen-cell context. AFB imagery remains deliberately unselected until diagnostic provenance is stronger; partial/historical candidates remain labelled as such. See `docs/reviews/PHOTO_SOURCE_PASS_03.md`.
+
+**Pass 04 update:** evidence/field sourcing now reaches **26/40 A_CORE** items with at least one candidate, **25/40** with at least one rights-clear candidate, **17/40** with at least one technical `MATCH`, and **10/40** currently selected sources meeting the full present technical/rights/resolution gate. New strong candidates cover robbing at the hive entrance, a real monitoring/inspection scene, freshly secreted worker wax scales, and a real electric bee-venom collection device. Fourteen A_CORE positions still have no candidate; eight are already assigned to controlled real capture, leaving six external sourcing gaps. See `docs/reviews/PHOTO_SOURCE_PASS_04.md`.
 ---
 
 ## 1. Photograph Selection Rules
