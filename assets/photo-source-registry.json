@@ -1850,10 +1850,10 @@
           "technical_match_status": "MATCH_CONTEXTUAL",
           "technical_note": "Clean, unannotated real field photograph of a purpose-built venom collector frame being removed from a hive. It provides stronger handbook imagery than the previously held annotated scientific figure. The photograph demonstrates equipment application rather than endorsing a specific commercial model or providing DIY construction guidance.",
           "resolution_pixels": null,
-          "resolution_status": "REVIEW_AT_EXTRACTION",
-          "resolution_note": "Extract the Figure 6 embedded raster from PDF page 9 without resampling; verify the selected raster, pixel dimensions and print suitability before final placement.",
+          "resolution_status": "REVIEW_AT_EXTRACTION_RETRY",
+          "resolution_note": "PDF page 9 exposes two qualifying large rasters: Figure 5 is the first combined raster and Figure 6 is the second. Retry image_rank 1, then verify dimensions and visual match before placement.",
           "extraction_page": 9,
-          "extraction_selector": "third_large_raster_on_page",
+          "extraction_selector": "second_large_raster_on_page",
           "editorial_note": "Use as real-device field context. Do not describe it as a universally approved commercial collector, and do not derive electrical construction instructions from the image."
         }
       ],
