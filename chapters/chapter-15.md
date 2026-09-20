@@ -56,6 +56,10 @@ A location that is excellent in spring may become unsuitable in winter or during
 
 The strongest apiary decisions are based on repeated observation rather than one brief visit.
 
+![Real apiary on open grass with rows of hives and surrounding woodland](../assets/photos/a-core/source-candidates/p15-01-good-apiary-site.jpg)
+
+*Photo 15.1 — Apiary-site context. This real apiary shows useful features to inspect in the field, including workable open ground, hive spacing, access space and surrounding vegetation. A photograph cannot prove drainage, forage continuity, legal suitability, safe flight paths or year-round wind exposure; assess those separately on site. Photo by Mr-L4PSA, CC BY 4.0.*
+
 ---
 
 ## Learning Objectives
