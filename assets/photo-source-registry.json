@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 7,
     "with_candidates": 30,
     "rights_clear_candidates": 29,
-    "primary_ready_candidates": 18,
+    "primary_ready_candidates": 19,
     "technical_matches_any_rights_state": 22,
-    "selected_source_files_ready": 18,
-    "selected_source_files_resolution_pass": 18
+    "selected_source_files_ready": 19,
+    "selected_source_files_resolution_pass": 19
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -234,15 +234,16 @@
           "required_or_requested_credit": "Photo by John Pons, CC BY-SA 4.0; link source and licence and indicate modifications.",
           "technical_match_status": "MATCH",
           "technical_note": "Strong teaching match for a normal brood-nest frame: capped/emerged brood occupies the central region, pollen lies outside the brood area, and honey/stores are visible farther outward. Use as a normal-organisation example, not a universal fixed pattern.",
-          "resolution_pixels": "3264x1836 original; 1280x720 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_pixels": "1280x720 downloaded derivative",
+          "resolution_status": "SINGLE_COLUMN_OR_MEDIUM_READY",
           "repository_source_path": "assets/photos/a-core/source-candidates/p13-01-healthy-brood-nest-frame.jpg",
           "source_sha256": "1dddf40e44e8f224e5ab7c437a8d321642c0ee6d37ca6079cdb4644d39a705fa",
           "downloaded_width_px": 1280,
           "downloaded_height_px": 720,
           "downloaded_bytes": 436168,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated 1280×720 Wikimedia derivative, about 108.4×61.0 mm at 300 ppi. Final page crop/colour/proof remains required."
         }
       ],
       "download_status": "SOURCE_FILE_READY",
