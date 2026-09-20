@@ -6,12 +6,12 @@
   "counts": {
     "A_CORE": 40,
     "EVIDENCE_AUTHENTIC_ONLY": 16,
-    "FIELD_PROCESS_AUTHENTIC": 20,
-    "CONTROLLED_REAL_CAPTURE": 4,
-    "with_candidates": 33,
-    "rights_clear_candidates": 32,
+    "FIELD_PROCESS_AUTHENTIC": 21,
+    "CONTROLLED_REAL_CAPTURE": 3,
+    "with_candidates": 34,
+    "rights_clear_candidates": 33,
     "primary_ready_candidates": 25,
-    "technical_matches_any_rights_state": 28,
+    "technical_matches_any_rights_state": 29,
     "selected_source_files_ready": 25,
     "selected_source_files_resolution_pass": 25
   },
@@ -354,13 +354,32 @@
       "chapter": 23,
       "title": "First-Aid / Emergency Preparedness Kit",
       "editorial_priority": "A_CORE",
-      "source_class": "CONTROLLED_REAL_CAPTURE",
+      "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
-      "candidates": []
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN_US_FEDERAL",
+      "technical_match_status": "MATCH_CONTEXTUAL",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:A-first-aid-kit.jpg",
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE_REAL_FIRST_AID_KIT",
+          "institution": "U.S. Centers for Disease Control and Prevention / Wikimedia Commons",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:A-first-aid-kit.jpg",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/A-first-aid-kit.jpg",
+          "source_image_id": "A-first-aid-kit.jpg",
+          "creator": "U.S. Centers for Disease Control and Prevention (CDC)",
+          "source_caption": "A real first-aid kit with basic emergency supplies.",
+          "rights_status": "VERIFIED_PUBLIC_DOMAIN_US_FEDERAL",
+          "rights_basis": "Wikimedia Commons identifies the image as a work of the U.S. Centers for Disease Control and Prevention prepared as part of official federal duties and free of known copyright restrictions.",
+          "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "required_or_requested_credit": "U.S. Centers for Disease Control and Prevention (CDC); public-domain U.S. federal work. Retain source provenance.",
+          "technical_match_status": "MATCH_CONTEXTUAL",
+          "technical_note": "Clean real photograph of a first-aid kit suitable for the chapter's preparedness section. The photograph is illustrative only: actual kit contents depend on training, risk assessment, local guidance and personal medical needs, and a first-aid kit does not replace emergency services.",
+          "resolution_pixels": "938x487",
+          "resolution_status": "SINGLE_COLUMN_PRINT_READY",
+          "editorial_note": "Use at conservative single-column size. Do not imply that the pictured contents constitute a universal beekeeping medical kit or medication recommendation."
+        }
+      ]
     },
     {
       "asset_id": "P25.02",
