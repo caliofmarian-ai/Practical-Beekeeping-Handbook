@@ -1080,7 +1080,7 @@
           "recommendation": "PRIMARY_CANDIDATE_REAL_VARROA_MONITORING",
           "institution": "Wikimedia Commons / original photographer",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:Puderzuckermethode.jpg",
-          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puderzuckermethode.jpg/1280px-Puderzuckermethode.jpg",
+          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puderzuckermethode.jpg/1280px-Puderzuckermethode.jpg",
           "source_image_id": "Puderzuckermethode.jpg",
           "creator": "Jürg Vollmer",
           "source_caption": "Beekeeper using the powdered-sugar sampling method to monitor Varroa mite populations in a honey bee colony.",
@@ -1091,8 +1091,9 @@
           "technical_match_status": "MATCH",
           "technical_note": "Direct authentic monitoring-in-practice scene: the beekeeper is wearing protective clothing and gloves while using a bee-sample container and collection tray for powdered-sugar Varroa monitoring. The planned record sheet is not visible, so the chapter caption must explicitly retain the requirement to record sample details and results separately.",
           "resolution_pixels": "3095x2063 original; 1280x853 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
-          "editorial_note": "Use to demonstrate a real mite-monitoring action, not to imply that powdered-sugar sampling is the only or universally preferred monitoring method."
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_RETRY",
+          "editorial_note": "Use to demonstrate a real mite-monitoring action, not to imply that powdered-sugar sampling is the only or universally preferred monitoring method.",
+          "resolution_note": "Retry through Wikimedia's thumb host after the upload host returned HTTP 429. Expected derivative is 1280×853; validate actual pixels before placement."
         }
       ]
     },
