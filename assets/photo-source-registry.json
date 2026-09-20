@@ -11,7 +11,7 @@
     "with_candidates": 30,
     "rights_clear_candidates": 29,
     "primary_ready_candidates": 18,
-    "technical_matches_any_rights_state": 21,
+    "technical_matches_any_rights_state": 22,
     "selected_source_files_ready": 18,
     "selected_source_files_resolution_pass": 18
   },
@@ -184,9 +184,9 @@
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
       "source_status": "CANDIDATE_IDENTIFIED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Frame_from_hive_of_honey_bee_(apis_mellifera).jpg",
       "candidates": [
         {
           "recommendation": "SECONDARY_CANDIDATE",
@@ -219,6 +219,23 @@
           "resolution_pixels": "2560x3417",
           "resolution_status": "PRINT_READY",
           "resolution_note": "High-resolution original offered by USFWS."
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE_RADIAL_BROOD_NEST",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Frame_from_hive_of_honey_bee_(apis_mellifera).jpg",
+          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Frame_from_hive_of_honey_bee_%28apis_mellifera%29.jpg/1280px-Frame_from_hive_of_honey_bee_%28apis_mellifera%29.jpg",
+          "source_image_id": "Frame from hive of honey bee (apis mellifera).jpg",
+          "creator": "John Pons",
+          "source_caption": "Beehive frame showing central brood, an outer pollen band and honey storage.",
+          "rights_status": "VERIFIED_CC_BY_SA_4_0",
+          "rights_basis": "Wikimedia Commons records the uploader's own work by John Pons under Creative Commons Attribution-ShareAlike 4.0 International.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "required_or_requested_credit": "Photo by John Pons, CC BY-SA 4.0; link source and licence and indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Strong teaching match for a normal brood-nest frame: capped/emerged brood occupies the central region, pollen lies outside the brood area, and honey/stores are visible farther outward. Use as a normal-organisation example, not a universal fixed pattern.",
+          "resolution_pixels": "3264x1836 original; 1280x720 selected derivative",
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH"
         }
       ]
     },
