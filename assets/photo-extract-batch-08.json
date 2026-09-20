@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-08",
+  "purpose": "Extract and validate P59.01 electric bee-venom collection device from the registered CC BY 4.0 Molecules article.",
+  "assets": [
+    {
+      "asset_id": "P59.01",
+      "slug": "venom-collection-device",
+      "source_page_url": "https://www.mdpi.com/1420-3049/30/12/2623",
+      "source_document_url": "https://mdpi-res.com/d_attachment/molecules/molecules-30-02623/article_deploy/molecules-30-02623-with-cover.pdf",
+      "page_number": 8,
+      "image_rank": 0,
+      "minimum_width_px": 900,
+      "minimum_height_px": 500,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-08.json"
+}

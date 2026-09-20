@@ -1418,7 +1418,7 @@
       "source_status": "CANDIDATE_IDENTIFIED",
       "rights_status": "VERIFIED_CC_BY_4_0",
       "technical_match_status": "MATCH",
-      "selected_source": null,
+      "selected_source": "https://www.mdpi.com/1420-3049/30/12/2623",
       "candidates": [
         {
           "recommendation": "PRIMARY_CANDIDATE_NATIVE_FIGURE_CHECK_PENDING",
@@ -1436,9 +1436,35 @@
           "technical_match_status": "MATCH",
           "technical_note": "Direct match for a real commercial-style electric venom collection device. Native figure resolution and crop suitability remain to be checked before final selection.",
           "resolution_pixels": null,
-          "resolution_status": "NATIVE_FILE_CHECK_REQUIRED"
+          "resolution_status": "REVIEW_AT_EXTRACTION",
+          "source_document_url": "https://mdpi-res.com/d_attachment/molecules/molecules-30-02623/article_deploy/molecules-30-02623-with-cover.pdf",
+          "source_figure": "Figure 2",
+          "extraction_page": 8,
+          "extraction_selector": "topmost_large_raster",
+          "resolution_note": "Extract Figure 2 from the publisher with-cover PDF without resampling; verify the device is the selected embedded raster and validate native dimensions.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p59-01-venom-collection-device.png",
+          "source_sha256": "f056b034687c3f79084deccb6771ce7a25aaaca3074b055c111b38543b47130a",
+          "downloaded_width_px": 1302,
+          "downloaded_height_px": 1402,
+          "downloaded_bytes": 112673,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY",
+          "extraction_record": {
+            "xref": 273,
+            "bbox": [
+              163.08900451660156,
+              343.2841796875,
+              538.2650146484375,
+              746.9161987304688
+            ],
+            "embedded_width_px": 1302,
+            "embedded_height_px": 1402,
+            "qualifying_image_count": 1
+          }
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p59-01-venom-collection-device.png"
     },
     {
       "asset_id": "P59.02",

@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-08",
+  "policy": {
+    "embedded_raster_extracted_without_resampling": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P59.01",
+      "photo_id": "59.1",
+      "title": "Commercial Venom Collection Device",
+      "source_page_url": "https://www.mdpi.com/1420-3049/30/12/2623",
+      "source_document_url": "https://mdpi-res.com/d_attachment/molecules/molecules-30-02623/article_deploy/molecules-30-02623-with-cover.pdf",
+      "source_figure": "Figure 2",
+      "page_number": 8,
+      "repository_path": "assets/photos/a-core/source-candidates/p59-01-venom-collection-device.png",
+      "sha256": "f056b034687c3f79084deccb6771ce7a25aaaca3074b055c111b38543b47130a",
+      "bytes": 112673,
+      "format": "PNG",
+      "mode": "RGB",
+      "width_px": 1302,
+      "height_px": 1402,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.34,
+        "height_in": 4.67,
+        "width_mm": 110.2,
+        "height_mm": 118.7
+      },
+      "minimum_width_px": 900,
+      "minimum_height_px": 500,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "creator": "Article authors; Figure 2 credited as personal archive A.F.",
+      "credit": "Cite the original Molecules article, authors, Figure 2 and CC BY 4.0; preserve personal-archive figure credit and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_basis": "Molecules publishes articles under CC BY 4.0; MDPI states article figures/tables may be reused with proper attribution. The figure is credited to an author personal archive rather than a named third-party source.",
+      "extraction": {
+        "xref": 273,
+        "bbox": [
+          163.08900451660156,
+          343.2841796875,
+          538.2650146484375,
+          746.9161987304688
+        ],
+        "embedded_width_px": 1302,
+        "embedded_height_px": 1402,
+        "qualifying_image_count": 1
+      }
+    }
+  ]
+}
