@@ -10,10 +10,12 @@
       "source_document_url": "https://eprints.ncl.ac.uk/fulltext.aspx?pub_id=301006&ts=639249791598322829&url=301006/1256C31F-EB54-48FA-9305-9150EDE3A5F6.pdf",
       "page_number": 4,
       "image_rank": 0,
-      "minimum_width_px": 900,
-      "minimum_height_px": 600
+      "minimum_width_px": 675,
+      "minimum_height_px": 500,
+      "placement_intent": "single-column-only",
+      "proof_requirement": "minimal-or-no-crop; verify at final print size"
     }
   ],
-  "run_revision": 1,
+  "run_revision": 2,
   "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-05.json"
 }
