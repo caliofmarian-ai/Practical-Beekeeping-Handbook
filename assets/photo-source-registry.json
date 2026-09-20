@@ -11,7 +11,7 @@
     "with_candidates": 32,
     "rights_clear_candidates": 31,
     "primary_ready_candidates": 23,
-    "technical_matches_any_rights_state": 26,
+    "technical_matches_any_rights_state": 27,
     "selected_source_files_ready": 23,
     "selected_source_files_resolution_pass": 23
   },
@@ -957,10 +957,10 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:AFB_in_combs.jpg",
       "candidates": [
         {
           "recommendation": "SECONDARY_CANDIDATE",
@@ -976,8 +976,35 @@
           "required_or_requested_credit": "Photo by Virginia Williams, USDA Agricultural Research Service.",
           "technical_match_status": "PARTIAL_MATCH",
           "technical_note": "Strong confirmed AFB evidence image, but it demonstrates ropy/stringy material rather than the planned adherent-scale macro."
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE_AFB_SCALE_SPECIALIST_PROVENANCE",
+          "institution": "Bee Research Institute at Dol / BeeDol / Wikimedia Commons",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:AFB_in_combs.jpg",
+          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/AFB_in_combs.jpg/1280px-AFB_in_combs.jpg",
+          "source_image_id": "AFB in combs.jpg",
+          "creator": "Dalibor Titera",
+          "source_caption": "American foulbrood leaves hard, dark remains ('scales') on the bottom of brood cells.",
+          "rights_status": "VERIFIED_CC_BY_SA_4_0",
+          "rights_basis": "Wikimedia Commons records the photograph as the creator's own work and licenses it under Creative Commons Attribution-ShareAlike 4.0 International.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "required_or_requested_credit": "Photo by Dalibor Titera, CC BY-SA 4.0; link source and licence and indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Direct close-up of the persistent dark larval remains known as AFB scales. The creator is a senior researcher/laboratory lead at the Bee Research Institute at Dol, providing stronger specialist provenance than the previous generic partial-match source. The caption must still distinguish a teaching photograph from diagnosis of a reader's own colony.",
+          "resolution_pixels": "1726x1079 original; 1280x800 selected derivative",
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "editorial_note": "Use as the adherent-scale teaching photograph. Do not imply that every dark cell residue is diagnostic without the broader AFB field/laboratory context.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p43-02-afb-adherent-scale.jpg",
+          "source_sha256": "9d3da77c93d40077aab2917c68897ffc937a067392c29746784d0efd7548928f",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 800,
+          "downloaded_bytes": 290928,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p43-02-afb-adherent-scale.jpg"
     },
     {
       "asset_id": "P44.01",

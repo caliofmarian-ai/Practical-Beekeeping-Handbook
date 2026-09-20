@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-16",
+  "purpose": "Fetch and validate P43.02 American foulbrood adherent-scale photograph from a specialist-provenance CC BY-SA 4.0 source.",
+  "assets": [
+    {
+      "asset_id": "P43.02",
+      "slug": "afb-adherent-scale",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:AFB_in_combs.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/AFB_in_combs.jpg/1280px-AFB_in_combs.jpg",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 750,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-16.json"
+}
