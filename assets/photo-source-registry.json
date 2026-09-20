@@ -874,7 +874,7 @@
           "recommendation": "PRIMARY_CANDIDATE_LAYOUT_LIMITED",
           "institution": "Výzkumný ústav včelařský, s.r.o. / Wikimedia Commons",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:European_foulbrood_CZ.jpg",
-          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/European_foulbrood_CZ.jpg",
+          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/European_foulbrood_CZ.jpg/640px-European_foulbrood_CZ.jpg",
           "source_image_id": "European foulbrood CZ.jpg",
           "creator": "Výzkumný ústav včelařský, s.r.o.",
           "source_caption": "European foulbrood brood symptoms.",
@@ -884,9 +884,9 @@
           "required_or_requested_credit": "Credit the creator/source under CC BY-SA 4.0; indicate modifications and preserve ShareAlike obligations for adaptations.",
           "technical_match_status": "MATCH",
           "technical_note": "Modern EFB brood image from a bee-research institute; visible abnormal larvae are consistent with the planned teaching purpose.",
-          "resolution_pixels": "676x506",
+          "resolution_pixels": "640x479",
           "resolution_status": "SINGLE_COLUMN_ONLY",
-          "resolution_note": "At 300 ppi the native width is about 57 mm. Keep near native size, avoid aggressive crop/upscale, and verify in print proof."
+          "resolution_note": "Official Wikimedia 640 px derivative used to avoid original-file CDN rate limiting; native source is 676x506. Intended only for conservative single-column placement and print proof."
         }
       ]
     },
