@@ -50,6 +50,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 12 update:** P57.02 (Raw Propolis Grades) now uses a real CC BY 2.0 hive-surface scraping photograph, complementing P57.01's controlled trap-collected propolis image. The two real photographs provide the planned source/grade contrast without a generated or staged comparison. P57.02 is placed in the scraped-propolis grading section of Chapter 57. The selected A_CORE set is now **25/25 source files ready and placed**, and only four A_CORE positions still require controlled real capture. See `docs/reviews/PHOTO_LAYOUT_PREP_12.md`.
 
+**Layout-prep 13 update:** P23.01 (First-Aid / Emergency Preparedness Kit) now uses a real CC BY-SA 4.0 first-aid box photograph and is placed in Chapter 23 with a clear warning that the pictured box is not a universal contents prescription or substitute for emergency care. The selected A_CORE set is now **26/26 source files ready and placed**, leaving three controlled-capture A_CORE positions. See `docs/reviews/PHOTO_LAYOUT_PREP_13.md`.
+
 ---
 
 ## 1. Photograph Selection Rules

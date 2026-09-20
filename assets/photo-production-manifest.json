@@ -312,11 +312,16 @@
       "working_title": "First-Aid / Emergency Preparedness Kit",
       "shot_brief": "Clearly labelled and contextually safe; avoid implying contents replace emergency medical care. ---",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_CONTEXTUAL",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p23-01-first-aid-emergency-kit.jpg",
+      "source_sha256": "99d8e7ae02befb86c749e58a75b9e507fe25bde7cffc66011d8aedcea2bb2c62",
+      "source_width_px": 1280,
+      "source_height_px": 960,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P24.01",

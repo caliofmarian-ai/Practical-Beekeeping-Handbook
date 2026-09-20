@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P23.01",
+      "photo_id": "23.1",
+      "chapter": 23,
+      "chapter_path": "chapters/chapter-23.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p23-01-first-aid-emergency-kit.jpg",
+      "alt_text": "Clearly marked first-aid box used as an emergency preparedness reference",
+      "caption": "First-aid kit identification. Keep a clearly recognisable kit accessible to the apiary team; actual contents should follow current local first-aid guidance, site risk, training, allergy planning and the number of people present, and the kit does not replace emergency medical care.",
+      "credit": "Photo by Contributers2020, CC BY-SA 4.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    }
+  ]
+}

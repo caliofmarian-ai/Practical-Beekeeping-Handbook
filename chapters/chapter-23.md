@@ -633,6 +633,10 @@ A practical kit may include:
 
 The kit should match local first-aid guidance and the number of people present.
 
+![Clearly marked first-aid box used as an emergency preparedness reference](../assets/photos/a-core/source-candidates/p23-01-first-aid-emergency-kit.jpg)
+
+*Photo 23.1 — First-aid kit identification. Keep a clearly recognisable kit accessible to the apiary team, but do not treat one photographed box or a fixed contents list as universal. Actual contents should follow current local first-aid guidance, site risk, training, allergy planning and the number of people present; the kit does not replace emergency medical care. Photo by Contributers2020, CC BY-SA 4.0.*
+
 ---
 
 ## First-Aid Kit Inspection
