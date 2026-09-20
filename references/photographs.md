@@ -46,6 +46,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 10 update:** P33.01 (Colonies Secured for Transport) now uses a real creator-released public-domain photograph of hives carried in a dedicated bee-transport vehicle. The validated 1280×960 source is placed in Chapter 33 with an explicit boundary that the image does not certify local restraint, ventilation or road-compliance requirements. The selected A_CORE set is now **23/23 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_10.md`.
 
+**Layout-prep 11 update:** P43.02 (AFB Adherent Scale) now uses a clean specialist-provenance CC BY-SA 4.0 photograph by Dalibor Titera of the Bee Research Institute at Dol. The validated 1280×800 source is placed directly in the AFB scale section of Chapter 43 with an explicit diagnostic caveat. The selected A_CORE set is now **24/24 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_11.md`.
+
 ---
 
 ## 1. Photograph Selection Rules

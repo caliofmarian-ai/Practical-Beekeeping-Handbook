@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 5,
     "with_candidates": 32,
     "rights_clear_candidates": 31,
-    "primary_ready_candidates": 23,
+    "primary_ready_candidates": 24,
     "technical_matches_any_rights_state": 27,
-    "selected_source_files_ready": 23,
-    "selected_source_files_resolution_pass": 23
+    "selected_source_files_ready": 24,
+    "selected_source_files_resolution_pass": 24
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -992,7 +992,7 @@
           "technical_match_status": "MATCH",
           "technical_note": "Direct close-up of the persistent dark larval remains known as AFB scales. The creator is a senior researcher/laboratory lead at the Bee Research Institute at Dol, providing stronger specialist provenance than the previous generic partial-match source. The caption must still distinguish a teaching photograph from diagnosis of a reader's own colony.",
           "resolution_pixels": "1726x1079 original; 1280x800 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_status": "SOURCE_FILE_READY",
           "editorial_note": "Use as the adherent-scale teaching photograph. Do not imply that every dark cell residue is diagnostic without the broader AFB field/laboratory context.",
           "repository_source_path": "assets/photos/a-core/source-candidates/p43-02-afb-adherent-scale.jpg",
           "source_sha256": "9d3da77c93d40077aab2917c68897ffc937a067392c29746784d0efd7548928f",
@@ -1000,7 +1000,8 @@
           "downloaded_height_px": 800,
           "downloaded_bytes": 290928,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated Wikimedia derivative is 1280×800 px, suitable for the intended single-column/medium placement. Final crop, colour and page proof remain pending."
         }
       ],
       "download_status": "SOURCE_FILE_READY",

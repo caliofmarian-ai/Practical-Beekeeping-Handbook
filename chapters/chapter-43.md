@@ -174,6 +174,10 @@ AFB scales can be difficult for workers to remove and may contain very large num
 
 Old scales are therefore epidemiologically important even after wet larval remains have disappeared.
 
+![Close-up of brood-comb cells containing hard dark larval remains characteristic of American foulbrood scale](../assets/photos/a-core/source-candidates/p43-02-afb-adherent-scale.jpg)
+
+*Photo 43.2 — AFB adherent scale. Hard, dark larval remains can persist tightly on the lower wall of brood cells after infected material dries. This specialist-provenance teaching photograph shows the appearance described as AFB scale, but a reader should not classify every dark cell residue from appearance alone; interpret it with the colony's other signs and current official or laboratory confirmation requirements. Photo by Dalibor Titera, Bee Research Institute at Dol, CC BY-SA 4.0.*
+
 ## 43.12 The Pupal Tongue
 
 In some AFB cases, the proboscis or “tongue” of a dead pupa projects upward from the scale.
