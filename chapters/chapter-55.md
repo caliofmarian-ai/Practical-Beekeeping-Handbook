@@ -38,6 +38,10 @@ The wax emerges as small translucent scales. Workers manipulate these scales wit
 
 Wax production is especially associated with well-fed young adult workers and strong colony growth.
 
+![Worker honey bee with freshly secreted translucent wax scales visible at the abdominal wax glands](../assets/photos/a-core/source-candidates/p55-01-beeswax-scales-worker.jpg)
+
+*Photo 55.1 — Beeswax scales on a worker. Freshly secreted translucent wax scales are visible at the abdominal wax glands before workers manipulate the wax for comb construction. Photograph by Richard Odemer. Source: Odemer et al., “Honey Bee Colony Health in Thiamethoxam-Treated Sugar Beet Fields: A Field-Based Case Study,” Ecology and Evolution 15 (2025), CC BY 4.0.*
+
 ## 55.2 Wax-Producing Workers
 
 Wax-gland development is strongest during a particular period of worker life, although colony needs can alter task schedules.

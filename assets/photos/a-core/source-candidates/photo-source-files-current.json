@@ -5,7 +5,8 @@
   "source_batches": [
     "photo-assets-batch-02",
     "photo-assets-batch-03",
-    "photo-assets-batch-05"
+    "photo-assets-batch-05",
+    "photo-assets-batch-06"
   ],
   "policy": {
     "files_are_unmodified_or_officially_scaled_source_candidates": true,
@@ -13,8 +14,8 @@
     "sha256_required": true,
     "rights_and_technical_review_remain_required": true
   },
-  "asset_count": 11,
-  "resolution_pass_count": 11,
+  "asset_count": 12,
+  "resolution_pass_count": 12,
   "resolution_hold_count": 0,
   "assets": [
     {
@@ -339,6 +340,37 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "rights_basis": "Copyright holder released the own-work photograph under Creative Commons Attribution-ShareAlike 4.0 International.",
       "source_image_id": "Uncapping honeycomb.jpg"
+    },
+    {
+      "asset_id": "P55.01",
+      "photo_id": "55.1",
+      "title": "Beeswax Scales on Worker",
+      "source_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12723444/",
+      "direct_image_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3fee/12723444/d1c7c62b83f7/ECE3-15-e72767-g005.jpg",
+      "repository_path": "assets/photos/a-core/source-candidates/p55-01-beeswax-scales-worker.jpg",
+      "sha256": "eeea95b73c652cab43f73ff7e59493855e504a71d0ddbc7854eac1d466ed40fc",
+      "bytes": 56267,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 661,
+      "height_px": 440,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 2.2,
+        "height_in": 1.47,
+        "width_mm": 56,
+        "height_mm": 37.3
+      },
+      "minimum_width_px": 600,
+      "minimum_height_px": 400,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "creator": "Richard Odemer",
+      "credit": "Photograph by R. Odemer; cite the original Ecology and Evolution article and CC BY 4.0; indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_basis": "The article is open access under CC BY 4.0 and identifies the photograph as by R. Odemer.",
+      "source_image_id": "Figure 1 — wax-producing worker honey bee"
     },
     {
       "asset_id": "P58.01",
