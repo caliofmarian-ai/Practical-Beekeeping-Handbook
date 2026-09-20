@@ -1158,9 +1158,18 @@
           "resolution_pixels": "495x495",
           "resolution_status": "ORIGINAL_SMALL_FILE_RETRY",
           "resolution_note": "The attempted 480 px thumbnail size is not one of Wikimedia's supported derivative sizes for this 495 px original. Fetch the small native 495×495 file directly; use only at conservative small placement without upscaling.",
-          "editorial_note": "Caption must explicitly state that a dark or hairless bee can raise suspicion but does not confirm CBPV; clinical pattern and appropriate diagnostic context are required."
+          "editorial_note": "Caption must explicitly state that a dark or hairless bee can raise suspicion but does not confirm CBPV; clinical pattern and appropriate diagnostic context are required.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p45-01-cbpv-type-adult-sign.jpg",
+          "source_sha256": "2aec4ccc09b0d9ab5e6134824e5af54e1ad4772f272bfa80b2b51034f48a4e09",
+          "downloaded_width_px": 495,
+          "downloaded_height_px": 495,
+          "downloaded_bytes": 46028,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p45-01-cbpv-type-adult-sign.jpg"
     },
     {
       "asset_id": "P46.01",

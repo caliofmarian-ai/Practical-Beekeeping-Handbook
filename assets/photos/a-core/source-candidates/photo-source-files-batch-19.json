@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-19",
+  "policy": {
+    "files_are_unmodified_source_candidates": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P45.01",
+      "photo_id": "45.1",
+      "title": "CBPV-Type Adult Signs",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_(CBPV).jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_%28CBPV%29.jpg",
+      "repository_path": "assets/photos/a-core/source-candidates/p45-01-cbpv-type-adult-sign.jpg",
+      "sha256": "2aec4ccc09b0d9ab5e6134824e5af54e1ad4772f272bfa80b2b51034f48a4e09",
+      "bytes": 46028,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 495,
+      "height_px": 495,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 1.65,
+        "height_in": 1.65,
+        "width_mm": 41.9,
+        "height_mm": 41.9
+      },
+      "minimum_width_px": 490,
+      "minimum_height_px": 490,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "creator": "Abrahami",
+      "credit": "Photo: Abrahami, CC BY-SA 4.0; link source/license and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights_basis": "Copyright holder licensed the work under Creative Commons Attribution-ShareAlike 4.0 International.",
+      "source_image_id": "Abeille infectée par le virus de la maladie noire (CBPV).jpg"
+    }
+  ]
+}
