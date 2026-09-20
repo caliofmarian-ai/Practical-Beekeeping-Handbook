@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-09",
+  "policy": {
+    "files_are_unmodified_source_candidates": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P42.01",
+      "photo_id": "42.1",
+      "title": "Nosema-Like Spores Under Microscope",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Spory_nosemy,_zv%C4%9Bt%C5%A1eno_1000x.png",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Spory_nosemy%2C_zv%C4%9Bt%C5%A1eno_1000x.png",
+      "repository_path": "assets/photos/a-core/source-candidates/p42-01-nosema-spores-micrograph.png",
+      "sha256": "680d766bfaec65a8e3662046342caf45e7a6276351b5e8b9fe262027abecb30e",
+      "bytes": 1346012,
+      "format": "PNG",
+      "mode": "RGB",
+      "width_px": 1600,
+      "height_px": 1200,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 5.33,
+        "height_in": 4.0,
+        "width_mm": 135.5,
+        "height_mm": 101.6
+      },
+      "minimum_width_px": 1400,
+      "minimum_height_px": 1000,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "creator": "Lukáš Vomastek",
+      "credit": "Lukáš Vomastek, CC BY-SA 4.0; link to the Commons source and licence; indicate any crop or other modification.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights_basis": "Wikimedia Commons records the 17 June 2023 file as the uploader's own work by Lukáš Vomastek under Creative Commons Attribution-ShareAlike 4.0 International.",
+      "source_image_id": "Spory nosemy, zvětšeno 1000x.png"
+    }
+  ]
+}

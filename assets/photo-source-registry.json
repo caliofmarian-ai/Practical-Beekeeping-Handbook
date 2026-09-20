@@ -809,9 +809,18 @@
           "technical_note": "Authentic light micrograph matching the planned Nosema-like-spore purpose. It is identified by the source as N. apis at about 1000×. The chapter caption must still warn that routine light-microscope morphology alone is not a reliable method for distinguishing N. apis from N. ceranae.",
           "resolution_pixels": "1600x1200",
           "resolution_status": "SOURCE_DECLARED_RESOLUTION_PASS_PENDING_FETCH",
-          "editorial_crop_note": "For final handbook layout, crop the right-edge grayscale UI strip and excess bottom margin if needed; preserve authentic spore morphology. A scientific scale bar may be retained if visually clean."
+          "editorial_crop_note": "For final handbook layout, crop the right-edge grayscale UI strip and excess bottom margin if needed; preserve authentic spore morphology. A scientific scale bar may be retained if visually clean.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p42-01-nosema-spores-micrograph.png",
+          "source_sha256": "680d766bfaec65a8e3662046342caf45e7a6276351b5e8b9fe262027abecb30e",
+          "downloaded_width_px": 1600,
+          "downloaded_height_px": 1200,
+          "downloaded_bytes": 1346012,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p42-01-nosema-spores-micrograph.png"
     },
     {
       "asset_id": "P43.01",
