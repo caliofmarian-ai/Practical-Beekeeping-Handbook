@@ -38,6 +38,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 06 update:** P56.01 (Pollen Trap) and P56.02 (Frozen Bee Pollen) now use real CC BY-SA 3.0 photographs by Matteo Giusti and are placed in Chapter 56. P56.02 no longer requires controlled capture, reducing the remaining controlled-capture set from eight to seven. The selected A_CORE set is now **18/18 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_06.md`.
 
+**Layout-prep 07 update:** P13.01 (Healthy Brood-Nest Frame) now uses a real CC BY-SA 4.0 frame photograph by John Pons showing brood, pollen and stores on the same frame. It is placed in Chapter 13 with a caption that treats the radial organisation as a common example rather than a universal rule. The selected A_CORE set is now **19/19 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_07.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
