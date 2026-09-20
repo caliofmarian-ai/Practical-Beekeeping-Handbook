@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-13",
+  "policy": {
+    "files_are_unmodified_source_candidates": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P46.01",
+      "photo_id": "46.1",
+      "title": "Monitoring in Practice",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Puderzuckermethode.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puderzuckermethode.jpg/1280px-Puderzuckermethode.jpg",
+      "repository_path": "assets/photos/a-core/source-candidates/p46-01-varroa-monitoring-practice.jpg",
+      "sha256": "4d42d6475c355e8f431bd434705fe58d6a678f3a2207e9073059d9a794fb8559",
+      "bytes": 272863,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1280,
+      "height_px": 853,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.27,
+        "height_in": 2.84,
+        "width_mm": 108.4,
+        "height_mm": 72.2
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 800,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "creator": "Jürg Vollmer",
+      "credit": "Photo by Jürg Vollmer, CC BY-SA 4.0; link source and licence and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights_basis": "Wikimedia Commons identifies the 2016 photograph as Jürg Vollmer's own work and licenses it under Creative Commons Attribution-ShareAlike 4.0 International.",
+      "source_image_id": "Puderzuckermethode.jpg"
+    }
+  ]
+}

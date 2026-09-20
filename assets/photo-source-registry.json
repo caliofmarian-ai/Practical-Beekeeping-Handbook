@@ -1093,9 +1093,18 @@
           "resolution_pixels": "3095x2063 original; 1280x853 selected derivative",
           "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_RETRY",
           "editorial_note": "Use to demonstrate a real mite-monitoring action, not to imply that powdered-sugar sampling is the only or universally preferred monitoring method.",
-          "resolution_note": "Retry through Wikimedia's thumb host after the upload host returned HTTP 429. Expected derivative is 1280×853; validate actual pixels before placement."
+          "resolution_note": "Retry through Wikimedia's thumb host after the upload host returned HTTP 429. Expected derivative is 1280×853; validate actual pixels before placement.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p46-01-varroa-monitoring-practice.jpg",
+          "source_sha256": "4d42d6475c355e8f431bd434705fe58d6a678f3a2207e9073059d9a794fb8559",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 853,
+          "downloaded_bytes": 272863,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p46-01-varroa-monitoring-practice.jpg"
     },
     {
       "asset_id": "P48.02",
