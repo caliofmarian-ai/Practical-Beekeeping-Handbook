@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P33.01",
+      "photo_id": "33.1",
+      "chapter": 33,
+      "chapter_path": "chapters/chapter-33.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p33-01-colonies-secured-for-transport.jpg",
+      "alt_text": "Multiple beehives carried in a purpose-built rack on a stationary bee-transport truck",
+      "caption": "Colonies prepared for transport. The vehicle shows multiple hives held in an organised rack system; actual transport still requires verified restraint, roof/floor security, entrance management, ventilation, load limits and legal compliance.",
+      "credit": "Public-domain photograph by Marion Schneider & Christoph Aistleitner.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    }
+  ]
+}

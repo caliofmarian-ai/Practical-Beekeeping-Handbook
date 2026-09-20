@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 5,
     "with_candidates": 32,
     "rights_clear_candidates": 31,
-    "primary_ready_candidates": 22,
+    "primary_ready_candidates": 23,
     "technical_matches_any_rights_state": 26,
-    "selected_source_files_ready": 22,
-    "selected_source_files_resolution_pass": 22
+    "selected_source_files_ready": 23,
+    "selected_source_files_resolution_pass": 23
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -449,7 +449,7 @@
           "technical_match_status": "MATCH_CONTEXTUAL",
           "technical_note": "Authentic stationary bee-transport vehicle showing multiple hives held in a purpose-built rack/compartment. It demonstrates transport organisation but the image alone cannot verify every legal load-restraint, entrance-closure or ventilation requirement.",
           "resolution_pixels": "2816x2112 original; 1280x960 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_status": "SOURCE_FILE_READY",
           "editorial_note": "Use as real transport context. Caption must state that hives still require appropriate restraint, ventilation, entrance management and legal compliance for the actual journey.",
           "repository_source_path": "assets/photos/a-core/source-candidates/p33-01-colonies-secured-for-transport.jpg",
           "source_sha256": "13fb4aca5ae31127c34411298cd29d30386a7193c3ca3a7dfaba9b65774e9bc1",
@@ -457,7 +457,8 @@
           "downloaded_height_px": 960,
           "downloaded_bytes": 358887,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated Wikimedia derivative is 1280×960 px, sufficient for the intended single-column/medium placement. Final crop, colour and page proof remain pending."
         }
       ],
       "download_status": "SOURCE_FILE_READY",

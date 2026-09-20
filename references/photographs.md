@@ -44,6 +44,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 09 update:** P22.02 (Hive Tools) and P48.02 (Refractometer Use) now use real rights-clear photographs and are placed in Chapters 22 and 48. Both previously planned controlled-capture slots were replaced by suitable external real photography, leaving five controlled-capture A_CORE positions. The selected A_CORE set is now **22/22 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_09.md`.
 
+**Layout-prep 10 update:** P33.01 (Colonies Secured for Transport) now uses a real creator-released public-domain photograph of hives carried in a dedicated bee-transport vehicle. The validated 1280×960 source is placed in Chapter 33 with an explicit boundary that the image does not certify local restraint, ventilation or road-compliance requirements. The selected A_CORE set is now **23/23 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_10.md`.
+
 ---
 
 ## 1. Photograph Selection Rules

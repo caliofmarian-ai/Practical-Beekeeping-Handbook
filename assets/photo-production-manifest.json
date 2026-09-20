@@ -484,11 +484,16 @@
       "working_title": "Colonies Secured for Transport",
       "shot_brief": "Straps, screens/ventilation, stable load. Vehicle stationary during photography.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN_CREATOR_RELEASE",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_CONTEXTUAL",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p33-01-colonies-secured-for-transport.jpg",
+      "source_sha256": "13fb4aca5ae31127c34411298cd29d30386a7193c3ca3a7dfaba9b65774e9bc1",
+      "source_width_px": 1280,
+      "source_height_px": 960,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P36.01",

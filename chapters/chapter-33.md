@@ -557,6 +557,10 @@ One full-length strap may be sufficient for some configurations, while large hiv
 
 Inspect strap condition.
 
+![Multiple beehives carried in a purpose-built rack on a stationary bee-transport truck](../assets/photos/a-core/source-candidates/p33-01-colonies-secured-for-transport.jpg)
+
+*Photo 33.1 — Colonies prepared for transport. This real bee-transport vehicle shows multiple hives held in an organised rack system. The photograph demonstrates transport context rather than certifying the load: before travel, each operation must still verify hive restraint, roof and floor security, entrance management, ventilation, vehicle load limits and current road/legal requirements. Public-domain photograph by Marion Schneider & Christoph Aistleitner.*
+
 ---
 
 ## Straps
