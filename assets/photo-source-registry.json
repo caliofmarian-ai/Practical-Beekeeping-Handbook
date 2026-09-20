@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 7,
     "with_candidates": 30,
     "rights_clear_candidates": 29,
-    "primary_ready_candidates": 16,
+    "primary_ready_candidates": 18,
     "technical_matches_any_rights_state": 21,
-    "selected_source_files_ready": 16,
-    "selected_source_files_resolution_pass": 16
+    "selected_source_files_ready": 18,
+    "selected_source_files_resolution_pass": 18
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -1344,15 +1344,16 @@
           "required_or_requested_credit": "Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0; link source and licence and indicate modifications.",
           "technical_match_status": "MATCH",
           "technical_note": "Direct real-world match for pollen trapping: bees, trap openings and detached corbicular pollen pellets are visible in the same frame.",
-          "resolution_pixels": "1600x1200 original; 1280x960 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_pixels": "1280x960 downloaded derivative",
+          "resolution_status": "SINGLE_COLUMN_OR_MEDIUM_READY",
           "repository_source_path": "assets/photos/a-core/source-candidates/p56-01-pollen-pellets-trap.jpg",
           "source_sha256": "ab1475169e0e326c7ac08677c98dc65ea2934232ac87efc0fae00c14c0b742cc",
           "downloaded_width_px": 1280,
           "downloaded_height_px": 960,
           "downloaded_bytes": 284607,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated 1280×960 Wikimedia derivative, about 108.4×81.3 mm at 300 ppi. Final page crop/colour/proof remains required."
         }
       ],
       "download_status": "SOURCE_FILE_READY",
@@ -1385,15 +1386,16 @@
           "required_or_requested_credit": "Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0; link source and licence and indicate modifications.",
           "technical_match_status": "MATCH",
           "technical_note": "Direct clean product match for the planned frozen-pollen example. Caption must call the material bee-collected pollen pellets and avoid conflating it with bee bread stored in comb.",
-          "resolution_pixels": "3648x2736 original; 1280x960 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_pixels": "1280x960 downloaded derivative",
+          "resolution_status": "SINGLE_COLUMN_OR_MEDIUM_READY",
           "repository_source_path": "assets/photos/a-core/source-candidates/p56-02-frozen-pollen-product.jpg",
           "source_sha256": "577b087eb861fc4dd66820a67c07132211b065aabcdb623a2b2b9bcace21a8f6",
           "downloaded_width_px": 1280,
           "downloaded_height_px": 960,
           "downloaded_bytes": 257540,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated 1280×960 Wikimedia derivative, about 108.4×81.3 mm at 300 ppi. Final page crop/colour/proof remains required."
         }
       ],
       "download_status": "SOURCE_FILE_READY",
