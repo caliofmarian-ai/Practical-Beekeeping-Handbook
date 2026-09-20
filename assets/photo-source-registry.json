@@ -239,7 +239,7 @@
           "recommendation": "PRIMARY_CANDIDATE_CONTEXTUAL_SITE_PHOTO",
           "institution": "Wikimedia Commons / original photographer",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:35_beehives_apiary_in_Latvia,_2026-08-16.jpg",
-          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/35_beehives_apiary_in_Latvia%2C_2026-08-16.jpg/2560px-35_beehives_apiary_in_Latvia%2C_2026-08-16.jpg",
+          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/35_beehives_apiary_in_Latvia%2C_2026-08-16.jpg/1280px-35_beehives_apiary_in_Latvia%2C_2026-08-16.jpg",
           "source_image_id": "35 beehives apiary in Latvia, 2026-08-16.jpg",
           "creator": "Mr-L4PSA",
           "source_caption": "Wide-angle view of 35 beehives on a grass field near woodland in Latvia.",
@@ -250,8 +250,8 @@
           "technical_match_status": "MATCH_CONTEXTUAL",
           "technical_note": "Strong real-world apiary-site context: hive spacing, grassed ground, open access area and substantial tree/vegetation shelter are visible. The photograph must be captioned as an example rather than proof that every drainage, wind, flight-path or legal criterion is satisfied.",
           "resolution_pixels": "4080x3072",
-          "resolution_status": "OFFICIAL_DERIVATIVE_PENDING_FETCH",
-          "resolution_note": "Use Wikimedia's official 2560 px derivative to avoid original-file CDN rate limiting. Preserve the Commons original as provenance; validate the downloaded derivative before placement."
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_note": "Use Wikimedia's supported official 1280 px derivative. Expected to remain sufficient for medium/single-column placement; validate actual pixels before placement."
         }
       ]
     },
@@ -1162,7 +1162,7 @@
           "recommendation": "PRIMARY_CANDIDATE_FULLY_CAPPED_SECTION_REFERENCE",
           "institution": "Wikimedia Commons / original photographer",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:Comb_honey.jpg",
-          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Comb_honey.jpg/1500px-Comb_honey.jpg",
+          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Comb_honey.jpg/1280px-Comb_honey.jpg",
           "source_image_id": "Comb honey.jpg",
           "creator": "Migco",
           "source_caption": "Natural comb honey produced in Ross Round equipment; the centre section is fully finished and the right section is unstarted.",
@@ -1173,9 +1173,9 @@
           "technical_match_status": "MATCH",
           "technical_note": "The central Ross Round section is broodless and fully capped and provides a clear real-photo reference for marketable comb honey. The adjacent unfinished section also helps readers distinguish complete from incomplete filling.",
           "resolution_pixels": "1500x958",
-          "resolution_status": "OFFICIAL_DERIVATIVE_PENDING_FETCH",
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
           "editorial_note": "Use the central fully capped section as the visual focus. A conservative crop may be used in final layout if it improves emphasis.",
-          "resolution_note": "Use Wikimedia's official 1500 px derivative; validate downloaded dimensions before placement. The original Commons file remains the provenance source."
+          "resolution_note": "Use Wikimedia's supported official 1280 px derivative. Expected to remain sufficient for single-column/medium placement; validate actual pixels before placement."
         }
       ]
     },
