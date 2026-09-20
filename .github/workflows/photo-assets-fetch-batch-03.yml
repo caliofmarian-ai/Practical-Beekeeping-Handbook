@@ -1,22 +1,24 @@
 name: photo-assets-fetch-batch-03
 
 on:
-  push:
+  pull_request:
     branches:
-      - publishing/photo-assets-batch-03
+      - main
     paths:
       - "assets/photo-download-batch-03.json"
 
 permissions:
   contents: write
+  pull-requests: read
 
 jobs:
   fetch-photo-sources:
+    if: github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: publishing/photo-assets-batch-03
+          ref: ${{ github.head_ref }}
           fetch-depth: 0
       - name: Install image validator
         run: python3 -m pip install --quiet pillow
@@ -31,5 +33,5 @@ jobs:
             echo "No downloaded-source changes."
           else
             git commit -m "Fetch high-resolution replacement photo sources batch 03"
-            git push origin HEAD:publishing/photo-assets-batch-03
+            git push origin HEAD:${{ github.head_ref }}
           fi
