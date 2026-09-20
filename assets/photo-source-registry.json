@@ -11,7 +11,7 @@
     "with_candidates": 34,
     "rights_clear_candidates": 33,
     "primary_ready_candidates": 26,
-    "technical_matches_any_rights_state": 29,
+    "technical_matches_any_rights_state": 30,
     "selected_source_files_ready": 26,
     "selected_source_files_resolution_pass": 26
   },
@@ -1119,9 +1119,9 @@
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
       "source_status": "CANDIDATE_IDENTIFIED",
-      "rights_status": "OGL_CONTEXT_VERIFIED_FINAL_ASSET_CHECK_REQUIRED",
-      "technical_match_status": "MATCH",
-      "selected_source": null,
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_match_status": "MATCH_CONTEXTUAL",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_(CBPV).jpg",
       "candidates": [
         {
           "recommendation": "AUTHORITATIVE_CANDIDATE_RIGHTS_RESOLUTION_CHECK",
@@ -1142,7 +1142,7 @@
           "resolution_note": "Do not promote to final until the embedded figure's effective print resolution is measured."
         },
         {
-          "recommendation": "SECONDARY_CANDIDATE_SMALL_PLACEMENT",
+          "recommendation": "PRIMARY_CANDIDATE_SMALL_PLACEMENT_WITH_DIAGNOSTIC_CAVEAT",
           "institution": "Wikimedia Commons / original photographer",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_(CBPV).jpg",
           "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_%28CBPV%29.jpg",
@@ -1153,13 +1153,23 @@
           "rights_basis": "Copyright holder licensed the work under Creative Commons Attribution-ShareAlike 4.0 International.",
           "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
           "required_or_requested_credit": "Photo: Abrahami, CC BY-SA 4.0; link source/license and indicate modifications.",
-          "technical_match_status": "PARTIAL_MATCH",
-          "technical_note": "Useful visual corroboration, but not an authoritative confirmed-diagnosis source on its own.",
+          "technical_match_status": "MATCH_CONTEXTUAL",
+          "technical_note": "Clean real photograph showing a darkening/shiny-hairless adult appearance associated by the creator with CBPV. Use only as a small visual example of a CBPV-type adult sign; appearance alone is not diagnostic and the source is not a laboratory-confirmed case record.",
           "resolution_pixels": "495x495",
-          "resolution_status": "SMALL_PLACEMENT_ONLY",
-          "resolution_note": "Native size is only about 42 mm wide at 300 ppi; do not upscale for normal/full-column use."
+          "resolution_status": "ORIGINAL_SMALL_FILE_RETRY",
+          "resolution_note": "The attempted 480 px thumbnail size is not one of Wikimedia's supported derivative sizes for this 495 px original. Fetch the small native 495×495 file directly; use only at conservative small placement without upscaling.",
+          "editorial_note": "Caption must explicitly state that a dark or hairless bee can raise suspicion but does not confirm CBPV; clinical pattern and appropriate diagnostic context are required.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p45-01-cbpv-type-adult-sign.jpg",
+          "source_sha256": "2aec4ccc09b0d9ab5e6134824e5af54e1ad4772f272bfa80b2b51034f48a4e09",
+          "downloaded_width_px": 495,
+          "downloaded_height_px": 495,
+          "downloaded_bytes": 46028,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p45-01-cbpv-type-adult-sign.jpg"
     },
     {
       "asset_id": "P46.01",
