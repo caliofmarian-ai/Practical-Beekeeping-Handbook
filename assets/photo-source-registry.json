@@ -1189,13 +1189,13 @@
       "source_status": "CANDIDATE_IDENTIFIED",
       "rights_status": "VERIFIED_CC_BY_4_0",
       "technical_match_status": "MATCH",
-      "selected_source": null,
+      "selected_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12723444/",
       "candidates": [
         {
           "recommendation": "PRIMARY_CANDIDATE_NATIVE_FIGURE_CHECK_PENDING",
           "institution": "Ecology and Evolution / Wiley / PMC",
           "source_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12723444/",
-          "direct_image_url": null,
+          "direct_image_url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3fee/12723444/d1c7c62b83f7/ECE3-15-e72767-g005.jpg",
           "source_image_id": "Figure 1 — wax-producing worker honey bee",
           "creator": "Richard Odemer",
           "source_caption": "Wax-producing worker honey bee (Apis mellifera) with freshly excreted wax scales visible at the abdominal wax glands during early comb construction.",
@@ -1206,9 +1206,20 @@
           "technical_match_status": "MATCH",
           "technical_note": "Excellent subject match: freshly secreted wax scales are visible on a real worker bee. Native figure dimensions must be checked before final print placement.",
           "resolution_pixels": null,
-          "resolution_status": "NATIVE_FILE_CHECK_REQUIRED"
+          "resolution_status": "REVIEW_AT_DOWNLOAD",
+          "source_figure": "Figure 1",
+          "resolution_note": "Validate native NCBI figure dimensions before publication placement.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p55-01-beeswax-scales-worker.jpg",
+          "source_sha256": "eeea95b73c652cab43f73ff7e59493855e504a71d0ddbc7854eac1d466ed40fc",
+          "downloaded_width_px": 661,
+          "downloaded_height_px": 440,
+          "downloaded_bytes": 56267,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p55-01-beeswax-scales-worker.jpg"
     },
     {
       "asset_id": "P55.02",
