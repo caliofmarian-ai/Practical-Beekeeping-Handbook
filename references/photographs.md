@@ -48,6 +48,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 11 update:** P43.02 (AFB Adherent Scale) now uses a clean specialist-provenance CC BY-SA 4.0 photograph by Dalibor Titera of the Bee Research Institute at Dol. The validated 1280×800 source is placed directly in the AFB scale section of Chapter 43 with an explicit diagnostic caveat. The selected A_CORE set is now **24/24 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_11.md`.
 
+**Layout-prep 12 update:** P57.02 (Raw Propolis Grades) now uses a real CC BY 2.0 hive-surface scraping photograph, complementing P57.01's controlled trap-collected propolis image. The two real photographs provide the planned source/grade contrast without a generated or staged comparison. P57.02 is placed in the scraped-propolis grading section of Chapter 57. The selected A_CORE set is now **25/25 source files ready and placed**, and only four A_CORE positions still require controlled real capture. See `docs/reviews/PHOTO_LAYOUT_PREP_12.md`.
+
 ---
 
 ## 1. Photograph Selection Rules

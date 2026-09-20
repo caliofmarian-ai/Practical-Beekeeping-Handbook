@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 4,
     "with_candidates": 33,
     "rights_clear_candidates": 32,
-    "primary_ready_candidates": 24,
+    "primary_ready_candidates": 25,
     "technical_matches_any_rights_state": 28,
-    "selected_source_files_ready": 24,
-    "selected_source_files_resolution_pass": 24
+    "selected_source_files_ready": 25,
+    "selected_source_files_resolution_pass": 25
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -1656,7 +1656,7 @@
           "technical_match_status": "MATCH_CONTEXTUAL",
           "technical_note": "Authentic field image of hive-surface propolis scraping. Together with P57.01's trap-collected propolis photograph it provides the planned source/grade contrast without staging contamination. The photograph does not by itself establish product grade; grade depends on source surface, waxiness, debris, treatment history and contamination risk.",
           "resolution_pixels": "3072x2304 original; 1280x960 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_status": "SOURCE_FILE_READY",
           "editorial_note": "Place beside or near the scraped-propolis grading section. Caption must explicitly distinguish scraping source from verified grade.",
           "repository_source_path": "assets/photos/a-core/source-candidates/p57-02-scraped-propolis-context.jpg",
           "source_sha256": "39e96bf97c1d8c3da6fa1685233e5470875d4a587663852153a0203c39993ca1",
@@ -1664,7 +1664,8 @@
           "downloaded_height_px": 960,
           "downloaded_bytes": 320699,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated Wikimedia derivative is 1280×960 px, suitable for the intended single-column/medium placement. Final crop, colour and page proof remain pending."
         }
       ],
       "download_status": "SOURCE_FILE_READY",
