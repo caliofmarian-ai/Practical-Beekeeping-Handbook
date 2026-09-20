@@ -157,11 +157,16 @@
       "working_title": "Good Apiary Site",
       "shot_brief": "Shows drainage, stable stands, access, safe flight paths, wind shelter, and vegetation context.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_CONTEXTUAL",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p15-01-good-apiary-site.jpg",
+      "source_sha256": "0b35c1daa7aa3e028d0b5c811d4066d171b056f8ed6349b845350f5cc7253444",
+      "source_width_px": 1280,
+      "source_height_px": 964,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P15.02",
@@ -643,11 +648,16 @@
       "working_title": "Nosema-Like Spores Under Microscope",
       "shot_brief": "Laboratory image with magnification and method; do not claim species ID from morphology alone.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p42-01-nosema-spores-micrograph.png",
+      "source_sha256": "680d766bfaec65a8e3662046342caf45e7a6276351b5e8b9fe262027abecb30e",
+      "source_width_px": 1600,
+      "source_height_px": 1200,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P43.01",
@@ -876,11 +886,16 @@
       "working_title": "Premium Comb Honey",
       "shot_brief": "Fresh broodless fully capped section/cut comb.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN_CREATOR_RELEASE",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p52-01-fully-capped-comb-honey.jpg",
+      "source_sha256": "748ec466a008954073b309f203441d834f4dd48a6318434036d1879f4a90d653",
+      "source_width_px": 1280,
+      "source_height_px": 817,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P52.02",

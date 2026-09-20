@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 3,
+  "assets": [
+    {
+      "asset_id": "P15.01",
+      "photo_id": "15.1",
+      "chapter": 15,
+      "chapter_path": "chapters/chapter-15.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p15-01-good-apiary-site.jpg",
+      "alt_text": "Real apiary on open grass with rows of hives and surrounding woodland",
+      "caption": "Apiary-site context. This real apiary shows useful features to inspect in the field, including workable open ground, hive spacing, access space and surrounding vegetation. A photograph cannot prove drainage, forage continuity, legal suitability, safe flight paths or year-round wind exposure; assess those separately on site.",
+      "credit": "Photo by Mr-L4PSA, CC BY 4.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    },
+    {
+      "asset_id": "P42.01",
+      "photo_id": "42.1",
+      "chapter": 42,
+      "chapter_path": "chapters/chapter-42.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p42-01-nosema-spores-micrograph.png",
+      "alt_text": "Light micrograph showing numerous oval Nosema spores at approximately 1000× magnification",
+      "caption": "Nosema-like spores under light microscopy. The source identifies these as Nosema apis spores at approximately 1000× magnification. Routine light-microscope morphology can demonstrate Nosema-like spores but should not be used by itself to distinguish N. apis from N. ceranae.",
+      "credit": "Image by Lukáš Vomastek, CC BY-SA 4.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_CROP_AND_PRINT_PROOF"
+    },
+    {
+      "asset_id": "P52.01",
+      "photo_id": "52.1",
+      "chapter": 52,
+      "chapter_path": "chapters/chapter-52.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p52-01-fully-capped-comb-honey.jpg",
+      "alt_text": "Ross Round comb-honey sections showing a fully capped centre section beside an unfinished section",
+      "caption": "Comb-honey completion. The centre round is fully built and capped, while the adjacent section is still unfinished. This side-by-side appearance helps explain why section honey is graded by completion and presentation rather than by total honey mass alone.",
+      "credit": "Public-domain photograph by Migco.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    }
+  ]
+}

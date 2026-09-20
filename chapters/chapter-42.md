@@ -236,6 +236,10 @@ However, shape and size overlap among species and can be confused with artefacts
 
 Microscopy is useful for detecting Nosema-like spores but is poor at reliable species identification of *N. apis* versus *N. ceranae*.
 
+![Light micrograph showing numerous oval Nosema spores at approximately 1000× magnification](../assets/photos/a-core/source-candidates/p42-01-nosema-spores-micrograph.png)
+
+*Photo 42.1 — Nosema-like spores under light microscopy. The source identifies these as* Nosema apis *spores at approximately 1000× magnification. Routine light-microscope morphology can demonstrate Nosema-like spores but should not be used by itself to distinguish* N. apis *from* N. ceranae*. Image by Lukáš Vomastek, CC BY-SA 4.0.*
+
 ## 42.18 Haemocytometer Spore Counting
 
 A haemocytometer is a calibrated counting chamber used to estimate spore concentration.
