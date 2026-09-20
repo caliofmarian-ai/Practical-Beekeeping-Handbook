@@ -293,11 +293,16 @@
       "working_title": "Hive Tools",
       "shot_brief": "Clean representative tools with wear/damage comparison if useful.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_2_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p22-02-hive-tool-in-use.jpg",
+      "source_sha256": "5ff43b652ff74fc1ae4325bd5e1b1c155b244c50a5a1e643d4ede30957569286",
+      "source_width_px": 1280,
+      "source_height_px": 853,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P23.01",
@@ -794,11 +799,16 @@
       "working_title": "Refractometer Use",
       "shot_brief": "Clean dry prism and representative sample; digital/optical depending on final equipment choice.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p48-02-honey-refractometer.jpg",
+      "source_sha256": "1e89c7f1cfd1a758ae73bdb680bb9c1346b741eb5e80a7c5dc18e40007cd4e1d",
+      "source_width_px": 1280,
+      "source_height_px": 435,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P48.03",
