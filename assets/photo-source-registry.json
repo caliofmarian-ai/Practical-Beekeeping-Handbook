@@ -251,9 +251,18 @@
           "technical_note": "Strong real-world apiary-site context: hive spacing, grassed ground, open access area and substantial tree/vegetation shelter are visible. The photograph must be captioned as an example rather than proof that every drainage, wind, flight-path or legal criterion is satisfied.",
           "resolution_pixels": "4080x3072",
           "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
-          "resolution_note": "Use Wikimedia's supported official 1280 px derivative. Expected to remain sufficient for medium/single-column placement; validate actual pixels before placement."
+          "resolution_note": "Use Wikimedia's supported official 1280 px derivative. Expected to remain sufficient for medium/single-column placement; validate actual pixels before placement.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p15-01-good-apiary-site.jpg",
+          "source_sha256": "0b35c1daa7aa3e028d0b5c811d4066d171b056f8ed6349b845350f5cc7253444",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 964,
+          "downloaded_bytes": 662948,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p15-01-good-apiary-site.jpg"
     },
     {
       "asset_id": "P19.02",
@@ -1175,9 +1184,18 @@
           "resolution_pixels": "1500x958",
           "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
           "editorial_note": "Use the central fully capped section as the visual focus. A conservative crop may be used in final layout if it improves emphasis.",
-          "resolution_note": "Use Wikimedia's supported official 1280 px derivative. Expected to remain sufficient for single-column/medium placement; validate actual pixels before placement."
+          "resolution_note": "Use Wikimedia's supported official 1280 px derivative. Expected to remain sufficient for single-column/medium placement; validate actual pixels before placement.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p52-01-fully-capped-comb-honey.jpg",
+          "source_sha256": "748ec466a008954073b309f203441d834f4dd48a6318434036d1879f4a90d653",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 817,
+          "downloaded_bytes": 202128,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p52-01-fully-capped-comb-honey.jpg"
     },
     {
       "asset_id": "P52.02",
