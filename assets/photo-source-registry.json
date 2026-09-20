@@ -450,9 +450,18 @@
           "technical_note": "Authentic stationary bee-transport vehicle showing multiple hives held in a purpose-built rack/compartment. It demonstrates transport organisation but the image alone cannot verify every legal load-restraint, entrance-closure or ventilation requirement.",
           "resolution_pixels": "2816x2112 original; 1280x960 selected derivative",
           "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
-          "editorial_note": "Use as real transport context. Caption must state that hives still require appropriate restraint, ventilation, entrance management and legal compliance for the actual journey."
+          "editorial_note": "Use as real transport context. Caption must state that hives still require appropriate restraint, ventilation, entrance management and legal compliance for the actual journey.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p33-01-colonies-secured-for-transport.jpg",
+          "source_sha256": "13fb4aca5ae31127c34411298cd29d30386a7193c3ca3a7dfaba9b65774e9bc1",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 960,
+          "downloaded_bytes": 358887,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p33-01-colonies-secured-for-transport.jpg"
     },
     {
       "asset_id": "P38.01",
