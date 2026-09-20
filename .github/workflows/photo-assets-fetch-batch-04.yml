@@ -1,0 +1,37 @@
+name: photo-assets-fetch-batch-04
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "assets/photo-download-batch-04.json"
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  fetch-photo-sources:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+      - name: Install image validator
+        run: python3 -m pip install --quiet pillow
+      - name: Fetch and validate selected source candidates
+        run: python3 scripts/fetch_photo_assets.py assets/photo-download-batch-04.json
+      - name: Commit verified source candidates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/photos/a-core/source-candidates assets/photo-source-registry.json
+          if git diff --cached --quiet; then
+            echo "No downloaded-source changes."
+          else
+            git commit -m "Fetch EFB source photo batch 04"
+            git push origin HEAD:${{ github.head_ref }}
+          fi
