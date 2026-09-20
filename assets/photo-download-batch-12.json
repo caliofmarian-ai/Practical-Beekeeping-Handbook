@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-12",
+  "purpose": "Fetch and validate P13.01 healthy brood-nest frame showing brood, pollen and stores in a real hive frame.",
+  "assets": [
+    {
+      "asset_id": "P13.01",
+      "slug": "healthy-brood-nest-frame",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Frame_from_hive_of_honey_bee_(apis_mellifera).jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Frame_from_hive_of_honey_bee_%28apis_mellifera%29.jpg/1280px-Frame_from_hive_of_honey_bee_%28apis_mellifera%29.jpg",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 675,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-12.json"
+}
