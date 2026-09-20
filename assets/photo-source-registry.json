@@ -8,10 +8,10 @@
     "EVIDENCE_AUTHENTIC_ONLY": 16,
     "FIELD_PROCESS_AUTHENTIC": 21,
     "CONTROLLED_REAL_CAPTURE": 3,
-    "with_candidates": 34,
-    "rights_clear_candidates": 33,
+    "with_candidates": 35,
+    "rights_clear_candidates": 34,
     "primary_ready_candidates": 28,
-    "technical_matches_any_rights_state": 31,
+    "technical_matches_any_rights_state": 32,
     "selected_source_files_ready": 28,
     "selected_source_files_resolution_pass": 28
   },
@@ -1786,8 +1786,8 @@
       "generative_image_allowed_as_photo": false,
       "source_status": "CANDIDATE_IDENTIFIED",
       "rights_status": "VERIFIED_CC_BY_4_0",
-      "technical_match_status": "MATCH",
-      "selected_source": null,
+      "technical_match_status": "MATCH_CONTEXTUAL",
+      "selected_source": "https://www.mdpi.com/2199-8531/5/3/71",
       "candidates": [
         {
           "recommendation": "REFERENCE_ONLY_ANNOTATED_SCIENTIFIC_FIGURE",
@@ -1833,9 +1833,31 @@
           "editorial_review_status": "HOLD_ANNOTATED_SOURCE",
           "editorial_note": "Figure 2 is an annotated scientific figure: its published caption explicitly maps in-image abbreviations A.m.c., HBV, igcd and Zn e. Retain the extracted file as a scientific reference only; do not use it as the final handbook photograph. Source a clean real device photograph with clear reuse rights.",
           "final_photo_allowed": false
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE_CLEAN_REAL_DEVICE_FIELD_PHOTO",
+          "institution": "Journal of Open Innovation / MDPI",
+          "source_page_url": "https://www.mdpi.com/2199-8531/5/3/71",
+          "source_document_url": "https://mdpi-res.com/d_attachment/JOItmC/JOItmC-05-00071/article_deploy/JOItmC-05-00071.pdf",
+          "source_figure": "Figure 6",
+          "source_image_id": "Figure 6 — Equipment Application in Real Environment",
+          "creator": "Serrinha, Correia & Marques; figure published with the open-access article",
+          "source_caption": "Real field use of a purpose-built intensive bee-venom collector; Figure 6 shows extraction of one collector frame from the hive.",
+          "rights_status": "VERIFIED_CC_BY_4_0",
+          "rights_basis": "The 2019 article states that it is open access under Creative Commons Attribution 4.0. Figure 6 is presented as article content without a separate third-party restriction.",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "required_or_requested_credit": "Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 6, CC BY 4.0; indicate modifications.",
+          "technical_match_status": "MATCH_CONTEXTUAL",
+          "technical_note": "Clean, unannotated real field photograph of a purpose-built venom collector frame being removed from a hive. It provides stronger handbook imagery than the previously held annotated scientific figure. The photograph demonstrates equipment application rather than endorsing a specific commercial model or providing DIY construction guidance.",
+          "resolution_pixels": null,
+          "resolution_status": "REVIEW_AT_EXTRACTION",
+          "resolution_note": "Extract the Figure 6 embedded raster from PDF page 9 without resampling; verify the selected raster, pixel dimensions and print suitability before final placement.",
+          "extraction_page": 9,
+          "extraction_selector": "third_large_raster_on_page",
+          "editorial_note": "Use as real-device field context. Do not describe it as a universally approved commercial collector, and do not derive electrical construction instructions from the image."
         }
       ],
-      "download_status": "REFERENCE_FILE_READY_NOT_FINAL",
+      "download_status": null,
       "repository_source_path": null
     },
     {
