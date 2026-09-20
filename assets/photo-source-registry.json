@@ -1418,10 +1418,10 @@
       "source_status": "CANDIDATE_IDENTIFIED",
       "rights_status": "VERIFIED_CC_BY_4_0",
       "technical_match_status": "MATCH",
-      "selected_source": "https://www.mdpi.com/1420-3049/30/12/2623",
+      "selected_source": null,
       "candidates": [
         {
-          "recommendation": "PRIMARY_CANDIDATE_NATIVE_FIGURE_CHECK_PENDING",
+          "recommendation": "REFERENCE_ONLY_ANNOTATED_SCIENTIFIC_FIGURE",
           "institution": "Molecules (MDPI)",
           "source_page_url": "https://www.mdpi.com/1420-3049/30/12/2623",
           "direct_image_url": null,
@@ -1435,8 +1435,8 @@
           "required_or_requested_credit": "Cite the original Molecules article, authors, Figure 2 and CC BY 4.0; preserve personal-archive figure credit and indicate modifications.",
           "technical_match_status": "MATCH",
           "technical_note": "Direct match for a real commercial-style electric venom collection device. Native figure resolution and crop suitability remain to be checked before final selection.",
-          "resolution_pixels": null,
-          "resolution_status": "REVIEW_AT_EXTRACTION",
+          "resolution_pixels": "1302x1402",
+          "resolution_status": "TECHNICAL_PASS_EDITORIAL_HOLD",
           "source_document_url": "https://mdpi-res.com/d_attachment/molecules/molecules-30-02623/article_deploy/molecules-30-02623-with-cover.pdf",
           "source_figure": "Figure 2",
           "extraction_page": 8,
@@ -1448,7 +1448,7 @@
           "downloaded_height_px": 1402,
           "downloaded_bytes": 112673,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY",
+          "placement_status": "HOLD_ANNOTATED_SOURCE",
           "extraction_record": {
             "xref": 273,
             "bbox": [
@@ -1460,11 +1460,14 @@
             "embedded_width_px": 1302,
             "embedded_height_px": 1402,
             "qualifying_image_count": 1
-          }
+          },
+          "editorial_review_status": "HOLD_ANNOTATED_SOURCE",
+          "editorial_note": "Figure 2 is an annotated scientific figure: its published caption explicitly maps in-image abbreviations A.m.c., HBV, igcd and Zn e. Retain the extracted file as a scientific reference only; do not use it as the final handbook photograph. Source a clean real device photograph with clear reuse rights.",
+          "final_photo_allowed": false
         }
       ],
-      "download_status": "SOURCE_FILE_READY",
-      "repository_source_path": "assets/photos/a-core/source-candidates/p59-01-venom-collection-device.png"
+      "download_status": "REFERENCE_FILE_READY_NOT_FINAL",
+      "repository_source_path": null
     },
     {
       "asset_id": "P59.02",
