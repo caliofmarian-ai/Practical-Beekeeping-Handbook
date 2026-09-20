@@ -30,6 +30,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 02 update:** P44.01 (EFB Larvae) now uses an authoritative CC BY 4.0 COLOSS/JAR figure by Eva Forsgren, extracted from the Newcastle accepted-manuscript PDF without resampling. The 700×531 source passes its intended single-column gate (about 59.3 mm wide at 300 ppi) and is placed in Chapter 44 with diagnostic limitations, alt text and credit. The selected source-file set is now **11/11 ready**. See `docs/reviews/PHOTO_LAYOUT_PREP_02.md`.
 
+**Layout-prep 03 update:** P55.01 (Beeswax Scales on Worker) now uses the CC BY 4.0 Richard Odemer Figure 1 source from *Ecology and Evolution*. The validated 661×440 source passes its registered 600×400 single-column gate (about 56 mm wide at 300 ppi) and is placed in Chapter 55 with alt text, caption and credit. The selected source-file set is now **12/12 ready**. See `docs/reviews/PHOTO_LAYOUT_PREP_03.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
