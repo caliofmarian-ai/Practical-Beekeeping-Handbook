@@ -1145,7 +1145,7 @@
           "recommendation": "PRIMARY_CANDIDATE_SMALL_PLACEMENT_WITH_DIAGNOSTIC_CAVEAT",
           "institution": "Wikimedia Commons / original photographer",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_(CBPV).jpg",
-          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_%28CBPV%29.jpg/480px-Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_%28CBPV%29.jpg",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Abeille_infect%C3%A9e_par_le_virus_de_la_maladie_noire_%28CBPV%29.jpg",
           "source_image_id": "Abeille infectée par le virus de la maladie noire (CBPV).jpg",
           "creator": "Abrahami",
           "source_caption": "Bee on the right showing beginning blackening associated by the uploader with CBPV.",
@@ -1155,9 +1155,9 @@
           "required_or_requested_credit": "Photo: Abrahami, CC BY-SA 4.0; link source/license and indicate modifications.",
           "technical_match_status": "MATCH_CONTEXTUAL",
           "technical_note": "Clean real photograph showing a darkening/shiny-hairless adult appearance associated by the creator with CBPV. Use only as a small visual example of a CBPV-type adult sign; appearance alone is not diagnostic and the source is not a laboratory-confirmed case record.",
-          "resolution_pixels": "495x495 original; 480x480 official derivative selected",
-          "resolution_status": "OFFICIAL_480PX_DERIVATIVE_PENDING_FETCH",
-          "resolution_note": "Use at conservative small/single-column placement only. Do not upscale.",
+          "resolution_pixels": "495x495",
+          "resolution_status": "ORIGINAL_SMALL_FILE_RETRY",
+          "resolution_note": "The attempted 480 px thumbnail size is not one of Wikimedia's supported derivative sizes for this 495 px original. Fetch the small native 495×495 file directly; use only at conservative small placement without upscaling.",
           "editorial_note": "Caption must explicitly state that a dark or hairless bee can raise suspicion but does not confirm CBPV; clinical pattern and appropriate diagnostic context are required."
         }
       ]
