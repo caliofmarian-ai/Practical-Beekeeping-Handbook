@@ -6,10 +6,10 @@
     {
       "asset_id": "P03.01",
       "slug": "honey-bee-on-flower",
-      "source_page_url": "https://commons.wikimedia.org/wiki/File:Honey-Bee-on-Buddleja-_63A4582_Patrick_J._Lynch_CC-BY.jpg",
-      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Honey-Bee-on-Buddleja-_63A4582_Patrick_J._Lynch_CC-BY.jpg",
-      "minimum_width_px": 1800,
-      "minimum_height_px": 1200
+      "source_page_url": "https://www.ars.usda.gov/oc/images/photos/featuredphoto/jun24/honeybee/",
+      "direct_image_url": "https://www.ars.usda.gov/ARSUserFiles/oc/images/photos/300dpi/kesa/d4114-2.jpg",
+      "minimum_width_px": 1500,
+      "minimum_height_px": 1000
     },
     {
       "asset_id": "P09.01",
@@ -84,5 +84,5 @@
       "minimum_height_px": 900
     }
   ],
-  "run_revision": 3
+  "run_revision": 4
 }
