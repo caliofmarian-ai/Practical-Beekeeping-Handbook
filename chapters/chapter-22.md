@@ -1101,6 +1101,10 @@ A standard flat hive tool commonly includes:
 
 It is suitable for most routine work.
 
+![A beekeeper holding a worn standard hive tool, showing the broad scraping end and hooked levering end](../assets/photos/a-core/source-candidates/p22-02-hive-tool-in-use.jpg)
+
+*Photo 22.2 — Hive tool in real use. A worn field tool shows the working edges and leverage surfaces that should be inspected for damage, sharp burrs and contamination. This is one common design; choose and maintain a tool appropriate to the hive system rather than relying on improvised knives or screwdrivers. Photo by Ivan Radic, CC BY 2.0.*
+
 ---
 
 ## J-Type Hive Tool
