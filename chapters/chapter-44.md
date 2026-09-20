@@ -80,6 +80,10 @@ Possible signs include:
 
 No single sign is sufficient in every case.
 
+![Brood comb showing malpositioned and discoloured honey bee larvae with symptoms compatible with European foulbrood](../assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg)
+
+*Photo 44.1 — EFB larvae. Malpositioned and discoloured larvae are important field signs that can raise suspicion of European foulbrood, but visual appearance can overlap with other brood abnormalities; confirm according to current local diagnostic and regulatory guidance. Photo by Eva Forsgren. Source: Budge et al., Standard methods for European foulbrood research 2.0, Journal of Apicultural Research, CC BY 4.0.*
+
 ## 44.6 Larval Position
 
 Abnormal larval position can be especially useful.
