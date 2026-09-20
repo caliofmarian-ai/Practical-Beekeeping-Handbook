@@ -184,6 +184,10 @@ Advantages include:
 - improved standardisation;
 - clearer traceability.
 
+![Two types of propolis collector traps beside harvested raw propolis](../assets/photos/a-core/source-candidates/p57-01-propolis-trap.jpg)
+
+*Photo 57.1 — Propolis collector traps and harvested raw propolis. Flexible or perforated collection surfaces give bees controlled gaps to fill with resin, helping separate commercial trap propolis from indiscriminate hive scrapings. Source: Šuran et al., Figure 1, Molecules 26 (2021), 2930, CC BY 4.0.*
+
 ## 57.13 Trap Materials
 
 Trap material should be:
