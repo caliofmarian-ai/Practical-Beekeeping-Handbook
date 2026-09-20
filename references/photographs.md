@@ -2,13 +2,13 @@
 
 ## Status
 
-**PRE-LAYOUT SHOT REGISTER — FINAL PHOTOGRAPHS NOT YET SOURCED/CREATED**
+**PRE-LAYOUT PHOTO SOURCING IN PROGRESS — FINAL PHOTO SET NOT YET COMPLETE**
 
 Photographs are used only when a real field appearance, product condition, behaviour, site, or diagnostic pattern adds information that a technical illustration cannot communicate as well. Decorative stock photography is excluded from the production plan.
 
 Issue #102 remains open until photographs are sourced or created, rights-cleared, technically reviewed, captioned, placed, and proof-verified.
 
-### Current production checkpoint — 2026-09-19
+### Current production checkpoint — 2026-09-20
 
 The 93-shot register has been rationalised into **40 A_CORE**, **25 B_SUPPORTING**, and **28 C_OPTIONAL** photographs. A_CORE sourcing is now tracked in `assets/photo-source-registry.json`.
 
@@ -18,6 +18,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 **Pass 02 update:** diagnostic/brood sourcing now has **15/40 A_CORE** items with candidates and **7/40** currently selected sources that meet the present technical/rights/resolution gate. High-value additions include healthy capped worker brood (CC BY 4.0), a deformed-wing/Varroa photograph (CC0), an EFB candidate (CC BY-SA 4.0, single-column size only), and peer-reviewed Nosema microscopy (CC BY 4.0, resolution check pending), plus a public-domain USDA Tropilaelaps specimen.
 
 **Controlled-capture update:** all **8/8 CONTROLLED_REAL_CAPTURE** A_CORE positions now have an executable, safety-bounded shot card in `docs/production/CONTROLLED_PHOTO_CAPTURE_BRIEF_01.md`. This makes them ready to commission or capture, but does not change their unsourced/unapproved status.
+
+**Pass 03 update:** field/process/product sourcing now reaches **22/40 A_CORE** items with at least one candidate, **21/40** with at least one rights-clear candidate, **14/40** with at least one technical `MATCH`, and **10/40** currently selected sources meeting the present technical/rights/resolution gate. New selected sources cover healthy larvae/development, uncapping detail and royal jelly in queen-cell context. AFB imagery remains deliberately unselected until diagnostic provenance is stronger; partial/historical candidates remain labelled as such. See `docs/reviews/PHOTO_SOURCE_PASS_03.md`.
 ---
 
 ## 1. Photograph Selection Rules
