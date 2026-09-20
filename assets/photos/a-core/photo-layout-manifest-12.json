@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P57.02",
+      "photo_id": "57.2",
+      "chapter": 57,
+      "chapter_path": "chapters/chapter-57.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p57-02-scraped-propolis-context.jpg",
+      "alt_text": "Beekeeper scraping propolis from the inside surfaces of a wooden hive box",
+      "caption": "Scraped propolis source context. Scraped material can be usable when it comes from known clean untreated surfaces, but collection method and appearance do not establish grade; source surface, waxiness, debris, treatment history and contamination risk remain relevant.",
+      "credit": "Photo by fishermansdaughter, CC BY 2.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF",
+      "paired_context_asset": "P57.01",
+      "paired_context_note": "P57.01 shows controlled propolis traps and harvested raw propolis; P57.02 provides the contrasting scraping-source context."
+    }
+  ]
+}
