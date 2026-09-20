@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-14",
+  "policy": {
+    "files_are_unmodified_source_candidates": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 2,
+  "resolution_pass_count": 2,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P22.02",
+      "photo_id": "22.2",
+      "title": "Hive Tools",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_beekeeper%27s_hand_holding_a_hive_tool_(48414383032).jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Close-up_of_a_beekeeper%27s_hand_holding_a_hive_tool_%2848414383032%29.jpg/1280px-Close-up_of_a_beekeeper%27s_hand_holding_a_hive_tool_%2848414383032%29.jpg",
+      "repository_path": "assets/photos/a-core/source-candidates/p22-02-hive-tool-in-use.jpg",
+      "sha256": "5ff43b652ff74fc1ae4325bd5e1b1c155b244c50a5a1e643d4ede30957569286",
+      "bytes": 137370,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1280,
+      "height_px": 853,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.27,
+        "height_in": 2.84,
+        "width_mm": 108.4,
+        "height_mm": 72.2
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 800,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_2_0",
+      "creator": "Ivan Radic",
+      "credit": "Photo by Ivan Radic, CC BY 2.0; link source and licence and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "rights_basis": "Wikimedia Commons records the Flickr photograph as reviewed and confirmed under Creative Commons Attribution 2.0 Generic.",
+      "source_image_id": "Close-up of a beekeeper's hand holding a hive tool (48414383032).jpg"
+    },
+    {
+      "asset_id": "P48.02",
+      "photo_id": "48.2",
+      "title": "Refractometer Use",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:1990s_portable_German_Graze_WYM_5_honey_refractometer.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1990s_portable_German_Graze_WYM_5_honey_refractometer.jpg/1280px-1990s_portable_German_Graze_WYM_5_honey_refractometer.jpg",
+      "repository_path": "assets/photos/a-core/source-candidates/p48-02-honey-refractometer.jpg",
+      "sha256": "1e89c7f1cfd1a758ae73bdb680bb9c1346b741eb5e80a7c5dc18e40007cd4e1d",
+      "bytes": 155225,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1280,
+      "height_px": 435,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.27,
+        "height_in": 1.45,
+        "width_mm": 108.4,
+        "height_mm": 36.8
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 400,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "creator": "R. Henrik Nilsson",
+      "credit": "Photo by R. Henrik Nilsson, CC BY 4.0; link source and licence and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_basis": "Wikimedia Commons records the 2025 photograph as the uploader's own work under Creative Commons Attribution 4.0 International.",
+      "source_image_id": "1990s portable German Graze WYM 5 honey refractometer.jpg"
+    }
+  ]
+}
