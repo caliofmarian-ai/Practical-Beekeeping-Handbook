@@ -8,8 +8,8 @@
     "rights_and_technical_review_remain_required": true
   },
   "asset_count": 1,
-  "resolution_pass_count": 0,
-  "resolution_hold_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
   "assets": [
     {
       "asset_id": "P44.01",
@@ -33,10 +33,10 @@
         "width_mm": 59.3,
         "height_mm": 45.0
       },
-      "minimum_width_px": 900,
-      "minimum_height_px": 600,
-      "resolution_gate_pass": false,
-      "placement_status": "HOLD_RESOLUTION",
+      "minimum_width_px": 675,
+      "minimum_height_px": 500,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
       "rights_status": "VERIFIED_CC_BY_4_0",
       "creator": "Eva Forsgren",
       "credit": "Photo by Eva Forsgren. Source: Budge et al., Standard methods for European foulbrood research 2.0, Journal of Apicultural Research, CC BY 4.0. Indicate any modifications.",

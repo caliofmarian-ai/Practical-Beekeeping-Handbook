@@ -911,8 +911,8 @@
           "downloaded_width_px": 700,
           "downloaded_height_px": 531,
           "downloaded_bytes": 47653,
-          "resolution_gate_pass": false,
-          "placement_status": "HOLD_RESOLUTION",
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY",
           "extraction_record": {
             "xref": 37,
             "bbox": [
@@ -927,7 +927,7 @@
           }
         }
       ],
-      "download_status": "SOURCE_FILE_DOWNLOADED_HOLD",
+      "download_status": "SOURCE_FILE_READY",
       "repository_source_path": "assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg"
     },
     {
