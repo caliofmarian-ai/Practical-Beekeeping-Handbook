@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P44.01",
+      "photo_id": "44.1",
+      "chapter": 44,
+      "chapter_path": "chapters/chapter-44.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg",
+      "alt_text": "Brood comb showing malpositioned and discoloured honey bee larvae with symptoms compatible with European foulbrood",
+      "caption": "EFB larvae. Malpositioned and discoloured larvae are important field signs that can raise suspicion of European foulbrood, but visual appearance can overlap with other brood abnormalities; confirm according to current local diagnostic and regulatory guidance.",
+      "credit": "Photo by Eva Forsgren. Source: Budge et al., Standard methods for European foulbrood research 2.0, Journal of Apicultural Research, CC BY 4.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-only",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    }
+  ]
+}
