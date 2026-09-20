@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 3,
     "with_candidates": 34,
     "rights_clear_candidates": 33,
-    "primary_ready_candidates": 25,
+    "primary_ready_candidates": 26,
     "technical_matches_any_rights_state": 29,
-    "selected_source_files_ready": 25,
-    "selected_source_files_resolution_pass": 25
+    "selected_source_files_ready": 26,
+    "selected_source_files_resolution_pass": 26
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -376,7 +376,7 @@
           "technical_match_status": "MATCH_CONTEXTUAL",
           "technical_note": "Clean real photograph of a clearly identifiable first-aid box suitable for the chapter's preparedness section. The image illustrates accessibility and identification only; actual contents depend on training, risk assessment, local guidance and personal medical needs.",
           "resolution_pixels": "4128x3096 original; 1280x960 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "resolution_status": "SOURCE_FILE_READY",
           "editorial_note": "Do not imply that the pictured box itself guarantees adequate preparedness or that one fixed kit contents list is universal.",
           "repository_source_path": "assets/photos/a-core/source-candidates/p23-01-first-aid-emergency-kit.jpg",
           "source_sha256": "99d8e7ae02befb86c749e58a75b9e507fe25bde7cffc66011d8aedcea2bb2c62",
@@ -384,7 +384,8 @@
           "downloaded_height_px": 960,
           "downloaded_bytes": 132866,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Validated Wikimedia derivative is 1280×960 px, suitable for the intended single-column/medium placement. Final crop, colour and page proof remain pending."
         }
       ],
       "download_status": "SOURCE_FILE_READY",
