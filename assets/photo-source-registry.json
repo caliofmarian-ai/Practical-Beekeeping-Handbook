@@ -1854,11 +1854,30 @@
           "resolution_note": "PDF page 9 exposes two qualifying large rasters: Figure 5 is the first combined raster and Figure 6 is the second. Retry image_rank 1, then verify dimensions and visual match before placement.",
           "extraction_page": 9,
           "extraction_selector": "second_large_raster_on_page",
-          "editorial_note": "Use as real-device field context. Do not describe it as a universally approved commercial collector, and do not derive electrical construction instructions from the image."
+          "editorial_note": "Use as real-device field context. Do not describe it as a universally approved commercial collector, and do not derive electrical construction instructions from the image.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p59-01-venom-collector-field-use.jpg",
+          "source_sha256": "fae06c36da677dda08dbe952ceda16d2e5f0c5f4948e2f74fbbb7fc21d40abf4",
+          "downloaded_width_px": 1496,
+          "downloaded_height_px": 1256,
+          "downloaded_bytes": 706829,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY",
+          "extraction_record": {
+            "xref": 281,
+            "bbox": [
+              184.2519989013672,
+              566.2764892578125,
+              411.01568603515625,
+              756.6610107421875
+            ],
+            "embedded_width_px": 1496,
+            "embedded_height_px": 1256,
+            "qualifying_image_count": 2
+          }
         }
       ],
-      "download_status": null,
-      "repository_source_path": null
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p59-01-venom-collector-field-use.jpg"
     },
     {
       "asset_id": "P59.02",
