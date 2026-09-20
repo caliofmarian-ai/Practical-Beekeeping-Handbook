@@ -868,7 +868,7 @@
       "source_status": "CANDIDATE_IDENTIFIED",
       "rights_status": "VERIFIED_CC_BY_SA_4_0",
       "technical_match_status": "MATCH",
-      "selected_source": null,
+      "selected_source": "https://commons.wikimedia.org/wiki/File:European_foulbrood_CZ.jpg",
       "candidates": [
         {
           "recommendation": "PRIMARY_CANDIDATE_LAYOUT_LIMITED",
