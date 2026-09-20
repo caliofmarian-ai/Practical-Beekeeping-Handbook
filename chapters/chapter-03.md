@@ -132,6 +132,10 @@ Pollination is one such service, but its value is ecological and social as well 
 
 ---
 
+![Honey bee contacting the reproductive structures of a flower while foraging](../assets/photos/a-core/source-candidates/p03-01-honey-bee-on-flower.jpg)
+
+*Photo 3.1 — Honey bee on a flower. The photograph shows a real foraging bee in floral contact; flower visitation can transfer loose pollen, but visitation alone does not guarantee successful pollination. Photo by Peggy Greb, USDA Agricultural Research Service; public domain.*
+
 ## How Flower Visitation Becomes Pollination
 
 A worker honey bee usually visits flowers to collect nectar, pollen, water, or plant resins rather than to pollinate them deliberately.
