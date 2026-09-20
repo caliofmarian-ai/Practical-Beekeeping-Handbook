@@ -18,7 +18,8 @@
     "photo-assets-batch-16",
     "photo-assets-batch-17",
     "photo-assets-batch-18",
-    "photo-assets-batch-19"
+    "photo-assets-batch-19",
+    "photo-assets-batch-20"
   ],
   "policy": {
     "files_are_unmodified_or_officially_scaled_source_candidates": true,
@@ -26,8 +27,8 @@
     "sha256_required": true,
     "rights_and_technical_review_remain_required": true
   },
-  "asset_count": 27,
-  "resolution_pass_count": 27,
+  "asset_count": 28,
+  "resolution_pass_count": 28,
   "resolution_hold_count": 0,
   "assets": [
     {
@@ -463,6 +464,37 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "rights_basis": "Wikimedia Commons records the 17 June 2023 file as the uploader's own work by Lukáš Vomastek under Creative Commons Attribution-ShareAlike 4.0 International.",
       "source_image_id": "Spory nosemy, zvětšeno 1000x.png"
+    },
+    {
+      "asset_id": "P43.01",
+      "photo_id": "43.1",
+      "title": "AFB Brood Frame",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Brood_Paenibacillus_larvae.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Brood_Paenibacillus_larvae.jpg/1280px-Brood_Paenibacillus_larvae.jpg",
+      "repository_path": "assets/photos/a-core/source-candidates/p43-01-afb-brood-frame-context.jpg",
+      "sha256": "57a8185c5914ec4c5dc960501ee4fc4760182467a0fed6f3738fc95d2328065c",
+      "bytes": 309147,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1280,
+      "height_px": 851,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.27,
+        "height_in": 2.84,
+        "width_mm": 108.4,
+        "height_mm": 72.1
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 800,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "creator": "Tanarus",
+      "credit": "Photo by Tanarus, CC BY-SA 3.0; link source and licence and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rights_basis": "Wikimedia Commons records the 24 September 2009 photograph as the uploader's own work under Creative Commons Attribution-ShareAlike 3.0 Unported.",
+      "source_image_id": "Brood Paenibacillus larvae.jpg"
     },
     {
       "asset_id": "P43.02",
