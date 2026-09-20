@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 8,
     "with_candidates": 29,
     "rights_clear_candidates": 28,
-    "primary_ready_candidates": 11,
+    "primary_ready_candidates": 12,
     "technical_matches_any_rights_state": 18,
-    "selected_source_files_ready": 11,
-    "selected_source_files_resolution_pass": 11
+    "selected_source_files_ready": 12,
+    "selected_source_files_resolution_pass": 12
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -1205,10 +1205,10 @@
           "required_or_requested_credit": "Photograph by R. Odemer; cite the original Ecology and Evolution article and CC BY 4.0; indicate modifications.",
           "technical_match_status": "MATCH",
           "technical_note": "Excellent subject match: freshly secreted wax scales are visible on a real worker bee. Native figure dimensions must be checked before final print placement.",
-          "resolution_pixels": null,
-          "resolution_status": "REVIEW_AT_DOWNLOAD",
+          "resolution_pixels": "661x440",
+          "resolution_status": "SINGLE_COLUMN_PRINT_READY",
           "source_figure": "Figure 1",
-          "resolution_note": "Validate native NCBI figure dimensions before publication placement.",
+          "resolution_note": "Downloaded source is 661×440 px, about 56.0×37.3 mm at 300 ppi. Use only at conservative single-column size, avoid upscale/aggressive crop, and verify in final print proof.",
           "repository_source_path": "assets/photos/a-core/source-candidates/p55-01-beeswax-scales-worker.jpg",
           "source_sha256": "eeea95b73c652cab43f73ff7e59493855e504a71d0ddbc7854eac1d466ed40fc",
           "downloaded_width_px": 661,
@@ -1429,6 +1429,6 @@
       "candidates": []
     }
   ],
-  "last_updated": "2026-09-19",
+  "last_updated": "2026-09-20",
   "sourcing_pass": 2
 }
