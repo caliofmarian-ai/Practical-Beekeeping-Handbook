@@ -980,11 +980,16 @@
       "working_title": "Pollen Pellets in Trap Drawer",
       "shot_brief": "Fresh clean collection with strong colour diversity.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p56-01-pollen-pellets-trap.jpg",
+      "source_sha256": "ab1475169e0e326c7ac08677c98dc65ea2934232ac87efc0fae00c14c0b742cc",
+      "source_width_px": 1280,
+      "source_height_px": 960,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P56.02",
@@ -994,11 +999,16 @@
       "working_title": "Cleaned/Dried or Frozen Pollen Product",
       "shot_brief": "Final form photographed with packaging/storage context.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p56-02-frozen-pollen-product.jpg",
+      "source_sha256": "577b087eb861fc4dd66820a67c07132211b065aabcdb623a2b2b9bcace21a8f6",
+      "source_width_px": 1280,
+      "source_height_px": 960,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P57.01",

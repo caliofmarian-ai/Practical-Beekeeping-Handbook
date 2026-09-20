@@ -36,6 +36,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 05 update:** P15.01 (Good Apiary Site), P42.01 (Nosema-like spores) and P52.01 (Comb Honey) are now validated and placed in Chapters 15, 42 and 52. The selected A_CORE set advances to **16/16 source files ready and placed**, with no generated documentary substitutes. P59.01 remains an editorial HOLD/reference-only asset because the scientific figure contains in-image labels. See `docs/reviews/PHOTO_LAYOUT_PREP_05.md`.
 
+**Layout-prep 06 update:** P56.01 (Pollen Trap) and P56.02 (Frozen Bee Pollen) now use real CC BY-SA 3.0 photographs by Matteo Giusti and are placed in Chapter 56. P56.02 no longer requires controlled capture, reducing the remaining controlled-capture set from eight to seven. The selected A_CORE set is now **18/18 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_06.md`.
+
 ---
 
 ## 1. Photograph Selection Rules

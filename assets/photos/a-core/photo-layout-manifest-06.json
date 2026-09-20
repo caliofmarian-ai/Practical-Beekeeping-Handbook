@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 2,
+  "assets": [
+    {
+      "asset_id": "P56.01",
+      "photo_id": "56.1",
+      "chapter": 56,
+      "chapter_path": "chapters/chapter-56.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p56-01-pollen-pellets-trap.jpg",
+      "alt_text": "Honey bees moving through a pollen-trap grid with detached pollen pellets visible on the collection surface",
+      "caption": "Pollen trap in use. Returning workers pass through the trap openings while detached corbicular pollen pellets are visible on the collection surface. A trap should remove only part of the incoming pollen and must be kept clean, dry and free of traffic blockage.",
+      "credit": "Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    },
+    {
+      "asset_id": "P56.02",
+      "photo_id": "56.2",
+      "chapter": 56,
+      "chapter_path": "chapters/chapter-56.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p56-02-frozen-pollen-product.jpg",
+      "alt_text": "Close-up of collected bee-pollen pellets preserved by freezing",
+      "caption": "Frozen bee-collected pollen pellets. Freezing can preserve fresh pollen with little heat exposure when the product is collected hygienically and frozen promptly. These are bee-collected pollen pellets, not bee bread stored and modified inside comb cells.",
+      "credit": "Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    }
+  ]
+}
