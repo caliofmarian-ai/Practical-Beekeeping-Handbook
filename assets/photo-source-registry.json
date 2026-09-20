@@ -11,7 +11,7 @@
     "with_candidates": 30,
     "rights_clear_candidates": 29,
     "primary_ready_candidates": 19,
-    "technical_matches_any_rights_state": 22,
+    "technical_matches_any_rights_state": 23,
     "selected_source_files_ready": 19,
     "selected_source_files_resolution_pass": 19
   },
@@ -1056,9 +1056,9 @@
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
       "source_status": "CANDIDATE_IDENTIFIED",
-      "rights_status": "VERIFIED_PUBLIC_DOMAIN",
-      "technical_match_status": "PARTIAL_MATCH",
-      "selected_source": null,
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Puderzuckermethode.jpg",
       "candidates": [
         {
           "recommendation": "SECONDARY_CANDIDATE",
@@ -1075,6 +1075,24 @@
           "technical_note": "Authentic frame-observation scene suitable for monitoring context, but does not visibly demonstrate the full record/measurement workflow planned for the chapter.",
           "resolution_pixels": null,
           "resolution_status": "ORIGINAL_FILE_DIMENSIONS_CHECK_REQUIRED"
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE_REAL_VARROA_MONITORING",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Puderzuckermethode.jpg",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puderzuckermethode.jpg/1280px-Puderzuckermethode.jpg",
+          "source_image_id": "Puderzuckermethode.jpg",
+          "creator": "Jürg Vollmer",
+          "source_caption": "Beekeeper using the powdered-sugar sampling method to monitor Varroa mite populations in a honey bee colony.",
+          "rights_status": "VERIFIED_CC_BY_SA_4_0",
+          "rights_basis": "Wikimedia Commons identifies the 2016 photograph as Jürg Vollmer's own work and licenses it under Creative Commons Attribution-ShareAlike 4.0 International.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "required_or_requested_credit": "Photo by Jürg Vollmer, CC BY-SA 4.0; link source and licence and indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Direct authentic monitoring-in-practice scene: the beekeeper is wearing protective clothing and gloves while using a bee-sample container and collection tray for powdered-sugar Varroa monitoring. The planned record sheet is not visible, so the chapter caption must explicitly retain the requirement to record sample details and results separately.",
+          "resolution_pixels": "3095x2063 original; 1280x853 selected derivative",
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "editorial_note": "Use to demonstrate a real mite-monitoring action, not to imply that powdered-sugar sampling is the only or universally preferred monitoring method."
         }
       ]
     },
