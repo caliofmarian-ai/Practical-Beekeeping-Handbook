@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-07",
+  "policy": {
+    "embedded_raster_extracted_without_resampling": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P57.01",
+      "photo_id": "57.1",
+      "title": "Propolis Trap",
+      "source_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8156449/",
+      "source_document_url": "https://mdpi-res.com/d_attachment/molecules/molecules-26-02930/article_deploy/molecules-26-02930-with-cover.pdf?version=1689482406",
+      "source_figure": "Figure 1",
+      "page_number": 3,
+      "repository_path": "assets/photos/a-core/source-candidates/p57-01-propolis-trap.jpg",
+      "sha256": "c411de63aa3f47d961c29a6d828f34cd04f4ac604bc0c25e798da9c9b8f49526",
+      "bytes": 718237,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 2439,
+      "height_px": 1725,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 8.13,
+        "height_in": 5.75,
+        "width_mm": 206.5,
+        "height_mm": 146.0
+      },
+      "minimum_width_px": 900,
+      "minimum_height_px": 600,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "creator": "Šuran et al.; figure published with the open-access article",
+      "credit": "Cite the original Molecules article, Figure 1 and CC BY 4.0; retain figure attribution and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_basis": "The Molecules article is open access under Creative Commons Attribution 4.0; Figure 1 is presented as part of the article without a separate third-party restriction in the retrieved record.",
+      "extraction": {
+        "xref": 99,
+        "bbox": [
+          167.26499938964844,
+          232.40899658203125,
+          459.94500732421875,
+          439.40899658203125
+        ],
+        "embedded_width_px": 2439,
+        "embedded_height_px": 1725,
+        "qualifying_image_count": 1
+      }
+    }
+  ]
+}
