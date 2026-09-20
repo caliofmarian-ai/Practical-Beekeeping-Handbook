@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-04",
+  "purpose": "Fetch and validate the rights-cleared EFB larvae A_CORE source candidate before chapter placement.",
+  "assets": [
+    {
+      "asset_id": "P44.01",
+      "slug": "efb-larvae",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:European_foulbrood_CZ.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/European_foulbrood_CZ.jpg",
+      "minimum_width_px": 600,
+      "minimum_height_px": 450
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-04.json"
+}
