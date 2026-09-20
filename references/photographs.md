@@ -34,6 +34,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 04 update:** P57.01 (Propolis Trap) now uses the CC BY 4.0 Figure 1 from Šuran et al., *Molecules* 26 (2021). The publisher-PDF embedded raster was extracted without resampling at 2439×1725 px, passes the 900×600 gate and is placed in Chapter 57 with alt text, caption and credit. The selected source-file set is now **13/13 ready**. See `docs/reviews/PHOTO_LAYOUT_PREP_04.md`.
 
+**Layout-prep 05 update:** P15.01 (Good Apiary Site), P42.01 (Nosema-like spores) and P52.01 (Comb Honey) are now validated and placed in Chapters 15, 42 and 52. The selected A_CORE set advances to **16/16 source files ready and placed**, with no generated documentary substitutes. P59.01 remains an editorial HOLD/reference-only asset because the scientific figure contains in-image labels. See `docs/reviews/PHOTO_LAYOUT_PREP_05.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
