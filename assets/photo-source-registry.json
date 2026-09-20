@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.1",
-  "generated_date": "2026-09-19",
+  "schema_version": "1.2",
+  "generated_date": "2026-09-20",
   "issue": 102,
   "scope": "A_CORE photo sourcing",
   "counts": {
@@ -8,10 +8,10 @@
     "EVIDENCE_AUTHENTIC_ONLY": 16,
     "FIELD_PROCESS_AUTHENTIC": 16,
     "CONTROLLED_REAL_CAPTURE": 8,
-    "with_candidates": 15,
-    "rights_clear_candidates": 14,
-    "primary_ready_candidates": 7,
-    "technical_matches_any_rights_state": 11
+    "with_candidates": 22,
+    "rights_clear_candidates": 21,
+    "primary_ready_candidates": 10,
+    "technical_matches_any_rights_state": 14
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -146,11 +146,29 @@
       "editorial_priority": "A_CORE",
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_match_status": "PARTIAL_MATCH",
       "selected_source": null,
-      "candidates": []
+      "candidates": [
+        {
+          "recommendation": "SECONDARY_CANDIDATE",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:35_beehives_apiary_in_Latvia,_2026-08-16.jpg",
+          "direct_image_url": null,
+          "source_image_id": "35 beehives apiary in Latvia, 2026-08-16.jpg",
+          "creator": "Mr-L4PSA",
+          "source_caption": "Wide-angle photograph of 35 beehives on a grass field in Latvia.",
+          "rights_status": "VERIFIED_CC_BY_4_0",
+          "rights_basis": "Uploader identifies the photograph as own work licensed under Creative Commons Attribution 4.0 International.",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "required_or_requested_credit": "Photo: Mr-L4PSA, CC BY 4.0; link source/license and indicate modifications.",
+          "technical_match_status": "PARTIAL_MATCH",
+          "technical_note": "Strong real-apiary context and print resolution, but the image alone does not prove drainage, wind shelter, safe flight-path geometry or all other planned good-site criteria.",
+          "resolution_pixels": "4080x3072",
+          "resolution_status": "PRINT_READY"
+        }
+      ]
     },
     {
       "asset_id": "P19.02",
@@ -235,11 +253,29 @@
       "editorial_priority": "A_CORE",
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_match_status": "PARTIAL_MATCH",
       "selected_source": null,
-      "candidates": []
+      "candidates": [
+        {
+          "recommendation": "SECONDARY_CANDIDATE",
+          "institution": "Wikimedia Commons / Panoramio archive",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Beehive_transport_truck_container_in_Serbia_-_2011_(1582).jpg",
+          "direct_image_url": null,
+          "source_image_id": "Beehive transport truck container in Serbia - 2011 (1582).jpg",
+          "creator": "pcelar034",
+          "source_caption": "Beehive transport truck/container in Serbia.",
+          "rights_status": "VERIFIED_CC_BY_SA_3_0",
+          "rights_basis": "Wikimedia Commons records CC BY-SA 3.0 and a Panoramio upload-bot licence review.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "required_or_requested_credit": "Photo: pcelar034, CC BY-SA 3.0; link source/license and indicate modifications.",
+          "technical_match_status": "PARTIAL_MATCH",
+          "technical_note": "Authentic transport context, but straps, ventilation and stable-load details are not sufficiently documented for final selection without visual/layout review.",
+          "resolution_pixels": "2048x1536",
+          "resolution_status": "SINGLE_COLUMN_OK"
+        }
+      ]
     },
     {
       "asset_id": "P38.01",
@@ -277,10 +313,10 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:HoneyComb.jpg",
       "candidates": [
         {
           "recommendation": "SECONDARY_CANDIDATE",
@@ -296,6 +332,23 @@
           "required_or_requested_credit": "Photo by Stephen Ausmus, USDA Agricultural Research Service.",
           "technical_match_status": "PARTIAL_MATCH",
           "technical_note": "Confirmed honey-bee larva but planned plate requires several healthy larval ages; useful as one component only."
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:HoneyComb.jpg",
+          "direct_image_url": null,
+          "source_image_id": "HoneyComb.jpg",
+          "creator": "Joska16",
+          "source_caption": "Apis mellifera comb showing eggs, young and older larvae, capping, capped brood, hatching and pollen cells.",
+          "rights_status": "VERIFIED_CC_BY_SA_4_0",
+          "rights_basis": "Copyright holder released the own-work photograph under Creative Commons Attribution-ShareAlike 4.0 International.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "required_or_requested_credit": "Photo: Joska16, CC BY-SA 4.0; link source/license and indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "High-resolution real comb photograph directly supplies several larval ages plus brood context; suitable as the normal-development reference.",
+          "resolution_pixels": "3244x3947",
+          "resolution_status": "PRINT_READY"
         }
       ]
     },
@@ -446,9 +499,9 @@
       "editorial_priority": "A_CORE",
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "RIGHTS_REVIEW_REQUIRED",
+      "technical_match_status": "MATCH",
       "selected_source": null,
       "candidates": [
         {
@@ -457,14 +510,14 @@
           "source_page_url": "https://www.ars.usda.gov/pacific-west-area/tucson-az/carl-hayden-bee-research-center/research/varroa/how-to-monitor-sample-and-treat-for-varroa/alcohol-wash/",
           "direct_image_url": null,
           "source_image_id": null,
-          "creator": "USDA ARS page; individual image credits not exposed in retrieved page text",
+          "creator": "USDA ARS / Mona Chambers (page sequence credit to be retained; individual file metadata check still required)",
           "source_caption": "Official alcohol-wash materials, collection, wash and mite-result sequence.",
           "rights_status": "RIGHTS_REVIEW_REQUIRED",
           "rights_basis": "Authoritative procedural source confirmed; individual embedded-image reuse status must be checked before publication.",
           "rights_policy_url": null,
           "required_or_requested_credit": "Pending rights review.",
           "technical_match_status": "MATCH",
-          "technical_note": "Directly matches the planned real sampling-equipment/result subject."
+          "technical_note": "Authoritative USDA ARS alcohol-wash sequence directly matches the planned equipment, collection, wash and recovered-mite result. Individual embedded-image rights/resolution still require final-file verification."
         }
       ]
     },
@@ -543,11 +596,29 @@
       "editorial_priority": "A_CORE",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_match_status": "DIAGNOSTIC_PROVENANCE_PENDING",
       "selected_source": null,
-      "candidates": []
+      "candidates": [
+        {
+          "recommendation": "SECONDARY_CANDIDATE_DIAGNOSTIC_PROVENANCE_PENDING",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Brood_Paenibacillus_larvae.jpg",
+          "direct_image_url": null,
+          "source_image_id": "Brood Paenibacillus larvae.jpg",
+          "creator": "Tanarus",
+          "source_caption": "Uploader-described typical appearance of brood affected by American foulbrood.",
+          "rights_status": "VERIFIED_CC_BY_SA_3_0",
+          "rights_basis": "Copyright holder released the own-work photograph under Creative Commons Attribution-ShareAlike 3.0 Unported.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "required_or_requested_credit": "Photo: Tanarus, CC BY-SA 3.0; link source/license and indicate modifications.",
+          "technical_match_status": "VISUAL_MATCH_PROVENANCE_PENDING",
+          "technical_note": "High-resolution brood-frame image visually matches AFB teaching needs, but uploader description alone does not satisfy the handbook's confirmation/provenance gate for a named diagnosis.",
+          "resolution_pixels": "3008x2000",
+          "resolution_status": "PRINT_READY"
+        }
+      ]
     },
     {
       "asset_id": "P43.02",
@@ -713,11 +784,29 @@
       "editorial_priority": "A_CORE",
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
-      "candidates": []
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Uncapping_honeycomb.jpg",
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Uncapping_honeycomb.jpg",
+          "direct_image_url": null,
+          "source_image_id": "Uncapping honeycomb.jpg",
+          "creator": "Wyatt Tyrone Smith",
+          "source_caption": "Honeycomb in a wooden frame being uncapped with a scraping tool before extraction.",
+          "rights_status": "VERIFIED_CC_BY_SA_4_0",
+          "rights_basis": "Copyright holder released the own-work photograph under Creative Commons Attribution-ShareAlike 4.0 International.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "required_or_requested_credit": "Photo: Wyatt Tyrone Smith, CC BY-SA 4.0; link source/license and indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Direct real-process match for uncapping detail with ample resolution; final crop must preserve safe-handling context.",
+          "resolution_pixels": "2448x3264",
+          "resolution_status": "PRINT_READY"
+        }
+      ]
     },
     {
       "asset_id": "P52.01",
@@ -727,11 +816,29 @@
       "editorial_priority": "A_CORE",
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC0_1_0",
+      "technical_match_status": "PARTIAL_MATCH",
       "selected_source": null,
-      "candidates": []
+      "candidates": [
+        {
+          "recommendation": "SECONDARY_CANDIDATE",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Comb_honey_(1).jpg",
+          "direct_image_url": null,
+          "source_image_id": "Comb honey (1).jpg",
+          "creator": "Fumikas Sagisavas",
+          "source_caption": "Comb honey.",
+          "rights_status": "VERIFIED_CC0_1_0",
+          "rights_basis": "Copyright holder dedicated the own-work photograph under CC0 1.0 Universal.",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "required_or_requested_credit": "CC0; retain creator/source credit in provenance record.",
+          "technical_match_status": "PARTIAL_MATCH",
+          "technical_note": "High-resolution authentic comb-honey photograph; final selection still needs editorial confirmation that the shown piece meets the planned fresh, broodless, fully capped premium-example criteria.",
+          "resolution_pixels": "3000x4000",
+          "resolution_status": "PRINT_READY"
+        }
+      ]
     },
     {
       "asset_id": "P52.02",
@@ -797,11 +904,28 @@
       "editorial_priority": "A_CORE",
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN",
+      "technical_match_status": "PARTIAL_MATCH",
       "selected_source": null,
-      "candidates": []
+      "candidates": [
+        {
+          "recommendation": "SECONDARY_HISTORICAL_CANDIDATE",
+          "institution": "U.S. Department of Energy / Wikimedia Commons",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:HD.16.091_(12523559085).jpg",
+          "direct_image_url": null,
+          "source_image_id": "HD.16.091 (12523559085).jpg",
+          "creator": "U.S. Department of Energy",
+          "source_caption": "Historical photograph with pollen balls being examined in the drawer of a pollen trap.",
+          "rights_status": "VERIFIED_PUBLIC_DOMAIN",
+          "rights_basis": "Commons identifies the photograph as a U.S. Department of Energy federal-government work in the public domain; Flickr licence review recorded.",
+          "required_or_requested_credit": "U.S. Department of Energy; retain Commons/source provenance.",
+          "technical_match_status": "PARTIAL_MATCH",
+          "technical_note": "Clearly shows pollen trap/drawer context at high resolution, but the irradiation-research context and historical appearance make it secondary to a modern clean production photograph.",
+          "resolution_pixels": "3200x2508",
+          "resolution_status": "PRINT_READY"
+        }
+      ]
     },
     {
       "asset_id": "P56.02",
@@ -853,11 +977,29 @@
       "editorial_priority": "A_CORE",
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
-      "candidates": []
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Weiselzellen_68a.jpg",
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE_SINGLE_COLUMN",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Weiselzellen_68a.jpg",
+          "direct_image_url": null,
+          "source_image_id": "Weiselzellen 68a.jpg",
+          "creator": "Waugsberg",
+          "source_caption": "Two opened queen cells showing Western honey-bee queen larvae floating in royal jelly.",
+          "rights_status": "VERIFIED_CC_BY_SA_3_0",
+          "rights_basis": "Copyright holder offers the own-work photograph under CC BY-SA 3.0 (among compatible listed licences).",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "required_or_requested_credit": "Photo: Waugsberg, CC BY-SA 3.0; link source/license and indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Direct real-material match for royal jelly in queen-cell context. Resolution supports conservative single-column placement rather than a large spread.",
+          "resolution_pixels": "1644x1096",
+          "resolution_status": "SINGLE_COLUMN_PRINT_READY"
+        }
+      ]
     },
     {
       "asset_id": "P58.02",
