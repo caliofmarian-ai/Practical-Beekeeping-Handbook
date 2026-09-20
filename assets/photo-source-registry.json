@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.5",
+  "schema_version": "1.6",
   "generated_date": "2026-09-20",
   "issue": 102,
   "scope": "A_CORE photo sourcing",
@@ -11,7 +11,9 @@
     "with_candidates": 29,
     "rights_clear_candidates": 28,
     "primary_ready_candidates": 10,
-    "technical_matches_any_rights_state": 18
+    "technical_matches_any_rights_state": 18,
+    "selected_source_files_ready": 10,
+    "selected_source_files_resolution_pass": 10
   },
   "policy": {
     "final_photo_must_be_real": true,
