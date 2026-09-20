@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "assets/photo-download-batch-03.json"
+      - "assets/photo-download-batch-04.json"
 
 permissions:
   contents: write
@@ -22,8 +23,17 @@ jobs:
           fetch-depth: 0
       - name: Install image validator
         run: python3 -m pip install --quiet pillow
+      - name: Select photo batch config
+        id: batch
+        shell: bash
+        run: |
+          if git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}" | grep -qx "assets/photo-download-batch-04.json"; then
+            echo "config=assets/photo-download-batch-04.json" >> "$GITHUB_OUTPUT"
+          else
+            echo "config=assets/photo-download-batch-03.json" >> "$GITHUB_OUTPUT"
+          fi
       - name: Fetch and validate selected source candidates
-        run: python3 scripts/fetch_photo_assets.py assets/photo-download-batch-03.json
+        run: python3 scripts/fetch_photo_assets.py "${{ steps.batch.outputs.config }}"
       - name: Commit verified source candidates
         run: |
           git config user.name "github-actions[bot]"
