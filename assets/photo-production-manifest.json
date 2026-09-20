@@ -23,11 +23,15 @@
       "working_title": "Honey Bee on Flower",
       "shot_brief": "Macro showing real pollen contact with floral reproductive structures, not merely a bee sitting on petals.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p03-01-honey-bee-on-flower.jpg",
+      "source_sha256": "a7185badfd0430e75da843b23f449e453121de562965edca5afea62bc82079ef",
+      "source_width_px": 1631,
+      "source_height_px": 1080
     },
     {
       "asset_id": "P06.01",
@@ -65,11 +69,15 @@
       "working_title": "Worker Carrying Pollen",
       "shot_brief": "Macro of corbicular pollen pellet on returning forager.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_2_5",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p09-01-worker-carrying-pollen.jpg",
+      "source_sha256": "94e509e4712296f3d15d1a52729e2807316763695772513d3ecb3c805fff3fa7",
+      "source_width_px": 1280,
+      "source_height_px": 1064
     },
     {
       "asset_id": "P10.01",
@@ -331,11 +339,15 @@
       "working_title": "Healthy Capped Worker Brood",
       "shot_brief": "Close-up with normal capping texture.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p25-02-healthy-capped-worker-brood.jpg",
+      "source_sha256": "346130a7bd4e236d8f8c2fdfb5a03b5997541b52ee3631c5bade16b5c2c1168a",
+      "source_width_px": 4032,
+      "source_height_px": 3024
     },
     {
       "asset_id": "P26.01",
@@ -513,11 +525,15 @@
       "working_title": "Healthy Larvae Reference",
       "shot_brief": "Pearly white C-shaped larvae at several ages.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p39-01-healthy-larvae-reference.jpg",
+      "source_sha256": "932dd56663c8ef1e8a178f72e0b80c9d1a98b47d0092ff19feea9e45c0d223f9",
+      "source_width_px": 3244,
+      "source_height_px": 3947
     },
     {
       "asset_id": "P39.02",
@@ -527,11 +543,15 @@
       "working_title": "Chalkbrood Mummies",
       "shot_brief": "White/grey/dark mummies in cells or on hive floor.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_2_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p39-02-chalkbrood-mummies.jpg",
+      "source_sha256": "60635e0c77c64d6a75278e20c418d052c03b5a69857c61d9f549ff5551f9226b",
+      "source_width_px": 1280,
+      "source_height_px": 985
     },
     {
       "asset_id": "P39.03",
@@ -555,11 +575,15 @@
       "working_title": "Adult Female Varroa on Bee",
       "shot_brief": "Macro with realistic scale.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p40-01-adult-female-varroa-on-bee.jpg",
+      "source_sha256": "65f59c54fa068fa864470f21edfc432ec0f152e23de9b298e3de7a30ca174496",
+      "source_width_px": 1280,
+      "source_height_px": 863
     },
     {
       "asset_id": "P40.02",
@@ -569,11 +593,15 @@
       "working_title": "Tropilaelaps Specimen",
       "shot_brief": "Use only an authoritative/rights-cleared confirmed specimen; label magnification.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p40-02-tropilaelaps-specimen.jpg",
+      "source_sha256": "913279f649e8a6bc81b6aa57c55e97957f496d112f9ab8e15589a24a1d584206",
+      "source_width_px": 1293,
+      "source_height_px": 1200
     },
     {
       "asset_id": "P41.01",
@@ -597,11 +625,15 @@
       "working_title": "Deformed-Wing Bee",
       "shot_brief": "Clear phenotype with colony context; caption states phenotype is not a quantitative mite count.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC0_1_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p41-02-deformed-wing-bee.jpg",
+      "source_sha256": "ab30e9a52765789b75d56f8b3874daedcd9835e663e14aa561a7c4f11d83382c",
+      "source_width_px": 2277,
+      "source_height_px": 1761
     },
     {
       "asset_id": "P42.01",
@@ -779,11 +811,15 @@
       "working_title": "Uncapping Detail",
       "shot_brief": "Knife/fork in use with hand safety clearly visible.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p49-02-uncapping-detail.jpg",
+      "source_sha256": "63e4a6ed3e65cea514499600453b1f1d9aa8af65eac259689420d23db259e443",
+      "source_width_px": 3264,
+      "source_height_px": 2448
     },
     {
       "asset_id": "P49.03",
@@ -975,11 +1011,15 @@
       "working_title": "Royal Jelly in Queen Cell",
       "shot_brief": "Freshly exposed royal jelly with larva if ethically/operationally appropriate and already part of normal production.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p58-01-royal-jelly-queen-cell.jpg",
+      "source_sha256": "c76dc7951140a758163d85707c9746a3820185342f4d752630b61c99b706f2ca",
+      "source_width_px": 1644,
+      "source_height_px": 1096
     },
     {
       "asset_id": "P58.02",
@@ -1303,5 +1343,7 @@
       "technical_review_status": "PENDING",
       "final_asset_path": null
     }
-  ]
+  ],
+  "generated_date": "2026-09-20",
+  "photo_source_ready_count": 10
 }
