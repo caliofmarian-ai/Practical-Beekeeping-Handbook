@@ -278,6 +278,10 @@ Venom is deposited on the surface and dries.
 
 The device should be purpose-built, guarded, and operated according to the manufacturer's instructions.
 
+![Purpose-built bee-venom collector frame being removed from a hive during real field use](../assets/photos/a-core/source-candidates/p59-01-venom-collector-field-use.jpg)
+
+*Photo 59.1 — Purpose-built venom collection equipment in real field use. The photograph shows one intensive collector-frame design being removed from a hive. It demonstrates the physical scale and field context of professional collection equipment without endorsing one model or providing electrical-construction instructions. Use purpose-built, guarded equipment according to its validated operating instructions and local safety requirements. Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 6, CC BY 4.0.*
+
 ## 59.22 Why This Book Does Not Provide a DIY Circuit
 
 Improvised electrical collectors can create:

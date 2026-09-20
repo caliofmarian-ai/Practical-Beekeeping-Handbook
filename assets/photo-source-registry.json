@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 3,
     "with_candidates": 35,
     "rights_clear_candidates": 34,
-    "primary_ready_candidates": 28,
+    "primary_ready_candidates": 29,
     "technical_matches_any_rights_state": 32,
-    "selected_source_files_ready": 28,
-    "selected_source_files_resolution_pass": 28
+    "selected_source_files_ready": 29,
+    "selected_source_files_resolution_pass": 29
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -1849,9 +1849,9 @@
           "required_or_requested_credit": "Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 6, CC BY 4.0; indicate modifications.",
           "technical_match_status": "MATCH_CONTEXTUAL",
           "technical_note": "Clean, unannotated real field photograph of a purpose-built venom collector frame being removed from a hive. It provides stronger handbook imagery than the previously held annotated scientific figure. The photograph demonstrates equipment application rather than endorsing a specific commercial model or providing DIY construction guidance.",
-          "resolution_pixels": null,
-          "resolution_status": "REVIEW_AT_EXTRACTION_RETRY",
-          "resolution_note": "PDF page 9 exposes two qualifying large rasters: Figure 5 is the first combined raster and Figure 6 is the second. Retry image_rank 1, then verify dimensions and visual match before placement.",
+          "resolution_pixels": "1496x1256",
+          "resolution_status": "SOURCE_FILE_READY",
+          "resolution_note": "Figure 6 was extracted from the publisher PDF without resampling at 1496×1256 px, about 126.7×106.3 mm at 300 ppi. Suitable for single-column or medium placement; final crop/colour/page proof remains pending.",
           "extraction_page": 9,
           "extraction_selector": "second_large_raster_on_page",
           "editorial_note": "Use as real-device field context. Do not describe it as a universally approved commercial collector, and do not derive electrical construction instructions from the image.",
@@ -1873,7 +1873,9 @@
             "embedded_width_px": 1496,
             "embedded_height_px": 1256,
             "qualifying_image_count": 2
-          }
+          },
+          "editorial_review_status": "APPROVED_CLEAN_REAL_DEVICE_CONTEXT",
+          "final_photo_allowed": true
         }
       ],
       "download_status": "SOURCE_FILE_READY",

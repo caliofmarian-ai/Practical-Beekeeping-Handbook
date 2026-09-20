@@ -19,7 +19,8 @@
     "photo-assets-batch-17",
     "photo-assets-batch-18",
     "photo-assets-batch-19",
-    "photo-assets-batch-20"
+    "photo-assets-batch-20",
+    "photo-assets-batch-21"
   ],
   "policy": {
     "files_are_unmodified_or_officially_scaled_source_candidates": true,
@@ -27,8 +28,8 @@
     "sha256_required": true,
     "rights_and_technical_review_remain_required": true
   },
-  "asset_count": 28,
-  "resolution_pass_count": 28,
+  "asset_count": 29,
+  "resolution_pass_count": 29,
   "resolution_hold_count": 0,
   "assets": [
     {
@@ -924,6 +925,50 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
       "rights_basis": "Copyright holder offers the own-work photograph under CC BY-SA 3.0 (among compatible listed licences).",
       "source_image_id": "Weiselzellen 68a.jpg"
+    },
+    {
+      "asset_id": "P59.01",
+      "photo_id": "59.1",
+      "title": "Commercial Venom Collection Device",
+      "source_page_url": "https://www.mdpi.com/2199-8531/5/3/71",
+      "source_document_url": "https://mdpi-res.com/d_attachment/JOItmC/JOItmC-05-00071/article_deploy/JOItmC-05-00071.pdf",
+      "source_figure": "Figure 6",
+      "page_number": 9,
+      "repository_path": "assets/photos/a-core/source-candidates/p59-01-venom-collector-field-use.jpg",
+      "sha256": "fae06c36da677dda08dbe952ceda16d2e5f0c5f4948e2f74fbbb7fc21d40abf4",
+      "bytes": 706829,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1496,
+      "height_px": 1256,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.99,
+        "height_in": 4.19,
+        "width_mm": 126.7,
+        "height_mm": 106.3
+      },
+      "minimum_width_px": 700,
+      "minimum_height_px": 500,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "creator": "Serrinha, Correia & Marques; figure published with the open-access article",
+      "credit": "Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 6, CC BY 4.0; indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_basis": "The 2019 article states that it is open access under Creative Commons Attribution 4.0. Figure 6 is presented as article content without a separate third-party restriction.",
+      "extraction": {
+        "xref": 281,
+        "bbox": [
+          184.2519989013672,
+          566.2764892578125,
+          411.01568603515625,
+          756.6610107421875
+        ],
+        "embedded_width_px": 1496,
+        "embedded_height_px": 1256,
+        "qualifying_image_count": 2
+      }
     }
   ]
 }

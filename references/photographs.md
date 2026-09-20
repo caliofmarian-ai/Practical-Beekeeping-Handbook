@@ -56,6 +56,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 15 update:** P43.01 (AFB Brood Frame) now uses a clean real CC BY-SA 3.0 whole-frame photograph, placed in Chapter 43 as contextual evidence only. Its caption explicitly prevents diagnosis from a patchy brood pattern alone and pairs the image with the specialist-provenance P43.02 AFB-scale photograph. The selected A_CORE set is now **28/28 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_15.md`.
 
+**Layout-prep 16 update:** P59.01 (Venom Collection Device) now uses a clean real CC BY 4.0 field photograph extracted without resampling from Figure 6 of Serrinha, Correia & Marques (2019). The 1496×1256 image replaces the earlier annotated figure for final handbook use; the annotated image remains reference-only. P59.01 is placed in Chapter 59 immediately before the no-DIY-circuit warning. The selected A_CORE set is now **29/29 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_16.md`.
+
 ---
 
 ## 1. Photograph Selection Rules

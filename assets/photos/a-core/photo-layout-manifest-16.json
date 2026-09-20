@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P59.01",
+      "photo_id": "59.1",
+      "chapter": 59,
+      "chapter_path": "chapters/chapter-59.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p59-01-venom-collector-field-use.jpg",
+      "alt_text": "Purpose-built bee-venom collector frame being removed from a hive during real field use",
+      "caption": "Purpose-built venom collection equipment in real field use. The image demonstrates one collector-frame design and its physical scale without endorsing one model or providing DIY electrical-construction instructions.",
+      "credit": "Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 6, CC BY 4.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF",
+      "safety_boundary": "Purpose-built/guarded equipment only; no circuit values, wiring recipe or construction instructions are derived from the photograph.",
+      "supersedes_reference_only_asset": "assets/photos/a-core/source-candidates/p59-01-venom-collection-device.png"
+    }
+  ]
+}
