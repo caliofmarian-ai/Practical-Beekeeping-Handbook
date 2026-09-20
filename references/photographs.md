@@ -54,6 +54,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 14 update:** P45.01 (CBPV-Type Adult Signs) now uses a clean real CC BY-SA 4.0 photograph without embedded labels or arrows. The 495×495 native source is deliberately restricted to a small placement in Chapter 45, with a caption stating that dark/shiny/hair-reduced appearance can raise suspicion but does not diagnose CBPV. The selected A_CORE set is now **27/27 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_14.md`.
 
+**Layout-prep 15 update:** P43.01 (AFB Brood Frame) now uses a clean real CC BY-SA 3.0 whole-frame photograph, placed in Chapter 43 as contextual evidence only. Its caption explicitly prevents diagnosis from a patchy brood pattern alone and pairs the image with the specialist-provenance P43.02 AFB-scale photograph. The selected A_CORE set is now **28/28 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_15.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
