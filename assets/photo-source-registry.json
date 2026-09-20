@@ -1291,7 +1291,7 @@
       "source_status": "CANDIDATE_IDENTIFIED",
       "rights_status": "VERIFIED_CC_BY_4_0",
       "technical_match_status": "MATCH",
-      "selected_source": null,
+      "selected_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8156449/",
       "candidates": [
         {
           "recommendation": "PRIMARY_CANDIDATE_NATIVE_FIGURE_CHECK_PENDING",
@@ -1308,7 +1308,12 @@
           "technical_match_status": "MATCH",
           "technical_note": "Directly matches the planned propolis-trap subject and additionally shows harvested raw propolis. Native figure resolution must pass the final print gate before selection.",
           "resolution_pixels": null,
-          "resolution_status": "NATIVE_FILE_CHECK_REQUIRED"
+          "resolution_status": "REVIEW_AT_EXTRACTION",
+          "source_document_url": "https://mdpi-res.com/d_attachment/molecules/molecules-26-02930/article_deploy/molecules-26-02930-with-cover.pdf?version=1689482406",
+          "source_figure": "Figure 1",
+          "extraction_page": 3,
+          "extraction_selector": "topmost_large_raster",
+          "resolution_note": "Extract the embedded Figure 1 raster from PDF page 3 without resampling, then validate pixel dimensions."
         }
       ]
     },
