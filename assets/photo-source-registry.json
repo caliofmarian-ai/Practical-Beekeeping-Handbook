@@ -235,9 +235,18 @@
           "technical_match_status": "MATCH",
           "technical_note": "Strong teaching match for a normal brood-nest frame: capped/emerged brood occupies the central region, pollen lies outside the brood area, and honey/stores are visible farther outward. Use as a normal-organisation example, not a universal fixed pattern.",
           "resolution_pixels": "3264x1836 original; 1280x720 selected derivative",
-          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH"
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p13-01-healthy-brood-nest-frame.jpg",
+          "source_sha256": "1dddf40e44e8f224e5ab7c437a8d321642c0ee6d37ca6079cdb4644d39a705fa",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 720,
+          "downloaded_bytes": 436168,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p13-01-healthy-brood-nest-frame.jpg"
     },
     {
       "asset_id": "P15.01",
