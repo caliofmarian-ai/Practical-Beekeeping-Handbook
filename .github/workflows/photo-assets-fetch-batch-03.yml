@@ -1,13 +1,12 @@
-name: photo-assets-fetch-batch-03
+name: photo-assets-fetch
 
 on:
   pull_request:
     branches:
       - main
     paths:
-      - "assets/photo-download-batch-03.json"
-      - "assets/photo-download-batch-04.json"
-      - "assets/photo-extract-batch-05.json"
+      - "assets/photo-download-batch-*.json"
+      - "assets/photo-extract-batch-*.json"
 
 permissions:
   contents: write
@@ -29,14 +28,16 @@ jobs:
         shell: bash
         run: |
           changed="$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
-          if printf '%s\n' "$changed" | grep -qx "assets/photo-extract-batch-05.json"; then
-            echo "config=assets/photo-extract-batch-05.json" >> "$GITHUB_OUTPUT"
+          mapfile -t configs < <(printf '%s\n' "$changed" | grep -E '^assets/photo-(download|extract)-batch-[0-9]+\.json$' || true)
+          if [ "${#configs[@]}" -ne 1 ]; then
+            printf 'Expected exactly one changed photo batch config, found %s: %s\n' "${#configs[@]}" "${configs[*]}" >&2
+            exit 1
+          fi
+          config="${configs[0]}"
+          echo "config=$config" >> "$GITHUB_OUTPUT"
+          if [[ "$config" == assets/photo-extract-batch-* ]]; then
             echo "mode=pdf" >> "$GITHUB_OUTPUT"
-          elif printf '%s\n' "$changed" | grep -qx "assets/photo-download-batch-04.json"; then
-            echo "config=assets/photo-download-batch-04.json" >> "$GITHUB_OUTPUT"
-            echo "mode=image" >> "$GITHUB_OUTPUT"
           else
-            echo "config=assets/photo-download-batch-03.json" >> "$GITHUB_OUTPUT"
             echo "mode=image" >> "$GITHUB_OUTPUT"
           fi
       - name: Fetch or extract and validate selected source candidates
@@ -55,6 +56,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No downloaded-source changes."
           else
-            git commit -m "Fetch high-resolution replacement photo sources batch 03"
+            git commit -m "Fetch validated A_CORE photo source batch"
             git push origin HEAD:${{ github.head_ref }}
           fi
