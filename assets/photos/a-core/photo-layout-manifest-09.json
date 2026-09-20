@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 2,
+  "assets": [
+    {
+      "asset_id": "P22.02",
+      "photo_id": "22.2",
+      "chapter": 22,
+      "chapter_path": "chapters/chapter-22.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p22-02-hive-tool-in-use.jpg",
+      "alt_text": "A beekeeper holding a worn standard hive tool, showing the broad scraping end and hooked levering end",
+      "caption": "Hive tool in real use. A worn field tool shows the working edges and leverage surfaces that should be inspected for damage, sharp burrs and contamination. This is one common design.",
+      "credit": "Photo by Ivan Radic, CC BY 2.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    },
+    {
+      "asset_id": "P48.02",
+      "photo_id": "48.2",
+      "chapter": 48,
+      "chapter_path": "chapters/chapter-48.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p48-02-honey-refractometer.jpg",
+      "alt_text": "Portable optical honey refractometer with its prism cover open",
+      "caption": "Portable honey refractometer. The photograph identifies the equipment; calibration, prism cleaning, representative sampling, temperature control and reading technique remain essential.",
+      "credit": "Photo by R. Henrik Nilsson, CC BY 4.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    }
+  ]
+}
