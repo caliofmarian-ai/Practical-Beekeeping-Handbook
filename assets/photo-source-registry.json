@@ -63,8 +63,8 @@
           "downloaded_width_px": 1631,
           "downloaded_height_px": 1080,
           "downloaded_bytes": 356611,
-          "resolution_gate_pass": false,
-          "placement_status": "HOLD_RESOLUTION",
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY",
           "resolution_pixels": "1631x1080",
           "resolution_status": "SINGLE_COLUMN_PRINT_READY",
           "resolution_note": "Downloaded source provides about 138 × 91 mm at 300 ppi; use at single-column/medium placement rather than large spread."
@@ -105,8 +105,8 @@
           "resolution_status": "PRINT_READY_SOURCE"
         }
       ],
-      "download_status": "PENDING_REVALIDATION",
-      "repository_source_path": null
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p03-01-honey-bee-on-flower.jpg"
     },
     {
       "asset_id": "P09.01",
@@ -160,11 +160,18 @@
           "resolution_pixels": "1923x1599",
           "resolution_status": "PRINT_READY_SOURCE",
           "download_variant_note": "Official 1280px Wikimedia derivative selected for reproducible acquisition after original-file HTTP 429 from GitHub Actions; source/licence remain the original Commons file page.",
-          "download_variant_pixels": "1280x1064"
+          "download_variant_pixels": "1280x1064",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p09-01-worker-carrying-pollen.jpg",
+          "source_sha256": "94e509e4712296f3d15d1a52729e2807316763695772513d3ecb3c805fff3fa7",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 1064,
+          "downloaded_bytes": 270596,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
       ],
-      "download_status": "PENDING_REPLACEMENT_DOWNLOAD",
-      "repository_source_path": null
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p09-01-worker-carrying-pollen.jpg"
     },
     {
       "asset_id": "P13.01",
@@ -515,11 +522,18 @@
           "resolution_pixels": "2762x2125",
           "resolution_status": "PRINT_READY_SOURCE",
           "download_variant_note": "Official 1280px Wikimedia thumbnail-CDN derivative selected for reproducible acquisition; original Commons page remains provenance/licence master.",
-          "download_variant_pixels": "1280x985"
+          "download_variant_pixels": "1280x985",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p39-02-chalkbrood-mummies.jpg",
+          "source_sha256": "60635e0c77c64d6a75278e20c418d052c03b5a69857c61d9f549ff5551f9226b",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 985,
+          "downloaded_bytes": 279018,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
       ],
-      "download_status": "PENDING_REPLACEMENT_DOWNLOAD",
-      "repository_source_path": null
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p39-02-chalkbrood-mummies.jpg"
     },
     {
       "asset_id": "P39.03",
@@ -604,11 +618,18 @@
           "resolution_pixels": "2700x1821",
           "resolution_status": "PRINT_READY_SOURCE",
           "download_variant_note": "Official 1280px Wikimedia derivative selected for reproducible acquisition; original USDA/Commons file remains the provenance master.",
-          "download_variant_pixels": "1280x863"
+          "download_variant_pixels": "1280x863",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p40-01-adult-female-varroa-on-bee.jpg",
+          "source_sha256": "65f59c54fa068fa864470f21edfc432ec0f152e23de9b298e3de7a30ca174496",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 863,
+          "downloaded_bytes": 259088,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
       ],
-      "download_status": "PENDING_REPLACEMENT_DOWNLOAD",
-      "repository_source_path": null
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p40-01-adult-female-varroa-on-bee.jpg"
     },
     {
       "asset_id": "P40.02",
