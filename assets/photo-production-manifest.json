@@ -739,11 +739,16 @@
       "working_title": "CBPV-Type Adult Signs",
       "shot_brief": "Only if diagnosis/provenance is strong; avoid presenting one dark bee as confirmation.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_SMALL_PLACEMENT_WITH_DIAGNOSTIC_CAVEAT",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p45-01-cbpv-type-adult-sign.jpg",
+      "source_sha256": "2aec4ccc09b0d9ab5e6134824e5af54e1ad4772f272bfa80b2b51034f48a4e09",
+      "source_width_px": 495,
+      "source_height_px": 495,
+      "placement_intent": "small-single-column-only"
     },
     {
       "asset_id": "P46.01",

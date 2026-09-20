@@ -52,6 +52,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 13 update:** P23.01 (First-Aid / Emergency Preparedness Kit) now uses a real CC BY-SA 4.0 first-aid box photograph and is placed in Chapter 23 with a clear warning that the pictured box is not a universal contents prescription or substitute for emergency care. The selected A_CORE set is now **26/26 source files ready and placed**, leaving three controlled-capture A_CORE positions. See `docs/reviews/PHOTO_LAYOUT_PREP_13.md`.
 
+**Layout-prep 14 update:** P45.01 (CBPV-Type Adult Signs) now uses a clean real CC BY-SA 4.0 photograph without embedded labels or arrows. The 495×495 native source is deliberately restricted to a small placement in Chapter 45, with a caption stating that dark/shiny/hair-reduced appearance can raise suspicion but does not diagnose CBPV. The selected A_CORE set is now **27/27 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_14.md`.
+
 ---
 
 ## 1. Photograph Selection Rules

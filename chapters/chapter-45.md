@@ -193,6 +193,10 @@ However, hair loss can also occur from age, robbing, abrasion, or other causes.
 
 Do not diagnose CBPV from colour alone.
 
+![Two worker honey bees, with the bee on the right showing a darker, shinier hair-reduced appearance associated with CBPV-type signs](../assets/photos/a-core/source-candidates/p45-01-cbpv-type-adult-sign.jpg)
+
+*Photo 45.1 — CBPV-type adult appearance. The bee on the right shows darkening and reduced hair that can resemble the shiny, hairless appearance described in chronic bee paralysis. This photograph is a visual teaching example, not a stand-alone diagnosis: age, abrasion, robbing and other causes can also alter hair and colour, so interpret the sign with the colony-level syndrome and appropriate diagnostic evidence. Photo by Abrahami, CC BY-SA 4.0.*
+
 ## 45.14 Trembling and Crawling
 
 Trembling bees may suggest CBPV, acute paralysis viruses, pesticide poisoning, chilling, nutritional problems, or other neurological stress.
