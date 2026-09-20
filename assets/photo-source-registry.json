@@ -6,12 +6,12 @@
   "counts": {
     "A_CORE": 40,
     "EVIDENCE_AUTHENTIC_ONLY": 16,
-    "FIELD_PROCESS_AUTHENTIC": 16,
-    "CONTROLLED_REAL_CAPTURE": 8,
-    "with_candidates": 29,
-    "rights_clear_candidates": 28,
+    "FIELD_PROCESS_AUTHENTIC": 17,
+    "CONTROLLED_REAL_CAPTURE": 7,
+    "with_candidates": 30,
+    "rights_clear_candidates": 29,
     "primary_ready_candidates": 16,
-    "technical_matches_any_rights_state": 19,
+    "technical_matches_any_rights_state": 21,
     "selected_source_files_ready": 16,
     "selected_source_files_resolution_pass": 16
   },
@@ -1310,9 +1310,9 @@
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
       "source_status": "CANDIDATE_IDENTIFIED",
-      "rights_status": "VERIFIED_PUBLIC_DOMAIN",
-      "technical_match_status": "PARTIAL_MATCH",
-      "selected_source": null,
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Corbiculette_in_trappola.JPG",
       "candidates": [
         {
           "recommendation": "SECONDARY_HISTORICAL_CANDIDATE",
@@ -1329,8 +1329,34 @@
           "technical_note": "Clearly shows pollen trap/drawer context at high resolution, but the irradiation-research context and historical appearance make it secondary to a modern clean production photograph.",
           "resolution_pixels": "3200x2508",
           "resolution_status": "PRINT_READY"
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE_CLEAN_TRAP_CONTEXT",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Corbiculette_in_trappola.JPG",
+          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Corbiculette_in_trappola.JPG/1280px-Corbiculette_in_trappola.JPG",
+          "source_image_id": "Corbiculette in trappola.JPG",
+          "creator": "Matteo Giusti (Matteogiusti)",
+          "source_caption": "Front detail of a pollen trap showing bee-collected pollen pellets detached onto the trap grid.",
+          "rights_status": "VERIFIED_CC_BY_SA_3_0",
+          "rights_basis": "Wikimedia Commons records the work by Matteogiusti under Creative Commons Attribution-ShareAlike 3.0 Unported; the page identifies Matteo Giusti as the source/author.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "required_or_requested_credit": "Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0; link source and licence and indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Direct real-world match for pollen trapping: bees, trap openings and detached corbicular pollen pellets are visible in the same frame.",
+          "resolution_pixels": "1600x1200 original; 1280x960 selected derivative",
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p56-01-pollen-pellets-trap.jpg",
+          "source_sha256": "ab1475169e0e326c7ac08677c98dc65ea2934232ac87efc0fae00c14c0b742cc",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 960,
+          "downloaded_bytes": 284607,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p56-01-pollen-pellets-trap.jpg"
     },
     {
       "asset_id": "P56.02",
@@ -1338,13 +1364,40 @@
       "chapter": 56,
       "title": "Cleaned/Dried or Frozen Pollen Product",
       "editorial_priority": "A_CORE",
-      "source_class": "CONTROLLED_REAL_CAPTURE",
+      "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
-      "candidates": []
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Corbiculette_congelate.JPG",
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE_FROZEN_POLLEN_PRODUCT",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Corbiculette_congelate.JPG",
+          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Corbiculette_congelate.JPG/1280px-Corbiculette_congelate.JPG",
+          "source_image_id": "Corbiculette congelate.JPG",
+          "creator": "Matteo Giusti (Matteogiusti)",
+          "source_caption": "Collected bee-pollen pellets frozen for human consumption.",
+          "rights_status": "VERIFIED_CC_BY_SA_3_0",
+          "rights_basis": "Wikimedia Commons records the uploader's own work under Creative Commons Attribution-ShareAlike 3.0 Unported.",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "required_or_requested_credit": "Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0; link source and licence and indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Direct clean product match for the planned frozen-pollen example. Caption must call the material bee-collected pollen pellets and avoid conflating it with bee bread stored in comb.",
+          "resolution_pixels": "3648x2736 original; 1280x960 selected derivative",
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p56-02-frozen-pollen-product.jpg",
+          "source_sha256": "577b087eb861fc4dd66820a67c07132211b065aabcdb623a2b2b9bcace21a8f6",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 960,
+          "downloaded_bytes": 257540,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
+        }
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p56-02-frozen-pollen-product.jpg"
     },
     {
       "asset_id": "P57.01",
