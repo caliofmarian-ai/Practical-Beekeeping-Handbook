@@ -310,6 +310,10 @@ Warning signs of excessive heat include:
 
 Follow the equipment manufacturer's settings and safe-handling instructions.
 
+![Honeycomb frame being uncapped before extraction](../assets/photos/a-core/source-candidates/p49-02-uncapping-detail.jpg)
+
+*Photo 49.2 — Uncapping detail. Cappings are removed from sealed honey cells before extraction; tools and hand position should be managed to reduce injury and contamination risk. Photo by Wyatt Tyrone Smith, CC BY-SA 4.0.*
+
 ## 49.18 Uncapping Fork
 
 An uncapping fork lifts cappings from individual or recessed cells.
