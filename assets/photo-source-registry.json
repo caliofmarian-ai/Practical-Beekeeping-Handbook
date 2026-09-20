@@ -502,7 +502,7 @@
           "recommendation": "PRIMARY_CANDIDATE_HIGH_RES_REPLACEMENT",
           "institution": "Wikimedia Commons / Flickr licence-reviewed field photograph",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:Chalk_brood_(8952118660).jpg",
-          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chalk_brood_%288952118660%29.jpg/1280px-Chalk_brood_%288952118660%29.jpg",
+          "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Chalk_brood_%288952118660%29.jpg/1280px-Chalk_brood_%288952118660%29.jpg",
           "source_image_id": "Chalk brood (8952118660).jpg",
           "creator": "Conall",
           "source_caption": "Field photograph of chalkbrood mummies in an area of sealed brood.",
@@ -514,7 +514,7 @@
           "technical_note": "High-resolution real brood-comb image with visible chalkbrood mummies; replaces the 640 px USDA source while captions retain the handbook rule that visual signs are interpreted in context.",
           "resolution_pixels": "2762x2125",
           "resolution_status": "PRINT_READY_SOURCE",
-          "download_variant_note": "Official 1280px Wikimedia derivative selected for reproducible acquisition; source/licence remain the original Commons file page.",
+          "download_variant_note": "Official 1280px Wikimedia thumbnail-CDN derivative selected for reproducible acquisition; original Commons page remains provenance/licence master.",
           "download_variant_pixels": "1280x985"
         }
       ],
