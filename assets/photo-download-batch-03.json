@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-03",
+  "purpose": "Re-fetch the ten selected A_CORE photograph source candidates, replacing four resolution-held files with higher-resolution rights-cleared sources while revalidating the six existing passes.",
+  "assets": [
+    {
+      "asset_id": "P03.01",
+      "slug": "honey-bee-on-flower",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Honey-Bee-on-Budleja-Flower-_63A4753_Patrick_J._Lynch_CC-BY.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Honey-Bee-on-Budleja-Flower-_63A4753_Patrick_J._Lynch_CC-BY.jpg",
+      "minimum_width_px": 1800,
+      "minimum_height_px": 1200
+    },
+    {
+      "asset_id": "P09.01",
+      "slug": "worker-carrying-pollen",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_Western_honey_bee.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
+      "minimum_width_px": 900,
+      "minimum_height_px": 600
+    },
+    {
+      "asset_id": "P25.02",
+      "slug": "healthy-capped-worker-brood",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Bees_on_capped_worker_brood.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bees_on_capped_worker_brood.jpg",
+      "minimum_width_px": 2000,
+      "minimum_height_px": 1400
+    },
+    {
+      "asset_id": "P39.01",
+      "slug": "healthy-larvae-reference",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:HoneyComb.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HoneyComb.jpg",
+      "minimum_width_px": 2000,
+      "minimum_height_px": 2000
+    },
+    {
+      "asset_id": "P39.02",
+      "slug": "chalkbrood-mummies",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Chalk_brood_(8952118660).jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chalk_brood_%288952118660%29.jpg",
+      "minimum_width_px": 900,
+      "minimum_height_px": 600
+    },
+    {
+      "asset_id": "P40.01",
+      "slug": "adult-female-varroa-on-bee",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:K8536-1_(8454757885).jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/K8536-1_%288454757885%29.jpg",
+      "minimum_width_px": 900,
+      "minimum_height_px": 600
+    },
+    {
+      "asset_id": "P40.02",
+      "slug": "tropilaelaps-specimen",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:1-Tropilaelaps_female_dors20x.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1-Tropilaelaps_female_dors20x.jpg",
+      "minimum_width_px": 1000,
+      "minimum_height_px": 900
+    },
+    {
+      "asset_id": "P41.02",
+      "slug": "deformed-wing-bee",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Honey_bee_with_Deformed_Wing_Virus_and_Varroa_destructor.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Honey_bee_with_Deformed_Wing_Virus_and_Varroa_destructor.jpg",
+      "minimum_width_px": 1600,
+      "minimum_height_px": 1200
+    },
+    {
+      "asset_id": "P49.02",
+      "slug": "uncapping-detail",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Uncapping_honeycomb.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Uncapping_honeycomb.jpg",
+      "minimum_width_px": 1800,
+      "minimum_height_px": 2000
+    },
+    {
+      "asset_id": "P58.01",
+      "slug": "royal-jelly-queen-cell",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Weiselzellen_68a.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Weiselzellen_68a.jpg",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900
+    }
+  ],
+  "run_revision": 1
+}
