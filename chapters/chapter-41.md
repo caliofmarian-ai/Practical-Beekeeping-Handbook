@@ -128,6 +128,10 @@ Visible deformity represents only the most obvious part of the damage.
 
 ## 41.9 Varroa and Deformed Wing Virus
 
+![Honey bee with visibly deformed wings and a Varroa mite](../assets/photos/a-core/source-candidates/p41-02-deformed-wing-bee.jpg)
+
+*Photo 41.2 — Deformed-wing bee. The visible phenotype is consistent with severe Varroa–virus damage, but it does not quantify the colony's current mite infestation. Photo by Stefan de Konink, CC0 1.0.*
+
 Varroa is strongly associated with transmission and amplification of deformed wing virus variants.
 
 The mite changes the virus's epidemiology by providing an efficient route of transmission during sensitive developmental stages. High mite pressure can therefore produce a colony in which newly emerging bees have reduced longevity even when most do not show visibly deformed wings.
