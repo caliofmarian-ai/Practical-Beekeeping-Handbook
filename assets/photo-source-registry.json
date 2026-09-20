@@ -11,7 +11,7 @@
     "with_candidates": 32,
     "rights_clear_candidates": 31,
     "primary_ready_candidates": 22,
-    "technical_matches_any_rights_state": 25,
+    "technical_matches_any_rights_state": 26,
     "selected_source_files_ready": 22,
     "selected_source_files_resolution_pass": 22
   },
@@ -413,9 +413,9 @@
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
       "source_status": "CANDIDATE_IDENTIFIED",
-      "rights_status": "VERIFIED_CC_BY_SA_3_0",
-      "technical_match_status": "PARTIAL_MATCH",
-      "selected_source": null,
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN_CREATOR_RELEASE",
+      "technical_match_status": "MATCH_CONTEXTUAL",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Beehives_WWD_020.JPG",
       "candidates": [
         {
           "recommendation": "SECONDARY_CANDIDATE",
@@ -433,8 +433,35 @@
           "technical_note": "Authentic transport context, but straps, ventilation and stable-load details are not sufficiently documented for final selection without visual/layout review.",
           "resolution_pixels": "2048x1536",
           "resolution_status": "SINGLE_COLUMN_OK"
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE_REAL_TRANSPORT_VEHICLE",
+          "institution": "Wikimedia Commons / original photographers",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Beehives_WWD_020.JPG",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beehives_WWD_020.JPG/1280px-Beehives_WWD_020.JPG",
+          "source_image_id": "Beehives WWD 020.JPG",
+          "creator": "Marion Schneider & Christoph Aistleitner",
+          "source_caption": "Beehives carried on a dedicated truck near Mota, Slovenia.",
+          "rights_status": "VERIFIED_PUBLIC_DOMAIN_CREATOR_RELEASE",
+          "rights_basis": "Wikimedia Commons records the creators' worldwide public-domain dedication for this own photograph.",
+          "license_url": "https://commons.wikimedia.org/wiki/File:Beehives_WWD_020.JPG#Licensing",
+          "required_or_requested_credit": "Public-domain photograph by Marion Schneider & Christoph Aistleitner; retain source record for provenance.",
+          "technical_match_status": "MATCH_CONTEXTUAL",
+          "technical_note": "Authentic stationary bee-transport vehicle showing multiple hives held in a purpose-built rack/compartment. It demonstrates transport organisation but the image alone cannot verify every legal load-restraint, entrance-closure or ventilation requirement.",
+          "resolution_pixels": "2816x2112 original; 1280x960 selected derivative",
+          "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
+          "editorial_note": "Use as real transport context. Caption must state that hives still require appropriate restraint, ventilation, entrance management and legal compliance for the actual journey.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p33-01-colonies-secured-for-transport.jpg",
+          "source_sha256": "13fb4aca5ae31127c34411298cd29d30386a7193c3ca3a7dfaba9b65774e9bc1",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 960,
+          "downloaded_bytes": 358887,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p33-01-colonies-secured-for-transport.jpg"
     },
     {
       "asset_id": "P38.01",

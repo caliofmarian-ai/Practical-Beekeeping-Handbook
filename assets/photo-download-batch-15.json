@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-15",
+  "purpose": "Fetch and validate P33.01 real beehive transport photograph from a creator-released public-domain source.",
+  "assets": [
+    {
+      "asset_id": "P33.01",
+      "slug": "colonies-secured-for-transport",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Beehives_WWD_020.JPG",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beehives_WWD_020.JPG/1280px-Beehives_WWD_020.JPG",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-15.json"
+}
