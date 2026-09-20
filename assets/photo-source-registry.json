@@ -1291,7 +1291,7 @@
       "source_status": "CANDIDATE_IDENTIFIED",
       "rights_status": "VERIFIED_CC_BY_4_0",
       "technical_match_status": "MATCH",
-      "selected_source": null,
+      "selected_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8156449/",
       "candidates": [
         {
           "recommendation": "PRIMARY_CANDIDATE_NATIVE_FIGURE_CHECK_PENDING",
@@ -1308,9 +1308,35 @@
           "technical_match_status": "MATCH",
           "technical_note": "Directly matches the planned propolis-trap subject and additionally shows harvested raw propolis. Native figure resolution must pass the final print gate before selection.",
           "resolution_pixels": null,
-          "resolution_status": "NATIVE_FILE_CHECK_REQUIRED"
+          "resolution_status": "REVIEW_AT_EXTRACTION",
+          "source_document_url": "https://mdpi-res.com/d_attachment/molecules/molecules-26-02930/article_deploy/molecules-26-02930-with-cover.pdf?version=1689482406",
+          "source_figure": "Figure 1",
+          "extraction_page": 3,
+          "extraction_selector": "topmost_large_raster",
+          "resolution_note": "Extract the embedded Figure 1 raster from PDF page 3 without resampling, then validate pixel dimensions.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p57-01-propolis-trap.jpg",
+          "source_sha256": "c411de63aa3f47d961c29a6d828f34cd04f4ac604bc0c25e798da9c9b8f49526",
+          "downloaded_width_px": 2439,
+          "downloaded_height_px": 1725,
+          "downloaded_bytes": 718237,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY",
+          "extraction_record": {
+            "xref": 99,
+            "bbox": [
+              167.26499938964844,
+              232.40899658203125,
+              459.94500732421875,
+              439.40899658203125
+            ],
+            "embedded_width_px": 2439,
+            "embedded_height_px": 1725,
+            "qualifying_image_count": 1
+          }
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p57-01-propolis-trap.jpg"
     },
     {
       "asset_id": "P57.02",
