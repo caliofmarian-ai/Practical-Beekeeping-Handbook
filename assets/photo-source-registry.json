@@ -975,9 +975,18 @@
           "technical_note": "Clean real brood-frame photograph described by the creator as a typical American-foulbrood appearance. It is useful as a whole-frame contextual image but is not treated as laboratory-confirmed provenance; the specialist-provenance P43.02 scale photograph and current diagnostic guidance provide the stronger evidence layer.",
           "resolution_pixels": "3008x2000 original; 1280x851 selected derivative",
           "resolution_status": "OFFICIAL_1280PX_DERIVATIVE_PENDING_FETCH",
-          "editorial_note": "Caption must state that patchy/damaged brood appearance raises suspicion but does not confirm AFB; official/laboratory confirmation may be required."
+          "editorial_note": "Caption must state that patchy/damaged brood appearance raises suspicion but does not confirm AFB; official/laboratory confirmation may be required.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p43-01-afb-brood-frame-context.jpg",
+          "source_sha256": "57a8185c5914ec4c5dc960501ee4fc4760182467a0fed6f3738fc95d2328065c",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 851,
+          "downloaded_bytes": 309147,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p43-01-afb-brood-frame-context.jpg"
     },
     {
       "asset_id": "P43.02",
