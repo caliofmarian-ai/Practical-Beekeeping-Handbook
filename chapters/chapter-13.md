@@ -438,6 +438,10 @@ It changes with:
 - Comb condition.
 - Management.
 
+![Honey bee frame showing central brood with pollen and honey stores arranged farther outward](../assets/photos/a-core/source-candidates/p13-01-healthy-brood-nest-frame.jpg)
+
+*Photo 13.1 — Brood-nest organisation on a real frame. Brood occupies the central region, pollen is stored nearby, and honey/stores occur farther outward. This is a useful example of normal spatial organisation, not a rigid pattern that every healthy frame must reproduce exactly. Photo by John Pons, CC BY-SA 4.0.*
+
 [Figure placeholder: cross-section of a typical brood nest showing central eggs, larvae, capped brood, pollen band, nectar, and capped honey]
 
 ---
