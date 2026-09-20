@@ -15,7 +15,8 @@
     "photo-assets-batch-13",
     "photo-assets-batch-14",
     "photo-assets-batch-15",
-    "photo-assets-batch-16"
+    "photo-assets-batch-16",
+    "photo-assets-batch-17"
   ],
   "policy": {
     "files_are_unmodified_or_officially_scaled_source_candidates": true,
@@ -23,8 +24,8 @@
     "sha256_required": true,
     "rights_and_technical_review_remain_required": true
   },
-  "asset_count": 24,
-  "resolution_pass_count": 24,
+  "asset_count": 25,
+  "resolution_pass_count": 25,
   "resolution_hold_count": 0,
   "assets": [
     {
@@ -765,6 +766,37 @@
         "embedded_height_px": 1725,
         "qualifying_image_count": 1
       }
+    },
+    {
+      "asset_id": "P57.02",
+      "photo_id": "57.2",
+      "title": "Raw Propolis Grades",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Scraping_propolis.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Scraping_propolis.jpg/1280px-Scraping_propolis.jpg",
+      "repository_path": "assets/photos/a-core/source-candidates/p57-02-scraped-propolis-context.jpg",
+      "sha256": "39e96bf97c1d8c3da6fa1685233e5470875d4a587663852153a0203c39993ca1",
+      "bytes": 320699,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 1280,
+      "height_px": 960,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 4.27,
+        "height_in": 3.2,
+        "width_mm": 108.4,
+        "height_mm": 81.3
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_2_0",
+      "creator": "fishermansdaughter",
+      "credit": "Photo by fishermansdaughter, CC BY 2.0; link source and licence and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "rights_basis": "Wikimedia Commons records the Flickr photograph as reviewed by FlickreviewR and confirmed under Creative Commons Attribution 2.0 Generic.",
+      "source_image_id": "Scraping propolis.jpg"
     },
     {
       "asset_id": "P58.01",
