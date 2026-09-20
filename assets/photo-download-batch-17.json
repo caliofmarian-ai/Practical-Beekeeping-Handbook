@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-17",
+  "purpose": "Fetch and validate P57.02 real scraped-propolis field photograph to complement the existing trap-collected propolis source.",
+  "assets": [
+    {
+      "asset_id": "P57.02",
+      "slug": "scraped-propolis-context",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Scraping_propolis.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Scraping_propolis.jpg/1280px-Scraping_propolis.jpg",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-17.json"
+}
