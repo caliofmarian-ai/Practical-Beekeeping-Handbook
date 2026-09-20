@@ -10,10 +10,10 @@
     "CONTROLLED_REAL_CAPTURE": 8,
     "with_candidates": 29,
     "rights_clear_candidates": 28,
-    "primary_ready_candidates": 10,
+    "primary_ready_candidates": 11,
     "technical_matches_any_rights_state": 18,
-    "selected_source_files_ready": 10,
-    "selected_source_files_resolution_pass": 10
+    "selected_source_files_ready": 11,
+    "selected_source_files_resolution_pass": 11
   },
   "policy": {
     "final_photo_must_be_real": true,
@@ -905,7 +905,7 @@
           "technical_note": "Authoritative modern EFB methods reference; Figure 1 directly shows malpositioned and discoloured larvae with EFB symptoms. Diagnostic caption must retain the chapter's confirmation caveat.",
           "extraction_page": 4,
           "extraction_selector": "topmost_large_raster",
-          "resolution_status": "REVIEW_AT_EXTRACTION",
+          "resolution_status": "SINGLE_COLUMN_PRINT_READY",
           "repository_source_path": "assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg",
           "source_sha256": "b59114504732abdaf7cf8fa4267dec24568f10ba82b7faf81b7abf71afa5242c",
           "downloaded_width_px": 700,
@@ -924,7 +924,8 @@
             "embedded_width_px": 700,
             "embedded_height_px": 531,
             "qualifying_image_count": 2
-          }
+          },
+          "resolution_note": "Embedded source is 700×531 px, equivalent to about 59.3×45.0 mm at 300 ppi. Approved only for conservative single-column placement with minimal/no crop and mandatory final print proof."
         }
       ],
       "download_status": "SOURCE_FILE_READY",
