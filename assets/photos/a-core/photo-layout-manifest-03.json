@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-20",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P55.01",
+      "photo_id": "55.1",
+      "chapter": 55,
+      "chapter_path": "chapters/chapter-55.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p55-01-beeswax-scales-worker.jpg",
+      "alt_text": "Worker honey bee with freshly secreted translucent wax scales visible at the abdominal wax glands",
+      "caption": "Beeswax scales on a worker. Freshly secreted translucent wax scales are visible at the abdominal wax glands before workers manipulate the wax for comb construction.",
+      "credit": "Photograph by Richard Odemer. Source: Odemer et al., Honey Bee Colony Health in Thiamethoxam-Treated Sugar Beet Fields: A Field-Based Case Study, Ecology and Evolution 15 (2025), CC BY 4.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-only",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF"
+    }
+  ]
+}
