@@ -32,6 +32,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 03 update:** P55.01 (Beeswax Scales on Worker) now uses the CC BY 4.0 Richard Odemer Figure 1 source from *Ecology and Evolution*. The validated 661×440 source passes its registered 600×400 single-column gate (about 56 mm wide at 300 ppi) and is placed in Chapter 55 with alt text, caption and credit. The selected source-file set is now **12/12 ready**. See `docs/reviews/PHOTO_LAYOUT_PREP_03.md`.
 
+**Layout-prep 04 update:** P57.01 (Propolis Trap) now uses the CC BY 4.0 Figure 1 from Šuran et al., *Molecules* 26 (2021). The publisher-PDF embedded raster was extracted without resampling at 2439×1725 px, passes the 900×600 gate and is placed in Chapter 57 with alt text, caption and credit. The selected source-file set is now **13/13 ready**. See `docs/reviews/PHOTO_LAYOUT_PREP_04.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
