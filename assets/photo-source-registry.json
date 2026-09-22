@@ -319,9 +319,18 @@
           "technical_match_status": "MATCH",
           "technical_note": "Real close-up of repeatedly used brood comb with visible dark pupal lining; directly matches the planned old-comb teaching purpose.",
           "resolution_pixels": "2272x1704",
-          "resolution_status": "PRINT_READY_SOURCE"
+          "resolution_status": "PRINT_READY_SOURCE",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p19-02-old-brood-comb.jpg",
+          "source_sha256": "7b96ab1875a48e6a7ac274075d1df9bca9511fb67cf8f7cca88233e02c6158d3",
+          "downloaded_width_px": 2272,
+          "downloaded_height_px": 1704,
+          "downloaded_bytes": 907524,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p19-02-old-brood-comb.jpg"
     },
     {
       "asset_id": "P22.02",

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-23",
+  "policy": {
+    "files_are_unmodified_source_candidates": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P19.02",
+      "photo_id": "19.2",
+      "title": "Old Brood Comb",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Brood_Comb_that_has_been_used_several_times.JPG",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brood_Comb_that_has_been_used_several_times.JPG",
+      "repository_path": "assets/photos/a-core/source-candidates/p19-02-old-brood-comb.jpg",
+      "sha256": "7b96ab1875a48e6a7ac274075d1df9bca9511fb67cf8f7cca88233e02c6158d3",
+      "bytes": 907524,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 2272,
+      "height_px": 1704,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 7.57,
+        "height_in": 5.68,
+        "width_mm": 192.4,
+        "height_mm": 144.3
+      },
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "creator": "Christopher Severn",
+      "credit": "Photo: Christopher Severn, CC BY-SA 3.0; link source/license and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rights_basis": "The photographer identifies the image as own work and licenses it under Creative Commons Attribution-ShareAlike 3.0 Unported.",
+      "source_image_id": "Brood Comb that has been used several times.JPG"
+    }
+  ]
+}
