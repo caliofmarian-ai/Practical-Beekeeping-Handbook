@@ -1577,9 +1577,18 @@
           "resolution_pixels": "3008x2000",
           "resolution_status": "PRINT_READY_SOURCE",
           "download_variant_note": "Official 1280px Wikimedia derivative selected for reproducible acquisition; corrected from the Commons file page's canonical hash path.",
-          "download_variant_pixels": "1280x851"
+          "download_variant_pixels": "1280x851",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p54-01-beeswax-melting.jpg",
+          "source_sha256": "ca0eebf850897a71bbc3f4e156b25ce5bc0f0bb66006b503615b81c9b690e907",
+          "downloaded_width_px": 1280,
+          "downloaded_height_px": 851,
+          "downloaded_bytes": 129076,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p54-01-beeswax-melting.jpg"
     },
     {
       "asset_id": "P55.01",
