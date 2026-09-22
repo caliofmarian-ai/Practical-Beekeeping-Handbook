@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-22",
+  "purpose": "Extract and validate P39.03 clean real sacbrood larva photograph from Figure 1 of a CC BY 4.0 open-access review.",
+  "assets": [
+    {
+      "asset_id": "P39.03",
+      "slug": "sacbrood-larva-clinical",
+      "source_page_url": "https://www.mdpi.com/1999-4915/14/9/1871",
+      "source_document_url": "https://mdpi-res.com/d_attachment/viruses/viruses-14-01871/article_deploy/viruses-14-01871.pdf",
+      "page_number": 2,
+      "image_rank": 0,
+      "minimum_width_px": 700,
+      "minimum_height_px": 500,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-22.json"
+}
