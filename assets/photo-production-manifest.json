@@ -586,11 +586,16 @@
       "working_title": "Sacbrood Example",
       "shot_brief": "Confirmed or well-documented sac-like larva; avoid relying on unverified internet imagery.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_SMALL_SINGLE_COLUMN",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p39-03-sacbrood-larva-clinical.jpg",
+      "source_sha256": "622cc6f9848067c75627678653a660d40d11ba5f92575f15d52d7ad615f17aed",
+      "source_width_px": 534,
+      "source_height_px": 493,
+      "placement_intent": "small-single-column-only"
     },
     {
       "asset_id": "P40.01",
@@ -1440,12 +1445,12 @@
     }
   ],
   "generated_date": "2026-09-20",
-  "photo_source_ready_count": 29,
+  "photo_source_ready_count": 30,
   "current_v1_status": {
     "status": "A_CORE_SOURCING_AND_PLACEMENT_IN_PROGRESS",
     "a_core_selected_count": 40,
-    "source_file_ready_and_chapter_placed_count": 29,
-    "a_core_remaining_count": 11,
+    "source_file_ready_and_chapter_placed_count": 30,
+    "a_core_remaining_count": 10,
     "final_layout_proof_status": "PENDING",
     "last_verified": "2026-09-22"
   }
