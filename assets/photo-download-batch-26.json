@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-26",
+  "purpose": "Fetch and validate P54.01 real beeswax melting photograph as rendering-process context.",
+  "assets": [
+    {
+      "asset_id": "P54.01",
+      "slug": "beeswax-melting",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Melting_beeswax.jpg",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Melting_beeswax.jpg",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 800,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-26.json"
+}
