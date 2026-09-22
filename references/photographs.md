@@ -64,6 +64,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 19 update:** P38.01 (Robbing Entrance Signs) now uses a clean real still extracted from Peck & Seeley's PLOS ONE S1 Video documenting intense robbing at a mite-weakened hive entrance. The selected 1280×720 frame at 24.72 s contains no added labels or arrows and is placed in Chapter 38. The caption explicitly warns that heavy traffic in a single still does not by itself distinguish robbing from orientation flights. The selected A_CORE set is now **32/32 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_19.md`.
 
+**Layout-prep 20 update:** P41.01 (Varroa Wash Equipment and Result) now uses Mona Chambers' official USDA ARS alcohol-wash result photograph. The native 649×721 PNG is restricted to a small single-column placement and is placed in Chapter 41 beside the adult-bee wash principle. The chapter's technical diagram remains the procedural teaching asset; the photograph supplies real field/lab context without duplicating the sequence. The selected A_CORE set is now **33/33 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_20.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
