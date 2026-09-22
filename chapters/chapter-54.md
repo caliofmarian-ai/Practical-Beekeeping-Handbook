@@ -163,6 +163,10 @@ Common methods include:
 
 The correct method depends on scale, source material, safety, and required purity.
 
+![Beeswax pellets softening and melting into liquid wax during controlled heating](../assets/photos/a-core/source-candidates/p54-01-beeswax-melting.jpg)
+
+*Photo 54.1 — Beeswax during melting. This real close-up shows solid wax transitioning into liquid wax. It illustrates the rendering stage, not source segregation: cappings, honey-super wax, old brood comb, and suspect material should be separated before melting as described earlier in this chapter. Use controlled, appropriate heating rather than unsafe open flame. Photo by Simon A. Eugster, CC BY-SA 3.0.*
+
 ## 54.11 Beeswax Softens Before It Fully Melts
 
 Natural beeswax generally melts in the low-to-mid 60s °C range, but it becomes mechanically soft well before complete melting.
