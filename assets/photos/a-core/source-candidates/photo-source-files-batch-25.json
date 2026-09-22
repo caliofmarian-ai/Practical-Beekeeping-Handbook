@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-25",
+  "policy": {
+    "files_are_unmodified_source_candidates": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P41.01",
+      "photo_id": "41.1",
+      "title": "Varroa Wash Equipment and Result",
+      "source_page_url": "https://www.ars.usda.gov/pacific-west-area/tucson-az/carl-hayden-bee-research-center/research/varroa/how-to-monitor-sample-and-treat-for-varroa/alcohol-wash/",
+      "direct_image_url": "https://www.ars.usda.gov/ARSUserFiles/20220500/Varroa/Alcohol%20Wash/5%20-%20Mites.png",
+      "repository_path": "assets/photos/a-core/source-candidates/p41-01-varroa-alcohol-wash-result.png",
+      "sha256": "77328e5e1051f7572a290ca827cb2a234f24b2f209d526937a8be82af25b3b19",
+      "bytes": 735588,
+      "format": "PNG",
+      "mode": "RGBA",
+      "width_px": 649,
+      "height_px": 721,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 2.16,
+        "height_in": 2.4,
+        "width_mm": 54.9,
+        "height_mm": 61.0
+      },
+      "minimum_width_px": 600,
+      "minimum_height_px": 600,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_US_FEDERAL_GOVERNMENT_WORK",
+      "creator": "Mona Chambers, USDA Agricultural Research Service",
+      "credit": "Photo by Mona Chambers, USDA Agricultural Research Service.",
+      "license_url": null,
+      "rights_basis": "The photograph is published on an official USDA ARS research page, the page credits all photos to Mona Chambers, a USDA ARS Biological Lab Technician, and USDA materials prepared by employees as part of official duties are U.S. Government works. ARS also requests agency credit for its public-domain imagery.",
+      "source_image_id": "5 - Mites.png"
+    }
+  ]
+}

@@ -221,6 +221,10 @@ Many established protocols use approximately 300 adult bees collected from brood
 
 The method sacrifices the sampled bees but generally provides a more repeatable estimate than casual visual inspection.
 
+![Alcohol-wash tray and colander after washing a honey-bee sample, with recovered Varroa mites visible in the drained liquid](../assets/photos/a-core/source-candidates/p41-01-varroa-alcohol-wash-result.png)
+
+*Photo 41.1 — Result of an adult-bee alcohol wash. Recovered mites are counted in the drained liquid after the bee sample is washed through the colander. This USDA ARS example shows one validated procedure endpoint; exact equipment, liquid, sample size, washing sequence, and interpretation should follow a current validated local protocol. Photo by Mona Chambers, USDA Agricultural Research Service.*
+
 ## 41.17 Selecting Bees for an Adult-Bee Sample
 
 Sampling location matters.
