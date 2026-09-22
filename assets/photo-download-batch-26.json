@@ -7,12 +7,12 @@
       "asset_id": "P54.01",
       "slug": "beeswax-melting",
       "source_page_url": "https://commons.wikimedia.org/wiki/File:Melting_beeswax.jpg",
-      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Melting_beeswax.jpg/1280px-Melting_beeswax.jpg",
+      "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Melting_beeswax.jpg/1280px-Melting_beeswax.jpg",
       "minimum_width_px": 1200,
       "minimum_height_px": 800,
       "placement_intent": "single-column-or-medium"
     }
   ],
-  "run_revision": 2,
+  "run_revision": 3,
   "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-26.json"
 }
