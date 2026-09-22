@@ -669,9 +669,9 @@
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
       "source_status": "CANDIDATE_IDENTIFIED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_match_status": "MATCH",
+      "selected_source": "https://www.mdpi.com/1999-4915/14/9/1871",
       "candidates": [
         {
           "recommendation": "SECONDARY_HISTORICAL_REFERENCE",
@@ -689,6 +689,25 @@
           "resolution_pixels": "2432x4303",
           "resolution_status": "PRINT_READY_SOURCE_SCAN",
           "resolution_note": "Pixel dimensions are ample; historical reproduction quality must still be judged visually."
+        },
+        {
+          "recommendation": "PRIMARY_CANDIDATE_CLEAN_CLINICAL_PHOTO",
+          "institution": "Viruses (MDPI) / Zhejiang University",
+          "source_page_url": "https://www.mdpi.com/1999-4915/14/9/1871",
+          "source_document_url": "https://mdpi-res.com/d_attachment/viruses/viruses-14-01871/article_deploy/viruses-14-01871.pdf",
+          "source_figure": "Figure 1",
+          "source_image_id": "Figure 1 — Sacbrood disease of an Apis cerana larva",
+          "creator": "Xiaoqing Li; figure published in Wei et al. (2022)",
+          "source_caption": "Sacbrood disease of an Apis cerana larva.",
+          "rights_status": "VERIFIED_CC_BY_4_0",
+          "rights_basis": "The article is distributed under Creative Commons Attribution 4.0 and Figure 1 is presented as article content with photographer credit and no separate restrictive licence notice.",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "required_or_requested_credit": "Photo by Xiaoqing Li; source: Wei et al., Viruses 14 (2022) 1871, Figure 1, CC BY 4.0; indicate modifications.",
+          "technical_match_status": "MATCH",
+          "technical_note": "Clean real clinical photograph showing the characteristic sac-like larval form. Caption must identify Apis cerana and avoid treating a photograph alone as definitive diagnosis.",
+          "resolution_status": "NATIVE_EXTRACTION_PENDING",
+          "extraction_page": 2,
+          "extraction_selector": "first_large_raster_on_page"
         }
       ]
     },
