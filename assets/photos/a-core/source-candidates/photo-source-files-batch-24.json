@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-24",
+  "policy": {
+    "real_video_frame_only": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P38.01",
+      "photo_id": "38.1",
+      "title": "Robbing Entrance Signs",
+      "source_page_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218392",
+      "direct_video_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0218392.s004&type=supplementary",
+      "repository_path": "assets/photos/a-core/source-candidates/p38-01-intense-robbing-entrance.jpg",
+      "sha256": "c76dd122e24f85f5a7580c3c0b7844ebaedd7f0de3190dc6383417be32b2f157",
+      "bytes": 245946,
+      "width_px": 1280,
+      "height_px": 720,
+      "video_duration_seconds": 41.2,
+      "frame_timestamp_seconds": 24.72,
+      "frame_fraction": 0.6,
+      "minimum_width_px": 900,
+      "minimum_height_px": 500,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "creator": "David Thomas Peck and Thomas Dyer Seeley",
+      "credit": "Source: Peck & Seeley, PLOS ONE 14(6): e0218392, S1 Video, CC BY 4.0; indicate frame extraction/crop.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_basis": "PLOS ONE states the article is distributed under Creative Commons Attribution, permitting unrestricted reuse with attribution; Supporting Information is part of the article's openly distributed materials."
+    }
+  ]
+}

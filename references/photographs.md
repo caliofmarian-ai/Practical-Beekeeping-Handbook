@@ -62,6 +62,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 18 update:** P19.02 (Old Brood Comb) now uses Christopher Severn's real CC BY-SA 3.0 photograph of brood comb used through repeated brood cycles. The 2272×1704 source passes the intended single-column/medium gate and is placed in Chapter 19 with a caption explaining that darkening reflects use history and pupal lining but is not, by itself, a diagnosis of disease or contamination. The selected A_CORE set is now **31/31 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_18.md`.
 
+**Layout-prep 19 update:** P38.01 (Robbing Entrance Signs) now uses a clean real still extracted from Peck & Seeley's PLOS ONE S1 Video documenting intense robbing at a mite-weakened hive entrance. The selected 1280×720 frame at 24.72 s contains no added labels or arrows and is placed in Chapter 38. The caption explicitly warns that heavy traffic in a single still does not by itself distinguish robbing from orientation flights. The selected A_CORE set is now **32/32 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_19.md`.
+
 ---
 
 ## 1. Photograph Selection Rules

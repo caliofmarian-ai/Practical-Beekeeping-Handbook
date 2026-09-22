@@ -527,11 +527,16 @@
       "working_title": "Robbing Entrance Signs",
       "shot_brief": "Only if safely captured; fighting/wax debris context. Caption explicitly differentiates from orientation flights.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_DOCUMENTED_REAL_EVENT",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p38-01-intense-robbing-entrance.jpg",
+      "source_sha256": "c76dd122e24f85f5a7580c3c0b7844ebaedd7f0de3190dc6383417be32b2f157",
+      "source_width_px": 1280,
+      "source_height_px": 720,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P38.02",
@@ -1450,13 +1455,13 @@
     }
   ],
   "generated_date": "2026-09-20",
-  "photo_source_ready_count": 31,
+  "photo_source_ready_count": 32,
   "current_v1_status": {
     "status": "A_CORE_SOURCING_AND_PLACEMENT_IN_PROGRESS",
     "a_core_selected_count": 40,
-    "source_file_ready_and_chapter_placed_count": 31,
-    "a_core_remaining_count": 9,
+    "source_file_ready_and_chapter_placed_count": 32,
+    "a_core_remaining_count": 8,
     "final_layout_proof_status": "PENDING",
-    "last_verified": "2026-09-22"
+    "last_verified": "2026-09-23"
   }
 }
