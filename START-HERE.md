@@ -46,3 +46,8 @@ During drafting, use a figure placeholder:
 - docs/standards/ILLUSTRATION_STANDARDS.md
 - docs/standards/TABLE_STANDARDS.md
 - docs/standards/CITATION_GUIDE.md
+
+
+## Operational Control
+
+- `docs/CENTRAL_ORCHESTRATOR.md` — current verified project baseline, source-of-truth hierarchy, execution order, QA gates, and autonomous operating rules.
