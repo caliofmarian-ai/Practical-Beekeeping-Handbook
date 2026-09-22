@@ -1188,14 +1188,19 @@
       "working_title": "Wax Rendering Streams",
       "shot_brief": "Clean cappings, light super comb, dark brood comb and resulting wax separated physically. ---",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_PROCESS_CONTEXT",
       "final_asset_path": null,
       "priority_score": 5,
       "editorial_priority": "A_CORE",
-      "selection_status": "SOURCE_OR_CREATE"
+      "selection_status": "SOURCE_OR_CREATE",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p54-01-beeswax-melting.jpg",
+      "source_sha256": "ca0eebf850897a71bbc3f4e156b25ce5bc0f0bb66006b503615b81c9b690e907",
+      "source_width_px": 1280,
+      "source_height_px": 851,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P55.01",
@@ -1745,8 +1750,8 @@
   "current_v1_status": {
     "status": "A_CORE_SOURCING_AND_PLACEMENT_IN_PROGRESS",
     "selected_count": 40,
-    "source_file_ready_and_chapter_placed_count": 33,
-    "remaining_count": 7,
+    "source_file_ready_and_chapter_placed_count": 34,
+    "remaining_count": 6,
     "final_layout_proof_status": "PENDING",
     "last_verified": "2026-09-23"
   }
