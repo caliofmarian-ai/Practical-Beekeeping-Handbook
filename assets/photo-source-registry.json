@@ -707,9 +707,30 @@
           "technical_note": "Clean real clinical photograph showing the characteristic sac-like larval form. Caption must identify Apis cerana and avoid treating a photograph alone as definitive diagnosis.",
           "resolution_status": "NATIVE_EXTRACTION_PENDING",
           "extraction_page": 2,
-          "extraction_selector": "first_large_raster_on_page"
+          "extraction_selector": "first_large_raster_on_page",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p39-03-sacbrood-larva-clinical.jpg",
+          "source_sha256": "622cc6f9848067c75627678653a660d40d11ba5f92575f15d52d7ad615f17aed",
+          "downloaded_width_px": 534,
+          "downloaded_height_px": 493,
+          "downloaded_bytes": 45062,
+          "resolution_gate_pass": false,
+          "placement_status": "HOLD_RESOLUTION",
+          "extraction_record": {
+            "xref": 71,
+            "bbox": [
+              169.96400451660156,
+              210.27401733398438,
+              403.90399169921875,
+              426.2740173339844
+            ],
+            "embedded_width_px": 534,
+            "embedded_height_px": 493,
+            "qualifying_image_count": 1
+          }
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_DOWNLOADED_HOLD",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p39-03-sacbrood-larva-clinical.jpg"
     },
     {
       "asset_id": "P40.01",

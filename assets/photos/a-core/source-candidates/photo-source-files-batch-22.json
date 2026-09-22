@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-22",
+  "policy": {
+    "embedded_raster_extracted_without_resampling": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 0,
+  "resolution_hold_count": 1,
+  "assets": [
+    {
+      "asset_id": "P39.03",
+      "photo_id": "39.3",
+      "title": "Sacbrood Example",
+      "source_page_url": "https://www.mdpi.com/1999-4915/14/9/1871",
+      "source_document_url": "https://mdpi-res.com/d_attachment/viruses/viruses-14-01871/article_deploy/viruses-14-01871.pdf",
+      "source_figure": "Figure 1",
+      "page_number": 2,
+      "repository_path": "assets/photos/a-core/source-candidates/p39-03-sacbrood-larva-clinical.jpg",
+      "sha256": "622cc6f9848067c75627678653a660d40d11ba5f92575f15d52d7ad615f17aed",
+      "bytes": 45062,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 534,
+      "height_px": 493,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 1.78,
+        "height_in": 1.64,
+        "width_mm": 45.2,
+        "height_mm": 41.7
+      },
+      "minimum_width_px": 700,
+      "minimum_height_px": 500,
+      "resolution_gate_pass": false,
+      "placement_status": "HOLD_RESOLUTION",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "creator": "Xiaoqing Li; figure published in Wei et al. (2022)",
+      "credit": "Photo by Xiaoqing Li; source: Wei et al., Viruses 14 (2022) 1871, Figure 1, CC BY 4.0; indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_basis": "The article is distributed under Creative Commons Attribution 4.0 and Figure 1 is presented as article content with photographer credit and no separate restrictive licence notice.",
+      "extraction": {
+        "xref": 71,
+        "bbox": [
+          169.96400451660156,
+          210.27401733398438,
+          403.90399169921875,
+          426.2740173339844
+        ],
+        "embedded_width_px": 534,
+        "embedded_height_px": 493,
+        "qualifying_image_count": 1
+      }
+    }
+  ]
+}
