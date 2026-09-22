@@ -60,6 +60,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 17 update:** P39.03 (Sacbrood Example) now uses a clean real CC BY 4.0 clinical photograph credited to Xiaoqing Li and published in Wei et al. (2022). The native 534×493 raster is deliberately restricted to a small single-column placement (about 45.2×41.7 mm at 300 ppi), with no upscaling. It is placed in Chapter 39 and explicitly identified as *Apis cerana*; the caption does not treat appearance alone as definitive diagnosis. The selected A_CORE set is now **30/30 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_17.md`.
 
+**Layout-prep 18 update:** P19.02 (Old Brood Comb) now uses Christopher Severn's real CC BY-SA 3.0 photograph of brood comb used through repeated brood cycles. The 2272×1704 source passes the intended single-column/medium gate and is placed in Chapter 19 with a caption explaining that darkening reflects use history and pupal lining but is not, by itself, a diagnosis of disease or contamination. The selected A_CORE set is now **31/31 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_18.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
