@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-22",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P19.02",
+      "photo_id": "19.2",
+      "chapter": 19,
+      "chapter_path": "chapters/chapter-19.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p19-02-old-brood-comb.jpg",
+      "alt_text": "Repeatedly used dark brood comb showing retained pupal lining inside the cells",
+      "caption": "Repeatedly used brood comb. Darker cell interiors show retained pupal lining from repeated brood cycles; colour alone is not a diagnosis of disease, residues or contamination.",
+      "credit": "Photo: Christopher Severn, CC BY-SA 3.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "single-column-or-medium",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF",
+      "editorial_boundary": "Use history and pupal lining are visible; do not infer disease, pesticide residues, treatment residues or contamination from colour alone."
+    }
+  ]
+}
