@@ -10,11 +10,11 @@
       "source_document_url": "https://mdpi-res.com/d_attachment/viruses/viruses-14-01871/article_deploy/viruses-14-01871.pdf",
       "page_number": 2,
       "image_rank": 0,
-      "minimum_width_px": 700,
-      "minimum_height_px": 500,
-      "placement_intent": "single-column-or-medium"
+      "minimum_width_px": 500,
+      "minimum_height_px": 450,
+      "placement_intent": "small-single-column-only"
     }
   ],
-  "run_revision": 1,
+  "run_revision": 2,
   "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-22.json"
 }
