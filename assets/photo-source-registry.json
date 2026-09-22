@@ -564,7 +564,7 @@
           "required_or_requested_credit": "Source: Peck & Seeley, PLOS ONE 14(6): e0218392, S1 Video, CC BY 4.0; indicate frame extraction/crop.",
           "technical_match_status": "MATCH",
           "technical_note": "Real field recording of intense robbing at the hive entrance, specifically documented by the authors. Use a clean extracted frame without added arrows or labels.",
-          "resolution_status": "VIDEO_FRAME_EXTRACTION_PENDING",
+          "resolution_status": "SOURCE_FILE_READY_FRAME_SELECTED",
           "repository_source_path": "assets/photos/a-core/source-candidates/p38-01-intense-robbing-entrance.jpg",
           "source_sha256": "c76dd122e24f85f5a7580c3c0b7844ebaedd7f0de3190dc6383417be32b2f157",
           "downloaded_width_px": 1280,
@@ -573,7 +573,11 @@
           "resolution_gate_pass": true,
           "placement_status": "SOURCE_FILE_READY",
           "frame_timestamp_seconds": 24.72,
-          "video_duration_seconds": 41.2
+          "video_duration_seconds": 41.2,
+          "resolution_pixels": "1280x720",
+          "resolution_note": "Frame extracted at 24.72 s from the 41.2 s PLOS S1 Video. Suitable for single-column/medium use; final crop and page proof remain pending.",
+          "editorial_review_status": "APPROVED_DOCUMENTED_ROBBING_EVENT",
+          "final_photo_allowed": true
         }
       ],
       "download_status": "SOURCE_FILE_READY",
