@@ -182,6 +182,7 @@ def main():
             rights.startswith("VERIFIED_PUBLIC_DOMAIN")
             or rights.startswith("VERIFIED_CC0")
             or rights.startswith("VERIFIED_CC_BY")
+            or rights == "VERIFIED_US_FEDERAL_GOVERNMENT_WORK"
         ):
             raise RuntimeError(f"{asset_id} rights not cleared for fetch: {rights}")
 
