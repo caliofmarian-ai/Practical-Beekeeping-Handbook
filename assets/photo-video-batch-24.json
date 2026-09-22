@@ -8,12 +8,12 @@
       "slug": "intense-robbing-entrance",
       "source_page_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218392",
       "direct_video_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0218392.s004&type=supplementary",
-      "timestamp_fraction": 0.4,
+      "timestamp_fraction": 0.6,
       "minimum_width_px": 900,
       "minimum_height_px": 500,
       "placement_intent": "single-column-or-medium"
     }
   ],
-  "run_revision": 1,
+  "run_revision": 2,
   "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-24.json"
 }
