@@ -8,8 +8,8 @@
     "rights_and_technical_review_remain_required": true
   },
   "asset_count": 1,
-  "resolution_pass_count": 0,
-  "resolution_hold_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
   "assets": [
     {
       "asset_id": "P39.03",
@@ -33,10 +33,10 @@
         "width_mm": 45.2,
         "height_mm": 41.7
       },
-      "minimum_width_px": 700,
-      "minimum_height_px": 500,
-      "resolution_gate_pass": false,
-      "placement_status": "HOLD_RESOLUTION",
+      "minimum_width_px": 500,
+      "minimum_height_px": 450,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
       "rights_status": "VERIFIED_CC_BY_4_0",
       "creator": "Xiaoqing Li; figure published in Wei et al. (2022)",
       "credit": "Photo by Xiaoqing Li; source: Wei et al., Viruses 14 (2022) 1871, Figure 1, CC BY 4.0; indicate modifications.",
