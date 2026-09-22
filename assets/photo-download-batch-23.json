@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-23",
+  "purpose": "Fetch and validate P19.02 old brood comb photograph from a rights-cleared Wikimedia Commons source.",
+  "assets": [
+    {
+      "asset_id": "P19.02",
+      "slug": "old-brood-comb",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Brood_Comb_that_has_been_used_several_times.JPG",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brood_Comb_that_has_been_used_several_times.JPG",
+      "minimum_width_px": 1200,
+      "minimum_height_px": 900,
+      "placement_intent": "single-column-or-medium"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-23.json"
+}
