@@ -705,7 +705,7 @@
           "required_or_requested_credit": "Photo by Xiaoqing Li; source: Wei et al., Viruses 14 (2022) 1871, Figure 1, CC BY 4.0; indicate modifications.",
           "technical_match_status": "MATCH",
           "technical_note": "Clean real clinical photograph showing the characteristic sac-like larval form. Caption must identify Apis cerana and avoid treating a photograph alone as definitive diagnosis.",
-          "resolution_status": "NATIVE_EXTRACTION_PENDING",
+          "resolution_status": "SOURCE_FILE_READY_SMALL_PLACEMENT",
           "extraction_page": 2,
           "extraction_selector": "first_large_raster_on_page",
           "repository_source_path": "assets/photos/a-core/source-candidates/p39-03-sacbrood-larva-clinical.jpg",
@@ -726,7 +726,11 @@
             "embedded_width_px": 534,
             "embedded_height_px": 493,
             "qualifying_image_count": 1
-          }
+          },
+          "resolution_pixels": "534x493",
+          "resolution_note": "Native publisher-PDF raster is 534×493 px, about 45.2×41.7 mm at 300 ppi. Use only as a small single-column clinical reference; no upscaling.",
+          "editorial_review_status": "APPROVED_SMALL_CLINICAL_REFERENCE",
+          "final_photo_allowed": true
         }
       ],
       "download_status": "SOURCE_FILE_READY",
