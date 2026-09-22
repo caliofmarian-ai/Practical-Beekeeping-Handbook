@@ -1,6 +1,6 @@
 # Visual Index
 
-**Status:** A_CORE production complete — final reconciliation pending
+**Status:** A_CORE production and PBH-v1 reconciliation complete — layout proof pending
 **Wave 01 A_CORE coverage:** 68 / 68
 **Wave 02 A_CORE coverage:** 60 / 60
 **Wave 03 A_CORE coverage:** 21 / 21
@@ -37,7 +37,16 @@ Colour remains supplementary: labels, borders, shape logic and captions preserve
 - [Wave 09](visual-index/wave-09.md)
 
 ## Next mandatory phase
-A_CORE creation is complete. Final publication readiness now requires the full-book cross-wave reconciliation defined in:
+A_CORE creation and the full-book PBH-v1 cross-wave reconciliation are complete. Final publication readiness now requires:
+
+1. resolve the remaining A_CORE photographic sourcing/capture queue;
+2. place selected diagrams/illustrations in real chapter/page context;
+3. verify long labels, captions and callouts at final print size;
+4. build and inspect PDF, EPUB and print proofs;
+5. convert the semantic index to verified page locators after pagination stabilises.
+
+The governing visual specification remains:
 - [Visual System Reconciliation v1](../docs/standards/VISUAL_SYSTEM_RECONCILIATION_V1.md)
 
-The reconciliation must normalise colour, typography, line weights, arrows, recurring biological/mechanical masters, accessibility, provenance, greyscale, print size and page-layout behaviour across all production tools and waves.
+The completed reconciliation gate is documented in:
+- [Visual Editorial Spot-Check — PBH-v1](../docs/reviews/VISUAL_EDITORIAL_SPOTCHECK.md)
