@@ -941,14 +941,18 @@
           "required_or_requested_credit": "Photo by Mona Chambers, USDA Agricultural Research Service.",
           "technical_match_status": "MATCH_RESULT_FOCUSED",
           "technical_note": "Real endpoint of an official ARS alcohol-wash procedure showing the colander/tray and recovered mites. The chapter's technical diagram already covers the full equipment/procedure sequence, so this photograph supplies the real result without duplicating the diagram.",
-          "resolution_status": "SOURCE_FETCH_PENDING",
+          "resolution_status": "SOURCE_FILE_READY_SMALL_SINGLE_COLUMN",
           "repository_source_path": "assets/photos/a-core/source-candidates/p41-01-varroa-alcohol-wash-result.png",
           "source_sha256": "77328e5e1051f7572a290ca827cb2a234f24b2f209d526937a8be82af25b3b19",
           "downloaded_width_px": 649,
           "downloaded_height_px": 721,
           "downloaded_bytes": 735588,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_pixels": "649x721",
+          "resolution_note": "Official USDA ARS PNG is 649×721 px, about 54.9×61.0 mm at 300 ppi. Use as a small single-column result photograph; final crop/page proof pending.",
+          "editorial_review_status": "APPROVED_RESULT_FOCUSED",
+          "final_photo_allowed": true
         }
       ],
       "download_status": "SOURCE_FILE_READY",
