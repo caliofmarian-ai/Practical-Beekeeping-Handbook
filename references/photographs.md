@@ -58,6 +58,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 16 update:** P59.01 (Venom Collection Device) now uses a clean real CC BY 4.0 field photograph extracted without resampling from Figure 6 of Serrinha, Correia & Marques (2019). The 1496×1256 image replaces the earlier annotated figure for final handbook use; the annotated image remains reference-only. P59.01 is placed in Chapter 59 immediately before the no-DIY-circuit warning. The selected A_CORE set is now **29/29 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_16.md`.
 
+**Layout-prep 17 update:** P39.03 (Sacbrood Example) now uses a clean real CC BY 4.0 clinical photograph credited to Xiaoqing Li and published in Wei et al. (2022). The native 534×493 raster is deliberately restricted to a small single-column placement (about 45.2×41.7 mm at 300 ppi), with no upscaling. It is placed in Chapter 39 and explicitly identified as *Apis cerana*; the caption does not treat appearance alone as definitive diagnosis. The selected A_CORE set is now **30/30 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_17.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
