@@ -325,6 +325,10 @@ Possible signs include:
 - a sac-like larval form that can sometimes be lifted from the cell;
 - scattered affected brood.
 
+![Sacbrood-affected Apis cerana larva held with tweezers, showing the characteristic sac-like body](../assets/photos/a-core/source-candidates/p39-03-sacbrood-larva-clinical.jpg)
+
+*Photo 39.3 — Sacbrood larva. This real clinical photograph shows the characteristic sac-like form in* Apis cerana. *Comparable signs in honey-bee brood should be interpreted with the colony pattern and other findings; a photograph alone is not definitive diagnosis. Photo by Xiaoqing Li; source: Wei et al.,* Viruses *14 (2022), Figure 1, CC BY 4.0.*
+
 Mild sacbrood can occur without colony-level collapse. Persistent or extensive signs require investigation of colony stress, queen performance, nutrition, and other health problems.
 
 ## 39.14 Nosemosis

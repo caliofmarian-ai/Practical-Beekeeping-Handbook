@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-22",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P39.03",
+      "photo_id": "39.3",
+      "chapter": 39,
+      "chapter_path": "chapters/chapter-39.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p39-03-sacbrood-larva-clinical.jpg",
+      "alt_text": "Sacbrood-affected Apis cerana larva held with tweezers, showing the characteristic sac-like body",
+      "caption": "Real clinical sacbrood reference in Apis cerana. Comparable brood signs must be interpreted with colony pattern and other findings; the image alone is not definitive diagnosis.",
+      "credit": "Photo by Xiaoqing Li; source: Wei et al., Viruses 14 (2022), Figure 1, CC BY 4.0.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "small-single-column-only",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF",
+      "technical_boundary": "Native raster 534×493 px; no upscaling; intended maximum around 45 mm wide at 300 ppi.",
+      "diagnostic_boundary": "Species is Apis cerana; visual appearance is an educational clinical reference, not a standalone definitive diagnosis."
+    }
+  ]
+}
