@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-25",
+  "purpose": "Fetch and validate P41.01 real USDA ARS alcohol-wash result photograph showing recovered Varroa mites.",
+  "assets": [
+    {
+      "asset_id": "P41.01",
+      "slug": "varroa-alcohol-wash-result",
+      "source_page_url": "https://www.ars.usda.gov/pacific-west-area/tucson-az/carl-hayden-bee-research-center/research/varroa/how-to-monitor-sample-and-treat-for-varroa/alcohol-wash/",
+      "direct_image_url": "https://www.ars.usda.gov/ARSUserFiles/20220500/Varroa/Alcohol%20Wash/5%20-%20Mites.png",
+      "minimum_width_px": 600,
+      "minimum_height_px": 600,
+      "placement_intent": "small-single-column"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-25.json"
+}
