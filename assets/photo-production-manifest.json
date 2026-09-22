@@ -237,11 +237,16 @@
       "working_title": "Old Brood Comb",
       "shot_brief": "Darkened comb showing cocoon accumulation for comparison with new honey comb.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
-      "final_asset_path": null
+      "rights_status": "VERIFIED_CC_BY_SA_3_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS",
+      "final_asset_path": null,
+      "repository_source_path": "assets/photos/a-core/source-candidates/p19-02-old-brood-comb.jpg",
+      "source_sha256": "7b96ab1875a48e6a7ac274075d1df9bca9511fb67cf8f7cca88233e02c6158d3",
+      "source_width_px": 2272,
+      "source_height_px": 1704,
+      "placement_intent": "single-column-or-medium"
     },
     {
       "asset_id": "P20.01",
@@ -1445,12 +1450,12 @@
     }
   ],
   "generated_date": "2026-09-20",
-  "photo_source_ready_count": 30,
+  "photo_source_ready_count": 31,
   "current_v1_status": {
     "status": "A_CORE_SOURCING_AND_PLACEMENT_IN_PROGRESS",
     "a_core_selected_count": 40,
-    "source_file_ready_and_chapter_placed_count": 30,
-    "a_core_remaining_count": 10,
+    "source_file_ready_and_chapter_placed_count": 31,
+    "a_core_remaining_count": 9,
     "final_layout_proof_status": "PENDING",
     "last_verified": "2026-09-22"
   }
