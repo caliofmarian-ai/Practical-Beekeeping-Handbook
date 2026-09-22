@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - "assets/photo-download-batch-*.json"
-      - "assets/photo-extract-batch-*.json"
+      - "assets/photo-extract-batch-*.json"\n      - "assets/photo-video-batch-*.json"
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
           ref: ${{ github.head_ref }}
           fetch-depth: 0
       - name: Install image validators
-        run: python3 -m pip install --quiet pillow pymupdf
+        run: python3 -m pip install --quiet pillow pymupdf opencv-python-headless
       - name: Select photo batch config
         id: batch
         shell: bash
