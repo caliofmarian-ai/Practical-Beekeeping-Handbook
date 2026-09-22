@@ -1320,6 +1320,10 @@ Old brood comb may contain:
 - pathogen material.
 - reduced cell volume.
 
+![Repeatedly used dark brood comb showing retained pupal lining inside the cells](../assets/photos/a-core/source-candidates/p19-02-old-brood-comb.jpg)
+
+*Photo 19.2 — Repeatedly used brood comb. The darker cell interiors show accumulated pupal lining from repeated brood cycles. Dark colour demonstrates use history but does not by itself diagnose disease, pesticide residues, treatment residues, or contamination. Photo by Christopher Severn, CC BY-SA 3.0.*
+
 A planned replacement programme improves comb management.
 
 ---
