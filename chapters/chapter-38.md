@@ -255,6 +255,10 @@ Robbing can destroy a weak colony rapidly and spread pathogens and mites between
 - unusually defensive behaviour;
 - rapid loss of stores.
 
+![Honey bees in rapid flight and clustered at a hive entrance during a documented episode of intense robbing](../assets/photos/a-core/source-candidates/p38-01-intense-robbing-entrance.jpg)
+
+*Photo 38.1 — Hive entrance during a documented episode of intense robbing. This still was extracted from Peck and Seeley's field video of robber bees fighting with guard bees at a mite-weakened colony. Heavy entrance traffic in a single photograph is not, by itself, enough to distinguish robbing from orientation or normal flight; confirm with behaviour such as fighting, persistent attempts at cracks and edges, irregular side-to-side approaches, and loss of stores. Frame extracted from Peck & Seeley (2019), PLOS ONE S1 Video, CC BY 4.0.*
+
 ### Immediate response
 
 1. Stop exposing honey, syrup, or wet equipment.
