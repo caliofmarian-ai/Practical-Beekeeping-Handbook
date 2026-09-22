@@ -1574,8 +1574,8 @@
           "required_or_requested_credit": "Photo: Simon A. Eugster, CC BY-SA 3.0; link source/license and indicate modifications.",
           "technical_match_status": "MATCH_PROCESS_CONTEXT",
           "technical_note": "Real high-resolution beeswax-melting photograph. The chapter's canonical source-stream diagram teaches cappings/light-comb/dark-brood separation; this photograph supplies real rendering-process context without pretending to show all source streams simultaneously.",
-          "resolution_pixels": "3008x2000",
-          "resolution_status": "PRINT_READY_SOURCE",
+          "resolution_pixels": "1280x851",
+          "resolution_status": "SOURCE_FILE_READY",
           "download_variant_note": "Official 1280px Wikimedia derivative selected for reproducible acquisition; corrected from the Commons file page's canonical hash path.",
           "download_variant_pixels": "1280x851",
           "repository_source_path": "assets/photos/a-core/source-candidates/p54-01-beeswax-melting.jpg",
@@ -1584,7 +1584,10 @@
           "downloaded_height_px": 851,
           "downloaded_bytes": 129076,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Official 1280px Wikimedia derivative is 1280×851 px, about 108.4×72.1 mm at 300 ppi; suitable for single-column/medium placement.",
+          "editorial_review_status": "APPROVED_RENDERING_PROCESS_CONTEXT",
+          "final_photo_allowed": true
         }
       ],
       "download_status": "SOURCE_FILE_READY",
