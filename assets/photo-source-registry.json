@@ -566,13 +566,13 @@
           "technical_note": "Real field recording of intense robbing at the hive entrance, specifically documented by the authors. Use a clean extracted frame without added arrows or labels.",
           "resolution_status": "VIDEO_FRAME_EXTRACTION_PENDING",
           "repository_source_path": "assets/photos/a-core/source-candidates/p38-01-intense-robbing-entrance.jpg",
-          "source_sha256": "c7ea679cf2f179b808e6b7db51e8c20afc09bfcd1beb08bdf4ebb0c92a077466",
+          "source_sha256": "c76dd122e24f85f5a7580c3c0b7844ebaedd7f0de3190dc6383417be32b2f157",
           "downloaded_width_px": 1280,
           "downloaded_height_px": 720,
-          "downloaded_bytes": 246079,
+          "downloaded_bytes": 245946,
           "resolution_gate_pass": true,
           "placement_status": "SOURCE_FILE_READY",
-          "frame_timestamp_seconds": 16.48,
+          "frame_timestamp_seconds": 24.72,
           "video_duration_seconds": 41.2
         }
       ],
