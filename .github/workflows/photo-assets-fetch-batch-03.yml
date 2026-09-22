@@ -6,7 +6,8 @@ on:
       - main
     paths:
       - "assets/photo-download-batch-*.json"
-      - "assets/photo-extract-batch-*.json"\n      - "assets/photo-video-batch-*.json"
+      - "assets/photo-extract-batch-*.json"
+      - "assets/photo-video-batch-*.json"
 
 permissions:
   contents: write
@@ -28,7 +29,7 @@ jobs:
         shell: bash
         run: |
           changed="$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}")"
-          mapfile -t configs < <(printf '%s\n' "$changed" | grep -E '^assets/photo-(download|extract)-batch-[0-9]+\.json$' || true)
+          mapfile -t configs < <(printf '%s\n' "$changed" | grep -E '^assets/photo-(download|extract|video)-batch-[0-9]+\.json$' || true)
           if [ "${#configs[@]}" -ne 1 ]; then
             printf 'Expected exactly one changed photo batch config, found %s: %s\n' "${#configs[@]}" "${configs[*]}" >&2
             exit 1
@@ -37,6 +38,8 @@ jobs:
           echo "config=$config" >> "$GITHUB_OUTPUT"
           if [[ "$config" == assets/photo-extract-batch-* ]]; then
             echo "mode=pdf" >> "$GITHUB_OUTPUT"
+          elif [[ "$config" == assets/photo-video-batch-* ]]; then
+            echo "mode=video" >> "$GITHUB_OUTPUT"
           else
             echo "mode=image" >> "$GITHUB_OUTPUT"
           fi
@@ -45,6 +48,8 @@ jobs:
         run: |
           if [ "${{ steps.batch.outputs.mode }}" = "pdf" ]; then
             python3 scripts/extract_pdf_photo_asset.py "${{ steps.batch.outputs.config }}"
+          elif [ "${{ steps.batch.outputs.mode }}" = "video" ]; then
+            python3 scripts/extract_video_frame_asset.py "${{ steps.batch.outputs.config }}"
           else
             python3 scripts/fetch_photo_assets.py "${{ steps.batch.outputs.config }}"
           fi
