@@ -1440,5 +1440,13 @@
     }
   ],
   "generated_date": "2026-09-20",
-  "photo_source_ready_count": 11
+  "photo_source_ready_count": 29,
+  "current_v1_status": {
+    "status": "A_CORE_SOURCING_AND_PLACEMENT_IN_PROGRESS",
+    "a_core_selected_count": 40,
+    "source_file_ready_and_chapter_placed_count": 29,
+    "a_core_remaining_count": 11,
+    "final_layout_proof_status": "PENDING",
+    "last_verified": "2026-09-22"
+  }
 }
