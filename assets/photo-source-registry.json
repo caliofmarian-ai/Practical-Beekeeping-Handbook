@@ -1418,7 +1418,7 @@
           "recommendation": "PRIMARY_CANDIDATE_FIELD_HANDLING_CONTEXT",
           "institution": "Wikimedia Commons / original Wikipedia contributor",
           "source_page_url": "https://commons.wikimedia.org/wiki/File:Bee_blower_9124.JPG",
-          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Bee_blower_9124.JPG",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bee_blower_9124.JPG/500px-Bee_blower_9124.JPG",
           "source_image_id": "Bee blower 9124.JPG",
           "creator": "Pollinator",
           "source_caption": "Using a blower to clear bees from honey supers before loading on truck.",
@@ -1429,9 +1429,9 @@
           "technical_match_status": "MATCH_FIELD_HANDLING_CONTEXT",
           "technical_note": "Authentic harvest-super handling immediately before loading. Use for field handling/transport context only. It does not show hygienic top/bottom covers; the caption and text must state that supers should be covered/protected promptly after bee clearance.",
           "resolution_pixels": "998x1331",
-          "resolution_status": "ORIGINAL_FETCH_PENDING",
-          "download_variant_note": "Canonical Wikimedia original verified from the Commons file page: 998×1331 px at /0/03/. Earlier /9/9d path was incorrect; 900px derivative was not an allowed thumbnail size.",
-          "download_variant_pixels": "998x1331"
+          "resolution_status": "SMALL_PLACEMENT_FETCH_PENDING",
+          "download_variant_note": "Official Wikimedia 500px preview selected because the original upload is repeatedly rate-limited for GitHub Actions. Intended only for small single-column placement; no upscaling.",
+          "download_variant_pixels": "500x667"
         }
       ]
     },
