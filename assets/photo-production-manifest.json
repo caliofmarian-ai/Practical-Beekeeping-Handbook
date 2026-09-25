@@ -546,10 +546,10 @@
       "working_title": "Storm-Damaged Hive",
       "shot_brief": "Documentary image only if naturally available; do not damage equipment for staging. ---",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "EDITORIALLY_OMITTED_V1",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_review_status": "EDITORIAL_RATIONALISATION",
       "final_asset_path": null
     },
     {
@@ -1036,10 +1036,10 @@
       "working_title": "Cappings Wax and Brood Wax Blocks",
       "shot_brief": "Colour/source comparison with provenance, not a “purity by colour” claim.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "EDITORIALLY_OMITTED_V1",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_review_status": "EDITORIAL_RATIONALISATION",
       "final_asset_path": null
     },
     {
@@ -1144,10 +1144,10 @@
       "working_title": "Royal Jelly Cold Chain",
       "shot_brief": "Clean food-grade collection container immediately entering controlled cold storage.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "EDITORIALLY_OMITTED_V1",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_review_status": "EDITORIAL_RATIONALISATION",
       "final_asset_path": null
     },
     {
@@ -1468,11 +1468,11 @@
   "photo_source_ready_count": 34,
   "current_v1_status": {
     "status": "A_CORE_SOURCING_AND_PLACEMENT_IN_PROGRESS",
-    "a_core_selected_count": 39,
+    "a_core_selected_count": 36,
     "source_file_ready_and_chapter_placed_count": 34,
-    "a_core_remaining_count": 5,
+    "a_core_remaining_count": 2,
     "final_layout_proof_status": "PENDING",
     "last_verified": "2026-09-25",
-    "rationalisation_note": "P52.02 demoted from A_CORE because existing Photo 52.1 and Figure 52.9 already cover its teaching purpose."
+    "rationalisation_note": "P38.02, P55.02 and P58.02 demoted from A_CORE after full-book visual-overlap review."
   }
 }
