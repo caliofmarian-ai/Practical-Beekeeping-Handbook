@@ -68,6 +68,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **V1 rationalisation update:** P52.02 (Comb-Honey Defect Examples) is no longer A_CORE. Photo 52.1 already provides the real complete-versus-unfinished Ross Round comparison, while Figure 52.9 is the canonical ten-item defect atlas. Producing a second A_CORE defect photograph would duplicate teaching value rather than improve the chapter. The current Version 1 selection is therefore **39 A_CORE / 25 B_SUPPORTING / 29 C_OPTIONAL**, with **34/39 A_CORE source files ready and placed** and **5 A_CORE positions remaining**. See `docs/reviews/PHOTO_RATIONALISATION_V1.md`.
 
+**Final V1 rationalisation update:** P38.02 (Storm-Damaged Hive), P55.02 (Cappings Wax and Brood Wax Blocks), and P58.02 (Royal Jelly Cold Chain) are demoted from A_CORE after full-book overlap review. Existing PBH-v1 diagrams and photographs teach their decisions more clearly, while the proposed photographs would add limited or potentially misleading visual value. The selected Version 1 photo set is now **36 A_CORE / 25 B_SUPPORTING / 32 C_OPTIONAL**, with **34/36 A_CORE ready and placed** and only **2 A_CORE positions remaining**: P48.03 and P59.02. See `docs/reviews/PHOTO_RATIONALISATION_V1_FINAL.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
