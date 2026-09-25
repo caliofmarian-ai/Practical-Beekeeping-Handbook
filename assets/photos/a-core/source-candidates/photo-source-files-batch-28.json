@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-28",
+  "policy": {
+    "files_are_unmodified_source_candidates": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P48.03",
+      "photo_id": "48.3",
+      "title": "Harvest Super Handling Before Transport",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Bee_blower_9124.JPG",
+      "direct_image_url": "https://www.marefa.org/w/images/0/03/Bee_blower_9124.JPG",
+      "repository_path": "assets/photos/a-core/source-candidates/p48-03-harvest-super-handling.jpg",
+      "sha256": "6751314438c69334fa7643a81e83b1fe1a242e049bd6f1e6a5d05daeb0bd8ee3",
+      "bytes": 61971,
+      "format": "JPEG",
+      "mode": "RGB",
+      "width_px": 449,
+      "height_px": 599,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 1.5,
+        "height_in": 2.0,
+        "width_mm": 38.0,
+        "height_mm": 50.7
+      },
+      "minimum_width_px": 430,
+      "minimum_height_px": 570,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_2_5",
+      "creator": "Pollinator",
+      "credit": "Photo: Pollinator, CC BY 2.5; link source/license and indicate modifications.",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/",
+      "rights_basis": "Commons file page records Creative Commons Attribution 2.5 Generic (with additional migrated licensing options).",
+      "source_image_id": "Bee blower 9124.JPG"
+    }
+  ]
+}

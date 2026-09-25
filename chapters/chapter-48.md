@@ -489,6 +489,10 @@ Risks and limitations:
 
 Combustion-engine exhaust must never be directed onto food-contact surfaces or honey.
 
+![Beekeeper using a blower to clear bees from a honey super during harvest](../assets/photos/a-core/source-candidates/p48-03-harvest-super-handling.jpg)
+
+*Photo 48.3 — Bee removal from a honey super during harvest. This real field photograph shows a blower being used immediately before supers are moved for transport. It documents handling context, not the complete hygienic transport system: after bee clearance, each food super should be protected promptly with clean food-safe top and bottom covers, kept off dirty ground, protected from rain, dust, exhaust and robbing, and moved in a suitable clean vehicle. Photo by Pollinator, CC BY 2.5.*
+
 ## 48.33 Chemical Bee Repellents
 
 Some jurisdictions permit particular bee-repellent products for harvest, while others restrict or discourage them.

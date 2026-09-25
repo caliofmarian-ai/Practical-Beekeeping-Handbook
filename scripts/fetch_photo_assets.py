@@ -33,6 +33,7 @@ ALLOWED_HOSTS = {
     "upload.wikimedia.org",
     "thumb.wikimedia.org",
     "cdn.ncbi.nlm.nih.gov",
+    "www.marefa.org",
 }
 MAX_BYTES = 30 * 1024 * 1024
 MAX_FETCH_ATTEMPTS = 5
