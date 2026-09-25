@@ -1026,14 +1026,19 @@
       "working_title": "Harvest Super Handling Before Transport",
       "shot_brief": "Real harvest-super handling immediately before transport; text/caption must separately require clean food-safe covers/protection.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
+      "rights_status": "VERIFIED_CC_BY_2_5",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_SMALL_FIELD_CONTEXT",
       "final_asset_path": null,
       "priority_score": 3,
       "editorial_priority": "A_CORE",
-      "selection_status": "SOURCE_OR_CREATE"
+      "selection_status": "SOURCE_OR_CREATE",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p48-03-harvest-super-handling.jpg",
+      "source_sha256": "6751314438c69334fa7643a81e83b1fe1a242e049bd6f1e6a5d05daeb0bd8ee3",
+      "source_width_px": 449,
+      "source_height_px": 599,
+      "placement_intent": "small-single-column-only"
     },
     {
       "asset_id": "P49.01",
@@ -1750,10 +1755,9 @@
   "current_v1_status": {
     "status": "A_CORE_SOURCING_AND_PLACEMENT_IN_PROGRESS",
     "selected_count": 36,
-    "source_file_ready_and_chapter_placed_count": 34,
-    "remaining_count": 2,
+    "source_file_ready_and_chapter_placed_count": 35,
+    "remaining_count": 1,
     "final_layout_proof_status": "PENDING",
-    "last_verified": "2026-09-25",
-    "rationalisation_note": "P38.02, P55.02 and P58.02 demoted from A_CORE after full-book visual-overlap review."
+    "last_verified": "2026-09-25"
   }
 }
