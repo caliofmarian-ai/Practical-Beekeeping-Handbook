@@ -588,14 +588,15 @@
       "photo_id": "38.2",
       "chapter": 38,
       "title": "Storm-Damaged Hive",
-      "editorial_priority": "A_CORE",
+      "editorial_priority": "C_OPTIONAL",
       "source_class": "EVIDENCE_AUTHENTIC_ONLY",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "EDITORIALLY_OMITTED_V1",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_match_status": "EDITORIAL_RATIONALISATION",
       "selected_source": null,
-      "candidates": []
+      "candidates": [],
+      "editorial_note": "Figure 38.6 already teaches storm-damaged-hive recovery with clearer safety sequencing; a documentary storm photo adds context but little additional decision value."
     },
     {
       "asset_id": "P39.01",
@@ -1642,14 +1643,15 @@
       "photo_id": "55.2",
       "chapter": 55,
       "title": "Cappings Wax and Brood Wax Blocks",
-      "editorial_priority": "A_CORE",
+      "editorial_priority": "C_OPTIONAL",
       "source_class": "CONTROLLED_REAL_CAPTURE",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "EDITORIALLY_OMITTED_V1",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_match_status": "EDITORIAL_RATIONALISATION",
       "selected_source": null,
-      "candidates": []
+      "candidates": [],
+      "editorial_note": "Figures 55.2 and 55.3 plus Photos 19.2 and 55.1 already cover wax source/age; a colour comparison of wax blocks risks over-reading colour as purity or residue evidence."
     },
     {
       "asset_id": "P56.01",
@@ -1898,14 +1900,15 @@
       "photo_id": "58.2",
       "chapter": 58,
       "title": "Royal Jelly Cold Chain",
-      "editorial_priority": "A_CORE",
+      "editorial_priority": "C_OPTIONAL",
       "source_class": "CONTROLLED_REAL_CAPTURE",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "EDITORIALLY_OMITTED_V1",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_match_status": "EDITORIAL_RATIONALISATION",
       "selected_source": null,
-      "candidates": []
+      "candidates": [],
+      "editorial_note": "A container entering refrigeration has low standalone teaching value; cold-chain requirements are better conveyed by explicit storage guidance and quality-control text than by a visually generic refrigerator photograph."
     },
     {
       "asset_id": "P59.01",
