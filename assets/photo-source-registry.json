@@ -1538,14 +1538,15 @@
       "photo_id": "52.2",
       "chapter": 52,
       "title": "Comb-Honey Defect Examples",
-      "editorial_priority": "A_CORE",
+      "editorial_priority": "C_OPTIONAL",
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
+      "source_status": "EDITORIALLY_OMITTED_V1_DUPLICATE_COVERAGE",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_match_status": "DUPLICATE_COVERAGE",
       "selected_source": null,
-      "candidates": []
+      "candidates": [],
+      "editorial_note": "Omitted from Version 1 A_CORE. Photo 52.1 already shows fully finished versus unfinished Ross Round sections, while Figure 52.9 is the canonical multi-defect atlas. Reconsider only if final layout demonstrates a real information gap."
     },
     {
       "asset_id": "P54.01",
