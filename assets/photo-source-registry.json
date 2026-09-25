@@ -1541,11 +1541,28 @@
       "editorial_priority": "A_CORE",
       "source_class": "FIELD_PROCESS_AUTHENTIC",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
-      "candidates": []
+      "source_status": "CANDIDATE_IDENTIFIED",
+      "rights_status": "VERIFIED_PUBLIC_DOMAIN_CREATOR_RELEASE",
+      "technical_match_status": "MATCH_INCOMPLETE_SECTION_EXAMPLE",
+      "selected_source": "https://commons.wikimedia.org/wiki/File:Comb_honey.jpg",
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE_INCOMPLETE_SECTION_EXAMPLE",
+          "institution": "Wikimedia Commons / original photographer",
+          "source_page_url": "https://commons.wikimedia.org/wiki/File:Comb_honey.jpg",
+          "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Comb_honey.jpg",
+          "source_image_id": "Comb honey.jpg",
+          "creator": "Migco",
+          "source_caption": "Natural honey comb produced in Ross Round equipment: center comb is fully finished; right comb is unstarted.",
+          "rights_status": "VERIFIED_PUBLIC_DOMAIN_CREATOR_RELEASE",
+          "rights_basis": "The copyright holder explicitly released the own-work photograph into the public domain on Wikimedia Commons.",
+          "required_or_requested_credit": "Public-domain photograph by Migco; retain source/creator credit for provenance.",
+          "technical_match_status": "MATCH_INCOMPLETE_SECTION_EXAMPLE",
+          "technical_note": "Real side-by-side Ross Round example with a fully finished center comb and an unstarted/incomplete right comb. Use as one authentic incompleteness example; the chapter's defect-atlas diagram remains responsible for travel stain, pollen/propolis and heat/handling damage.",
+          "resolution_pixels": "1500x958",
+          "resolution_status": "PRINT_READY_SOURCE"
+        }
+      ]
     },
     {
       "asset_id": "P54.01",
