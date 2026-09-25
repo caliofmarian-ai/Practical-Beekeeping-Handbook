@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-28",
+  "purpose": "Fetch and validate P48.03 real harvest-super handling photograph before transport.",
+  "assets": [
+    {
+      "asset_id": "P48.03",
+      "slug": "harvest-super-handling",
+      "source_page_url": "https://commons.wikimedia.org/wiki/File:Bee_blower_9124.JPG",
+      "direct_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bee_blower_9124.JPG",
+      "minimum_width_px": 900,
+      "minimum_height_px": 1200,
+      "placement_intent": "small-single-column"
+    }
+  ],
+  "run_revision": 1,
+  "output_manifest": "assets/photos/a-core/source-candidates/photo-source-files-batch-28.json"
+}
