@@ -1428,8 +1428,8 @@
           "required_or_requested_credit": "Photo: Pollinator, CC BY 2.5; link source/license and indicate modifications.",
           "technical_match_status": "MATCH_FIELD_HANDLING_CONTEXT",
           "technical_note": "Authentic harvest-super handling immediately before loading. Use for field handling/transport context only. It does not show hygienic top/bottom covers; the caption and text must state that supers should be covered/protected promptly after bee clearance.",
-          "resolution_pixels": "998x1331",
-          "resolution_status": "SMALL_PLACEMENT_FETCH_PENDING",
+          "resolution_pixels": "449x599",
+          "resolution_status": "SOURCE_FILE_READY_SMALL_PLACEMENT",
           "download_variant_note": "Wikimedia upload host repeatedly returned HTTP 429 to GitHub Actions. Reproducible acquisition uses the Marefa mirror of the same 0/03 file at 449×599; rights are still derived from the Commons file page.",
           "download_variant_pixels": "449x599",
           "acquisition_mirror": "Marefa-hosted 449×599 copy of the same Commons file; licensing/provenance master remains Wikimedia Commons.",
@@ -1439,7 +1439,10 @@
           "downloaded_height_px": 599,
           "downloaded_bytes": 61971,
           "resolution_gate_pass": true,
-          "placement_status": "SOURCE_FILE_READY"
+          "placement_status": "SOURCE_FILE_READY",
+          "resolution_note": "Acquired from a documented mirror of the same Commons file because Wikimedia rate-limited GitHub Actions. Raster is 449×599 px, about 38.0×50.7 mm at 300 ppi; use only as a small single-column field-context photograph, with no upscaling.",
+          "editorial_review_status": "APPROVED_FIELD_HANDLING_CONTEXT",
+          "final_photo_allowed": true
         }
       ],
       "download_status": "SOURCE_FILE_READY",
