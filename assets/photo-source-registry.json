@@ -1432,9 +1432,18 @@
           "resolution_status": "SMALL_PLACEMENT_FETCH_PENDING",
           "download_variant_note": "Wikimedia upload host repeatedly returned HTTP 429 to GitHub Actions. Reproducible acquisition uses the Marefa mirror of the same 0/03 file at 449×599; rights are still derived from the Commons file page.",
           "download_variant_pixels": "449x599",
-          "acquisition_mirror": "Marefa-hosted 449×599 copy of the same Commons file; licensing/provenance master remains Wikimedia Commons."
+          "acquisition_mirror": "Marefa-hosted 449×599 copy of the same Commons file; licensing/provenance master remains Wikimedia Commons.",
+          "repository_source_path": "assets/photos/a-core/source-candidates/p48-03-harvest-super-handling.jpg",
+          "source_sha256": "6751314438c69334fa7643a81e83b1fe1a242e049bd6f1e6a5d05daeb0bd8ee3",
+          "downloaded_width_px": 449,
+          "downloaded_height_px": 599,
+          "downloaded_bytes": 61971,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY"
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p48-03-harvest-super-handling.jpg"
     },
     {
       "asset_id": "P49.02",
