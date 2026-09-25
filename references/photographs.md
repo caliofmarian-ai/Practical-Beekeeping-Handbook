@@ -66,6 +66,8 @@ The first sourcing pass separates real diagnostic/documentary evidence, real fie
 
 **Layout-prep 20 update:** P41.01 (Varroa Wash Equipment and Result) now uses Mona Chambers' official USDA ARS alcohol-wash result photograph. The native 649×721 PNG is restricted to a small single-column placement and is placed in Chapter 41 beside the adult-bee wash principle. The chapter's technical diagram remains the procedural teaching asset; the photograph supplies real field/lab context without duplicating the sequence. The selected A_CORE set is now **33/33 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_20.md`.
 
+**V1 rationalisation update:** P52.02 (Comb-Honey Defect Examples) is no longer A_CORE. Photo 52.1 already provides the real complete-versus-unfinished Ross Round comparison, while Figure 52.9 is the canonical ten-item defect atlas. Producing a second A_CORE defect photograph would duplicate teaching value rather than improve the chapter. The current Version 1 selection is therefore **39 A_CORE / 25 B_SUPPORTING / 29 C_OPTIONAL**, with **34/39 A_CORE source files ready and placed** and **5 A_CORE positions remaining**. See `docs/reviews/PHOTO_RATIONALISATION_V1.md`.
+
 ---
 
 ## 1. Photograph Selection Rules
