@@ -1,8 +1,8 @@
 {
   "counts": {
     "B_SUPPORTING": 25,
-    "A_CORE": 39,
-    "C_OPTIONAL": 29
+    "A_CORE": 36,
+    "C_OPTIONAL": 32
   },
   "photos": [
     {
@@ -655,14 +655,14 @@
       "working_title": "Storm-Damaged Hive",
       "shot_brief": "Documentary image only if naturally available; do not damage equipment for staging. ---",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "EDITORIALLY_OMITTED_V1",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_review_status": "EDITORIAL_RATIONALISATION",
       "final_asset_path": null,
       "priority_score": 3,
-      "editorial_priority": "A_CORE",
-      "selection_status": "SOURCE_OR_CREATE"
+      "editorial_priority": "C_OPTIONAL",
+      "selection_status": "OMIT_V1_DIAGRAM_SUPERIOR"
     },
     {
       "asset_id": "P39.01",
@@ -1232,14 +1232,14 @@
       "working_title": "Cappings Wax and Brood Wax Blocks",
       "shot_brief": "Colour/source comparison with provenance, not a “purity by colour” claim.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "EDITORIALLY_OMITTED_V1",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_review_status": "EDITORIAL_RATIONALISATION",
       "final_asset_path": null,
       "priority_score": 5,
-      "editorial_priority": "A_CORE",
-      "selection_status": "SOURCE_OR_CREATE"
+      "editorial_priority": "C_OPTIONAL",
+      "selection_status": "OMIT_V1_EXISTING_VISUALS_SUPERIOR"
     },
     {
       "asset_id": "P56.01",
@@ -1358,14 +1358,14 @@
       "working_title": "Royal Jelly Cold Chain",
       "shot_brief": "Clean food-grade collection container immediately entering controlled cold storage.",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "EDITORIALLY_OMITTED_V1",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
+      "rights_status": "NOT_REQUIRED_V1",
+      "technical_review_status": "EDITORIAL_RATIONALISATION",
       "final_asset_path": null,
       "priority_score": 3,
-      "editorial_priority": "A_CORE",
-      "selection_status": "SOURCE_OR_CREATE"
+      "editorial_priority": "C_OPTIONAL",
+      "selection_status": "OMIT_V1_LOW_INFORMATION_VALUE"
     },
     {
       "asset_id": "P59.01",
@@ -1749,11 +1749,11 @@
   ],
   "current_v1_status": {
     "status": "A_CORE_SOURCING_AND_PLACEMENT_IN_PROGRESS",
-    "selected_count": 39,
+    "selected_count": 36,
     "source_file_ready_and_chapter_placed_count": 34,
-    "remaining_count": 5,
+    "remaining_count": 2,
     "final_layout_proof_status": "PENDING",
     "last_verified": "2026-09-25",
-    "rationalisation_note": "P52.02 demoted from A_CORE because Photo 52.1 already demonstrates complete vs unfinished comb honey and Figure 52.9 provides the multi-defect atlas."
+    "rationalisation_note": "P38.02, P55.02 and P58.02 demoted from A_CORE after full-book visual-overlap review."
   }
 }
