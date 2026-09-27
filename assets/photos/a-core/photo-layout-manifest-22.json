@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-09-25",
+  "issue": 102,
+  "status": "LAYOUT_SOURCE_PLACEMENT_READY",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P48.03",
+      "photo_id": "48.3",
+      "chapter": 48,
+      "chapter_path": "chapters/chapter-48.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p48-03-harvest-super-handling.jpg",
+      "alt_text": "Beekeeper using a blower to clear bees from a honey super during harvest",
+      "caption": "Bee removal from a honey super during harvest. The photograph documents blower/field handling context, not the complete hygienic transport system.",
+      "credit": "Photo: Pollinator, CC BY 2.5.",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "small-single-column-only",
+      "caption_status": "EDITORIAL_READY",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_PROOF",
+      "technical_boundary": "Acquisition raster is 449×599 px, about 38.0×50.7 mm at 300 ppi. No upscaling.",
+      "hygiene_boundary": "After bee clearance, supers must be protected promptly with clean food-safe top and bottom covers, kept off dirty ground and protected during transport.",
+      "acquisition_note": "Rights/provenance master is Wikimedia Commons. The raster was acquired reproducibly from a documented mirror because Wikimedia repeatedly returned HTTP 429 to GitHub Actions."
+    }
+  ]
+}
