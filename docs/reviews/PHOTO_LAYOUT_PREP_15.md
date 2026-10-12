@@ -13,7 +13,7 @@ P43.01 uses a clean whole-brood-frame photograph by Tanarus.
 - source description: typical appearance of brood affected by American foulbrood
 - original: **3008×2000**
 - validated derivative used: **1280×851**
-- SHA-256: `7222ba139915824513675d0d9c33a61bacd2b91bef0fa65bc5c17b8bea36377d`
+- SHA-256: `57a8185c5914ec4c5dc960501ee4fc4760182467a0fed6f3738fc95d2328065c`
 
 ## Diagnostic boundary
 
@@ -35,3 +35,7 @@ Placed in Chapter 43 immediately after section 43.7 **The Brood Pattern**.
 - generated documentary substitutes: **0**
 
 Final crop, colour, pagination and print/EPUB/PDF proof remain pending. Issue #102 stays open.
+
+## Integrity reconciliation — 12 October 2026
+
+The original review inadvertently quoted a non-matching SHA. The repository file's actual SHA-256 is `57a8185c5914ec4c5dc960501ee4fc4760182467a0fed6f3738fc95d2328065c`, which exactly agrees with the preserved native acquisition manifest `assets/photos/a-core/source-candidates/photo-source-files-batch-20.json` and the primary source candidate in `assets/photo-source-registry.json`. The same image path, creator, CC BY-SA 3.0 attribution, resolution (1280×851) and contextual AFB diagnostic caveat are preserved; this is a metadata correction, **not** image replacement.
