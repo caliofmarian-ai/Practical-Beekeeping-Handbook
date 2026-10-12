@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "proof_id": "PBH-WAVE02-CH01-05",
+  "status": "LAYOUT_PROOF_ONLY_NOT_FINAL",
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "expected_a_core_figures": 15,
+  "placements": [
+    {
+      "figure_id": "1.2",
+      "after_heading": "## The Colony as a Managed Living System"
+    },
+    {
+      "figure_id": "1.3",
+      "after_heading": "### Seasonal Work"
+    },
+    {
+      "figure_id": "1.4",
+      "after_heading": "## Beginner Readiness Checklist"
+    },
+    {
+      "figure_id": "2.1",
+      "after_heading": "## Timeline of Major Developments"
+    },
+    {
+      "figure_id": "2.3",
+      "after_heading": "## Langstroth and the Practical Movable-Frame Hive"
+    },
+    {
+      "figure_id": "2.4",
+      "after_heading": "## Other Early Beekeeping Traditions"
+    },
+    {
+      "figure_id": "3.2",
+      "after_heading": "## How Flower Visitation Becomes Pollination"
+    },
+    {
+      "figure_id": "3.3",
+      "after_heading": "## Honey Bees and Biodiversity"
+    },
+    {
+      "figure_id": "3.4",
+      "after_heading": "## Economic Importance of Honey Bees"
+    },
+    {
+      "figure_id": "4.1",
+      "after_heading": "## Overview of the Main Hive Products"
+    },
+    {
+      "figure_id": "4.2",
+      "after_heading": "## Classifying Hive Products and Beekeeping Outputs"
+    },
+    {
+      "figure_id": "4.4",
+      "after_heading": "## Traceability and Batch Records"
+    },
+    {
+      "figure_id": "5.2",
+      "after_heading": "## Modern Colony Management"
+    },
+    {
+      "figure_id": "5.3",
+      "after_heading": "## Digital Tools and Remote Monitoring"
+    },
+    {
+      "figure_id": "5.4",
+      "after_heading": "## Sustainability and Responsible Beekeeping"
+    }
+  ],
+  "policy": {
+    "figure_source": "assets/visual-production-priority.json",
+    "only_approved_a_core": true,
+    "anchor_required_unique": true,
+    "illustration_review": "PENDING_PAGE_PROOF",
+    "source_chapters_unchanged": true,
+    "article_source": "canonical Markdown"
+  }
+}
