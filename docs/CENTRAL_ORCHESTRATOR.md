@@ -8,6 +8,21 @@ The orchestrator is expected to make routine technical, editorial-production and
 
 Owner communication is in Romanian. Canonical manuscript and repository documentation remain in professional English unless a file has a different established language purpose.
 
+## Current Reconciled State — 2026-10-12
+
+This state supersedes the historical 2026-09-22 photo counts below; old audit evidence remains preserved for traceability.
+
+- Canonical manuscript: **74/74 chapters** plus 11 reference sections.
+- Selected Version 1 A_CORE professional diagrams/illustrations: **230/230 present**, system reconciled to PBH-v1. Full-page placement and format proof **still pending**.
+- Repository vector figures: **256 SVGs** (including supporting material).
+- Selected Version 1 authentic A_CORE photographs: **36/36 source files obtained and placed in chapter Markdown**, with provenance/caption/alt text records; **no AI-generated documentary replacements**.
+- Final missing source P59.02 was obtained from a real CC BY 4.0 2019 scientific paper Figure 5; source raster 3084×1408 PNG, placed in Chapter 59, with safety/caption limits. Source and rights evidence: `docs/reviews/PHOTO_LAYOUT_PREP_23.md`.
+- Publication source is deterministically assembled with verified local photo paths and excluded internal editorial notes. See Issue #223 / merged PR #224; follow-up inline-placeholder cleanup merged in PR #226.
+- Real page-context pilot exists for Chapters 1–5 with 15 core SVG figures, 161-page experimental PDF and logged typography/table concerns. See Issue #225 and `docs/reviews/LAYOUT_PILOT_CHAPTERS_01_05.md`.
+- Outstanding publication gates: final image/photo page proof, figure micro-label legibility, layout/volume strategy, index pagination, PDF/EPUB/print formats, licensing/cover approval and Version 1.0 release.
+
+**Do not** treat 36/36 sourced/placed photos or the pilot PDF as final proof of print and digital editions. Issue #102 remains open until output proofs pass.
+
 ## Verified Baseline
 
 Audit date: 2026-09-22.
