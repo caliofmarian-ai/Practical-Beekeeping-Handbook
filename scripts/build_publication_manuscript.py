@@ -1,7 +1,14 @@
 from pathlib import Path
+import argparse
 import json
 import re
 import hashlib
+
+from publication_preflight import (
+    without_editorial_sections,
+    rebase_local_links,
+    validate_publication_images,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / 'exports' / 'publication'
@@ -87,7 +94,7 @@ def source_hash(path: Path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def assemble():
+def assemble(check: bool = False):
     validate_sources()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -107,6 +114,9 @@ def assemble():
     }
 
     current_part = None
+    omitted_editorial_sections = []
+    rebased_links = 0
+    embedded_images = 0
     for n in range(1, 75):
         part_no, part_title, start, end = part_for_chapter(n)
         if current_part != part_no:
@@ -123,6 +133,11 @@ def assemble():
         path = chapter_path(n)
         raw = path.read_text(encoding='utf-8')
         text = normalise_chapter_heading(raw, n)
+        text, removed = without_editorial_sections(text)
+        text, local_links, local_images = rebase_local_links(text, path, ROOT, OUT_DIR)
+        omitted_editorial_sections.extend(f'Chapter {n}: {name}' for name in removed)
+        rebased_links += local_links
+        embedded_images += local_images
         title = chapter_title(text)
 
         chunks.append('\n<!-- PAGEBREAK: CHAPTER -->\n')
@@ -143,6 +158,11 @@ def assemble():
     for number, title, rel in REFERENCE_SOURCES:
         path = ROOT / rel
         text = path.read_text(encoding='utf-8').strip() + '\n'
+        text, removed = without_editorial_sections(text)
+        text, local_links, local_images = rebase_local_links(text, path, ROOT, OUT_DIR)
+        omitted_editorial_sections.extend(f'Reference {number}: {name}' for name in removed)
+        rebased_links += local_links
+        embedded_images += local_images
         chunks.append('\n<!-- PAGEBREAK: REFERENCE -->\n')
         chunks.append(f'# Reference {number} — {title}\n\n')
         # Avoid duplicate level-1 title from source by demoting only its first heading.
@@ -169,20 +189,42 @@ def assemble():
     if refs != list(range(75, 86)):
         raise SystemExit(f'Generated reference order invalid: {refs}')
 
-    OUT_MD.write_text(output, encoding='utf-8')
+    verified_image_count = validate_publication_images(output, ROOT, OUT_DIR)
+    if verified_image_count != embedded_images:
+        raise SystemExit(f'Image count mismatch: {embedded_images} rebased, {verified_image_count} verified')
+    manifest['local_links_rebased_count'] = rebased_links
+    manifest['local_images_verified_count'] = verified_image_count
+    manifest['editorial_sections_excluded'] = omitted_editorial_sections
     manifest['generated_file'] = str(OUT_MD.relative_to(ROOT))
     manifest['generated_sha256'] = hashlib.sha256(output.encode('utf-8')).hexdigest()
     manifest['chapter_count'] = 74
     manifest['reference_count'] = 11
     manifest['asset_plan_count'] = 74
-    OUT_MANIFEST.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+    manifest_text = json.dumps(manifest, indent=2, ensure_ascii=False) + '\n'
+    if check:
+        if not OUT_MD.is_file() or not OUT_MANIFEST.is_file():
+            raise SystemExit('Compiled publication missing; build without --check')
+        if OUT_MD.read_text(encoding='utf-8') != output:
+            raise SystemExit('Compiled publication manuscript is stale; rebuild')
+        if OUT_MANIFEST.read_text(encoding='utf-8') != manifest_text:
+            raise SystemExit('Compiled publication manifest is stale; rebuild')
+        print('PASS: publication files match current source')
+    else:
+        OUT_MD.write_text(output, encoding='utf-8')
+        OUT_MANIFEST.write_text(manifest_text, encoding='utf-8')
 
     print(f'Generated {OUT_MD.relative_to(ROOT)}')
     print(f'Characters: {len(output)}')
     print('Chapters: 74')
     print('References: 11')
     print('Asset plans: 74')
+    print(f'Local links rebased: {rebased_links}')
+    print(f'Local images verified: {verified_image_count}')
+    print(f'Editorial sections excluded: {len(omitted_editorial_sections)}')
 
 
 if __name__ == '__main__':
-    assemble()
+    parser = argparse.ArgumentParser(description='Rebuild or verify publication Markdown and manifest')
+    parser.add_argument('--check', action='store_true', help='Fail if the committed publication files are stale')
+    args = parser.parse_args()
+    assemble(check=args.check)
