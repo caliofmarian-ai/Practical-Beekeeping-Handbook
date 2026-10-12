@@ -2036,15 +2036,38 @@
       "chapter": 59,
       "title": "Dried Bee Venom Sample",
       "editorial_priority": "A_CORE",
-      "source_class": "CONTROLLED_REAL_CAPTURE",
+      "source_class": "AUTHENTIC_SCIENTIFIC_PUBLICATION_PHOTOGRAPH",
       "generative_image_allowed_as_photo": false,
-      "source_status": "UNSOURCED",
-      "rights_status": "UNVERIFIED",
-      "technical_match_status": "UNREVIEWED",
-      "selected_source": null,
-      "candidates": []
+      "source_status": "PRIMARY_SELECTED_PENDING_FILE_AND_RESOLUTION_PROOF",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_match_status": "CONTEXTUAL_DRY_VENOM_SAMPLE_IN_INTERMEDIATE_CONTAINER",
+      "selected_source": "https://www.mdpi.com/2199-8531/5/3/71",
+      "candidates": [
+        {
+          "recommendation": "PRIMARY_CANDIDATE_REAL_DRY_BEE_VENOM_SAMPLE",
+          "institution": "Journal of Open Innovation / MDPI",
+          "source_page_url": "https://www.mdpi.com/2199-8531/5/3/71",
+          "source_document_url": "https://mdpi-res.com/d_attachment/JOItmC/JOItmC-05-00071/article_deploy/JOItmC-05-00071.pdf",
+          "source_figure": "Figure 5",
+          "source_image_id": "Figure 5 — (a) Bee Venom Removal; (b) Bee Venom Collected in Intermediate Container",
+          "creator": "Serrinha, Correia & Marques; photographs published with open-access article",
+          "source_caption": "Figure 5 shows real laboratory scraping of naturally dried bee venom from glass and collected material visible in an intermediate container.",
+          "rights_status": "VERIFIED_CC_BY_4_0",
+          "rights_basis": "The publisher PDF explicitly states © 2019 by authors, CC BY 4.0 for the article; Figure 5 is presented without a separate third-party restriction. Credit original article, Figure 5 and note any crop.",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "required_or_requested_credit": "Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 5, CC BY 4.0; indicate crop if used.",
+          "technical_match_status": "MATCH_CONTEXTUAL_DRY_VENOM_IN_INTERMEDIATE_CONTAINER",
+          "technical_note": "Authentic image of dried bee venom being removed and the collected sample. No inference of chemical purity, potency, certification or biomedical efficacy may be drawn from appearance. Photo is documentary context only.",
+          "resolution_status": "PENDING_UNMODIFIED_RASTER_EXTRACTION",
+          "extraction_page": 9,
+          "extraction_selector": "first_qualifying_raster_on_page",
+          "editorial_note": "Do not call the photo laboratory-certified; do not give unsafe scraping or exposure instructions. Need source image size check and small-scale page proof before approval.",
+          "editorial_review_status": "PENDING_SOURCE_BINARY_REVIEW",
+          "final_photo_allowed": false
+        }
+      ]
     }
   ],
-  "last_updated": "2026-09-20",
-  "sourcing_pass": 2
+  "last_updated": "2026-10-12",
+  "sourcing_pass": "P59.02_FIGURE5_PRIMARY_CANDIDATE_REVIEW_2026_10_12"
 }
