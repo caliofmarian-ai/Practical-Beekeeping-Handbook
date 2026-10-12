@@ -90792,6 +90792,10 @@ Dried bee venom is often described as a pale or off-white to light-yellow materi
 
 Colour alone is not a purity test.
 
+![Two-panel real photograph of gloved dried-bee-venom recovery from a glass plate and a small collected venom sample in a clear intermediate container](../../assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png)
+
+*Photo 59.2 — Actual dry bee-venom recovery and intermediate sample. Left: removal of dried material from a glass collection surface; right: a small quantity of the collected material in an intermediate container. The photograph documents appearance and recovery context, not chemical purity, analytical identity, allergen safety or suitability for medical use. Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 5, CC BY 4.0.*
+
 ## 59.41 Moisture
 
 Dry venom quality is influenced by residual moisture.
@@ -114987,7 +114991,7 @@ Clean food-grade collection container immediately entering controlled cold stora
 Only purpose-built equipment, photographed de-energised for setup detail.
 
 ### Photo 59.2 — Dried Bee Venom Sample
-Controlled laboratory/product image with allergen safety and provenance.
+Authentic two-panel scientific photograph from Serrinha, Correia & Marques (2019), Figure 5, CC BY 4.0: real dried-venom recovery from glass and small collected sample in an intermediate container. Source: `assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png`. The high-resolution publisher source is rights/provenance recorded, the full original unmodified raster is preserved, and Photo 59.2 is placed in Chapter 59. Any final crop must retain source attribution and indicate alteration; visible colour/texture does not establish purity, medical suitability or a safety certificate. PDF/EPUB/print placement proof still pending.
 
 ---
 

@@ -505,6 +505,10 @@ Dried bee venom is often described as a pale or off-white to light-yellow materi
 
 Colour alone is not a purity test.
 
+![Two-panel real photograph of gloved dried-bee-venom recovery from a glass plate and a small collected venom sample in a clear intermediate container](../assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png)
+
+*Photo 59.2 — Actual dry bee-venom recovery and intermediate sample. Left: removal of dried material from a glass collection surface; right: a small quantity of the collected material in an intermediate container. The photograph documents appearance and recovery context, not chemical purity, analytical identity, allergen safety or suitability for medical use. Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 5, CC BY 4.0.*
+
 ## 59.41 Moisture
 
 Dry venom quality is influenced by residual moisture.

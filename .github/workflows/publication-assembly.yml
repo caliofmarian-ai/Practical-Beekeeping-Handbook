@@ -10,6 +10,7 @@ on:
     branches:
       - main
       - 'publishing/**'
+      - 'photo/**'
     paths:
       - 'chapters/**'
       - 'references/**'
@@ -20,6 +21,7 @@ on:
       - 'scripts/build_publication_manuscript.py'
       - 'scripts/publication_preflight.py'
       - 'tests/test_publication_preflight.py'
+      - 'scripts/validate_photo_v1.py'
       - '.github/workflows/publication-assembly.yml'
   pull_request:
     paths:
@@ -32,6 +34,7 @@ on:
       - 'scripts/build_publication_manuscript.py'
       - 'scripts/publication_preflight.py'
       - 'tests/test_publication_preflight.py'
+      - 'scripts/validate_photo_v1.py'
       - 'exports/publication/**'
       - '.github/workflows/publication-assembly.yml'
   workflow_dispatch:
@@ -40,7 +43,7 @@ jobs:
   # Publishing branch sources rebuild their own tracked assembly. This
   # does not touch main and never runs with write permission on a PR.
   refresh:
-    if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/publishing/')
+    if: github.event_name == 'push' && github.ref != 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -69,12 +72,15 @@ jobs:
           assert "[Figure placeholder:" not in book
           assert "Part 2 will continue" not in book
           assert "p48-03-harvest-super-handling.jpg" in book
-          assert m["local_images_verified_count"] >= 35
+          assert "p59-02-dried-bee-venom-real-sample.png" in book
+          assert m["local_images_verified_count"] == 36
           for entry in m["chapters"] + m["references"]:
               source = Path(entry["source"])
               assert hashlib.sha256(source.read_bytes()).hexdigest() == entry["source_sha256"]
           print("PASS: 74 chapters, 11 references, source checksums, photo P48.03 and reader hygiene")
           PY
+      - name: Verify every selected authentic V1 photo file, checksum, chapter embed and rights flag
+        run: python scripts/validate_photo_v1.py
       - name: Upload current manuscript build for review
         uses: actions/upload-artifact@v4
         with:
@@ -107,5 +113,7 @@ jobs:
         run: python -m unittest discover -s tests -p 'test_publication_*.py' -v
       - name: Verify committed publication source is current
         run: python scripts/build_publication_manuscript.py --check
+      - name: Validate all 36 authentic V1 photographs against the publication
+        run: python scripts/validate_photo_v1.py
       - name: Verify tracked publication files have no whitespace corruption
         run: git diff --check

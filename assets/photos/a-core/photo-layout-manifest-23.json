@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "generated_date": "2026-10-12",
+  "issue": 102,
+  "status": "SOURCE_READY_AND_CHAPTER_PLACED_LAYOUT_PROOF_PENDING",
+  "asset_count": 1,
+  "assets": [
+    {
+      "asset_id": "P59.02",
+      "photo_id": "59.2",
+      "chapter": 59,
+      "chapter_path": "chapters/chapter-59.md",
+      "asset_path": "assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png",
+      "source_sha256": "8039d43f79d20d1f25dbcc4084d2885dd8a04fa8845865c14265099c5349bc82",
+      "source_dimensions_px": {
+        "width": 3084,
+        "height": 1408
+      },
+      "alt_text": "Two-panel real photograph of gloved dried-bee-venom recovery from a glass plate and a small collected venom sample in a clear intermediate container",
+      "caption": "Actual dry bee-venom recovery and intermediate sample. Left: dried venom removed from a glass plate; right: collected material in an intermediate container. Appearance does not certify purity, identity, allergen safety or medical suitability.",
+      "credit": "Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 5, CC BY 4.0.",
+      "source_url": "https://www.mdpi.com/2199-8531/5/3/71",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "placement_status": "PLACED_IN_CHAPTER_SOURCE",
+      "placement_intent": "medium-width-or-two-column-figure",
+      "caption_status": "EDITORIAL_READY_SAFETY_QUALIFIED",
+      "alt_text_status": "EDITORIAL_READY",
+      "proof_status": "PENDING_FINAL_PRINT_EPUB_PDF_PROOF",
+      "technical_boundary": "Real two-panel photo extracted without resampling; colour and texture do not establish identity, contaminants, biological activity, laboratory certification or medical suitability.",
+      "allergen_boundary": "Any processing of venom powder requires occupational safety controls against skin, eye and respiratory sensitisation; photo is not operational training.",
+      "licensing_note": "Preserve original authors, article, Figure 5 and CC BY 4.0 source in published figure credits; note crops if a panel is selected."
+    }
+  ]
+}
