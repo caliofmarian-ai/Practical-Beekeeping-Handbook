@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "photo-assets-batch-29",
+  "policy": {
+    "embedded_raster_extracted_without_resampling": true,
+    "automatic_final_layout_approval": false,
+    "sha256_required": true,
+    "rights_and_technical_review_remain_required": true
+  },
+  "asset_count": 1,
+  "resolution_pass_count": 1,
+  "resolution_hold_count": 0,
+  "assets": [
+    {
+      "asset_id": "P59.02",
+      "photo_id": "59.2",
+      "title": "Dried Bee Venom Sample",
+      "source_page_url": "https://www.mdpi.com/2199-8531/5/3/71",
+      "source_document_url": "https://mdpi-res.com/d_attachment/JOItmC/JOItmC-05-00071/article_deploy/JOItmC-05-00071.pdf",
+      "source_figure": "Figure 5",
+      "page_number": 9,
+      "repository_path": "assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png",
+      "sha256": "8039d43f79d20d1f25dbcc4084d2885dd8a04fa8845865c14265099c5349bc82",
+      "bytes": 7539483,
+      "format": "PNG",
+      "mode": "RGB",
+      "width_px": 3084,
+      "height_px": 1408,
+      "effective_size_at_300ppi": {
+        "ppi_reference": 300,
+        "width_in": 10.28,
+        "height_in": 4.69,
+        "width_mm": 261.1,
+        "height_mm": 119.2
+      },
+      "minimum_width_px": 800,
+      "minimum_height_px": 450,
+      "resolution_gate_pass": true,
+      "placement_status": "SOURCE_FILE_READY",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "creator": "Serrinha, Correia & Marques; photographs published with open-access article",
+      "credit": "Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 5, CC BY 4.0; indicate crop if used.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_basis": "The publisher PDF explicitly states © 2019 by authors, CC BY 4.0 for the article; Figure 5 is presented without a separate third-party restriction. Credit original article, Figure 5 and note any crop.",
+      "extraction": {
+        "xref": 275,
+        "bbox": [
+          113.38600158691406,
+          172.01010131835938,
+          481.89312744140625,
+          340.25201416015625
+        ],
+        "embedded_width_px": 3084,
+        "embedded_height_px": 1408,
+        "qualifying_image_count": 2
+      }
+    }
+  ]
+}

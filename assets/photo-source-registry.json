@@ -2063,9 +2063,30 @@
           "extraction_selector": "first_qualifying_raster_on_page",
           "editorial_note": "Do not call the photo laboratory-certified; do not give unsafe scraping or exposure instructions. Need source image size check and small-scale page proof before approval.",
           "editorial_review_status": "PENDING_SOURCE_BINARY_REVIEW",
-          "final_photo_allowed": false
+          "final_photo_allowed": false,
+          "repository_source_path": "assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png",
+          "source_sha256": "8039d43f79d20d1f25dbcc4084d2885dd8a04fa8845865c14265099c5349bc82",
+          "downloaded_width_px": 3084,
+          "downloaded_height_px": 1408,
+          "downloaded_bytes": 7539483,
+          "resolution_gate_pass": true,
+          "placement_status": "SOURCE_FILE_READY",
+          "extraction_record": {
+            "xref": 275,
+            "bbox": [
+              113.38600158691406,
+              172.01010131835938,
+              481.89312744140625,
+              340.25201416015625
+            ],
+            "embedded_width_px": 3084,
+            "embedded_height_px": 1408,
+            "qualifying_image_count": 2
+          }
         }
-      ]
+      ],
+      "download_status": "SOURCE_FILE_READY",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png"
     }
   ],
   "last_updated": "2026-10-12",
