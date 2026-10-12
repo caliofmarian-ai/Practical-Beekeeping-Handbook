@@ -21,6 +21,7 @@ on:
       - 'scripts/build_publication_manuscript.py'
       - 'scripts/publication_preflight.py'
       - 'tests/test_publication_preflight.py'
+      - 'scripts/validate_photo_v1.py'
       - '.github/workflows/publication-assembly.yml'
   pull_request:
     paths:
@@ -33,6 +34,7 @@ on:
       - 'scripts/build_publication_manuscript.py'
       - 'scripts/publication_preflight.py'
       - 'tests/test_publication_preflight.py'
+      - 'scripts/validate_photo_v1.py'
       - 'exports/publication/**'
       - '.github/workflows/publication-assembly.yml'
   workflow_dispatch:
@@ -77,6 +79,8 @@ jobs:
               assert hashlib.sha256(source.read_bytes()).hexdigest() == entry["source_sha256"]
           print("PASS: 74 chapters, 11 references, source checksums, photo P48.03 and reader hygiene")
           PY
+      - name: Verify every selected authentic V1 photo file, checksum, chapter embed and rights flag
+        run: python scripts/validate_photo_v1.py
       - name: Upload current manuscript build for review
         uses: actions/upload-artifact@v4
         with:
@@ -109,5 +113,7 @@ jobs:
         run: python -m unittest discover -s tests -p 'test_publication_*.py' -v
       - name: Verify committed publication source is current
         run: python scripts/build_publication_manuscript.py --check
+      - name: Validate all 36 authentic V1 photographs against the publication
+        run: python scripts/validate_photo_v1.py
       - name: Verify tracked publication files have no whitespace corruption
         run: git diff --check
