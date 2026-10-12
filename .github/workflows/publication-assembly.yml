@@ -1,5 +1,10 @@
 name: Publication manuscript preflight
 
+# Serialise publication rebuilds for a branch to prevent overlapping bot pushes.
+concurrency:
+  group: publication-manuscript-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   push:
     branches:
