@@ -1,6 +1,6 @@
 # Visual Index
 
-**Status:** A_CORE production and PBH-v1 reconciliation complete — layout proof pending
+**Status:** 230 A_CORE vectors complete; 36/36 authentic A_CORE photographs sourced and chapter-placed — final layout proof pending
 **Wave 01 A_CORE coverage:** 68 / 68
 **Wave 02 A_CORE coverage:** 60 / 60
 **Wave 03 A_CORE coverage:** 21 / 21
@@ -39,7 +39,7 @@ Colour remains supplementary: labels, borders, shape logic and captions preserve
 ## Next mandatory phase
 A_CORE creation and the full-book PBH-v1 cross-wave reconciliation are complete. Final publication readiness now requires:
 
-1. resolve the remaining A_CORE photographic sourcing/capture queue;
+1. proof the 36/36 chapter-placed authentic A_CORE photographs in final PDF, EPUB and print layouts; all source files are now acquired, but page/rights attribution checks remain;
 2. place selected diagrams/illustrations in real chapter/page context;
 3. verify long labels, captions and callouts at final print size;
 4. build and inspect PDF, EPUB and print proofs;
