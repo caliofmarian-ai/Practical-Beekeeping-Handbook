@@ -42,7 +42,7 @@ def validate():
             continue
         actual_sha = hashlib.sha256(target.read_bytes()).hexdigest()
         if actual_sha != photo.get("source_sha256"):
-            errors.append(f"{asset_id}: photographic source SHA mismatch")
+            errors.append(f"{asset_id}: photographic source SHA mismatch: recorded {photo.get('source_sha256')}, actual {actual_sha}")
         if target.suffix.lower() not in {".jpg", ".jpeg", ".png", ".webp"}:
             errors.append(f"{asset_id}: unexpected photo file format")
         chapter = ROOT / "chapters" / f"chapter-{int(photo['chapter']):02d}.md"
