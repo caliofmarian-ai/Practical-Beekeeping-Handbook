@@ -194,7 +194,16 @@ def assemble(check: bool = False):
         raise SystemExit(f'Image count mismatch: {embedded_images} rebased, {verified_image_count} verified')
     manifest['local_links_rebased_count'] = rebased_links
     manifest['local_images_verified_count'] = verified_image_count
-    manifest['editorial_sections_excluded'] = omitted_editorial_sections
+    manifest['editorial_sections_excluded'] = [
+        item for item in omitted_editorial_sections if item.endswith(': Review Notes') or item.endswith(': Figure Placeholders')
+    ]
+    manifest['inline_figure_placeholders_excluded'] = sum(
+        item.endswith(': Inline figure placeholder') for item in omitted_editorial_sections
+    )
+    manifest['draft_handoffs_excluded'] = sum(
+        item.endswith(': Draft continuation handoff') for item in omitted_editorial_sections
+    )
+    manifest['editorial_blocks_excluded'] = omitted_editorial_sections
     manifest['generated_file'] = str(OUT_MD.relative_to(ROOT))
     manifest['generated_sha256'] = hashlib.sha256(output.encode('utf-8')).hexdigest()
     manifest['chapter_count'] = 74
