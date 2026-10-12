@@ -33,7 +33,6 @@ Honey production may be the most visible result of beekeeping, but it is not the
 
 This chapter introduces the basic language, responsibilities, rewards, limitations, and practical realities of becoming a beekeeper. Detailed subjects such as honey bee biology, equipment, inspections, feeding, disease control, honey harvesting, and business management are developed in later chapters.
 
-[Figure placeholder: introductory apiary scene showing several well-spaced hives, a beekeeper wearing appropriate protective clothing, a clear flight path, nearby forage, a water source, and safe separation from people and livestock]
 
 ---
 
@@ -156,7 +155,6 @@ Because these factors interact, beekeeping cannot be reduced to a fixed sequence
 
 A management action that is appropriate for one colony may be unnecessary or harmful for another. The beekeeper must learn to observe conditions, interpret evidence, and choose a proportionate response.
 
-[Figure placeholder: simplified diagram distinguishing the living colony from the physical hive, with labels for adult bees, brood, comb, food stores, frames, boxes, floor, cover, entrance, and roof]
 
 ---
 
@@ -463,7 +461,6 @@ Other important risks include:
 
 Detailed sting prevention, first aid, lifting, smoker safety, and emergency planning are covered in Chapter 23.
 
-[Figure placeholder: safety overview showing correct protective clothing, secure footwear, a safely placed smoker, hive tool handling, team lifting, clear retreat route, first-aid kit, telephone, and emergency access]
 
 ---
 
@@ -1031,7 +1028,6 @@ Historical evidence is uneven. Archaeological remains, artwork, written sources,
 
 This chapter traces major developments that changed how humans understood and managed honey bee colonies. It also explains why those developments still matter to practical beekeeping.
 
-[Figure placeholder: horizontal historical sequence showing honey hunting, clay tube hives, log hives, straw skeps, early movable-comb hives, movable-frame hives, extractors, and a modern research apiary]
 
 ---
 
@@ -1204,7 +1200,6 @@ Early honey hunting could be destructive, but destruction was not inevitable. Ha
 
 These practices created a gradual transition from collecting a resource to managing a recurring biological asset.
 
-[Figure placeholder: reconstruction of a prehistoric honey-hunting scene with a clear note that the date and interpretation of rock art may be uncertain]
 
 ---
 
@@ -1253,7 +1248,6 @@ Egyptian evidence supports the existence of:
 
 It does not prove that every Egyptian beekeeper used the same methods or possessed a modern understanding of honey bee biology.
 
-[Figure placeholder: labelled reconstruction of horizontal Egyptian tube hives based on archaeological and artistic evidence, with workers positioned at the rear and front]
 
 ---
 
@@ -1282,7 +1276,6 @@ The apiary demonstrates that ancient colony management could require:
 
 It also shows that large apiaries near human settlements are not purely modern phenomena.
 
-[Figure placeholder: plan view and cutaway reconstruction of the Tel Rehov cylindrical hive rows, clearly labelled as an evidence-based reconstruction]
 
 ---
 
@@ -1448,7 +1441,6 @@ Forest beekeeping contributed knowledge about:
 
 It also reminds modern beekeepers that the thermal and spatial properties of a hive influence colony survival.
 
-[Figure placeholder: comparison of a managed bee tree, a vertical log hive, and a horizontal log hive]
 
 ---
 
@@ -1676,7 +1668,6 @@ The existence of a patented design did not immediately replace:
 
 Cost, carpentry, manufacturing tolerances, tradition, local bees, climate, and access to equipment influenced adoption.
 
-[Figure placeholder: exploded historical drawing of a movable-frame hive showing controlled clearance above, below, beside, and between frames]
 
 ---
 
@@ -1732,7 +1723,6 @@ Centrifugal extraction therefore changed:
 
 The extractor worked especially well in combination with movable frames and reinforced comb.
 
-[Figure placeholder: cutaway comparison of crush-and-strain harvesting and centrifugal extraction, showing whether the comb survives]
 
 ---
 
@@ -2000,7 +1990,6 @@ Dates are approximate where historical evidence is uncertain.
 | Late twentieth century | *Varroa destructor* spreads widely into managed *Apis mellifera* populations | Fundamentally changes bee-health management |
 | Twenty-first century | Molecular research, selective breeding, digital monitoring, and ecological study expand | Adds new tools while creating new interpretation and sustainability questions |
 
-[Figure placeholder: full-page illustrated timeline based on the table above]
 
 ---
 
@@ -2308,7 +2297,6 @@ A responsible beekeeper must therefore understand two connected principles:
 
 This chapter explains why honey bees matter, where their importance is sometimes overstated, and how beekeepers can contribute responsibly to agriculture and the wider environment.
 
-[Figure placeholder: landscape diagram showing a managed honey bee colony connected to an orchard, vegetable crop, seed crop, wildflower area, beekeeper, food processor, and local community]
 
 ---
 
@@ -2450,7 +2438,6 @@ Pollen packed tightly into the pollen baskets is often less available for pollin
 
 A bee can therefore collect a large pollen load without transferring enough compatible pollen to every flower visited.
 
-[Figure placeholder: eight-stage educational diagram showing pollen transfer by a worker bee, clearly distinguishing pollination from fertilisation]
 
 ---
 
@@ -2549,7 +2536,6 @@ Different pollinators may complement one another by visiting:
 
 A resilient pollination system normally depends on habitat, plant diversity, suitable nesting sites, and multiple pollinator groups rather than a single managed species.
 
-[Figure placeholder: comparison chart showing honey bee, bumblebee, solitary bee, hoverfly, butterfly, moth, beetle, bird, and bat with different activity periods and floral traits]
 
 ---
 
@@ -2791,7 +2777,6 @@ They should follow:
 
 A beekeeper should not rely on an informal promise that a product is “bee safe” without identifying the product, use, timing, formulation, and label restrictions.
 
-[Figure placeholder: pollination-service workflow from pre-contract site assessment through colony preparation, delivery, monitoring, pesticide communication, removal, and post-service colony inspection]
 
 ---
 
@@ -2912,7 +2897,6 @@ Pollinators may also support:
 - wild plants used by communities;
 - rural employment.
 
-[Figure placeholder: two-part diagram distinguishing calorie staples largely pollinated by wind from diverse fruits, vegetables, nuts, and oilseeds that often benefit from animal pollination]
 
 ---
 
@@ -3101,7 +3085,6 @@ Regional threats may include predatory hornets, beetles, moths, ants, rodents, o
 
 Management must be species-specific and lawful.
 
-[Figure placeholder: wheel diagram showing interacting colony pressures—Varroa and viruses, nutrition, pesticides, weather, queen condition, management, habitat, transport, and invasive pests]
 
 ---
 
@@ -3314,7 +3297,6 @@ Then identify:
 6. Who must be contacted before colonies are placed?
 7. What evidence would be needed to evaluate pollination success?
 
-[Figure placeholder: blank printable landscape-mapping worksheet with symbols for apiary, crops, wild habitat, water, pesticide risk, public route, livestock, and neighbouring colonies]
 
 ---
 
@@ -3672,7 +3654,6 @@ A substance may be treated differently depending on whether it is sold as:
 - a technical material;
 - a research sample.
 
-[Figure placeholder: classification diagram separating foods, technical materials, specialist products, living biological stock, and agricultural services]
 
 ---
 
@@ -3686,7 +3667,6 @@ The process begins when foraging worker bees collect nectar from flowers using t
 
 Worker bees then fan their wings to circulate air through the hive. This airflow removes excess moisture from the nectar until its water content is low enough to prevent fermentation. Once the honey has reached the proper consistency, the bees seal each cell with a thin wax cap, preserving the honey until it is needed.
 
-[Figure placeholder: step-by-step diagram showing nectar collection, transfer between workers, enzymatic change, water reduction, cell filling, maturation, and capping]
 
 ### Types of Honey
 
@@ -3802,7 +3782,6 @@ HMF may increase with both heating and prolonged storage, especially at elevated
 
 A beekeeper should use the lowest practical temperature for the shortest practical time and follow the legal quality criteria applicable to the intended market.
 
-[Figure placeholder: honey quality decision diagram covering capping, representative sampling, refractometer measurement, fermentation risk, and controlled warming]
 
 ### Consumer Safety: Infants
 
@@ -3868,7 +3847,6 @@ Because honey naturally has low moisture content and high sugar concentration, i
 
 ---
 
-[Figure placeholder: comparison of correct and incorrect honey storage showing sealed food-grade container, cool dark location, open container, direct sunlight, heat, moisture, and chemical contamination]
 
 ---
 
@@ -3969,7 +3947,6 @@ Do not heat wax directly over an uncontrolled open flame.
 
 Water must not be thrown onto burning wax.
 
-[Figure placeholder: beeswax handling flow showing cappings wax, brood-comb wax, sorting, melting, filtering, clean storage, suspected contamination, and rejection]
 
 ---
 
@@ -4131,7 +4108,6 @@ Storage requirements depend on whether pollen is:
 
 A beekeeper should not invent a shelf life without validated processing, packaging, and storage evidence.
 
-[Figure placeholder: pollen handling diagram from pollen trap through frequent collection, inspection, cleaning, drying or freezing, packaging, batch labelling, and storage]
 
 ---
 
@@ -4222,7 +4198,6 @@ Royal jelly can cause allergic reactions, including severe reactions.
 
 Products must not be promoted as cures or treatments without appropriate legal authorisation and evidence.
 
-[Figure placeholder: royal jelly cold-chain diagram from grafting and queen-cell harvest to hygienic collection, immediate cooling, transport, packaging, and controlled storage]
 
 ---
 
@@ -4383,7 +4358,6 @@ For a nucleus colony, this may include:
 
 Avoid guarantees that cannot be verified, such as guaranteed future honey yield or permanent freedom from all disease.
 
-[Figure placeholder: comparison diagram showing queen cage, nucleus colony, package bees, and full colony, with the minimum information that should accompany each sale]
 
 ---
 
@@ -10283,7 +10257,6 @@ Retinue membership changes continuously. A worker may remain near the queen brie
 
 This behaviour helps distribute queen-produced chemical information through the colony.
 
-[Figure placeholder: overhead view of a queen retinue showing the queen at the centre, workers facing towards her, antennal contact, grooming, feeding, and subsequent movement of workers away from the retinue]
 
 ---
 
@@ -10518,7 +10491,6 @@ The pheromone can help:
 
 A fanning worker displaying the Nasonov gland should not automatically be interpreted as overheating the hive. Ventilation fanning and scent-fanning can appear similar, but abdominal posture and context differ.
 
-[Figure placeholder: side-by-side comparison of a worker exposing the Nasonov gland while scent-fanning and workers performing entrance ventilation, showing abdominal position, airflow direction, gland location, and practical identification features]
 
 ---
 
@@ -10823,7 +10795,6 @@ Possible functions include:
 
 The shaking signal does not carry one fixed instruction. Its effect depends on the identity and condition of the receiving bee and on colony context.
 
-[Figure placeholder: worker performing the shaking signal on another worker, showing body position, contact points, direction of vibration, and possible recipient responses]
 
 ---
 
@@ -10933,7 +10904,6 @@ Queen piping does not mean that every colony will swarm. Interpretation depends 
 - Condition of the mother queen.
 - Space and congestion.
 
-[Figure placeholder: sequence showing a free virgin queen producing a piping signal and queens inside capped cells responding, with vibration transmission through the comb and relationship to afterswarm timing]
 
 ---
 
@@ -11013,7 +10983,6 @@ It covered:
 - Queen piping.
 - Acoustic and comb-borne vibration.
 
-Part 2 will continue with recruitment dances, food-source communication, orientation, nest-site selection, swarming communication, defensive coordination, practical inspection interpretation, common mistakes, summary, review questions, figure placeholders, and references.
 
 ---
 
@@ -11099,7 +11068,6 @@ Followers may use:
 
 The distance at which round dancing changes into waggle dancing is not fixed universally. It varies with bee population, landscape, forage conditions, and experimental interpretation.
 
-[Figure placeholder: round dance sequence on vertical comb showing circular movement, direction reversals, follower positions, floral odour transfer, and nearby search area around the hive]
 
 ---
 
@@ -11150,7 +11118,6 @@ They can use:
 
 Cloud cover does not always prevent orientation because ultraviolet-sensitive vision can detect polarisation patterns unavailable to human vision.
 
-[Figure placeholder: vertical comb showing upward as the direction of the sun, with example waggle-run angles translated into flight directions relative to the sun]
 
 ---
 
@@ -11625,7 +11592,6 @@ Once the swarm becomes airborne, scout bees help guide movement towards the sele
 
 Nasonov fanning may assist final entry and assembly at the cavity.
 
-[Figure placeholder: full swarm nest-site selection sequence from temporary cluster, competing scout dances, site inspection, quorum formation, swarm activation, flight, and entrance into the selected cavity]
 
 ---
 
@@ -12763,7 +12729,6 @@ Poor spacing can lead to irregular comb.
 
 Correct bee space helps guide construction while allowing movement between surfaces.
 
-[Figure placeholder: worker bees receiving wax scales, manipulating wax with their mandibles, and extending a comb edge]
 
 ---
 
@@ -12908,7 +12873,6 @@ Orientation flights are usually:
 
 They may be mistaken for swarming or robbing.
 
-[Figure placeholder: progressive orientation flight arcs showing a young worker learning the entrance, hive face, nearby landmarks, and wider apiary surroundings]
 
 ---
 
@@ -13115,7 +13079,6 @@ Grooming contributes to colony health but does not by itself control Varroa dest
 
 Some bee populations show stronger grooming responses than others.
 
-[Figure placeholder: comparison of auto-grooming and allogrooming, including worker contact with a Varroa mite]
 
 ---
 
@@ -13386,7 +13349,6 @@ Other bees may face outward as part of airflow patterns.
 
 Workers exposing the Nasonov gland while fanning may be broadcasting orientation scent.
 
-[Figure placeholder: ventilation fanning compared with Nasonov scent-fanning, showing posture, gland exposure, airflow, and location]
 
 ---
 
@@ -15993,7 +15955,6 @@ It changes with:
 
 *Photo 13.1 — Brood-nest organisation on a real frame. Brood occupies the central region, pollen is stored nearby, and honey/stores occur farther outward. This is a useful example of normal spatial organisation, not a rigid pattern that every healthy frame must reproduce exactly. Photo by John Pons, CC BY-SA 4.0.*
 
-[Figure placeholder: cross-section of a typical brood nest showing central eggs, larvae, capped brood, pollen band, nectar, and capped honey]
 
 ---
 
@@ -20656,7 +20617,6 @@ Resources that may be used during scarcity:
 
 A map should record both opportunities and hazards.
 
-[Figure placeholder: concentric apiary forage zones showing immediate, near, and wider resource landscapes]
 
 ---
 
@@ -21191,7 +21151,6 @@ The barrier should not:
 
 A barrier reduces risk but does not make an unsuitable site automatically safe.
 
-[Figure placeholder: low unrestricted flight path compared with a raised flight path created by a hedge or fence]
 
 ---
 
@@ -23077,7 +23036,6 @@ The plan may be drawn on paper or digitally.
 
 It should use measurements rather than memory.
 
-[Figure placeholder: complete apiary master plan showing hives, entrances, vehicle route, working zones, water, quarantine, storage, fencing, and emergency access]
 
 ---
 
@@ -30818,7 +30776,6 @@ A standard rectangular frame commonly consists of:
 
 Each part contributes to strength and compatibility.
 
-[Figure placeholder: complete frame anatomy showing top bar, lugs, side bars, bottom bars, foundation, wire, and comb area]
 
 ---
 
