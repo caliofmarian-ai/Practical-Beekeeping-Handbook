@@ -713,7 +713,7 @@
       "technical_review_status": "SOURCE_RESOLUTION_PASS_CONTEXTUAL_WITH_DIAGNOSTIC_CAVEAT",
       "final_asset_path": null,
       "repository_source_path": "assets/photos/a-core/source-candidates/p43-01-afb-brood-frame-context.jpg",
-      "source_sha256": "7222ba139915824513675d0d9c33a61bacd2b91bef0fa65bc5c17b8bea36377d",
+      "source_sha256": "57a8185c5914ec4c5dc960501ee4fc4760182467a0fed6f3738fc95d2328065c",
       "source_width_px": 1280,
       "source_height_px": 851,
       "placement_intent": "single-column-or-medium"
