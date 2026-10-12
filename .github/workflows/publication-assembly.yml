@@ -10,6 +10,7 @@ on:
     branches:
       - main
       - 'publishing/**'
+      - 'photo/**'
     paths:
       - 'chapters/**'
       - 'references/**'
@@ -40,7 +41,7 @@ jobs:
   # Publishing branch sources rebuild their own tracked assembly. This
   # does not touch main and never runs with write permission on a PR.
   refresh:
-    if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/publishing/')
+    if: github.event_name == 'push' && github.ref != 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -69,7 +70,8 @@ jobs:
           assert "[Figure placeholder:" not in book
           assert "Part 2 will continue" not in book
           assert "p48-03-harvest-super-handling.jpg" in book
-          assert m["local_images_verified_count"] >= 35
+          assert "p59-02-dried-bee-venom-real-sample.png" in book
+          assert m["local_images_verified_count"] == 36
           for entry in m["chapters"] + m["references"]:
               source = Path(entry["source"])
               assert hashlib.sha256(source.read_bytes()).hexdigest() == entry["source_sha256"]
