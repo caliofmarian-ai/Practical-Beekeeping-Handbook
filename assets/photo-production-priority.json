@@ -1402,14 +1402,21 @@
       "working_title": "Dried Bee Venom Sample",
       "shot_brief": "Controlled laboratory/product image with allergen safety and provenance. ---",
       "source_register": "references/photographs.md",
-      "production_status": "PLANNED",
+      "production_status": "SOURCE_FILE_READY",
       "preferred_provenance": "original_or_clearly_licensed",
-      "rights_status": "UNSOURCED",
-      "technical_review_status": "PENDING",
+      "rights_status": "VERIFIED_CC_BY_4_0",
+      "technical_review_status": "SOURCE_RESOLUTION_PASS_REAL_SAMPLE",
       "final_asset_path": null,
       "priority_score": 5,
       "editorial_priority": "A_CORE",
-      "selection_status": "SOURCE_OR_CREATE"
+      "selection_status": "SOURCE_OR_CREATE",
+      "repository_source_path": "assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png",
+      "source_sha256": "8039d43f79d20d1f25dbcc4084d2885dd8a04fa8845865c14265099c5349bc82",
+      "source_width_px": 3084,
+      "source_height_px": 1408,
+      "placement_intent": "medium-width-or-two-column-figure",
+      "chapter_source_placement_status": "PLACED_IN_CHAPTER_SOURCE_PENDING_FINAL_PAGE_PROOF",
+      "source_note": "Authentic two-panel Figure 5 of Serrinha et al. (2019), CC BY 4.0; morphology not purity proof; source file unmodified."
     },
     {
       "asset_id": "P60.01",
@@ -1753,11 +1760,11 @@
     }
   ],
   "current_v1_status": {
-    "status": "A_CORE_SOURCING_AND_PLACEMENT_IN_PROGRESS",
+    "status": "A_CORE_SOURCE_READY_CHAPTER_PLACEMENT_COMPLETE_LAYOUT_PROOF_PENDING",
     "selected_count": 36,
-    "source_file_ready_and_chapter_placed_count": 35,
-    "remaining_count": 1,
+    "source_file_ready_and_chapter_placed_count": 36,
+    "remaining_count": 0,
     "final_layout_proof_status": "PENDING",
-    "last_verified": "2026-09-25"
+    "last_verified": "2026-10-12"
   }
 }
