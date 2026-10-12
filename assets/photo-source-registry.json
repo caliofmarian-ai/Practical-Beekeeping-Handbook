@@ -2038,9 +2038,9 @@
       "editorial_priority": "A_CORE",
       "source_class": "AUTHENTIC_SCIENTIFIC_PUBLICATION_PHOTOGRAPH",
       "generative_image_allowed_as_photo": false,
-      "source_status": "PRIMARY_SELECTED_PENDING_FILE_AND_RESOLUTION_PROOF",
+      "source_status": "SOURCE_FILE_READY_FOR_LAYOUT_PROOF",
       "rights_status": "VERIFIED_CC_BY_4_0",
-      "technical_match_status": "CONTEXTUAL_DRY_VENOM_SAMPLE_IN_INTERMEDIATE_CONTAINER",
+      "technical_match_status": "MATCH_REAL_DRY_VENOM_SAMPLE_AND_CONTROLLED_RECOVERY",
       "selected_source": "https://www.mdpi.com/2199-8531/5/3/71",
       "candidates": [
         {
@@ -2058,12 +2058,12 @@
           "required_or_requested_credit": "Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 5, CC BY 4.0; indicate crop if used.",
           "technical_match_status": "MATCH_CONTEXTUAL_DRY_VENOM_IN_INTERMEDIATE_CONTAINER",
           "technical_note": "Authentic image of dried bee venom being removed and the collected sample. No inference of chemical purity, potency, certification or biomedical efficacy may be drawn from appearance. Photo is documentary context only.",
-          "resolution_status": "PENDING_UNMODIFIED_RASTER_EXTRACTION",
+          "resolution_status": "SOURCE_FILE_READY_3084x1408",
           "extraction_page": 9,
           "extraction_selector": "first_qualifying_raster_on_page",
           "editorial_note": "Do not call the photo laboratory-certified; do not give unsafe scraping or exposure instructions. Need source image size check and small-scale page proof before approval.",
-          "editorial_review_status": "PENDING_SOURCE_BINARY_REVIEW",
-          "final_photo_allowed": false,
+          "editorial_review_status": "APPROVED_AUTHENTIC_DOCUMENTARY_CONTEXT",
+          "final_photo_allowed": true,
           "repository_source_path": "assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png",
           "source_sha256": "8039d43f79d20d1f25dbcc4084d2885dd8a04fa8845865c14265099c5349bc82",
           "downloaded_width_px": 3084,
@@ -2082,13 +2082,27 @@
             "embedded_width_px": 3084,
             "embedded_height_px": 1408,
             "qualifying_image_count": 2
-          }
+          },
+          "resolution_note": "Unmodified publisher-PDF raster 3084×1408, original full two-panel figure, 261.1×119.2 mm at 300 ppi; final page-scale and caption proof pending."
         }
       ],
       "download_status": "SOURCE_FILE_READY",
-      "repository_source_path": "assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png"
+      "repository_source_path": "assets/photos/a-core/source-candidates/p59-02-dried-bee-venom-real-sample.png",
+      "current_v1_placement": {
+        "chapter": 59,
+        "caption_id": "59.2",
+        "status": "PLACED_IN_CHAPTER_SOURCE_PENDING_FINAL_PDF_EPUB_PRINT_PROOF"
+      }
     }
   ],
   "last_updated": "2026-10-12",
-  "sourcing_pass": "P59.02_FIGURE5_PRIMARY_CANDIDATE_REVIEW_2026_10_12"
+  "sourcing_pass": "P59.02_REAL_SAMPLE_SOURCE_PLACED_2026_10_12",
+  "current_v1_status": {
+    "selected_count": 36,
+    "source_file_ready_and_chapter_placed_count": 36,
+    "remaining_count": 0,
+    "final_layout_proof_status": "PENDING",
+    "last_verified": "2026-10-12",
+    "note": "Legacy registry.counts are the 2026-09-20 source-search snapshot, not the current V1 selection. Use current_v1_status and assets/photo-production-priority.json."
+  }
 }
