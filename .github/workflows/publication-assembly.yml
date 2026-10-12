@@ -1,0 +1,104 @@
+name: Publication manuscript preflight
+
+on:
+  push:
+    branches:
+      - main
+      - 'publishing/**'
+    paths:
+      - 'chapters/**'
+      - 'references/**'
+      - 'glossary/**'
+      - 'bibliography/**'
+      - 'appendices/**'
+      - 'assets/photos/**'
+      - 'scripts/build_publication_manuscript.py'
+      - 'scripts/publication_preflight.py'
+      - 'tests/test_publication_preflight.py'
+      - '.github/workflows/publication-assembly.yml'
+  pull_request:
+    paths:
+      - 'chapters/**'
+      - 'references/**'
+      - 'glossary/**'
+      - 'bibliography/**'
+      - 'appendices/**'
+      - 'assets/photos/**'
+      - 'scripts/build_publication_manuscript.py'
+      - 'scripts/publication_preflight.py'
+      - 'tests/test_publication_preflight.py'
+      - 'exports/publication/**'
+      - '.github/workflows/publication-assembly.yml'
+  workflow_dispatch:
+
+jobs:
+  # Publishing branch sources rebuild their own tracked assembly. This
+  # does not touch main and never runs with write permission on a PR.
+  refresh:
+    if: github.event_name == 'push' && startsWith(github.ref, 'refs/heads/publishing/')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Run compiler unit tests
+        run: python -m unittest discover -s tests -p 'test_publication_*.py' -v
+      - name: Compile current 74-chapter publication
+        run: python scripts/build_publication_manuscript.py
+      - name: Verify deterministic output
+        run: python scripts/build_publication_manuscript.py --check
+      - name: Check source hashes, reader hygiene and latest photo
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib, json, re
+          m = json.loads(Path("exports/publication/manifest.json").read_text(encoding="utf-8"))
+          book = Path("exports/publication/Practical-Beekeeping-Handbook.md").read_text(encoding="utf-8")
+          assert m["chapter_count"] == 74 and m["reference_count"] == 11 and m["asset_plan_count"] == 74
+          assert hashlib.sha256(book.encode("utf-8")).hexdigest() == m["generated_sha256"]
+          assert len(re.findall(r'^# Chapter \d+ — ', book, re.M)) == 74
+          assert "## Review Notes" not in book
+          assert "## Figure Placeholders" not in book
+          assert "p48-03-harvest-super-handling.jpg" in book
+          assert m["local_images_verified_count"] >= 35
+          for entry in m["chapters"] + m["references"]:
+              source = Path(entry["source"])
+              assert hashlib.sha256(source.read_bytes()).hexdigest() == entry["source_sha256"]
+          print("PASS: 74 chapters, 11 references, source checksums, photo P48.03 and reader hygiene")
+          PY
+      - name: Upload current manuscript build for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: publication-markdown-and-manifest
+          path: |
+            exports/publication/Practical-Beekeeping-Handbook.md
+            exports/publication/manifest.json
+          retention-days: 30
+      - name: Commit regenerated manuscript to publishing branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add exports/publication/Practical-Beekeeping-Handbook.md exports/publication/manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh canonical publication manuscript and manifest (#223)"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          else
+            echo "Publication output already matches source"
+          fi
+
+  # Read-only gate on PRs and main, including a committed-build freshness test.
+  verify:
+    if: github.event_name != 'push' || github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run compiler unit tests
+        run: python -m unittest discover -s tests -p 'test_publication_*.py' -v
+      - name: Verify committed publication source is current
+        run: python scripts/build_publication_manuscript.py --check
+      - name: Verify tracked publication files have no whitespace corruption
+        run: git diff --check

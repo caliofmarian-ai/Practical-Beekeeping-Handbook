@@ -1013,23 +1013,6 @@ Before moving to the next chapter, the reader should be able to confirm:
 
 ---
 
-## Review Notes
-
-**Manuscript status:** Complete draft for editorial and technical review.
-
-**Issue addressed:** GitHub Issue #6 — Introduction to Beekeeping.
-
-**Review priorities:**
-
-- Confirm terminology against the project glossary as it develops.
-- Confirm chapter cross-references after final numbering and file naming are locked.
-- Review emergency language against the final safety and first-aid chapter.
-- Verify that legal wording remains jurisdiction-neutral.
-- Review the beginner-readiness checklist during final field testing.
-- Create all figure assets during the coordinated final illustration and layout stage.
-- Recheck institutional links and publication details before release.
-- Perform a final duplication audit against Chapters 2, 3, 15, 23, 39–46, 66–69, and 71–72.
-
 
 <!-- ASSET-PLAN: docs/illustration-plans/chapter-01-illustration-plan.md -->
 
@@ -2302,27 +2285,6 @@ The main practical lesson is that progress depends on observation, evidence, cri
 
 ---
 
-## Review Notes
-
-**Manuscript status:** Complete draft for historical, scientific, and editorial review.
-
-**Issue addressed:** GitHub Issue #7 — History of Beekeeping.
-
-**Review priorities:**
-
-- Confirm archaeological dates and terminology against the cited academic sources.
-- Verify the interpretation and dating language used for the Bicorp rock art.
-- Review the Egyptian section with a specialist in ancient apiculture.
-- Confirm transliteration and spelling of all historical names.
-- Review the treatment of Prokopovych, Dzierżon, Langstroth, Mehring, and Hruschka for balanced attribution.
-- Confirm whether additional Asian, African, Indigenous, and Latin American examples should be added.
-- Ensure historical descriptions are not mistaken for current management recommendations.
-- Coordinate the timeline with Chapter 5, Modern Beekeeping, and Chapter 74, Future of Beekeeping.
-- Create illustrations only from verified reference material and label reconstructions clearly.
-- Check every external link before publication.
-- Convert references to the final project citation style after the bibliography standard is locked.
-- Perform a final plagiarism and close-paraphrase review.
-
 
 <!-- ASSET-PLAN: docs/illustration-plans/chapter-02-illustration-plan.md -->
 
@@ -2462,6 +2424,10 @@ An **ecosystem service** is a benefit that people receive from ecological proces
 Pollination is one such service, but its value is ecological and social as well as financial.
 
 ---
+
+![Honey bee contacting the reproductive structures of a flower while foraging](../../assets/photos/a-core/source-candidates/p03-01-honey-bee-on-flower.jpg)
+
+*Photo 3.1 — Honey bee on a flower. The photograph shows a real foraging bee in floral contact; flower visitation can transfer loose pollen, but visitation alone does not guarantee successful pollination. Photo by Peggy Greb, USDA Agricultural Research Service; public domain.*
 
 ## How Flower Visitation Becomes Pollination
 
@@ -3524,30 +3490,6 @@ Responsible beekeeping therefore involves more than keeping colonies alive or co
 18. Free, J. B. *Insect Pollination of Crops*. Second edition, Academic Press, 1993.
 
 ---
-
-## Review Notes
-
-**Manuscript status:** Complete draft for scientific, agricultural, legal, and editorial review.
-
-**Issue addressed:** GitHub Issue #8 — Importance of Honey Bees.
-
-**Review priorities:**
-
-- Verify crop-dependence descriptions against current regional crop guidance.
-- Confirm that honey bees are not presented as replacements for wild pollinators.
-- Review the competition and protected-habitat sections with a pollination ecologist.
-- Review the pollination-contract section with a commercial beekeeper and crop adviser.
-- Add regional examples only where reliable sources are available.
-- Avoid presenting global economic estimates as beekeeper income.
-- Verify disease and pesticide language for each intended publishing jurisdiction.
-- Ensure treatment information remains in the dedicated health chapters.
-- Confirm that health-product references do not imply medicinal efficacy.
-- Check every external link before publication.
-- Convert references to the final handbook citation standard.
-- Create all figure artwork according to `docs/standards/ILLUSTRATION_STANDARDS.md`.
-- Label diagrams as educational simplifications where biological structures are not drawn to scale.
-- Coordinate related material with the biodiversity, forage, pollination-service, disease, pesticide, and business chapters.
-- Perform final plagiarism, close-paraphrase, accessibility, and terminology reviews.
 
 
 <!-- ASSET-PLAN: docs/illustration-plans/chapter-03-illustration-plan.md -->
@@ -4777,34 +4719,6 @@ Good records protect consumers and allow the beekeeper to identify the cause.
 
 ---
 
-## Review Notes
-
-**Manuscript status:** Expanded draft for apicultural, food-safety, veterinary, legal, allergy, and editorial review.
-
-**Issue addressed:** GitHub Issue #9 — Products of the Hive.
-
-**Review priorities:**
-
-- Verify honey composition and quality criteria against the jurisdictions selected for publication.
-- Confirm legal moisture, HMF, labelling, and authenticity requirements.
-- Review the infant-honey warning with a qualified food-safety specialist.
-- Review allergen statements for pollen, propolis, royal jelly, and venom.
-- Verify the distinction between foods, cosmetics, medicines, animal feed, and technical products.
-- Review veterinary-treatment residue language with a bee-health authority.
-- Confirm storage instructions and shelf-life language for pollen and royal jelly.
-- Add jurisdiction-specific withdrawal periods only in regional supplements.
-- Review venom collection content with a trained specialist before adding operational detail.
-- Confirm live-bee transport requirements for each target region.
-- Check that nucleus-colony and queen-sale descriptions do not create unsupported guarantees.
-- Verify every external reference before publication.
-- Convert references to the final handbook citation style.
-- Create all figures according to `docs/standards/ILLUSTRATION_STANDARDS.md`.
-- Label biological and processing diagrams clearly when not drawn to scale.
-- Coordinate this chapter with honey harvesting, food safety, disease, medicines, business, labelling, queen rearing, and pollination chapters.
-- Perform final plagiarism, close-paraphrase, accessibility, and terminology reviews.
-
----
-
 ## Chapter Summary
 
 Honey bee colonies provide far more than honey. Beeswax, propolis, pollen, royal jelly, bee venom, queens, nucleus colonies, package bees, and pollination services all contribute to the importance of modern beekeeping.
@@ -5293,16 +5207,6 @@ It is the one in which the beekeeper:
 6. Why must treatment effectiveness be checked?
 7. How does food safety begin before honey extraction?
 8. What makes an apiary sustainable for both bees and the beekeeper?
-
----
-
-## Figure Placeholders
-
-- **Figure 5.1:** Evolution from fixed-comb hives to modern movable-frame systems.
-- **Figure 5.2:** Example of a standardised apiary equipment system.
-- **Figure 5.3:** Modern colony-management cycle: observe, record, decide, act, verify.
-- **Figure 5.4:** Examples of digital hive-monitoring tools and the information they provide.
-- **Figure 5.5:** Basic traceability path from hive to packaged honey.
 
 ---
 
@@ -5848,23 +5752,6 @@ Detailed sting first aid and allergic-reaction procedures are covered in the ded
 13. What visible abnormalities may indicate that a colony requires investigation?
 14. Why should anatomical symptoms not be used alone to diagnose disease?
 15. How can knowledge of bee anatomy improve practical colony management?
-
----
-
-## Figure Placeholders
-
-- **Figure 6.1:** External anatomy of a worker honey bee, showing the head, thorax, abdomen, wings, legs, antennae, and major visible structures.
-- **Figure 6.2:** Detailed structures of the honey bee head, including compound eyes, ocelli, antennae, mandibles, and proboscis.
-- **Figure 6.3:** Thorax and wing arrangement, showing the forewings, hindwings, hamuli, legs, and flight muscles.
-- **Figure 6.4:** Specialised structures of a worker bee’s hind leg, including the pollen comb, pollen press, and corbicula.
-- **Figure 6.5:** Internal digestive system, showing the oesophagus, crop, proventriculus, midgut, hindgut, and rectum.
-- **Figure 6.6:** Tracheal respiratory system and external spiracles.
-- **Figure 6.7:** Worker wax glands and the production of wax scales.
-- **Figure 6.8:** Worker sting apparatus, including the lancets, venom sac, and venom glands.
-- **Figure 6.9:** Comparative external anatomy of a queen, worker, and drone.
-- **Figure 6.10:** Anatomy-based observation pathway: observe, compare, inspect the colony, test where appropriate, and act.
-
-Illustrations will be produced during the final layout and illustration stage. No provisional ASCII diagrams are included in the manuscript.
 
 ---
 
@@ -6776,25 +6663,6 @@ The beekeeper should use biological timelines as practical guides while allowing
 18. What changes occur in worker duties as they age?
 19. Why do winter workers live longer than summer workers?
 20. How does the individual bee life cycle relate to the seasonal colony cycle?
-
----
-
-## Figure Placeholders
-
-- **Figure 7.1:** Complete honey bee metamorphosis: egg, larva, pupa, and adult.
-- **Figure 7.2:** Position of a honey bee egg during the three-day egg stage.
-- **Figure 7.3:** Larval growth stages inside an open brood cell.
-- **Figure 7.4:** Pupal development from pale pupa to fully pigmented adult.
-- **Figure 7.5:** Comparative development timelines for queen, worker, and drone.
-- **Figure 7.6:** Worker, drone, and queen cell shapes and cappings.
-- **Figure 7.7:** Development of an emergency queen cell from a young worker larva.
-- **Figure 7.8:** Age-related division of labour in adult worker bees.
-- **Figure 7.9:** Varroa reproduction inside a capped brood cell.
-- **Figure 7.10:** Seasonal colony cycle from spring expansion to winter clustering.
-- **Figure 7.11:** Practical brood-age identification guide.
-- **Figure 7.12:** Queen-replacement timeline from queen loss to emergence of new workers.
-
-All professional illustrations will be produced during the final layout stage. No provisional ASCII diagrams are included.
 
 ---
 
@@ -8029,25 +7897,6 @@ Correct queen management depends on biological timing, careful observation, accu
 
 ---
 
-## Figure Placeholders
-
-- **Figure 8.1:** External anatomy of a mature laying queen compared with a worker.
-- **Figure 8.2:** Internal reproductive anatomy of the queen, including ovaries, oviducts, and spermatheca.
-- **Figure 8.3:** Queen development from fertilised egg to adult emergence.
-- **Figure 8.4:** Comparison of swarm, supersedure, and emergency queen cells.
-- **Figure 8.5:** Virgin queen maturation and mating-flight timeline.
-- **Figure 8.6:** Queen mating and sperm storage in the spermatheca.
-- **Figure 8.7:** Queen retinue and pheromone distribution through workers.
-- **Figure 8.8:** Visual guide to locating a queen on a brood frame.
-- **Figure 8.9:** International queen-marking colour sequence.
-- **Figure 8.10:** Comparison of normal queen laying, drone-laying queen, and laying-worker egg patterns.
-- **Figure 8.11:** Queen status decision pathway.
-- **Figure 8.12:** Safe queen handling and marking procedure.
-
-All professional illustrations will be produced together during the final layout stage. No provisional ASCII diagrams are included.
-
----
-
 ## References and Further Reading
 
 - Caron, D. M., and Connor, L. J. *Honey Bee Biology and Beekeeping*. Wicwas Press.
@@ -8189,6 +8038,10 @@ The front legs help clean the antennae.
 The middle legs assist in handling pollen and transferring materials.
 
 The hind legs contain structures used for collecting and transporting pollen, including the corbicula, commonly called the pollen basket.
+
+![Worker honey bee carrying a visible pollen load on the hind leg](../../assets/photos/a-core/source-candidates/p09-01-worker-carrying-pollen.jpg)
+
+*Photo 9.1 — Worker carrying pollen. A visible corbicular pollen load illustrates how workers transport collected pollen on the hind legs. Photo by Andreas Trepte, CC BY-SA 2.5.*
 
 ### Abdomen
 
@@ -9101,27 +8954,6 @@ A productive colony depends on a balanced worker population, good nutrition, hea
 18. Under what conditions can workers begin laying eggs?
 19. Why is drifting important in disease control?
 20. How should a beekeeper assess worker population balance?
-
----
-
-## Figure Placeholders
-
-- **Figure 9.1:** External anatomy of a worker bee with task-related structures labelled.
-- **Figure 9.2:** Worker development from egg to adult emergence.
-- **Figure 9.3:** Age-related progression of common worker duties.
-- **Figure 9.4:** Worker hind leg showing pollen combs and corbicula.
-- **Figure 9.5:** Nurse bees feeding larvae in open brood cells.
-- **Figure 9.6:** Wax scales and comb-building behaviour.
-- **Figure 9.7:** Nectar transfer and honey-ripening process.
-- **Figure 9.8:** Thermoregulation through clustering, fanning, and water evaporation.
-- **Figure 9.9:** Guard bees inspecting incoming bees at the entrance.
-- **Figure 9.10:** Orientation flight compared with robbing activity.
-- **Figure 9.11:** Hygienic removal of abnormal capped brood.
-- **Figure 9.12:** Summer worker and winter worker physiological comparison.
-- **Figure 9.13:** Main resources collected by worker foragers.
-- **Figure 9.14:** Worker population balance inside a healthy colony.
-
-All professional illustrations will be produced together during the final layout stage. No provisional artwork or ASCII diagrams are included.
 
 ---
 
@@ -10108,27 +9940,6 @@ Healthy drone management supports successful queen mating, breeding quality, gen
 18. Why may drones remain in a colony during winter?
 19. When should drone production begin for queen rearing?
 20. Why should beekeepers avoid eliminating all drone comb?
-
----
-
-## Figure Placeholders
-
-- **Figure 10.1:** External anatomy of a drone compared with a worker and queen.
-- **Figure 10.2:** Drone development from unfertilised egg to adult emergence.
-- **Figure 10.3:** Worker-cell and drone-cell size and capping comparison.
-- **Figure 10.4:** Large drone eyes and visual field during queen pursuit.
-- **Figure 10.5:** Internal male reproductive anatomy.
-- **Figure 10.6:** Drone sexual maturation after emergence.
-- **Figure 10.7:** Drone congregation area in a typical landscape.
-- **Figure 10.8:** Aerial queen–drone mating sequence.
-- **Figure 10.9:** Genetic contribution of drones and formation of worker patrilines.
-- **Figure 10.10:** Seasonal drone population cycle.
-- **Figure 10.11:** Varroa reproduction inside a capped drone cell.
-- **Figure 10.12:** Correct timing of drone-brood trapping.
-- **Figure 10.13:** Normal drone brood, drone-laying queen, and laying-worker comparison.
-- **Figure 10.14:** Queen-rearing timeline coordinated with mature drone availability.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
 
 ---
 
@@ -12653,39 +12464,6 @@ No single sound, odour, dance, or movement should be used as the only basis for 
 38. How does colony communication influence worker task allocation?
 39. How may pesticides interfere with communication?
 40. Why must behavioural observations be combined with physical colony evidence?
-
----
-
-## Figure Placeholders
-
-- **Figure 11.1:** Overview of chemical, tactile, trophallactic, visual, acoustic, vibrational, and thermal communication channels inside a colony.
-- **Figure 11.2:** Queen retinue showing feeding, grooming, antennal contact, and pheromone distribution.
-- **Figure 11.3:** Distribution pathways of queen pheromones through direct contact, worker movement, grooming, and trophallaxis.
-- **Figure 11.4:** Queenright, recently queenless, virgin-queen, and laying-worker colony communication comparison.
-- **Figure 11.5:** Brood pheromone influence on nursing, pollen foraging, cell cleaning, and thermoregulation.
-- **Figure 11.6:** Nasonov scent-fanning compared with ventilation fanning.
-- **Figure 11.7:** Alarm pheromone release after stinging and recruitment of defensive workers.
-- **Figure 11.8:** Trophallaxis network distributing food, odours, and chemical information.
-- **Figure 11.9:** Worker performing the shaking signal on another bee.
-- **Figure 11.10:** Stop signal interrupting an active waggle dancer.
-- **Figure 11.11:** Queen piping between an emerged virgin queen and queens inside capped cells.
-- **Figure 11.12:** Round dance movement and nearby resource-search area.
-- **Figure 11.13:** Complete waggle-dance circuit with followers positioned around the dancer.
-- **Figure 11.14:** Waggle-run angles translated into flight direction relative to the sun.
-- **Figure 11.15:** Relationship between waggle-run duration and approximate journey distance.
-- **Figure 11.16:** Floral odour, nectar samples, dance information, and final resource localisation.
-- **Figure 11.17:** Tremble dance and recruitment of additional nectar-receiver workers.
-- **Figure 11.18:** Orientation flights compared with robbing behaviour at the entrance.
-- **Figure 11.19:** Apiary layouts showing high and reduced drifting risk.
-- **Figure 11.20:** Swarm scouts advertising competing nest sites on the cluster surface.
-- **Figure 11.21:** Nest-site selection process from discovery through quorum and departure.
-- **Figure 11.22:** Nasonov fanning as a swarm enters a selected nest cavity.
-- **Figure 11.23:** Progressive colony-defence sequence from guard inspection to alarm recruitment.
-- **Figure 11.24:** Local worker responses coordinating brood heating and evaporative cooling.
-- **Figure 11.25:** Practical entrance-observation guide for orientation, fanning, guarding, robbing, and abnormal crawling.
-- **Figure 11.26:** Behavioural evidence used with brood and queen observations during a colony inspection.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
 
 ---
 
@@ -15732,55 +15510,6 @@ The most important practical rule is to interpret behaviour in context. The beek
 
 ---
 
-## Figure Placeholders
-
-- **Figure 12.1:** Overview of worker behavioural stages from emergence to foraging, showing flexible task transitions.
-- **Figure 12.2:** Newly emerged worker cleaning and polishing a brood cell.
-- **Figure 12.3:** Nurse workers inspecting and feeding larvae of different ages.
-- **Figure 12.4:** Queen retinue showing feeding, grooming, antennal contact, and movement.
-- **Figure 12.5:** Wax scales being transferred and manipulated during comb construction.
-- **Figure 12.6:** Nectar forager transferring nectar to a receiver bee.
-- **Figure 12.7:** Nectar processing from fresh droplet to capped honey.
-- **Figure 12.8:** Pollen forager unloading pellets into a storage cell.
-- **Figure 12.9:** Water collectors using a safe water source with landing surfaces.
-- **Figure 12.10:** Propolis collection and use within hive cracks.
-- **Figure 12.11:** Progressive orientation-flight arcs around the hive entrance.
-- **Figure 12.12:** Cleansing flight after winter confinement.
-- **Figure 12.13:** Nectar, pollen, water, and resin forager comparison.
-- **Figure 12.14:** Auto-grooming and allogrooming with Varroa removal.
-- **Figure 12.15:** Hygienic behaviour sequence from detection to brood removal.
-- **Figure 12.16:** Undertaker worker removing dead brood from the colony.
-- **Figure 12.17:** Guard inspection and progressive defensive response.
-- **Figure 12.18:** Worker sting apparatus and alarm marking of the sting site.
-- **Figure 12.19:** Controlled cool smoke interrupting alarm communication.
-- **Figure 12.20:** Ventilation fanning compared with Nasonov scent-fanning.
-- **Figure 12.21:** Worker heating and evaporative-cooling behaviours around brood.
-- **Figure 12.22:** Normal summer bearding compared with swarm-preparation evidence.
-- **Figure 12.23:** Winter cluster structure and gradual movement through stores.
-- **Figure 12.24:** Orientation flights compared with active robbing.
-- **Figure 12.25:** Robber bees searching hive cracks while guards defend the entrance.
-- **Figure 12.26:** Apiary layouts with high and reduced drifting risk.
-- **Figure 12.27:** Swarming compared with complete absconding.
-- **Figure 12.28:** Swarm preparation from queen cups to departure.
-- **Figure 12.29:** Scout evaluation and quorum-based nest-site selection.
-- **Figure 12.30:** Laying queen inspecting a cell and depositing an egg.
-- **Figure 12.31:** Virgin queen timeline from emergence through mating to first eggs.
-- **Figure 12.32:** Normal queen-laid eggs compared with laying-worker patterns.
-- **Figure 12.33:** Drone development, congregation flight, mating, and seasonal eviction.
-- **Figure 12.34:** Festooning workers beneath a comb-building edge.
-- **Figure 12.35:** Washboarding behaviour on the landing board.
-- **Figure 12.36:** Queen introduction behaviour showing calm feeding and aggressive balling.
-- **Figure 12.37:** Five-minute entrance observation sequence.
-- **Figure 12.38:** Behavioural warning signs visible during a routine inspection.
-- **Figure 12.39:** Starvation signs including bees positioned head-first in cells.
-- **Figure 12.40:** Healthy flight compared with crawling, trembling, and deformed-wing behaviour.
-- **Figure 12.41:** Behavioural assessment decision tree for heavy entrance activity.
-- **Figure 12.42:** Colony behaviour record linking observation, interpretation, action, and follow-up.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
-
----
-
 ## References and Further Reading
 
 - Caron, D. M., and Connor, L. J. *Honey Bee Biology and Beekeeping*. Wicwas Press.
@@ -16259,6 +15988,10 @@ It changes with:
 - Colony strength.
 - Comb condition.
 - Management.
+
+![Honey bee frame showing central brood with pollen and honey stores arranged farther outward](../../assets/photos/a-core/source-candidates/p13-01-healthy-brood-nest-frame.jpg)
+
+*Photo 13.1 — Brood-nest organisation on a real frame. Brood occupies the central region, pollen is stored nearby, and honey/stores occur farther outward. This is a useful example of normal spatial organisation, not a rigid pattern that every healthy frame must reproduce exactly. Photo by John Pons, CC BY-SA 4.0.*
 
 [Figure placeholder: cross-section of a typical brood nest showing central eggs, larvae, capped brood, pollen band, nectar, and capped honey]
 
@@ -18454,55 +18187,6 @@ Colony structure is always changing. Good management supports the colony’s nat
 
 ---
 
-## Figure Placeholders
-
-- **Figure 13.1:** Complete colony system showing queen, workers, drones, brood, comb, food, airflow, and communication.
-- **Figure 13.2:** Superorganism comparison between colony functions and organism-level systems.
-- **Figure 13.3:** Adult colony population showing queen, nurses, house bees, guards, foragers, and drones.
-- **Figure 13.4:** Worker, drone, and queen cells shown at comparative scale.
-- **Figure 13.5:** Comb as nursery, food store, movement surface, and communication network.
-- **Figure 13.6:** Three-dimensional brood nest across multiple frames.
-- **Figure 13.7:** Typical brood frame with eggs, larvae, capped brood, pollen, nectar, and honey.
-- **Figure 13.8:** Brood-nest centre compared with brood-nest edge.
-- **Figure 13.9:** Pollen band and honey arch surrounding brood.
-- **Figure 13.10:** Nectar-bound brood nest compared with a balanced brood nest.
-- **Figure 13.11:** Pollen-bound brood nest compared with normal pollen storage.
-- **Figure 13.12:** Vertical-hive organisation showing brood below and honey above.
-- **Figure 13.13:** Horizontal-hive organisation showing lateral brood and store distribution.
-- **Figure 13.14:** Natural cavity nest with parallel combs, entrance, brood, pollen, and honey.
-- **Figure 13.15:** Correct bee space compared with propolis-filled and comb-filled gaps.
-- **Figure 13.16:** Worker movement through correct inter-frame spacing.
-- **Figure 13.17:** Open brood and sealed brood with their different care requirements.
-- **Figure 13.18:** Compact brood pattern compared with scattered abnormal patterns.
-- **Figure 13.19:** Normal worker and drone cappings compared with warning signs.
-- **Figure 13.20:** Method for estimating frames of bees.
-- **Figure 13.21:** Method for estimating full brood-frame equivalents.
-- **Figure 13.22:** Population forecast from eggs, larvae, sealed brood, and emerging workers.
-- **Figure 13.23:** Balanced and unbalanced brood-to-adult population ratios.
-- **Figure 13.24:** Winter cluster moving upward through accessible honey stores.
-- **Figure 13.25:** Colony structure from late winter through spring expansion.
-- **Figure 13.26:** Peak summer colony with brood, drones, foragers, and supers.
-- **Figure 13.27:** Autumn contraction and winter-store consolidation.
-- **Figure 13.28:** Structural changes before and after a primary swarm.
-- **Figure 13.29:** Queenless-colony timeline from queen loss to laying workers.
-- **Figure 13.30:** Supersedure structure compared with emergency queen rearing.
-- **Figure 13.31:** Old brood comb compared with new comb.
-- **Figure 13.32:** Mould and unused space in an oversized hive occupied by a weak colony.
-- **Figure 13.33:** Propolis sealing cracks and narrowing openings.
-- **Figure 13.34:** Queen excluder position between brood boxes and honey supers.
-- **Figure 13.35:** Drawn comb compared with undrawn foundation as usable colony space.
-- **Figure 13.36:** Brood-nest fragmentation caused by misplaced foundation.
-- **Figure 13.37:** Safe addition of empty drawn comb at the edge of an expanding brood nest.
-- **Figure 13.38:** Incorrect and correct restoration of frame order after inspection.
-- **Figure 13.39:** Strong, moderate, weak, and very weak colony-occupancy examples.
-- **Figure 13.40:** Structural warning signs of starvation, congestion, queen failure, and disease.
-- **Figure 13.41:** Eight-step practical colony-structure inspection.
-- **Figure 13.42:** Colony-structure record connecting observation, interpretation, action, and follow-up.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
-
----
-
 ## References and Further Reading
 
 - Winston, M. L. *The Biology of the Honey Bee*. Harvard University Press.
@@ -20573,55 +20257,6 @@ The most effective seasonal management is evidence-based. The beekeeper should c
 
 ---
 
-## Figure Placeholders
-
-- **Figure 14.1:** Annual colony cycle from winter cluster through spring expansion, summer peak, autumn contraction, and return to winter.
-- **Figure 14.2:** Interaction of day length, temperature, pollen, nectar, queen laying, brood, and adult population.
-- **Figure 14.3:** Population momentum from eggs to emerging workers and future foragers.
-- **Figure 14.4:** Late-winter cluster with small central brood nest and surrounding stores.
-- **Figure 14.5:** Spring population bottleneck showing winter-bee decline before new-worker emergence.
-- **Figure 14.6:** Early spring brood expansion across successive frames.
-- **Figure 14.7:** Spring food consumption compared with external forage reliability.
-- **Figure 14.8:** Drone-brood appearance during reproductive development.
-- **Figure 14.9:** Safe and unsafe hive-space expansion in spring.
-- **Figure 14.10:** Drawn comb compared with foundation as immediately usable space.
-- **Figure 14.11:** Progression from queen cups to charged and capped swarm cells.
-- **Figure 14.12:** Colony structure before and after primary swarm departure.
-- **Figure 14.13:** Summer peak colony with brood nest, drones, foragers, and honey supers.
-- **Figure 14.14:** Major nectar-flow signs within the hive.
-- **Figure 14.15:** Nectar-bound brood nest caused by insufficient drawn comb.
-- **Figure 14.16:** Summer thermoregulation using water, fanning, and bearding.
-- **Figure 14.17:** Summer dearth compared with active nectar flow.
-- **Figure 14.18:** Robbing pressure on a weak colony during dearth.
-- **Figure 14.19:** Seasonal Varroa population growth during sustained brood rearing.
-- **Figure 14.20:** Increasing mite concentration as brood contracts.
-- **Figure 14.21:** Transition from summer workers to long-lived winter bees.
-- **Figure 14.22:** Effect of pollen and Varroa pressure on winter-bee quality.
-- **Figure 14.23:** Autumn brood contraction and store consolidation.
-- **Figure 14.24:** Drone eviction during autumn.
-- **Figure 14.25:** Correct winter-store placement in vertical and horizontal hives.
-- **Figure 14.26:** Hive volume matched and mismatched to colony strength.
-- **Figure 14.27:** Autumn entrance reduction and rodent protection.
-- **Figure 14.28:** Winter cluster structure and movement through stores.
-- **Figure 14.29:** Harmful condensation compared with controlled moisture movement.
-- **Figure 14.30:** Seasonal differences among maritime, continental, and tropical climates.
-- **Figure 14.31:** Apiary microclimates created by sun, shade, wind, slope, and vegetation.
-- **Figure 14.32:** Seasonal colony imbalance examples.
-- **Figure 14.33:** Local forage calendar linked to brood growth and super timing.
-- **Figure 14.34:** Hive-weight graph showing winter consumption, nectar flow, dearth, and feeding.
-- **Figure 14.35:** Brood record predicting future population.
-- **Figure 14.36:** Seasonal Varroa monitoring and treatment-decision timeline.
-- **Figure 14.37:** Evidence-based spring expansion decision guide.
-- **Figure 14.38:** Swarm-pressure assessment using population, space, brood, drones, and queen cells.
-- **Figure 14.39:** Dearth-detection decision guide.
-- **Figure 14.40:** Winter-readiness assessment.
-- **Figure 14.41:** Seasonal inspection sequence from entrance observation to management plan.
-- **Figure 14.42:** Complete seasonal management dashboard combining brood, food, weight, weather, forage, queen, and Varroa records.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
-
----
-
 ## References and Further Reading
 
 - Winston, M. L. *The Biology of the Honey Bee*. Harvard University Press.
@@ -20719,6 +20354,10 @@ A site that works for two colonies may not work for twenty.
 A location that is excellent in spring may become unsuitable in winter or during harvest.
 
 The strongest apiary decisions are based on repeated observation rather than one brief visit.
+
+![Real apiary on open grass with rows of hives and surrounding woodland](../../assets/photos/a-core/source-candidates/p15-01-good-apiary-site.jpg)
+
+*Photo 15.1 — Apiary-site context. This real apiary shows useful features to inspect in the field, including workable open ground, hive spacing, access space and surrounding vegetation. A photograph cannot prove drainage, forage continuity, legal suitability, safe flight paths or year-round wind exposure; assess those separately on site. Photo by Mr-L4PSA, CC BY 4.0.*
 
 ---
 
@@ -23148,55 +22787,6 @@ The best site is not necessarily the location with the most flowers. It is the l
 
 ---
 
-## Figure Placeholders
-
-- **Figure 15.1:** Complete apiary-location assessment showing legal, biological, safety, access, and security factors.
-- **Figure 15.2:** Apiary objectives compared with their site requirements.
-- **Figure 15.3:** Written landowner agreement workflow.
-- **Figure 15.4:** Immediate, near, and wider forage zones around an apiary.
-- **Figure 15.5:** Seasonal forage calendar with flowering peaks and dearth periods.
-- **Figure 15.6:** Diverse forage landscape compared with short-duration monoculture.
-- **Figure 15.7:** Colony-density and forage-competition concept.
-- **Figure 15.8:** Agricultural pesticide communication workflow.
-- **Figure 15.9:** Safe apiary water station with landing surfaces.
-- **Figure 15.10:** Morning sun, afternoon shade, and winter exposure.
-- **Figure 15.11:** Permeable windbreak compared with turbulence behind a solid wall.
-- **Figure 15.12:** Well-drained apiary compared with flood-prone low ground.
-- **Figure 15.13:** Stable individual hive stand on prepared ground.
-- **Figure 15.14:** Ergonomic working height and safe super lifting.
-- **Figure 15.15:** All-weather vehicle access, parking, turning, and loading.
-- **Figure 15.16:** Low flight path compared with flight raised by a hedge.
-- **Figure 15.17:** Safe entrance directions relative to houses, roads, animals, and wind.
-- **Figure 15.18:** Neighbour-risk assessment around a suburban apiary.
-- **Figure 15.19:** Controlled public access with fence, gate, and viewing area.
-- **Figure 15.20:** Livestock fencing around an apiary.
-- **Figure 15.21:** Apiary security using discreet placement, identification, gate, and records.
-- **Figure 15.22:** Fire-risk management around dry vegetation and smoker use.
-- **Figure 15.23:** Apiary layout reducing drifting.
-- **Figure 15.24:** Quarantine apiary separated from production colonies.
-- **Figure 15.25:** Urban rooftop benefits and hazards.
-- **Figure 15.26:** Balcony-apiary conflict and emergency-removal risks.
-- **Figure 15.27:** Suburban garden layout with raised flight path.
-- **Figure 15.28:** Orchard apiary showing bloom, spraying, access, and post-bloom dearth.
-- **Figure 15.29:** Woodland-edge site showing shelter, shade, dampness, and falling-branch risk.
-- **Figure 15.30:** Coastal apiary protected against wind and salt exposure.
-- **Figure 15.31:** Migratory apiary loading and temporary-site layout.
-- **Figure 15.32:** Commercial apiary vehicle and equipment workflow.
-- **Figure 15.33:** Individual hive spacing and beekeeper working area.
-- **Figure 15.34:** Vegetation managed for shelter without blocking entrances.
-- **Figure 15.35:** Covered hygienic honey-super removal.
-- **Figure 15.36:** Emergency-access map with gate, route, coordinates, and contact.
-- **Figure 15.37:** Apiary site scoring table.
-- **Figure 15.38:** Fatal defects compared with modifiable site problems.
-- **Figure 15.39:** Ten-step practical apiary-site assessment.
-- **Figure 15.40:** Accept, modify, test, or reject decision guide.
-- **Figure 15.41:** Complete apiary-location checklist.
-- **Figure 15.42:** Annual site-review record showing forage, access, complaints, security, and land-use change.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
-
----
-
 ## References and Further Reading
 
 - Caron, D. M., and Connor, L. J. *Honey Bee Biology and Beekeeping*. Wicwas Press.
@@ -25601,55 +25191,6 @@ The plan should be reviewed after every season. Colony losses, swarm events, inj
 88. What are the ten steps in practical apiary planning?
 89. Which signs indicate that an apiary is not ready?
 90. Which signs indicate that expansion should be delayed?
-
----
-
-## Figure Placeholders
-
-- **Figure 16.1:** Complete apiary master plan showing colony groups, entrances, routes, water, storage, quarantine, fencing, and emergency access.
-- **Figure 16.2:** Beginner, production, queen-rearing, teaching, and migratory apiary planning requirements.
-- **Figure 16.3:** Initial colony count compared with reserve capacity for splits and swarms.
-- **Figure 16.4:** Straight, staggered, grouped, irregular, and palletised layouts.
-- **Figure 16.5:** Long identical row with high drifting risk compared with varied entrances and landmarks.
-- **Figure 16.6:** Recommended working space around individual hives.
-- **Figure 16.7:** Stable site and colony identification system.
-- **Figure 16.8:** Colony map connected to inspection records.
-- **Figure 16.9:** Individual and shared hive stands.
-- **Figure 16.10:** Ergonomic stand height compared with unsafe lifting height.
-- **Figure 16.11:** Ground preparation using drainage, gravel, slabs, and raised stands.
-- **Figure 16.12:** Managed vegetation with access path, forage, flight barrier, and firebreak.
-- **Figure 16.13:** Apiary water station and maintenance points.
-- **Figure 16.14:** Clean, in-use, suspect, and dirty equipment zones.
-- **Figure 16.15:** Inspection order from healthy colonies to quarantine colonies.
-- **Figure 16.16:** Reserved isolation stand for swarm, split, or emergency colony.
-- **Figure 16.17:** Swarm-capture equipment kit.
-- **Figure 16.18:** Queen-rearing apiary with breeder, cell builder, drone colonies, and mating nuclei.
-- **Figure 16.19:** Honey-super flow from clean storage to colony, harvest, extraction, and return.
-- **Figure 16.20:** Safe full-super handling using trolley and staging platform.
-- **Figure 16.21:** Vehicle, pedestrian, visitor, and emergency routes.
-- **Figure 16.22:** Safe temporary placement of boxes and roofs during inspection.
-- **Figure 16.23:** Emergency plan for allergy, fire, flood, theft, disease, and urgent relocation.
-- **Figure 16.24:** First-aid and emergency-information station.
-- **Figure 16.25:** Hive security using straps, identification, gate, and inventory.
-- **Figure 16.26:** Equipment inventory and spare-equipment reserve.
-- **Figure 16.27:** Standardised compatible hive equipment compared with mixed incompatible systems.
-- **Figure 16.28:** Horizontal-hive working-space plan.
-- **Figure 16.29:** Vertical-hive super-lifting and box-staging plan.
-- **Figure 16.30:** Rooftop apiary with structural load, edge protection, access, and water.
-- **Figure 16.31:** Urban apiary with controlled flight and public access.
-- **Figure 16.32:** Rural apiary with livestock fencing, vehicle access, and pesticide communication.
-- **Figure 16.33:** Commercial apiary workflow using pallets and mechanical handling.
-- **Figure 16.34:** Initial, seasonal, expansion, and emergency budget categories.
-- **Figure 16.35:** Four-phase apiary-development plan.
-- **Figure 16.36:** Arrival and departure checklists.
-- **Figure 16.37:** Seasonal use of apiary space from spring through winter.
-- **Figure 16.38:** Biosecurity station with separate quarantine tools.
-- **Figure 16.39:** Dead-colony response sequence.
-- **Figure 16.40:** Apiary-readiness decision guide.
-- **Figure 16.41:** Apiary-expansion decision guide.
-- **Figure 16.42:** Annual apiary review linking problems to design improvements.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
 
 ---
 
@@ -28214,55 +27755,6 @@ The best hive for a beginner is usually a movable-frame system that is locally c
 88. Which precautions apply to plywood?
 89. What should hive maintenance include?
 90. Which questions should be answered before selecting a hive system?
-
----
-
-## Figure Placeholders
-
-- **Figure 17.1:** Major hive families showing vertical, horizontal, fixed-comb, and specialist systems.
-- **Figure 17.2:** Functional requirements shared by all hives.
-- **Figure 17.3:** Correct bee space compared with propolised and brace-comb gaps.
-- **Figure 17.4:** Vertical expansion compared with horizontal expansion.
-- **Figure 17.5:** Langstroth deep, medium, and shallow boxes.
-- **Figure 17.6:** One-size box system compared with mixed brood and super depths.
-- **Figure 17.7:** British National hive with brood box and supers.
-- **Figure 17.8:** National single brood, double brood, and brood-and-a-half arrangements.
-- **Figure 17.9:** Commercial and National brood-frame comparison.
-- **Figure 17.10:** Dadant large brood chamber and shallow honey supers.
-- **Figure 17.11:** Smith and National frame-lug comparison.
-- **Figure 17.12:** Rose one-box-size system.
-- **Figure 17.13:** Traditional and framed Warré hives.
-- **Figure 17.14:** Top-bar hive showing comb guides and natural comb.
-- **Figure 17.15:** Correct vertical handling of unsupported natural comb.
-- **Figure 17.16:** Long Langstroth hive using standard frames.
-- **Figure 17.17:** Layens deep-frame horizontal hive.
-- **Figure 17.18:** Traditional skep, log, and clay hives.
-- **Figure 17.19:** Observation hive with entrance tube and removable dark cover.
-- **Figure 17.20:** Nucleus hive sizes and uses.
-- **Figure 17.21:** Mating nucleus compared with standard-frame nucleus.
-- **Figure 17.22:** Flow-style honey super above a conventional brood nest.
-- **Figure 17.23:** Comb-honey sections, shallow frames, and cut-comb production.
-- **Figure 17.24:** Wooden, polystyrene, polyurethane, plastic, and composite hive bodies.
-- **Figure 17.25:** Safe protected insulation compared with exposed construction foam.
-- **Figure 17.26:** Solid-wall, insulated, and double-wall thermal concepts.
-- **Figure 17.27:** Top bee space compared with bottom bee space.
-- **Figure 17.28:** Frame lug and self-spacing systems.
-- **Figure 17.29:** Wax foundation, plastic foundation, and foundationless guides.
-- **Figure 17.30:** Wired frame supporting comb during extraction.
-- **Figure 17.31:** Solid floor and mesh floor comparison.
-- **Figure 17.32:** Roof and inner-cover types.
-- **Figure 17.33:** Climate considerations for cold, wet, hot, and windy locations.
-- **Figure 17.34:** Winter store movement in vertical and horizontal hives.
-- **Figure 17.35:** Hive systems compared by lifting demand.
-- **Figure 17.36:** Equipment-compatibility check using exact dimensions.
-- **Figure 17.37:** Standardised apiary compared with mixed incompatible equipment.
-- **Figure 17.38:** Frame-adapter conversion process.
-- **Figure 17.39:** Homemade hive construction showing accurate bee space and square assembly.
-- **Figure 17.40:** Ten-step practical hive-selection process.
-- **Figure 17.41:** Vertical-or-horizontal decision guide.
-- **Figure 17.42:** Complete hive-type inspection and purchasing checklist.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
 
 ---
 
@@ -31174,55 +30666,6 @@ Standardised, compatible, maintained components make colony management safer and
 
 ---
 
-## Figure Placeholders
-
-- **Figure 18.1:** Complete vertical hive exploded into floor, brood box, excluder, supers, crownboard, insulation, and roof.
-- **Figure 18.2:** Complete horizontal hive showing frames, follower boards, dividers, feeder, entrance, observation window, and roof.
-- **Figure 18.3:** Top-bee-space and bottom-bee-space systems.
-- **Figure 18.4:** Compatible and incompatible box stacking.
-- **Figure 18.5:** Solid floor and mesh floor comparison.
-- **Figure 18.6:** Mesh floor with monitoring tray.
-- **Figure 18.7:** Bottom, top, and multiple entrance arrangements.
-- **Figure 18.8:** Entrance reducer positions for weak and strong colonies.
-- **Figure 18.9:** Mouse guard, robbing screen, and landing board.
-- **Figure 18.10:** Single brood, double brood, and brood-and-a-half configurations.
-- **Figure 18.11:** Deep, medium, and shallow supers with relative loaded weights.
-- **Figure 18.12:** Frame anatomy showing top bar, side bars, bottom bar, lugs, wire, and foundation.
-- **Figure 18.13:** Wooden rebate, metal frame rest, and moulded frame support.
-- **Figure 18.14:** Hoffman spacing, manual spacing, and castellated spacers.
-- **Figure 18.15:** Wax, plastic, wired, and foundationless frames.
-- **Figure 18.16:** Correct and incorrect foundation fixing.
-- **Figure 18.17:** Wire, punched-metal, and plastic queen excluders.
-- **Figure 18.18:** Correct and incorrect queen-excluder fit.
-- **Figure 18.19:** Crownboard openings used for feeders and bee escapes.
-- **Figure 18.20:** Transparent inner cover used for low-disturbance observation.
-- **Figure 18.21:** Flat, telescoping, pitched, and migratory roofs.
-- **Figure 18.22:** Roof insulation and condensation control.
-- **Figure 18.23:** Contact, frame, top, entrance, and division-board feeders.
-- **Figure 18.24:** Safe feeder ladders and drowning protection.
-- **Figure 18.25:** Eke used for fondant and specialised equipment.
-- **Figure 18.26:** Dummy board, follower board, and full division board.
-- **Figure 18.27:** Double-screen and Snelgrove-type boards.
-- **Figure 18.28:** Porter, maze, and triangular bee escapes.
-- **Figure 18.29:** Correct escape-board placement beneath honey supers.
-- **Figure 18.30:** Pollen trap with grid and protected collection drawer.
-- **Figure 18.31:** Propolis screen and hygienic collection.
-- **Figure 18.32:** Comb-honey section and cassette components.
-- **Figure 18.33:** Covered observation window in a horizontal hive.
-- **Figure 18.34:** Individual and shared hive stands under full load.
-- **Figure 18.35:** Ratchet strap, clips, anchors, and secure roof fastening.
-- **Figure 18.36:** Dry protected insulation compared with wet exposed material.
-- **Figure 18.37:** Transport screen and entrance closure.
-- **Figure 18.38:** Frame stabilisation during colony transport.
-- **Figure 18.39:** Hive scale and optional sensor positions.
-- **Figure 18.40:** Component damage examples: rot, corrosion, warping, cracking, and UV degradation.
-- **Figure 18.41:** Practical seven-step component inspection sequence.
-- **Figure 18.42:** Complete seasonal hive-component maintenance checklist.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
-
----
-
 ## References and Further Reading
 
 - Langstroth, L. L. *Langstroth on the Hive and Honey Bee*.
@@ -32572,6 +32015,10 @@ Old brood comb may contain:
 - pathogen material.
 - reduced cell volume.
 
+![Repeatedly used dark brood comb showing retained pupal lining inside the cells](../../assets/photos/a-core/source-candidates/p19-02-old-brood-comb.jpg)
+
+*Photo 19.2 — Repeatedly used brood comb. The darker cell interiors show accumulated pupal lining from repeated brood cycles. Dark colour demonstrates use history but does not by itself diagnose disease, pesticide residues, treatment residues, or contamination. Photo by Christopher Severn, CC BY-SA 3.0.*
+
 A planned replacement programme improves comb management.
 
 ---
@@ -33823,55 +33270,6 @@ Used frames and drawn comb should never be introduced without considering diseas
 98. Why should one main frame standard be used?
 99. What problems follow mixing frame sizes?
 100. What are the ten steps in practical frame assembly?
-
----
-
-## Figure Placeholders
-
-- **Figure 19.1:** Complete anatomy of a standard movable frame.
-- **Figure 19.2:** Long-lug, short-lug, Hoffman, and plain-sided frames.
-- **Figure 19.3:** Brood, medium, shallow, nucleus, and mating frames.
-- **Figure 19.4:** Wooden, plastic, and composite frames.
-- **Figure 19.5:** Correctly square frame compared with a twisted frame.
-- **Figure 19.6:** Frame assembly jig with glue and fastener positions.
-- **Figure 19.7:** Reinforced frame lug under load.
-- **Figure 19.8:** Horizontal and vertical wire patterns.
-- **Figure 19.9:** Eyelets preventing wire damage to side bars.
-- **Figure 19.10:** Correct, loose, and excessive wire tension.
-- **Figure 19.11:** Electrical and manual wire embedding.
-- **Figure 19.12:** Wax, wired wax, plastic, and thin comb-honey foundation.
-- **Figure 19.13:** Trusted clean foundation compared with sagged or adulterated sheets.
-- **Figure 19.14:** Worker-cell and drone-cell foundation.
-- **Figure 19.15:** Plastic foundation with adequate wax coating.
-- **Figure 19.16:** Foundationless top-bar guide and starter strip designs.
-- **Figure 19.17:** Level and unlevel foundationless hive.
-- **Figure 19.18:** Foundationless frame positioned between two straight drawn combs.
-- **Figure 19.19:** Safe vertical handling of fresh natural comb.
-- **Figure 19.20:** Early and advanced cross-comb.
-- **Figure 19.21:** Cutting and securing cross-comb into one frame.
-- **Figure 19.22:** Worker, drone, transitional, brace, and burr comb.
-- **Figure 19.23:** Hoffman spacing, plastic spacers, metal ends, and castellated spacing.
-- **Figure 19.24:** Foundation drawing from starter sheet to complete comb.
-- **Figure 19.25:** Correct and poorly drawn foundation.
-- **Figure 19.26:** Safe foundation placement at the brood-nest edge.
-- **Figure 19.27:** Drawn bait comb encouraging super occupation.
-- **Figure 19.28:** Progressive darkening of brood comb.
-- **Figure 19.29:** Planned annual brood-comb replacement.
-- **Figure 19.30:** Frame-age marking systems.
-- **Figure 19.31:** Tying loose brood comb into a frame.
-- **Figure 19.32:** Correct cell orientation when installing cut comb.
-- **Figure 19.33:** Radial and tangential extraction.
-- **Figure 19.34:** Comb blowout caused by excessive extractor speed.
-- **Figure 19.35:** Comb-honey frames, sections, cassettes, and cut-comb portions.
-- **Figure 19.36:** Safe management of large natural-comb panels using smaller supported sections.
-- **Figure 19.37:** Wax-moth webbing and rodent damage in stored frames.
-- **Figure 19.38:** Dry, cold, frozen, and ventilated comb-storage methods.
-- **Figure 19.39:** Foundation storage protected from heat, sunlight, and rodents.
-- **Figure 19.40:** Frame repair, rewiring, and foundation replacement.
-- **Figure 19.41:** Ten-step practical frame-assembly procedure.
-- **Figure 19.42:** Complete frames-and-foundation inspection checklist.
-
-All professional illustrations will be created together during the final layout stage. No provisional artwork or ASCII diagrams are included.
 
 ---
 
@@ -36289,54 +35687,6 @@ A written inventory, labelled storage, spare equipment, and seasonal maintenance
 
 ---
 
-## Figure Placeholders
-
-- **Figure 20.1:** Essential, recommended, and specialist beekeeping equipment.
-- **Figure 20.2:** Minimum equipment for one colony with emergency reserve.
-- **Figure 20.3:** Equipment expansion for a two-colony beginner apiary.
-- **Figure 20.4:** Standard and J-type hive tools.
-- **Figure 20.5:** Hive-tool cleaning and quarantine separation.
-- **Figure 20.6:** Smoker anatomy.
-- **Figure 20.7:** Correct smoker-lighting sequence.
-- **Figure 20.8:** Cool smoke compared with dangerous hot smoke.
-- **Figure 20.9:** Safe smoker placement and extinguishing.
-- **Figure 20.10:** Bee brush, feather, frame grip, and frame rest.
-- **Figure 20.11:** Compatible contact, frame, and top feeders.
-- **Figure 20.12:** Food-safe feed preparation equipment.
-- **Figure 20.13:** Full-size and miniature nucleus equipment.
-- **Figure 20.14:** Complete swarm box with ventilation and straps.
-- **Figure 20.15:** Practical swarm-capture equipment kit.
-- **Figure 20.16:** Bait hive mounted securely for inspection.
-- **Figure 20.17:** Queen introduction, clip, mailing, and push-in cages.
-- **Figure 20.18:** Queen-marking tube and approved marking pen.
-- **Figure 20.19:** Entrance reducer, mouse guard, and robbing screen.
-- **Figure 20.20:** Alcohol-wash equipment.
-- **Figure 20.21:** Sugar-roll equipment and counting tray.
-- **Figure 20.22:** Sticky board beneath a mesh floor.
-- **Figure 20.23:** Varroa-monitoring record workflow.
-- **Figure 20.24:** Separation of treatment, feed, and honey equipment.
-- **Figure 20.25:** Portable inspection toolbox.
-- **Figure 20.26:** Paper and digital colony-record systems.
-- **Figure 20.27:** Rear-lift scale, platform scale, and hive sensor.
-- **Figure 20.28:** Correctly strapped hive prepared for transport.
-- **Figure 20.29:** Transport screen and ventilated entrance closure.
-- **Figure 20.30:** Apiary trolley with wide pneumatic tyres.
-- **Figure 20.31:** Manual and mechanical hive-lifting aids.
-- **Figure 20.32:** Safe water station equipment.
-- **Figure 20.33:** General, food-contact, and quarantine cleaning kits.
-- **Figure 20.34:** Food-safe honey buckets and strainers.
-- **Figure 20.35:** Manual and electric extractors.
-- **Figure 20.36:** Safe solar wax melter.
-- **Figure 20.37:** Emergency hive-repair kit.
-- **Figure 20.38:** Labelled storage areas for feed, chemicals, quarantine, and food-contact equipment.
-- **Figure 20.39:** Equipment inventory and maintenance schedule.
-- **Figure 20.40:** Purchase-priority sequence for a beginner.
-- **Figure 20.41:** Buy, borrow, or rent decision guide.
-- **Figure 20.42:** Complete beginner equipment checklist.
-
-
----
-
 ## References and Further Reading
 
 - Graham, J. M., editor. *The Hive and the Honey Bee*. Dadant & Sons.
@@ -38503,53 +37853,6 @@ Visitors, trainees and children need correctly sized clothing and direct supervi
 
 ---
 
-## Figure Placeholders
-
-- **Figure 21.1:** Complete protective clothing system.
-- **Figure 21.2:** Round, fencing, hood and square veil designs.
-- **Figure 21.3:** Correct veil clearance around the face.
-- **Figure 21.4:** Dangerous veil contact with the nose and cheeks.
-- **Figure 21.5:** Secure and insecure veil zip junctions.
-- **Figure 21.6:** Separate and attached veil systems.
-- **Figure 21.7:** Beekeeping jacket and full suit comparison.
-- **Figure 21.8:** Correct loose fit compared with an unsafe tight suit.
-- **Figure 21.9:** Movement test before entering the apiary.
-- **Figure 21.10:** Cotton, polycotton and ventilated suit construction.
-- **Figure 21.11:** Wrist cuff and glove overlap.
-- **Figure 21.12:** Secure ankle closures and suitable footwear.
-- **Figure 21.13:** Leather, nitrile, rubber and gauntlet gloves.
-- **Figure 21.14:** Correct and oversized glove fit.
-- **Figure 21.15:** Rubber, work, hiking and safety boots.
-- **Figure 21.16:** Clothing layers for hot and cold conditions.
-- **Figure 21.17:** Heat-stress warning signs.
-- **Figure 21.18:** Hydration and shaded-rest arrangement.
-- **Figure 21.19:** Sting-allergy emergency preparation.
-- **Figure 21.20:** Ten-step dressing sequence.
-- **Figure 21.21:** Buddy check of back, neck, cuffs and ankles.
-- **Figure 21.22:** Pre-inspection clothing check.
-- **Figure 21.23:** Jewellery and loose accessories that should be removed.
-- **Figure 21.24:** Alarm pheromone and stinger removal from fabric.
-- **Figure 21.25:** Safe response when a bee enters the veil.
-- **Figure 21.26:** Planned retreat route from the apiary.
-- **Figure 21.27:** Safe clothing-removal sequence.
-- **Figure 21.28:** Veil washing and drying.
-- **Figure 21.29:** Repairing a torn seam and replacing elastic.
-- **Figure 21.30:** Veil damage requiring replacement.
-- **Figure 21.31:** Dry ventilated protective-clothing storage.
-- **Figure 21.32:** Separate storage for clean, quarantine and treatment clothing.
-- **Figure 21.33:** Boot cleaning between apiaries.
-- **Figure 21.34:** Correct visitor protective equipment.
-- **Figure 21.35:** Correctly fitted protective clothing for children.
-- **Figure 21.36:** Remote-apiary clothing and emergency kit.
-- **Figure 21.37:** Commercial protective clothing and high-visibility requirements.
-- **Figure 21.38:** Bee veil, respirator, safety glasses and hearing protection.
-- **Figure 21.39:** Protective clothing purchase decision guide.
-- **Figure 21.40:** Eight-step protective-clothing inspection.
-- **Figure 21.41:** Complete protective-clothing checklist.
-- **Figure 21.42:** Repair-or-replace decision guide.
-
----
-
 ## References and Further Reading
 
 - Graham, J. M., editor. *The Hive and the Honey Bee*. Dadant & Sons.
@@ -39675,6 +38978,10 @@ A standard flat hive tool commonly includes:
 - strong flat body.
 
 It is suitable for most routine work.
+
+![A beekeeper holding a worn standard hive tool, showing the broad scraping end and hooked levering end](../../assets/photos/a-core/source-candidates/p22-02-hive-tool-in-use.jpg)
+
+*Photo 22.2 — Hive tool in real use. A worn field tool shows the working edges and leverage surfaces that should be inspected for damage, sharp burrs and contamination. This is one common design; choose and maintain a tool appropriate to the hive system rather than relying on improvised knives or screwdrivers. Photo by Ivan Radic, CC BY 2.0.*
 
 ---
 
@@ -41678,6 +40985,10 @@ A practical kit may include:
 - personal prescribed medication.
 
 The kit should match local first-aid guidance and the number of people present.
+
+![Clearly marked first-aid box used as an emergency preparedness reference](../../assets/photos/a-core/source-candidates/p23-01-first-aid-emergency-kit.jpg)
+
+*Photo 23.1 — First-aid kit identification. Keep a clearly recognisable kit accessible to the apiary team, but do not treat one photographed box or a fixed contents list as universal. Actual contents should follow current local first-aid guidance, site risk, training, allergy planning and the number of people present; the kit does not replace emergency medical care. Photo by Contributers2020, CC BY-SA 4.0.*
 
 ---
 
@@ -45826,6 +45137,10 @@ Worker brood cappings are normally:
 Drone brood is more prominently domed.
 
 ---
+
+![Frame with extensive normally capped worker brood and nurse bees](../../assets/photos/a-core/source-candidates/p25-02-healthy-capped-worker-brood.jpg)
+
+*Photo 25.2 — Healthy capped worker brood. Use the normal capping texture and broad brood area as a visual reference, not as proof that a colony is disease-free. Photo by Einebillion, CC BY 4.0.*
 
 ## Brood Pattern
 
@@ -62217,6 +61532,10 @@ One full-length strap may be sufficient for some configurations, while large hiv
 
 Inspect strap condition.
 
+![Multiple beehives carried in a purpose-built rack on a stationary bee-transport truck](../../assets/photos/a-core/source-candidates/p33-01-colonies-secured-for-transport.jpg)
+
+*Photo 33.1 — Colonies prepared for transport. This real bee-transport vehicle shows multiple hives held in an organised rack system. The photograph demonstrates transport context rather than certifying the load: before travel, each operation must still verify hive restraint, roof and floor security, entrance management, ventilation, vehicle load limits and current road/legal requirements. Public-domain photograph by Marion Schneider & Christoph Aistleitner.*
+
 ---
 
 ## Straps
@@ -68736,6 +68055,10 @@ Robbing can destroy a weak colony rapidly and spread pathogens and mites between
 - unusually defensive behaviour;
 - rapid loss of stores.
 
+![Honey bees in rapid flight and clustered at a hive entrance during a documented episode of intense robbing](../../assets/photos/a-core/source-candidates/p38-01-intense-robbing-entrance.jpg)
+
+*Photo 38.1 — Hive entrance during a documented episode of intense robbing. This still was extracted from Peck and Seeley's field video of robber bees fighting with guard bees at a mite-weakened colony. Heavy entrance traffic in a single photograph is not, by itself, enough to distinguish robbing from orientation or normal flight; confirm with behaviour such as fighting, persistent attempts at cracks and edges, irregular side-to-side approaches, and loss of stores. Frame extracted from Peck & Seeley (2019), PLOS ONE S1 Video, CC BY 4.0.*
+
 ### Immediate response
 
 1. Stop exposing honey, syrup, or wet equipment.
@@ -69501,6 +68824,10 @@ Healthy capped worker brood generally forms coherent areas with relatively few u
 
 A disease assessment begins by comparing abnormal cells with nearby normal cells of similar age.
 
+![Honey bee comb showing eggs, larvae at several ages, capped brood and pollen cells](../../assets/photos/a-core/source-candidates/p39-01-healthy-larvae-reference.jpg)
+
+*Photo 39.1 — Healthy larvae reference. Eggs, larvae at several ages, capped brood and pollen cells provide a normal-development reference before disease signs are interpreted. Photo by Joska16, CC BY-SA 4.0.*
+
 ## 39.6 Why Patchy Brood Is Not a Diagnosis
 
 Patchy brood can result from:
@@ -69659,6 +68986,10 @@ Chalkbrood severity is influenced by colony condition and environment. Brood chi
 
 Management focuses on colony strength, appropriate ventilation and moisture control, reduction of avoidable brood chilling, hygienic stock where appropriate, and correction of underlying stress. Treatment claims should not be accepted without reliable evidence and legal authorisation.
 
+![Brood comb containing visible chalkbrood mummies](../../assets/photos/a-core/source-candidates/p39-02-chalkbrood-mummies.jpg)
+
+*Photo 39.2 — Chalkbrood mummies. White to darker hardened mummies can occur in brood cells or be removed from them; appearance should be interpreted with colony history and other signs. Photo by Conall, CC BY 2.0.*
+
 ## 39.12 Stonebrood
 
 Stonebrood is an uncommon fungal disease associated with *Aspergillus* species. Larvae can become hard and mould-covered.
@@ -69677,6 +69008,10 @@ Possible signs include:
 - yellowing followed by browning;
 - a sac-like larval form that can sometimes be lifted from the cell;
 - scattered affected brood.
+
+![Sacbrood-affected Apis cerana larva held with tweezers, showing the characteristic sac-like body](../../assets/photos/a-core/source-candidates/p39-03-sacbrood-larva-clinical.jpg)
+
+*Photo 39.3 — Sacbrood larva. This real clinical photograph shows the characteristic sac-like form in* Apis cerana. *Comparable signs in honey-bee brood should be interpreted with the colony pattern and other findings; a photograph alone is not definitive diagnosis. Photo by Xiaoqing Li; source: Wei et al.,* Viruses *14 (2022), Figure 1, CC BY 4.0.*
 
 Mild sacbrood can occur without colony-level collapse. Persistent or extensive signs require investigation of colony stress, queen performance, nutrition, and other health problems.
 
@@ -70345,6 +69680,10 @@ Adult bees move mites:
 
 Visible mites on adult bees usually indicate substantial exposure, but absence of visible mites does not indicate a mite-free colony.
 
+![Adult female Varroa mite on an adult honey bee](../../assets/photos/a-core/source-candidates/p40-01-adult-female-varroa-on-bee.jpg)
+
+*Photo 40.1 — Adult female Varroa on a bee. The mite is shown at realistic scale on its host; failure to see mites during a routine inspection does not establish a low infestation level. USDA photo by Scott Bauer; public domain.*
+
 ## 40.7 Varroa Damage to Developing Bees
 
 Parasitised pupae may emerge with:
@@ -70438,6 +69777,10 @@ Tropilaelaps mites are:
 Varroa mites are broader and more flattened and can survive for longer periods feeding on adult bees.
 
 The stronger brood dependence of Tropilaelaps has major implications for surveillance and control.
+
+![Dorsal microscopic view of a female Tropilaelaps mite](../../assets/photos/a-core/source-candidates/p40-02-tropilaelaps-specimen.jpg)
+
+*Photo 40.2 — Tropilaelaps specimen. Confirmed specimen image used for morphological context; field identification of an unfamiliar mite should follow current surveillance and laboratory guidance. Image by Pavel Klimov, Bee Mite ID / USDA; public domain.*
 
 ## 40.14 Tropilaelaps Reproduction and Damage
 
@@ -71218,6 +70561,10 @@ Visible deformity represents only the most obvious part of the damage.
 
 ## 41.9 Varroa and Deformed Wing Virus
 
+![Honey bee with visibly deformed wings and a Varroa mite](../../assets/photos/a-core/source-candidates/p41-02-deformed-wing-bee.jpg)
+
+*Photo 41.2 — Deformed-wing bee. The visible phenotype is consistent with severe Varroa–virus damage, but it does not quantify the colony's current mite infestation. Photo by Stefan de Konink, CC0 1.0.*
+
 Varroa is strongly associated with transmission and amplification of deformed wing virus variants.
 
 The mite changes the virus's epidemiology by providing an efficient route of transmission during sensitive developmental stages. High mite pressure can therefore produce a colony in which newly emerging bees have reduced longevity even when most do not show visibly deformed wings.
@@ -71306,6 +70653,10 @@ An alcohol or detergent wash dislodges mites from a measured sample of adult bee
 Many established protocols use approximately 300 adult bees collected from brood-nest frames, while avoiding the queen. Exact sampling equipment and method should follow a validated local protocol.
 
 The method sacrifices the sampled bees but generally provides a more repeatable estimate than casual visual inspection.
+
+![Alcohol-wash tray and colander after washing a honey-bee sample, with recovered Varroa mites visible in the drained liquid](../../assets/photos/a-core/source-candidates/p41-01-varroa-alcohol-wash-result.png)
+
+*Photo 41.1 — Result of an adult-bee alcohol wash. Recovered mites are counted in the drained liquid after the bee sample is washed through the colander. This USDA ARS example shows one validated procedure endpoint; exact equipment, liquid, sample size, washing sequence, and interpretation should follow a current validated local protocol. Photo by Mona Chambers, USDA Agricultural Research Service.*
 
 ## 41.17 Selecting Bees for an Adult-Bee Sample
 
@@ -72267,6 +71618,10 @@ However, shape and size overlap among species and can be confused with artefacts
 
 Microscopy is useful for detecting Nosema-like spores but is poor at reliable species identification of *N. apis* versus *N. ceranae*.
 
+![Light micrograph showing numerous oval Nosema spores at approximately 1000× magnification](../../assets/photos/a-core/source-candidates/p42-01-nosema-spores-micrograph.png)
+
+*Photo 42.1 — Nosema-like spores under light microscopy. The source identifies these as* Nosema apis *spores at approximately 1000× magnification. Routine light-microscope morphology can demonstrate Nosema-like spores but should not be used by itself to distinguish* N. apis *from* N. ceranae*. Image by Lukáš Vomastek, CC BY-SA 4.0.*
+
 ## 42.18 Haemocytometer Spore Counting
 
 A haemocytometer is a calibrated counting chamber used to estimate spore concentration.
@@ -72948,6 +72303,10 @@ However, patchiness also occurs with:
 
 Patchy brood therefore signals investigation rather than proving AFB.
 
+![Whole brood-comb view with an irregular brood pattern described by the source as typical American foulbrood appearance](../../assets/photos/a-core/source-candidates/p43-01-afb-brood-frame-context.jpg)
+
+*Photo 43.1 — AFB brood-frame context. This real whole-frame photograph was described by its creator as a typical appearance of brood affected by American foulbrood. Use it to recognise a pattern that warrants closer investigation, not to diagnose AFB from patchiness alone. Compare suspicious cells with the specific signs in this chapter and follow current competent-authority or laboratory confirmation requirements. Photo by Tanarus, CC BY-SA 3.0.*
+
 ## 43.8 Capping Changes
 
 AFB-affected sealed cells may have:
@@ -72997,6 +72356,10 @@ As diseased remains dry, they form a scale that can adhere tightly to the lower 
 AFB scales can be difficult for workers to remove and may contain very large numbers of spores.
 
 Old scales are therefore epidemiologically important even after wet larval remains have disappeared.
+
+![Close-up of brood-comb cells containing hard dark larval remains characteristic of American foulbrood scale](../../assets/photos/a-core/source-candidates/p43-02-afb-adherent-scale.jpg)
+
+*Photo 43.2 — AFB adherent scale. Hard, dark larval remains can persist tightly on the lower wall of brood cells after infected material dries. This specialist-provenance teaching photograph shows the appearance described as AFB scale, but a reader should not classify every dark cell residue from appearance alone; interpret it with the colony's other signs and current official or laboratory confirmation requirements. Photo by Dalibor Titera, Bee Research Institute at Dol, CC BY-SA 4.0.*
 
 ## 43.12 The Pupal Tongue
 
@@ -73762,6 +73125,10 @@ Possible signs include:
 - colony weakening where disease is extensive.
 
 No single sign is sufficient in every case.
+
+![Brood comb showing malpositioned and discoloured honey bee larvae with symptoms compatible with European foulbrood](../../assets/photos/a-core/source-candidates/p44-01-efb-larvae.jpg)
+
+*Photo 44.1 — EFB larvae. Malpositioned and discoloured larvae are important field signs that can raise suspicion of European foulbrood, but visual appearance can overlap with other brood abnormalities; confirm according to current local diagnostic and regulatory guidance. Photo by Eva Forsgren. Source: Budge et al., Standard methods for European foulbrood research 2.0, Journal of Apicultural Research, CC BY 4.0.*
 
 ## 44.6 Larval Position
 
@@ -74679,6 +74046,10 @@ In CBPV outbreaks, affected bees may be attacked or excluded by nestmates.
 However, hair loss can also occur from age, robbing, abrasion, or other causes.
 
 Do not diagnose CBPV from colour alone.
+
+![Two worker honey bees, with the bee on the right showing a darker, shinier hair-reduced appearance associated with CBPV-type signs](../../assets/photos/a-core/source-candidates/p45-01-cbpv-type-adult-sign.jpg)
+
+*Photo 45.1 — CBPV-type adult appearance. The bee on the right shows darkening and reduced hair that can resemble the shiny, hairless appearance described in chronic bee paralysis. This photograph is a visual teaching example, not a stand-alone diagnosis: age, abrasion, robbing and other causes can also alter hair and colour, so interpret the sign with the colony-level syndrome and appropriate diagnostic evidence. Photo by Abrahami, CC BY-SA 4.0.*
 
 ## 45.14 Trembling and Crawling
 
@@ -75617,6 +74988,10 @@ Standardise:
 - record format.
 
 Changing methods without noting the change can create false trends.
+
+![Beekeeper in protective clothing carrying out powdered-sugar Varroa monitoring with a bee-sample container and collection tray](../../assets/photos/a-core/source-candidates/p46-01-varroa-monitoring-practice.jpg)
+
+*Photo 46.1 — Monitoring in practice. This field example shows a beekeeper using a powdered-sugar method to sample for Varroa while wearing protective clothing. The photograph illustrates one real monitoring workflow, not a universal preference for one sampling method. Record the colony ID, sample method, date, sample size and result separately so repeated measurements remain comparable. Photo by Jürg Vollmer, CC BY-SA 4.0.*
 
 ## 46.13 Sampling Error
 
@@ -77832,6 +77207,10 @@ Limitations:
 
 Both can work well when maintained correctly.
 
+![Portable optical honey refractometer with its prism cover open](../../assets/photos/a-core/source-candidates/p48-02-honey-refractometer.jpg)
+
+*Photo 48.2 — Portable honey refractometer. This optical instrument is designed for honey moisture measurement. The photograph identifies the equipment only: accurate results still depend on correct calibration, a clean dry prism, a representative sample, suitable temperature conditions and correct reading technique. Photo by R. Henrik Nilsson, CC BY 4.0.*
+
 ## 48.10 Calibration
 
 Follow the instrument manufacturer's calibration procedure.
@@ -78141,6 +77520,10 @@ Risks and limitations:
 - dependence on equipment hygiene and design.
 
 Combustion-engine exhaust must never be directed onto food-contact surfaces or honey.
+
+![Beekeeper using a blower to clear bees from a honey super during harvest](../../assets/photos/a-core/source-candidates/p48-03-harvest-super-handling.jpg)
+
+*Photo 48.3 — Bee removal from a honey super during harvest. This real field photograph shows a blower being used immediately before supers are moved for transport. It documents handling context, not the complete hygienic transport system: after bee clearance, each food super should be protected promptly with clean food-safe top and bottom covers, kept off dirty ground, protected from rain, dust, exhaust and robbing, and moved in a suitable clean vehicle. Photo by Pollinator, CC BY 2.5.*
 
 ## 48.33 Chemical Bee Repellents
 
@@ -78952,6 +78335,10 @@ Warning signs of excessive heat include:
 - darkened material.
 
 Follow the equipment manufacturer's settings and safe-handling instructions.
+
+![Honeycomb frame being uncapped before extraction](../../assets/photos/a-core/source-candidates/p49-02-uncapping-detail.jpg)
+
+*Photo 49.2 — Uncapping detail. Cappings are removed from sealed honey cells before extraction; tools and hand position should be managed to reduce injury and contamination risk. Photo by Wyatt Tyrone Smith, CC BY-SA 4.0.*
 
 ## 49.18 Uncapping Fork
 
@@ -82618,6 +82005,10 @@ They can simplify retail presentation, but performance depends on:
 
 Reusable food-contact parts must be cleaned and replaced when damaged.
 
+![Ross Round comb-honey sections showing a fully capped centre section beside an unfinished section](../../assets/photos/a-core/source-candidates/p52-01-fully-capped-comb-honey.jpg)
+
+*Photo 52.1 — Comb-honey completion. The centre round is fully built and capped, while the adjacent section is still unfinished. This side-by-side appearance helps explain why section honey is graded by completion and presentation rather than by total honey mass alone. Public-domain photograph by Migco.*
+
 ## 52.5 Cut Comb
 
 Cut comb is produced on a larger frame and divided after harvest.
@@ -84838,6 +84229,10 @@ Common methods include:
 
 The correct method depends on scale, source material, safety, and required purity.
 
+![Beeswax pellets softening and melting into liquid wax during controlled heating](../../assets/photos/a-core/source-candidates/p54-01-beeswax-melting.jpg)
+
+*Photo 54.1 — Beeswax during melting. This real close-up shows solid wax transitioning into liquid wax. It illustrates the rendering stage, not source segregation: cappings, honey-super wax, old brood comb, and suspect material should be separated before melting as described earlier in this chapter. Use controlled, appropriate heating rather than unsafe open flame. Photo by Simon A. Eugster, CC BY-SA 3.0.*
+
 ## 54.11 Beeswax Softens Before It Fully Melts
 
 Natural beeswax generally melts in the low-to-mid 60s °C range, but it becomes mechanically soft well before complete melting.
@@ -85799,6 +85194,10 @@ Worker honey bees secrete wax from specialised glands on the underside of the ab
 The wax emerges as small translucent scales. Workers manipulate these scales with their legs and mouthparts, soften and mix them with colony materials, and use them to build and repair comb.
 
 Wax production is especially associated with well-fed young adult workers and strong colony growth.
+
+![Worker honey bee with freshly secreted translucent wax scales visible at the abdominal wax glands](../../assets/photos/a-core/source-candidates/p55-01-beeswax-scales-worker.jpg)
+
+*Photo 55.1 — Beeswax scales on a worker. Freshly secreted translucent wax scales are visible at the abdominal wax glands before workers manipulate the wax for comb construction. Photograph by Richard Odemer. Source: Odemer et al., “Honey Bee Colony Health in Thiamethoxam-Treated Sugar Beet Fields: A Field-Based Case Study,” Ecology and Evolution 15 (2025), CC BY 4.0.*
 
 ## 55.2 Wax-Producing Workers
 
@@ -87363,6 +86762,10 @@ Drawers should be:
 
 Wood or mesh parts should not shed contaminants into the food product.
 
+![Honey bees moving through a pollen-trap grid with detached pollen pellets visible on the collection surface](../../assets/photos/a-core/source-candidates/p56-01-pollen-pellets-trap.jpg)
+
+*Photo 56.1 — Pollen trap in use. Returning workers pass through the trap openings while detached corbicular pollen pellets are visible on the collection surface. A trap should remove only part of the incoming pollen and must be kept clean, dry and free of traffic blockage. Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0.*
+
 ## 56.21 Collect Frequently
 
 Fresh pollen is moist and biologically active.
@@ -87458,6 +86861,10 @@ Requirements include:
 - clean packaging;
 - stable freezer temperature;
 - controlled thawing.
+
+![Close-up of collected bee-pollen pellets preserved by freezing](../../assets/photos/a-core/source-candidates/p56-02-frozen-pollen-product.jpg)
+
+*Photo 56.2 — Frozen bee-collected pollen pellets. Freezing can preserve fresh pollen with little heat exposure when the product is collected hygienically and frozen promptly. These are bee-collected pollen pellets, not bee bread stored and modified inside comb cells. Photo by Matteo Giusti (Matteogiusti), CC BY-SA 3.0.*
 
 ## 56.29 Cold Chain
 
@@ -88546,6 +87953,10 @@ Advantages include:
 - improved standardisation;
 - clearer traceability.
 
+![Two types of propolis collector traps beside harvested raw propolis](../../assets/photos/a-core/source-candidates/p57-01-propolis-trap.jpg)
+
+*Photo 57.1 — Propolis collector traps and harvested raw propolis. Flexible or perforated collection surfaces give bees controlled gaps to fill with resin, helping separate commercial trap propolis from indiscriminate hive scrapings. Source: Šuran et al., Figure 1, Molecules 26 (2021), 2930, CC BY 4.0.*
+
 ## 57.13 Trap Materials
 
 Trap material should be:
@@ -88613,6 +88024,10 @@ Grade separately by:
 - contamination risk.
 
 Do not hide scrapings inside a premium trap-propolis lot.
+
+![Beekeeper scraping propolis from the inside surfaces of a wooden hive box](../../assets/photos/a-core/source-candidates/p57-02-scraped-propolis-context.jpg)
+
+*Photo 57.2 — Scraped propolis source context. Scraping can recover usable propolis from known clean untreated hive surfaces, but the collection method does not itself establish a premium grade. Keep scraped material separate from trap-collected propolis and assess source surface, waxiness, visible debris, treatment history and contamination risk. Photo by fishermansdaughter, CC BY 2.0.*
 
 ## 57.19 Painted Hives
 
@@ -89848,6 +89263,10 @@ Bee stocks differ in:
 - disease resistance.
 
 Selection can improve production, but high yield should not replace health or manageable behaviour as breeding goals.
+
+![Opened queen cells containing queen larvae floating in royal jelly](../../assets/photos/a-core/source-candidates/p58-01-royal-jelly-queen-cell.jpg)
+
+*Photo 58.1 — Royal jelly in queen cells. The opened cells show queen larvae surrounded by royal jelly, illustrating the biological system used in commercial royal-jelly production. Photo by Waugsberg, CC BY-SA 3.0.*
 
 ## 58.17 Production Cycles
 
@@ -91188,6 +90607,10 @@ Workers contacting the system are stimulated to sting a membrane or glass collec
 Venom is deposited on the surface and dries.
 
 The device should be purpose-built, guarded, and operated according to the manufacturer's instructions.
+
+![Purpose-built bee-venom collector frame being removed from a hive during real field use](../../assets/photos/a-core/source-candidates/p59-01-venom-collector-field-use.jpg)
+
+*Photo 59.1 — Purpose-built venom collection equipment in real field use. The photograph shows one intensive collector-frame design being removed from a hive. It demonstrates the physical scale and field context of professional collection equipment without endorsing one model or providing electrical-construction instructions. Use purpose-built, guarded equipment according to its validated operating instructions and local safety requirements. Source: Serrinha, Correia & Marques, Journal of Open Innovation 5 (2019), Figure 6, CC BY 4.0.*
 
 ## 59.22 Why This Book Does Not Provide a DIY Circuit
 
@@ -114444,29 +113867,24 @@ During final layout:
 
 ## Status
 
-**PRE-LAYOUT REGISTER — FINAL ARTWORK NOT YET PRODUCED**
+**SELECTED V1 VISUAL PRODUCTION COMPLETE — READY FOR LAYOUT PROOF**
 
-This register consolidates the illustration planning for Chapters 1–74. It is not a substitute for the final production assets. In accordance with the handbook workflow, no provisional artwork is inserted into the reader-facing manuscript. Final professional illustrations will be generated, reviewed, rights-cleared where necessary, and placed during layout.
+This register began as the pre-layout illustration plan for Chapters 1–74. The rationalised Version 1 production set is now complete at **230 / 230 A_CORE figures**, and the repository contains **256 reconciled SVG assets** including canonical masters, derivatives and supporting production assets. PBH-v1 has passed render/accessibility proof and the final editorial visual spot-check.
 
-Issue #100 remains open until those assets are complete.
+Issue #100 remains open because figure placement, page-context review and final PDF/EPUB/print proof are still required.
 
 ---
 
 ## 1. Inventory Audit
 
-A repository audit performed after completion of Chapter 74 found:
+The final pre-production audit confirms:
 
-- Chapters **26–74** already had dedicated files named `chapter-NN-illustration-plan.md`.
-- Chapters **22–25** had valid earlier plans under legacy filenames `chapter-22.md` through `chapter-25.md`.
-- Chapters **1–21** had no dedicated illustration-plan files in `main`.
-- This reference-material branch adds dedicated, standardised plans for Chapters **1–21**, eliminating the missing-plan gap.
-- The archived noncanonical Honey Quality draft and its archived illustration plan remain under `docs/reference/` and are **not** part of the canonical figure sequence.
+- every canonical Chapter **1–74** now has a dedicated standard file named `docs/illustration-plans/chapter-NN-illustration-plan.md`;
+- the formatting validator discovered the remaining Chapter 22–25 naming gap and dedicated standard plans were added before publication assembly was approved;
+- the archived noncanonical Honey Quality draft and archived plan remain under `docs/reference/` and are **not** part of the canonical figure sequence;
+- the chapter plans currently define **760** planned figures in the machine-readable visual-production manifest.
 
-After this branch, every canonical chapter 1–74 has a chapter-level visual plan.
-
-### Naming note
-
-For final production, legacy files for Chapters 22–25 should be treated as authoritative plan sources despite their shorter filenames. Renaming can be done during the formatting pass if desired, but duplicate copies should not be created merely for filename consistency.
+The canonical plan naming gap is closed. The selected Version 1 A_CORE artwork has now been produced and reconciled; lower-priority planned visuals remain source material unless promoted during final layout.
 
 ---
 
@@ -114616,15 +114034,15 @@ The detailed working titles reside in the chapter plan files. This master regist
 
 | Part | Chapters | Plan status | Production status |
 |---|---|---|---|
-| I — Foundations | 1–5 | Complete | Artwork pending |
-| II — Honey Bee Biology | 6–14 | Complete | Artwork pending |
-| III — Starting an Apiary | 15–23 | Complete; 22–23 legacy filenames | Artwork pending |
-| IV — Colony Management | 24–38 | Complete; 24–25 legacy filenames | Artwork pending |
-| V — Bee Health | 39–46 | Complete | Artwork pending |
-| VI — Honey Production | 47–54 | Complete | Artwork pending |
-| VII — Other Hive Products | 55–59 | Complete | Artwork pending |
-| VIII — Business | 60–69 | Complete | Artwork pending |
-| IX — Sustainability | 70–74 | Complete | Artwork pending |
+| I — Foundations | 1–5 | Complete | A_CORE production complete; layout placement pending |
+| II — Honey Bee Biology | 6–14 | Complete | A_CORE production complete; layout placement pending |
+| III — Starting an Apiary | 15–23 | Complete; standard filenames | A_CORE production complete; layout placement pending |
+| IV — Colony Management | 24–38 | Complete; standard filenames | A_CORE production complete; layout placement pending |
+| V — Bee Health | 39–46 | Complete | A_CORE production complete; layout placement pending |
+| VI — Honey Production | 47–54 | Complete | A_CORE production complete; layout placement pending |
+| VII — Other Hive Products | 55–59 | Complete | A_CORE production complete; layout placement pending |
+| VIII — Business | 60–69 | Complete | A_CORE production complete; layout placement pending |
+| IX — Sustainability | 70–74 | Complete | A_CORE production complete; layout placement pending |
 
 ---
 
@@ -114820,7 +114238,7 @@ Only after all five gates is status changed to **APPROVED FOR LAYOUT**.
 - `PLACED` — inserted into final layout.
 - `PROOF VERIFIED` — checked in final PDF/EPUB/print proof.
 
-At the time of this register, chapter visual content is predominantly **PLANNED**. That is intentional; final artwork production is the next publishing phase, not something to fake with placeholders.
+At the current publishing checkpoint, the rationalised Version 1 **A_CORE** production set is complete. Produced SVGs have been reconciled into PBH-v1 and passed proof-level render/accessibility QA plus editorial spot-check. Remaining statuses are principally **PLACED** and **PROOF VERIFIED** during final layout/export.
 
 ---
 
@@ -114830,17 +114248,19 @@ Issue #100 is complete only when:
 
 - [x] every canonical chapter has a visual plan;
 - [x] the master register exists;
-- [ ] duplicate/merge decisions are finalised after technical review;
-- [ ] every selected figure has a final production brief;
-- [ ] final assets are created;
-- [ ] technical accuracy is approved;
-- [ ] rights/provenance are documented;
-- [ ] alt text is written;
-- [ ] print/greyscale legibility is verified;
+- [x] duplicate/merge decisions are finalised for the selected Version 1 production set;
+- [x] every selected A_CORE figure has a production brief / production record;
+- [x] selected Version 1 A_CORE assets are created (**230 / 230**);
+- [x] technical/scientific review is recorded across the production waves;
+- [x] rights/provenance are documented for produced assets;
+- [x] SVG accessibility metadata (title/description) is present and validated;
+- [x] asset-level render, greyscale and minimum-text proof is complete;
+- [x] full-book PBH-v1 reconciliation and editorial spot-check are complete;
 - [ ] figures are placed in final layout;
+- [ ] long-text/caption/callout behaviour is verified in real page context;
 - [ ] final PDF/EPUB/print proofs are checked.
 
-**Therefore this reference register is a major completion step, but Issue #100 must remain open until layout assets are actually produced and verified.**
+**Current state: READY_FOR_LAYOUT_PROOF. Issue #100 remains open only for placement and final-format proof gates.**
 
 
 <!-- PAGEBREAK: REFERENCE -->
@@ -114852,11 +114272,11 @@ Issue #100 is complete only when:
 
 ## Status
 
-**PRE-LAYOUT DIAGRAM REGISTER — FINAL DIAGRAM ASSETS PENDING**
+**SELECTED V1 DIAGRAM PRODUCTION COMPLETE — READY FOR LAYOUT PROOF**
 
-This register defines the book-wide system for process flows, biological timelines, decision trees, data graphics, maps, technical cutaways, comparison matrices, and research/evidence diagrams. It converts many chapter-specific visual ideas into a coherent diagram language.
+This register defines the book-wide system for process flows, biological timelines, decision trees, data graphics, maps, technical cutaways, comparison matrices, and research/evidence diagrams. The selected Version 1 production set has now been produced and reconciled into the PBH-v1 visual language.
 
-Issue #101 remains open until final diagram assets are produced, reviewed, placed, and proof-checked.
+Issue #101 remains open because diagram placement, page-context review and final PDF/EPUB/print proof are still required.
 
 ---
 
@@ -115224,14 +114644,15 @@ Reject or revise a diagram if it:
 - [x] major diagram families identified;
 - [x] reuse/consolidation rules defined;
 - [x] safety/uncertainty conventions defined;
-- [ ] final diagram list reconciled against every chapter plan;
-- [ ] all selected diagrams produced;
-- [ ] technical review complete;
-- [ ] accessibility/alt text complete;
-- [ ] diagrams placed in layout;
+- [x] final Version 1 production selection reconciled against the chapter-plan inventory;
+- [x] selected A_CORE diagram/illustration set produced (**230 / 230** across the complete visual programme);
+- [x] technical/scientific review recorded across the production waves;
+- [x] SVG accessibility metadata and source-level legibility checks complete;
+- [x] full-book PBH-v1 reconciliation and editorial spot-check complete;
+- [ ] diagrams placed in final layout;
 - [ ] PDF/EPUB/print proofs verified.
 
-**Issue #101 remains open until the final production stages are complete.**
+**Current state: READY_FOR_LAYOUT_PROOF. Issue #101 remains open only for placement and final-format proof gates.**
 
 
 <!-- PAGEBREAK: REFERENCE -->
@@ -115243,11 +114664,77 @@ Reject or revise a diagram if it:
 
 ## Status
 
-**PRE-LAYOUT SHOT REGISTER — FINAL PHOTOGRAPHS NOT YET SOURCED/CREATED**
+**PRE-LAYOUT PHOTO SOURCING IN PROGRESS — FINAL PHOTO SET NOT YET COMPLETE**
 
 Photographs are used only when a real field appearance, product condition, behaviour, site, or diagnostic pattern adds information that a technical illustration cannot communicate as well. Decorative stock photography is excluded from the production plan.
 
 Issue #102 remains open until photographs are sourced or created, rights-cleared, technically reviewed, captioned, placed, and proof-verified.
+
+### Current production checkpoint — 2026-09-20
+
+The 93-shot register has been rationalised into **40 A_CORE**, **25 B_SUPPORTING**, and **28 C_OPTIONAL** photographs. A_CORE sourcing is now tracked in `assets/photo-source-registry.json`.
+
+The first sourcing pass separates real diagnostic/documentary evidence, real field/process photography, and controlled real capture. Generated imagery is **not** accepted as a final photograph. USDA ARS public-domain candidates are now recorded for the first A_CORE subjects; final approval still requires technical match, resolution and placement review.
+
+
+**Pass 02 update:** diagnostic/brood sourcing now has **15/40 A_CORE** items with candidates and **7/40** currently selected sources that meet the present technical/rights/resolution gate. High-value additions include healthy capped worker brood (CC BY 4.0), a deformed-wing/Varroa photograph (CC0), an EFB candidate (CC BY-SA 4.0, single-column size only), and peer-reviewed Nosema microscopy (CC BY 4.0, resolution check pending), plus a public-domain USDA Tropilaelaps specimen.
+
+**Controlled-capture update:** all **8/8 CONTROLLED_REAL_CAPTURE** A_CORE positions now have an executable, safety-bounded shot card in `docs/production/CONTROLLED_PHOTO_CAPTURE_BRIEF_01.md`. This makes them ready to commission or capture, but does not change their unsourced/unapproved status.
+
+**Pass 03 update:** field/process/product sourcing now reaches **22/40 A_CORE** items with at least one candidate, **21/40** with at least one rights-clear candidate, **14/40** with at least one technical `MATCH`, and **10/40** currently selected sources meeting the present technical/rights/resolution gate. New selected sources cover healthy larvae/development, uncapping detail and royal jelly in queen-cell context. AFB imagery remains deliberately unselected until diagnostic provenance is stronger; partial/historical candidates remain labelled as such. See `docs/reviews/PHOTO_SOURCE_PASS_03.md`.
+
+**Pass 04 update:** evidence/field sourcing now reaches **26/40 A_CORE** items with at least one candidate, **25/40** with at least one rights-clear candidate, **17/40** with at least one technical `MATCH`, and **10/40** currently selected sources meeting the full present technical/rights/resolution gate. New strong candidates cover robbing at the hive entrance, a real monitoring/inspection scene, freshly secreted worker wax scales, and a real electric bee-venom collection device. Fourteen A_CORE positions still have no candidate; eight are already assigned to controlled real capture, leaving six external sourcing gaps. See `docs/reviews/PHOTO_SOURCE_PASS_04.md`.
+
+**Pass 05 update:** A_CORE sourcing now reaches **29/40** items with candidates, **28/40** with at least one rights-clear candidate, **18/40** with at least one technical `MATCH`, and **10/40** currently selected sources. New candidates cover harvested-super handling, real beeswax melting and propolis collector traps. The three subjects still lacking a suitable external candidate—old brood comb, storm-damaged hive and comb-honey defect examples—now have explicit real-photo acquisition cards in `docs/production/PHOTO_ACQUISITION_FALLBACK_01.md`. Every A_CORE photo position therefore has a documented sourcing or acquisition path, although many final high-resolution photo files still remain to be acquired and approved. See `docs/reviews/PHOTO_SOURCE_PASS_05.md`.
+
+**Selected-source file update:** all **10/10 currently selected A_CORE photographs** now have real source files in `assets/photos/a-core/source-candidates/` and pass the resolution gate for their intended placement (**10 PASS / 0 HOLD**). Rights, creator/source, SHA-256 and dimensions are recorded in `photo-source-files-current.json`. This is source-file readiness, not final page approval; cropping, captions, alt text, placement and print/EPUB/PDF proof still remain. See `docs/reviews/PHOTO_ASSET_BATCH_03.md`.
+**Layout-prep 01 update:** all **10/10 SOURCE_FILE_READY** selected A_CORE photographs are now referenced directly from their local repository files in the relevant chapter Markdown, with editorial captions, alt text, and creator/rights credit. The placement manifest is `assets/photos/a-core/photo-layout-manifest-01.json`. This is chapter-source placement, not final PDF/EPUB/print proof. See `docs/reviews/PHOTO_LAYOUT_PREP_01.md`.
+
+**Layout-prep 02 update:** P44.01 (EFB Larvae) now uses an authoritative CC BY 4.0 COLOSS/JAR figure by Eva Forsgren, extracted from the Newcastle accepted-manuscript PDF without resampling. The 700×531 source passes its intended single-column gate (about 59.3 mm wide at 300 ppi) and is placed in Chapter 44 with diagnostic limitations, alt text and credit. The selected source-file set is now **11/11 ready**. See `docs/reviews/PHOTO_LAYOUT_PREP_02.md`.
+
+**Layout-prep 03 update:** P55.01 (Beeswax Scales on Worker) now uses the CC BY 4.0 Richard Odemer Figure 1 source from *Ecology and Evolution*. The validated 661×440 source passes its registered 600×400 single-column gate (about 56 mm wide at 300 ppi) and is placed in Chapter 55 with alt text, caption and credit. The selected source-file set is now **12/12 ready**. See `docs/reviews/PHOTO_LAYOUT_PREP_03.md`.
+
+**Layout-prep 04 update:** P57.01 (Propolis Trap) now uses the CC BY 4.0 Figure 1 from Šuran et al., *Molecules* 26 (2021). The publisher-PDF embedded raster was extracted without resampling at 2439×1725 px, passes the 900×600 gate and is placed in Chapter 57 with alt text, caption and credit. The selected source-file set is now **13/13 ready**. See `docs/reviews/PHOTO_LAYOUT_PREP_04.md`.
+
+**Layout-prep 05 update:** P15.01 (Good Apiary Site), P42.01 (Nosema-like spores) and P52.01 (Comb Honey) are now validated and placed in Chapters 15, 42 and 52. The selected A_CORE set advances to **16/16 source files ready and placed**, with no generated documentary substitutes. P59.01 remains an editorial HOLD/reference-only asset because the scientific figure contains in-image labels. See `docs/reviews/PHOTO_LAYOUT_PREP_05.md`.
+
+**Layout-prep 06 update:** P56.01 (Pollen Trap) and P56.02 (Frozen Bee Pollen) now use real CC BY-SA 3.0 photographs by Matteo Giusti and are placed in Chapter 56. P56.02 no longer requires controlled capture, reducing the remaining controlled-capture set from eight to seven. The selected A_CORE set is now **18/18 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_06.md`.
+
+**Layout-prep 07 update:** P13.01 (Healthy Brood-Nest Frame) now uses a real CC BY-SA 4.0 frame photograph by John Pons showing brood, pollen and stores on the same frame. It is placed in Chapter 13 with a caption that treats the radial organisation as a common example rather than a universal rule. The selected A_CORE set is now **19/19 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_07.md`.
+
+**Layout-prep 08 update:** P46.01 (Monitoring in Practice) now uses Jürg Vollmer's real CC BY-SA 4.0 photograph of powdered-sugar Varroa sampling. The validated 1280×853 source is placed in Chapter 46 with a caption that preserves method/recording limitations. The selected A_CORE set is now **20/20 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_08.md`.
+
+**Layout-prep 09 update:** P22.02 (Hive Tools) and P48.02 (Refractometer Use) now use real rights-clear photographs and are placed in Chapters 22 and 48. Both previously planned controlled-capture slots were replaced by suitable external real photography, leaving five controlled-capture A_CORE positions. The selected A_CORE set is now **22/22 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_09.md`.
+
+**Layout-prep 10 update:** P33.01 (Colonies Secured for Transport) now uses a real creator-released public-domain photograph of hives carried in a dedicated bee-transport vehicle. The validated 1280×960 source is placed in Chapter 33 with an explicit boundary that the image does not certify local restraint, ventilation or road-compliance requirements. The selected A_CORE set is now **23/23 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_10.md`.
+
+**Layout-prep 11 update:** P43.02 (AFB Adherent Scale) now uses a clean specialist-provenance CC BY-SA 4.0 photograph by Dalibor Titera of the Bee Research Institute at Dol. The validated 1280×800 source is placed directly in the AFB scale section of Chapter 43 with an explicit diagnostic caveat. The selected A_CORE set is now **24/24 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_11.md`.
+
+**Layout-prep 12 update:** P57.02 (Raw Propolis Grades) now uses a real CC BY 2.0 hive-surface scraping photograph, complementing P57.01's controlled trap-collected propolis image. The two real photographs provide the planned source/grade contrast without a generated or staged comparison. P57.02 is placed in the scraped-propolis grading section of Chapter 57. The selected A_CORE set is now **25/25 source files ready and placed**, and only four A_CORE positions still require controlled real capture. See `docs/reviews/PHOTO_LAYOUT_PREP_12.md`.
+
+**Layout-prep 13 update:** P23.01 (First-Aid / Emergency Preparedness Kit) now uses a real CC BY-SA 4.0 first-aid box photograph and is placed in Chapter 23 with a clear warning that the pictured box is not a universal contents prescription or substitute for emergency care. The selected A_CORE set is now **26/26 source files ready and placed**, leaving three controlled-capture A_CORE positions. See `docs/reviews/PHOTO_LAYOUT_PREP_13.md`.
+
+**Layout-prep 14 update:** P45.01 (CBPV-Type Adult Signs) now uses a clean real CC BY-SA 4.0 photograph without embedded labels or arrows. The 495×495 native source is deliberately restricted to a small placement in Chapter 45, with a caption stating that dark/shiny/hair-reduced appearance can raise suspicion but does not diagnose CBPV. The selected A_CORE set is now **27/27 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_14.md`.
+
+**Layout-prep 15 update:** P43.01 (AFB Brood Frame) now uses a clean real CC BY-SA 3.0 whole-frame photograph, placed in Chapter 43 as contextual evidence only. Its caption explicitly prevents diagnosis from a patchy brood pattern alone and pairs the image with the specialist-provenance P43.02 AFB-scale photograph. The selected A_CORE set is now **28/28 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_15.md`.
+
+**Layout-prep 16 update:** P59.01 (Venom Collection Device) now uses a clean real CC BY 4.0 field photograph extracted without resampling from Figure 6 of Serrinha, Correia & Marques (2019). The 1496×1256 image replaces the earlier annotated figure for final handbook use; the annotated image remains reference-only. P59.01 is placed in Chapter 59 immediately before the no-DIY-circuit warning. The selected A_CORE set is now **29/29 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_16.md`.
+
+**Layout-prep 17 update:** P39.03 (Sacbrood Example) now uses a clean real CC BY 4.0 clinical photograph credited to Xiaoqing Li and published in Wei et al. (2022). The native 534×493 raster is deliberately restricted to a small single-column placement (about 45.2×41.7 mm at 300 ppi), with no upscaling. It is placed in Chapter 39 and explicitly identified as *Apis cerana*; the caption does not treat appearance alone as definitive diagnosis. The selected A_CORE set is now **30/30 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_17.md`.
+
+**Layout-prep 18 update:** P19.02 (Old Brood Comb) now uses Christopher Severn's real CC BY-SA 3.0 photograph of brood comb used through repeated brood cycles. The 2272×1704 source passes the intended single-column/medium gate and is placed in Chapter 19 with a caption explaining that darkening reflects use history and pupal lining but is not, by itself, a diagnosis of disease or contamination. The selected A_CORE set is now **31/31 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_18.md`.
+
+**Layout-prep 19 update:** P38.01 (Robbing Entrance Signs) now uses a clean real still extracted from Peck & Seeley's PLOS ONE S1 Video documenting intense robbing at a mite-weakened hive entrance. The selected 1280×720 frame at 24.72 s contains no added labels or arrows and is placed in Chapter 38. The caption explicitly warns that heavy traffic in a single still does not by itself distinguish robbing from orientation flights. The selected A_CORE set is now **32/32 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_19.md`.
+
+**Layout-prep 20 update:** P41.01 (Varroa Wash Equipment and Result) now uses Mona Chambers' official USDA ARS alcohol-wash result photograph. The native 649×721 PNG is restricted to a small single-column placement and is placed in Chapter 41 beside the adult-bee wash principle. The chapter's technical diagram remains the procedural teaching asset; the photograph supplies real field/lab context without duplicating the sequence. The selected A_CORE set is now **33/33 source files ready and placed**. See `docs/reviews/PHOTO_LAYOUT_PREP_20.md`.
+
+**Layout-prep 21 update:** P54.01 (Wax Rendering Streams) uses Simon A. Eugster's real CC BY-SA 3.0 beeswax-melting photograph as rendering-process context. The 1280×851 source is placed in Chapter 54; source-stream segregation remains taught by the canonical PBH-v1 diagrams and text. This pass closes a documentation gap for an already merged/placed asset. See `docs/reviews/PHOTO_LAYOUT_PREP_21.md`.
+
+**Layout-prep 22 update:** P48.03 is refined to Harvest Super Handling Before Transport and uses Pollinator's real CC BY 2.5 blower photograph as field-handling context. The 449×599 acquisition copy is deliberately limited to a small single-column placement and does not claim to show final hygienic covering. Chapter 48 explicitly requires prompt clean top/bottom protection and suitable transport after bee clearance. The selected Version 1 set is now **35/36 A_CORE ready and placed**, leaving only P59.02 unresolved. See `docs/reviews/PHOTO_LAYOUT_PREP_22.md`.
+
+**V1 rationalisation update:** P52.02 (Comb-Honey Defect Examples) is no longer A_CORE. Photo 52.1 already provides the real complete-versus-unfinished Ross Round comparison, while Figure 52.9 is the canonical ten-item defect atlas. Producing a second A_CORE defect photograph would duplicate teaching value rather than improve the chapter. The current Version 1 selection is therefore **39 A_CORE / 25 B_SUPPORTING / 29 C_OPTIONAL**, with **34/39 A_CORE source files ready and placed** and **5 A_CORE positions remaining**. See `docs/reviews/PHOTO_RATIONALISATION_V1.md`.
+
+**Final V1 rationalisation update:** P38.02 (Storm-Damaged Hive), P55.02 (Cappings Wax and Brood Wax Blocks), and P58.02 (Royal Jelly Cold Chain) are demoted from A_CORE after full-book overlap review. Existing PBH-v1 diagrams and photographs teach their decisions more clearly, while the proposed photographs would add limited or potentially misleading visual value. The selected Version 1 photo set is now **36 A_CORE / 25 B_SUPPORTING / 32 C_OPTIONAL**, with **34/36 A_CORE ready and placed** and only **2 A_CORE positions remaining**: P48.03 and P59.02. See `docs/reviews/PHOTO_RATIONALISATION_V1_FINAL.md`.
 
 ---
 
