@@ -12,6 +12,15 @@ from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 # Only these explicit editorial sections are excluded, and only at build time.
 INTERNAL_SECTION_HEADERS = {"Review Notes", "Figure Placeholders"}
+# Chapter drafting left inline notes, not just H2 planning sections.
+INLINE_PLACEHOLDER = re.compile(
+    r"^\s*\[(?:Figure|Photo|Illustration|Diagram)\s+placeholder:.*\]\s*$",
+    re.IGNORECASE,
+)
+DRAFT_CONTINUATION = re.compile(
+    r"^Part\s+\d+\s+will continue with\s+.*\.\s*$",
+    re.IGNORECASE,
+)
 MARKDOWN_LINK = re.compile(
     r'''(?P<opening>!?\[[^\]\n]*\]\()(?P<target>[^)\s]+)(?P<closing>(?:\s+["'][^"']*["'])?\))'''
 )
@@ -35,6 +44,12 @@ def without_editorial_sections(markdown: str):
         elif re.match(r"^#\s+", line):
             hiding = False
         if not hiding:
+            if INLINE_PLACEHOLDER.fullmatch(line.strip()):
+                excluded.append('Inline figure placeholder')
+                continue
+            if DRAFT_CONTINUATION.fullmatch(line.strip()):
+                excluded.append('Draft continuation handoff')
+                continue
             kept.append(line)
 
     return "".join(kept).rstrip() + "\n", excluded
