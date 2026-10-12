@@ -7,6 +7,8 @@ on:
     paths:
       - 'scripts/build_layout_proof.py'
       - 'scripts/render_layout_proof_pdf.py'
+      - 'scripts/publication_preflight.py'
+      - 'tests/test_publication_preflight.py'
       - 'docs/layout/figure-placements-wave02-ch01-05.json'
       - '.github/workflows/layout-proof-wave02.yml'
   pull_request:
@@ -28,6 +30,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Validate and assemble the 15-figure placement pilot
         run: |
+          python -m unittest discover -s tests -p 'test_publication_*.py' -v
           python scripts/build_layout_proof.py
           python scripts/build_layout_proof.py --check
       - name: Install reproducible proof renderer dependencies
@@ -43,6 +46,8 @@ jobs:
           from pathlib import Path
           m = json.loads(Path("exports/proofs/PBH-wave02-layout-manifest.json").read_text())
           r = json.loads(Path("exports/proofs/PBH-wave02-pdf-preflight.json").read_text())
+          book = Path("exports/proofs/PBH-wave02-chapters-01-05.md").read_text(encoding="utf-8")
+          assert "[Figure placeholder:" not in book
           assert m["placed_a_core_figures"] == 15
           assert r["PDF_figure_caption_count"] == 15
           assert r["pages"] >= 10
