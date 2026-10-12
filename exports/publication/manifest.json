@@ -412,7 +412,7 @@
       "number": 59,
       "title": "Chapter 59 — Bee Venom",
       "source": "chapters/chapter-59.md",
-      "source_sha256": "594eeaa7547dc31d2fed04337f949c427b090c0cf5ac8b1593ec4bc4f0698cad",
+      "source_sha256": "6660a3a6f198dd3e1e40d817372865c09ea536b1da4006fc80b4cbce4ba2f6e9",
       "asset_plan": "docs/illustration-plans/chapter-59-illustration-plan.md"
     },
     {
@@ -580,7 +580,7 @@
       "number": 84,
       "title": "Photographs",
       "source": "references/photographs.md",
-      "source_sha256": "593426cebafe9f831252a7bf7bae5de58ea22a68a2557e12c53e5772a9f7d189"
+      "source_sha256": "0da5cb902d4f9aff6b715e4ed9d0669bff257089eb073720364d9d4c236fec5e"
     },
     {
       "number": 85,
@@ -663,8 +663,8 @@
       ]
     }
   ],
-  "local_links_rebased_count": 35,
-  "local_images_verified_count": 35,
+  "local_links_rebased_count": 36,
+  "local_images_verified_count": 36,
   "editorial_sections_excluded": [
     "Chapter 1: Review Notes",
     "Chapter 2: Review Notes",
@@ -757,7 +757,7 @@
     "Chapter 21: Figure Placeholders"
   ],
   "generated_file": "exports/publication/Practical-Beekeeping-Handbook.md",
-  "generated_sha256": "22025bae3e88855a4eec34a1a66ae340407498db9b295e61a7b37ed323ed8d9a",
+  "generated_sha256": "014c36e552bc5b5efab10fed0ba87577477479a5698e81e3cf8e54404caa3535",
   "chapter_count": 74,
   "reference_count": 11,
   "asset_plan_count": 74
