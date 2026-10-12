@@ -61,6 +61,8 @@ jobs:
           assert len(re.findall(r'^# Chapter \d+ — ', book, re.M)) == 74
           assert "## Review Notes" not in book
           assert "## Figure Placeholders" not in book
+          assert "[Figure placeholder:" not in book
+          assert "Part 2 will continue" not in book
           assert "p48-03-harvest-super-handling.jpg" in book
           assert m["local_images_verified_count"] >= 35
           for entry in m["chapters"] + m["references"]:
