@@ -47,6 +47,25 @@ class PublicationPreflightTests(unittest.TestCase):
             self.assertEqual((links, images), (1, 1))
             self.assertEqual(validate_publication_images(result, root, export_dir), 1)
 
+    def test_inline_figure_placeholders_and_drafting_handoff_are_hidden(self):
+        original = (
+            "# Chapter 11 — Communication\n\n"
+            "## Recruitment Communication\n"
+            "Useful reader text.\n\n"
+            "[Figure placeholder: raw diagram briefing for production]\n\n"
+            "Part 2 will continue with later topics, review questions, and references.\n\n"
+            "## Real Content\nThis content must remain.\n"
+        )
+        proof, excluded = without_editorial_sections(original)
+        self.assertEqual(
+            excluded, ["Inline figure placeholder", "Draft continuation handoff"]
+        )
+        self.assertNotIn("[Figure placeholder:", proof)
+        self.assertNotIn("Part 2 will continue", proof)
+        self.assertIn("Useful reader text.", proof)
+        self.assertIn("This content must remain.", proof)
+        self.assertIn("[Figure placeholder:", original)
+
     def test_missing_assets_raise_instead_of_silent_broken_links(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
