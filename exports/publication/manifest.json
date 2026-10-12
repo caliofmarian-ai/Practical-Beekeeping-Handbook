@@ -20,7 +20,7 @@
       "number": 3,
       "title": "Chapter 3 — Importance of Honey Bees",
       "source": "chapters/chapter-03.md",
-      "source_sha256": "0cda4e87e069546d85ad18c826feff806f339c6514905a5329dae161ef682d61",
+      "source_sha256": "83bd50dfec45e861af6c4a31b94d6f18603d4d8a87ce25f8e9676a31fa458ebe",
       "asset_plan": "docs/illustration-plans/chapter-03-illustration-plan.md"
     },
     {
@@ -62,7 +62,7 @@
       "number": 9,
       "title": "Chapter 9 — Worker Bees",
       "source": "chapters/chapter-09.md",
-      "source_sha256": "43bbf2b0db9c78ff3ddc3e6d9d6f101f2e2e4142839c6ff7bbc2204abc3cf8a8",
+      "source_sha256": "385df10cb02635cf97289f487888eeb0dbd422e8443a731a838857aedfa62684",
       "asset_plan": "docs/illustration-plans/chapter-09-illustration-plan.md"
     },
     {
@@ -90,7 +90,7 @@
       "number": 13,
       "title": "Chapter 13 — Colony Structure",
       "source": "chapters/chapter-13.md",
-      "source_sha256": "55c21a79cc58510e15478130287bc8beb64a87cae42b6734e042551d91e9f336",
+      "source_sha256": "7ff5ea9bf2f8edd933281e9cb7d8b6fbed7e9d27281a7ff61dab213911429939",
       "asset_plan": "docs/illustration-plans/chapter-13-illustration-plan.md"
     },
     {
@@ -104,7 +104,7 @@
       "number": 15,
       "title": "Chapter 15 — Choosing an Apiary Location",
       "source": "chapters/chapter-15.md",
-      "source_sha256": "3373cf6817e8b6a70c36164e3f4beb8b3921daa166a51cd03cca1457b7f19ae8",
+      "source_sha256": "490ad02a96c8b056574be2a90dd477570d85c60c7a2dbf732b6b0584f941d797",
       "asset_plan": "docs/illustration-plans/chapter-15-illustration-plan.md"
     },
     {
@@ -132,7 +132,7 @@
       "number": 19,
       "title": "Chapter 19 — Frames and Foundation",
       "source": "chapters/chapter-19.md",
-      "source_sha256": "4a99fabcbfd11d444921a9db3d6a3deb70db93cda0a4da8e7e741aaa46f68bee",
+      "source_sha256": "c999a11dbd708b630ccf01335c48c1c41d9d090c93774fc4be09aed1f1fadec1",
       "asset_plan": "docs/illustration-plans/chapter-19-illustration-plan.md"
     },
     {
@@ -153,14 +153,14 @@
       "number": 22,
       "title": "Chapter 22 — Smokers and Hive Tools",
       "source": "chapters/chapter-22.md",
-      "source_sha256": "3911013dd8c33e7c5f0d76ce5adc02b567bbcedb0ecd3ce6fe80adbd6f7b3c96",
+      "source_sha256": "74bbdbad1e8f05590fb23cdb022c9330d9abf9c600754fa112eb93f5978fe8a6",
       "asset_plan": "docs/illustration-plans/chapter-22-illustration-plan.md"
     },
     {
       "number": 23,
       "title": "Chapter 23 — Beekeeping Safety and First Aid",
       "source": "chapters/chapter-23.md",
-      "source_sha256": "432993621f29e2cd94c56d4af1d4c843c590487635f22198442a0f6167b86995",
+      "source_sha256": "16f39f838ffa74d4ff74568672badbe0b029afd8f993a8de83e7e915b78bc688",
       "asset_plan": "docs/illustration-plans/chapter-23-illustration-plan.md"
     },
     {
@@ -174,7 +174,7 @@
       "number": 25,
       "title": "Chapter 25 — Routine Hive Inspections",
       "source": "chapters/chapter-25.md",
-      "source_sha256": "2cb722052f47c5873f017f97b206c07ed729e9181d9a1f177e276a55be4a7bf7",
+      "source_sha256": "be2939a54269c7d5c6aab214f56d5514a6ee072865c94e1054300137242c237e",
       "asset_plan": "docs/illustration-plans/chapter-25-illustration-plan.md"
     },
     {
@@ -230,7 +230,7 @@
       "number": 33,
       "title": "Chapter 33 — Moving Colonies",
       "source": "chapters/chapter-33.md",
-      "source_sha256": "5dc63732a87cb26db70cc00766303fd33c24eb1bdcd20f19857cb8816d0e141e",
+      "source_sha256": "1aa75b28c29316277d434ce61d70d3f7574701a8adfb6a0a468364c5b5e98a8c",
       "asset_plan": "docs/illustration-plans/chapter-33-illustration-plan.md"
     },
     {
@@ -265,63 +265,63 @@
       "number": 38,
       "title": "Chapter 38 — Emergency Colony Problems",
       "source": "chapters/chapter-38.md",
-      "source_sha256": "161323fef3f1c7851b04b260653166e60de656911d40a39712424f716b842e73",
+      "source_sha256": "6715394809891fac1df76ca2299141e3e8b666458158f96247abe0c86f6226b8",
       "asset_plan": "docs/illustration-plans/chapter-38-illustration-plan.md"
     },
     {
       "number": 39,
       "title": "Chapter 39 — Diseases",
       "source": "chapters/chapter-39.md",
-      "source_sha256": "1fae0ef4257d27849c733af06980a003caa3997a5b751f07633acc3d5fb0e10d",
+      "source_sha256": "fab33b57b49dfd61cbf5064c31ee44aa5c71d5d10a05c74e1b03124d0dca729c",
       "asset_plan": "docs/illustration-plans/chapter-39-illustration-plan.md"
     },
     {
       "number": 40,
       "title": "Chapter 40 — Parasites",
       "source": "chapters/chapter-40.md",
-      "source_sha256": "bf9b015bdd723170bd048730f486548994568527711f3bd6f21c03285fa1a525",
+      "source_sha256": "f57e9dc315e71c22a835663f1981564a39ff7964a93f2dd7033dc84cf06dcaf6",
       "asset_plan": "docs/illustration-plans/chapter-40-illustration-plan.md"
     },
     {
       "number": 41,
       "title": "Chapter 41 — Varroa Destructor",
       "source": "chapters/chapter-41.md",
-      "source_sha256": "fdc1c14241bdff794cfe904ae9dd9bf8569432f80df54afcfbb27e15eddaec76",
+      "source_sha256": "7f979882c92fd18bc598a71a2f78100ccfc342ed92a087a172d8d6f1fbfab723",
       "asset_plan": "docs/illustration-plans/chapter-41-illustration-plan.md"
     },
     {
       "number": 42,
       "title": "Chapter 42 — Nosema",
       "source": "chapters/chapter-42.md",
-      "source_sha256": "2d87762d0f04654652dd7c0bd385303ae9ea9fb6662bae8e8d43cf57c14f99e4",
+      "source_sha256": "f4cf7a5a36eeb4742dadb125d96a3ffdcc667cc54d72631f6a0292d062e5ac25",
       "asset_plan": "docs/illustration-plans/chapter-42-illustration-plan.md"
     },
     {
       "number": 43,
       "title": "Chapter 43 — American Foulbrood",
       "source": "chapters/chapter-43.md",
-      "source_sha256": "5c36cd085f1c2c2004a02e5c24005167f24d9dd67bfb6628b1ead101e3937874",
+      "source_sha256": "75412291707a7ce7eae166e8afd428afc9cb921700904809570acdb8b067b5d0",
       "asset_plan": "docs/illustration-plans/chapter-43-illustration-plan.md"
     },
     {
       "number": 44,
       "title": "Chapter 44 — European Foulbrood",
       "source": "chapters/chapter-44.md",
-      "source_sha256": "66da3cedccbe1bbde97c3eac16c83b6067940430502b5bc845a114df74448d84",
+      "source_sha256": "855ca8a9f3b000da8d79583f8e0cdede9dda7b078752975ad3debe17ac94f688",
       "asset_plan": "docs/illustration-plans/chapter-44-illustration-plan.md"
     },
     {
       "number": 45,
       "title": "Chapter 45 — Viruses",
       "source": "chapters/chapter-45.md",
-      "source_sha256": "292e4627cf8e8ed1481ca98c74f219b270c5cb04ef04f46dc9a630d738367629",
+      "source_sha256": "83864e41e8abee9fdcc232ff339a8491834b7ca170a6ce77db00d5324a346ed0",
       "asset_plan": "docs/illustration-plans/chapter-45-illustration-plan.md"
     },
     {
       "number": 46,
       "title": "Chapter 46 — Integrated Pest Management",
       "source": "chapters/chapter-46.md",
-      "source_sha256": "d488d8ca20fe183b3308100f1a34d5cd7421dcd368027f7425952e6fd0cea1c0",
+      "source_sha256": "b0d6c2aeeecad3bfa81967fc36fbf78cc290ea3d0d7c0bc76cddead1314d1e72",
       "asset_plan": "docs/illustration-plans/chapter-46-illustration-plan.md"
     },
     {
@@ -335,14 +335,14 @@
       "number": 48,
       "title": "Chapter 48 — Honey Harvesting",
       "source": "chapters/chapter-48.md",
-      "source_sha256": "ec44d2aa7fbd3b2d8bcda3c4be1c1e020aea2817f2d12af662f87be91e660cb7",
+      "source_sha256": "33ba90b4d2a35e6c2cbd3ff63ca19c8d3ae8062ef845fd73d544312c3c7ee2fe",
       "asset_plan": "docs/illustration-plans/chapter-48-illustration-plan.md"
     },
     {
       "number": 49,
       "title": "Chapter 49 — Honey Extraction",
       "source": "chapters/chapter-49.md",
-      "source_sha256": "3f7a178b7f052e9dfa0f10536e67ebb19d4e71de30ca2b28b4a7e62131c933c7",
+      "source_sha256": "3912587143b82ff3edf9c00ca9ba253015f9f04029ecde98cdc42488692dd897",
       "asset_plan": "docs/illustration-plans/chapter-49-illustration-plan.md"
     },
     {
@@ -363,7 +363,7 @@
       "number": 52,
       "title": "Chapter 52 — Comb Honey Production",
       "source": "chapters/chapter-52.md",
-      "source_sha256": "8a558d835c14797fca5f444f7348ffa7734e32e7d9496d76998487fb3b8577f6",
+      "source_sha256": "99770adcd6df2dabac51d97ee5fe45b771b4e447f38533dc3c8a6a2007a781e3",
       "asset_plan": "docs/illustration-plans/chapter-52-illustration-plan.md"
     },
     {
@@ -377,42 +377,42 @@
       "number": 54,
       "title": "Chapter 54 — Wax Processing",
       "source": "chapters/chapter-54.md",
-      "source_sha256": "64767a91c30ce972b2996d97391ad18cde6a8dbb64e7a9fc6c9ae087a6c959c8",
+      "source_sha256": "bfbe311e044a53a83a0b76170dc7876bc263ad336d5de70facf466a8a477fc71",
       "asset_plan": "docs/illustration-plans/chapter-54-illustration-plan.md"
     },
     {
       "number": 55,
       "title": "Chapter 55 — Beeswax",
       "source": "chapters/chapter-55.md",
-      "source_sha256": "752ad0311d901a26f25836809052d8788f8313b7ae0d122c3981cf822160a477",
+      "source_sha256": "20811f9f25efcf0ee2c73ed9ca604580d9287901f0cf72fc7d5f274fab1ad0c6",
       "asset_plan": "docs/illustration-plans/chapter-55-illustration-plan.md"
     },
     {
       "number": 56,
       "title": "Chapter 56 — Pollen",
       "source": "chapters/chapter-56.md",
-      "source_sha256": "34e05aa4898841b046cfa583babd3dbcc91343aec686ea3526eb86a6bfecd05d",
+      "source_sha256": "34086cd3b8b5c43f46a48bdcb8182e982d7822adefd40f4971522f34ff349a2c",
       "asset_plan": "docs/illustration-plans/chapter-56-illustration-plan.md"
     },
     {
       "number": 57,
       "title": "Chapter 57 — Propolis",
       "source": "chapters/chapter-57.md",
-      "source_sha256": "5cf0f76a1cde9d48d6c1105d2aff44e146e92643888abccbf53032122e3384c1",
+      "source_sha256": "08cf734712bac550fb3ec29fbe776e9f85b25dfc535c5b17a2bf807ac20d6777",
       "asset_plan": "docs/illustration-plans/chapter-57-illustration-plan.md"
     },
     {
       "number": 58,
       "title": "Chapter 58 — Royal Jelly",
       "source": "chapters/chapter-58.md",
-      "source_sha256": "86e87a6c671eab9fe3e3d20aebc6da6e799302927c3eb902a7e737ac2e2797b7",
+      "source_sha256": "b5b966eea5f4d7232068270cbebb4cc1a5075a80526451560bdc24f390a646dd",
       "asset_plan": "docs/illustration-plans/chapter-58-illustration-plan.md"
     },
     {
       "number": 59,
       "title": "Chapter 59 — Bee Venom",
       "source": "chapters/chapter-59.md",
-      "source_sha256": "6e14601477d0b9bb42b8405c01c6051537cce5a1a4e62f2590e3055396a65cc2",
+      "source_sha256": "594eeaa7547dc31d2fed04337f949c427b090c0cf5ac8b1593ec4bc4f0698cad",
       "asset_plan": "docs/illustration-plans/chapter-59-illustration-plan.md"
     },
     {
@@ -568,19 +568,19 @@
       "number": 82,
       "title": "Illustrations",
       "source": "references/illustrations.md",
-      "source_sha256": "9050afc44528c23698c8d8ffb076ce642c2c252317079db932817d0d253818be"
+      "source_sha256": "9e6d408ebb6826a31971d99f867643e96f211e2e0125ac40efa46e98e9c7d4b1"
     },
     {
       "number": 83,
       "title": "Diagrams",
       "source": "references/diagrams.md",
-      "source_sha256": "7f86ec2f0c7e3df9a5a4ab21530de4e8e4d6e0a4f14ea4ee9e430fa0fead3351"
+      "source_sha256": "5b227efe3f45940bae64065a4cdf2c0f23a4173349f673069646c7f40ac12445"
     },
     {
       "number": 84,
       "title": "Photographs",
       "source": "references/photographs.md",
-      "source_sha256": "9470a73e02d7e1f8e7621a42382451dab3e3a5788373248abd9381736b4404e6"
+      "source_sha256": "593426cebafe9f831252a7bf7bae5de58ea22a68a2557e12c53e5772a9f7d189"
     },
     {
       "number": 85,
@@ -663,8 +663,33 @@
       ]
     }
   ],
+  "local_links_rebased_count": 35,
+  "local_images_verified_count": 35,
+  "editorial_sections_excluded": [
+    "Chapter 1: Review Notes",
+    "Chapter 2: Review Notes",
+    "Chapter 3: Review Notes",
+    "Chapter 4: Review Notes",
+    "Chapter 5: Figure Placeholders",
+    "Chapter 6: Figure Placeholders",
+    "Chapter 7: Figure Placeholders",
+    "Chapter 8: Figure Placeholders",
+    "Chapter 9: Figure Placeholders",
+    "Chapter 10: Figure Placeholders",
+    "Chapter 11: Figure Placeholders",
+    "Chapter 12: Figure Placeholders",
+    "Chapter 13: Figure Placeholders",
+    "Chapter 14: Figure Placeholders",
+    "Chapter 15: Figure Placeholders",
+    "Chapter 16: Figure Placeholders",
+    "Chapter 17: Figure Placeholders",
+    "Chapter 18: Figure Placeholders",
+    "Chapter 19: Figure Placeholders",
+    "Chapter 20: Figure Placeholders",
+    "Chapter 21: Figure Placeholders"
+  ],
   "generated_file": "exports/publication/Practical-Beekeeping-Handbook.md",
-  "generated_sha256": "f963b0334a5fbbf8339fdc31c33c66b01a3a4bfef2affc204e49864ad17aa702",
+  "generated_sha256": "05630bf473324f63c43803847fcab6729d8bc7f18f1a98f09a0d27cd50b21cdc",
   "chapter_count": 74,
   "reference_count": 11,
   "asset_plan_count": 74
