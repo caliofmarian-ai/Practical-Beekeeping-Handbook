@@ -2,7 +2,7 @@
 
 Project: Practical Beekeeping Handbook
 
-Version: 1.1
+Version: 1.2
 
 ---
 
@@ -154,6 +154,28 @@ Do not use bold text as a substitute for a heading.
 Headings should be descriptive, concise, and written in title case.
 
 Repeated generic headings such as “Other Information” or “More Details” should be avoided.
+
+---
+
+# Narrative-First Editorial Quality Gate
+
+The reader-facing manuscript must read as a **developed teaching book**, not a lesson plan, slide deck, catalogue of bullets, or scaffold for a future author. Having a chapter file, a long checklist, or a passing technical build is not evidence that the chapter is editorially complete.
+
+For each substantial conceptual subsection, prose should normally:
+
+- introduce and define the subject in complete paragraphs;
+- explain underlying mechanisms, causal relationships and practical significance;
+- show how the reader would recognise or apply the concept in a realistic apiary situation;
+- state meaningful limits, environmental conditions, uncertainty and cross-references where relevant;
+- integrate reliable scientific evidence where technical claims require it.
+
+Use full sentences connected by a logical narrative. Short paragraphs are welcome when they express a developed idea, but a one-sentence lead followed by a long inventory is insufficient when the topic needs explanation. Consecutive nested lists must not replace paragraphs describing the biological or practical reasoning.
+
+**Lists remain appropriate** for learning objectives, tools, observable signs, concise comparisons, inspection checklists and true step-by-step procedures. A procedure may use numbered steps, but its surrounding prose must explain its purpose, when it applies, why key decisions matter and what outcomes call for a different response. Retain compact reference material when it is genuinely easier to use in the apiary.
+
+There is no compulsory bullet-to-prose ratio or minimum word count. An editor must judge whether a careful reader can understand the subject *without an instructor supplying the missing explanation*. Expand substance, not padding. Avoid repeating a list in prose, inventing data, adding unsupported medical or regulatory claims or turning every useful checklist into a wall of text.
+
+**Acceptance before page layout:** each revised chapter receives a separate review for narrative depth, factual accuracy, continuity, practical examples, list function, citations and consistency with the rest of the handbook. The original 74-chapter completion count measures file presence only; it does not replace this editorial sign-off.
 
 ---
 
