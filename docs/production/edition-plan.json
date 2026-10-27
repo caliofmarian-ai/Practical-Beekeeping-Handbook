@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "decision_recorded": "2026-10-27",
+  "book_title": "Practical Beekeeping Handbook",
+  "format_direction_status": "OWNER_APPROVED",
+  "approval_scope": ["complete_digital_edition", "multi_volume_print_edition"],
+  "grouping_status": "WORKING_FIVE_VOLUME_PLAN_PENDING_REVISED_TEXT_AND_SIZE_PROOF",
+  "canonical_outline": "docs/BOOK_OUTLINE.md",
+  "digital": {
+    "id": "digital-complete",
+    "title": "Complete digital edition",
+    "chapter_range": [1, 74],
+    "reference_range": [75, 85],
+    "target_formats": ["PDF", "EPUB", "web"]
+  },
+  "print_volumes": [
+    {"id": "volume-01", "number": 1, "title": "Foundations, Honey Bee Biology and Starting an Apiary", "chapter_range": [1, 23], "reference_range": null, "parts": ["I", "II", "III"]},
+    {"id": "volume-02", "number": 2, "title": "Colony Management", "chapter_range": [24, 38], "reference_range": null, "parts": ["IV"]},
+    {"id": "volume-03", "number": 3, "title": "Bee Health", "chapter_range": [39, 46], "reference_range": null, "parts": ["V"]},
+    {"id": "volume-04", "number": 4, "title": "Honey Production and Other Hive Products", "chapter_range": [47, 59], "reference_range": null, "parts": ["VI", "VII"]},
+    {"id": "volume-05", "number": 5, "title": "Business, Sustainability and Reference Material", "chapter_range": [60, 74], "reference_range": [75, 85], "parts": ["VIII", "IX"]}
+  ],
+  "reference_policy": {
+    "complete_reference_home": "volume-05",
+    "digital_includes_all": true,
+    "preserve_chapter_bibliographies": true,
+    "preserve_chapter_warnings": true,
+    "include_cross_volume_locator": true,
+    "per_volume_safety_and_navigation_proof": "PENDING",
+    "no_new_reference_volume_without_owner_decision": true
+  },
+  "sizing_policy": {
+    "pagination_status": "UNMEASURED_AFTER_NARRATIVE_REVISION",
+    "pilot_pages_are_not_a_full_book_estimate": true,
+    "preserve_readable_type_and_figure_labels": true,
+    "physical_grouping_may_be_rebalanced_after_proof": true,
+    "first_size_review": "Volume 1, followed by all other volumes; do not shrink text to force binding limits"
+  },
+  "resource_expectations": {"chapters": 74, "references": 11, "a_core_figures": 230, "a_core_photographs": 36},
+  "release_gates": [
+    {"id": "narrative_review", "state": "PENDING", "issue": 228, "evidence": null, "approved_source_fingerprint": null},
+    {"id": "owner_prose_sample", "state": "PENDING", "issue": 228, "related_draft_pr": 229, "evidence": null, "approved_source_fingerprint": null},
+    {"id": "scientific_review_after_rewrite", "state": "PENDING", "issue": 228, "evidence": null, "approved_source_fingerprint": null},
+    {"id": "visual_page_proof", "state": "PENDING", "issues": [100, 101, 102, 225], "evidence": null, "approved_source_fingerprint": null},
+    {"id": "pagination_index_navigation", "state": "PENDING", "issue": 103, "evidence": null, "approved_source_fingerprint": null},
+    {"id": "rights_cover_imprint", "state": "PENDING", "issue": 110, "evidence": null, "approved_source_fingerprint": null},
+    {"id": "digital_format_proof", "state": "PENDING", "issues": [107, 108], "evidence": null, "approved_source_fingerprint": null},
+    {"id": "print_size_and_format_proof", "state": "PENDING", "issue": 109, "evidence": null, "approved_source_fingerprint": null}
+  ]
+}
