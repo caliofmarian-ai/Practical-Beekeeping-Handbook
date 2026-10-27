@@ -50,4 +50,14 @@ During drafting, use a figure placeholder:
 
 ## Operational Control
 
-- `docs/CENTRAL_ORCHESTRATOR.md` — current verified project baseline, source-of-truth hierarchy, execution order, QA gates, and autonomous operating rules.
+- `docs/CENTRAL_ORCHESTRATOR.md` — verified project baselines, source-of-truth hierarchy, execution order, QA gates, and autonomous operating rules.
+- `docs/production/MULTIVOLUME_EDITION.md` — current approved delivery direction and working five-volume architecture (Issue #230, recorded 27 October 2026).
+- `docs/production/edition-plan.json` — machine-readable digital/print coverage and independent release gates.
+
+## Current Editorial Hold
+
+Read open Issue #228 and draft PR #229 before resuming publication work. The owner requires developed explanatory prose, not outline-style chapters dominated by lists. The historic technical/language review and the presence of all 74 chapter files do not constitute narrative approval.
+
+The complete-digital plus multi-volume-print direction is approved; narrative quality, final pagination, image page proof, index, licensing and format approvals are not. Never close #228 or merge the prose sample solely because the edition structure has been approved.
+
+`python scripts/build_edition_set.py` generates proof-only sources and the chapter inventory. `--check` verifies reproducibility. `--release-check` must remain blocked until every mandatory gate has evidence for the current source fingerprint. The generated files are not alternative editable manuscripts.
