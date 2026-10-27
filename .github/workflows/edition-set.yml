@@ -1,0 +1,121 @@
+name: Complete digital and multi-volume source preflight
+
+on:
+  push:
+    branches:
+      - main
+      - publishing/edition-architecture-230
+    paths:
+      - 'chapters/**'
+      - 'references/**'
+      - 'appendices/**'
+      - 'glossary/**'
+      - 'bibliography/**'
+      - 'assets/**'
+      - 'docs/BOOK_OUTLINE.md'
+      - 'docs/illustration-plans/**'
+      - 'docs/production/edition-plan.json'
+      - 'docs/production/MULTIVOLUME_EDITION.md'
+      - 'scripts/build_edition_set.py'
+      - 'scripts/publication_preflight.py'
+      - 'scripts/build_publication_manuscript.py'
+      - 'tests/test_edition_set.py'
+      - '.github/workflows/edition-set.yml'
+  pull_request:
+    paths:
+      - 'chapters/**'
+      - 'references/**'
+      - 'appendices/**'
+      - 'glossary/**'
+      - 'bibliography/**'
+      - 'assets/**'
+      - 'docs/BOOK_OUTLINE.md'
+      - 'docs/illustration-plans/**'
+      - 'docs/production/edition-plan.json'
+      - 'docs/production/MULTIVOLUME_EDITION.md'
+      - 'scripts/build_edition_set.py'
+      - 'scripts/publication_preflight.py'
+      - 'scripts/build_publication_manuscript.py'
+      - 'tests/test_edition_set.py'
+      - 'exports/editions/**'
+      - '.github/workflows/edition-set.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: edition-set-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/publishing/edition-architecture-230'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Build and verify the six source editions
+        run: |
+          python scripts/build_edition_set.py
+          python scripts/build_edition_set.py --check
+          python scripts/build_publication_manuscript.py --check
+      - name: Prove that pending gates still block a release
+        run: |
+          set +e
+          python scripts/build_edition_set.py --release-check > /tmp/release-gates.txt 2>&1
+          status=$?
+          set -e
+          cat /tmp/release-gates.txt
+          test "$status" -eq 2
+          grep -q 'RELEASE BLOCKED:.*narrative_review' /tmp/release-gates.txt
+      - name: Upload working sources and image dependencies
+        uses: actions/upload-artifact@v4
+        with:
+          name: PBH-working-digital-and-five-volume-source-set
+          path: |
+            exports/editions/**
+            assets/diagrams/**/*.svg
+            assets/photos/a-core/source-candidates/*.jpg
+            assets/photos/a-core/source-candidates/*.png
+            docs/production/edition-plan.json
+            docs/production/MULTIVOLUME_EDITION.md
+          retention-days: 30
+      - name: Commit deterministic proof sources, not a release
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add exports/editions
+          if ! git diff --cached --quiet; then
+            git commit -m "Build digital and five-volume working sources with chapter inventory (#230)"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
+
+  verify:
+    if: github.event_name != 'push' || github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Verify committed edition sources match canonical content
+        run: |
+          python scripts/build_edition_set.py --check
+          python scripts/build_publication_manuscript.py --check
+      - name: Report source readiness without publishing
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          report = json.loads(Path('exports/editions/edition-inventory.json').read_text())
+          assert len(report['chapters']) == 74
+          assert len(report['editions']) == 6
+          assert report['status'] == 'PROOF_SOURCES_ONLY'
+          print('Pending release gates:', report['release_blockers'])
+          print('This workflow does not approve prose, create a Release or deploy a book.')
+          PY
