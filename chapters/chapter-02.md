@@ -680,13 +680,9 @@ The growth of commercial beekeeping did not eliminate small-scale beekeeping. Ho
 
 ## Beekeeping Knowledge in the Modern Era
 
-Modern apiculture combines traditional observation with experimental biology, veterinary science, genetics, nutrition, ecology, engineering, food science, economics, and data collection. The result is not a rejection of older practical knowledge but a broader system for testing and interpreting it.
+Modern apiculture combines traditional observation with experimental biology, veterinary science, genetics, nutrition, ecology, engineering, food science, economics, and data collection. Historically, this represents an expansion of the evidence available to beekeepers rather than a rejection of older practical knowledge.
 
-Electronic tools can now measure hive mass, internal temperature, humidity, sound, entrance activity, location, and local weather. These measurements can reveal patterns that would otherwise be missed, but they do not automatically explain colony condition. A weight change, for example, may reflect nectar intake, rain, feeding, robbing, swarming, harvest, or equipment movement. Sensor data still require biological interpretation and, when necessary, direct examination.
-
-These systems can provide useful evidence but do not automatically explain colony condition. Sensor data must be interpreted alongside biology and direct examination.
-
-The detailed practices and technologies of present-day apiculture belong primarily to Chapter 5, Modern Beekeeping.
+The detailed operation and limitations of digital monitoring, mechanisation, modern records, and decision systems belong to Chapter 5, Modern Beekeeping. Here they matter only as the latest stage in a longer history of making colony conditions more observable and management more repeatable.
 
 ---
 
