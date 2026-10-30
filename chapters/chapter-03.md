@@ -42,99 +42,39 @@ By the end of this chapter, the reader should be able to:
 
 ### Pollination
 
-**Pollination** is the transfer of pollen from the pollen-producing structure of a flower to a receptive female structure of a flower of the same species.
+**Pollination** is the transfer of pollen from the pollen-producing part of a flower to a receptive female structure of a flower of the same species. The transfer may be carried out by insects or other animals, by wind, water, deliberate hand pollination, or in some plants by mechanisms that allow pollen to move within the same flower or plant.
 
-Pollination may occur through:
-
-- insects;
-- other animals;
-- wind;
-- water;
-- mechanical assistance;
-- deliberate hand pollination;
-- self-pollination within a flower or plant.
-
-Pollination does not automatically guarantee fertilisation, seed formation, or marketable fruit. Compatibility, weather, plant condition, pollen viability, flower age, and later growing conditions also matter.
+Pollination is only one stage in reproduction. A flower can receive pollen and still fail to produce viable seed or marketable fruit if the pollen is incompatible, the female tissue is not receptive, environmental conditions are unsuitable, or later development fails. For beekeepers working with growers, this distinction matters because the presence of bees does not automatically prove successful crop pollination.
 
 ### Fertilisation
 
-**Fertilisation** occurs when male and female reproductive cells unite after compatible pollen reaches the appropriate floral structure.
-
-Pollination is therefore a step that may enable fertilisation, not a synonym for fertilisation.
+**Fertilisation** occurs after compatible pollen has reached a receptive flower and male genetic material successfully unites with the female reproductive cell. Pollination can therefore be described as delivery; fertilisation is a later biological outcome. Fruit set and seed development depend on what happens after the pollen arrives as well as on the pollination event itself.
 
 ### Pollinator
 
-A **pollinator** is an animal that moves pollen between flowers in a way that may contribute to plant reproduction.
+A **pollinator** is an animal that moves pollen between flowers in a way that contributes to reproduction. Bees are prominent pollinators because their bodies collect pollen as they forage, but flies, butterflies, moths, beetles, wasps, birds, bats, and other animals can also perform this role depending on the plant and region.
 
-A flower visitor is not always an effective pollinator. Effectiveness depends on factors such as:
-
-- where pollen attaches to the animal;
-- whether it contacts the receptive floral structure;
-- whether it moves between compatible flowers;
-- visitation frequency;
-- timing;
-- behaviour on the flower.
+Not every flower visitor is equally effective. A visitor may take nectar without contacting the reproductive structures, may carry little compatible pollen, or may visit flowers at the wrong stage. Pollinator effectiveness depends on behaviour as well as abundance.
 
 ### Pollination Service
 
-A **pollination service** is the contribution of pollinators to plant reproduction or agricultural production.
+A **pollination service** is the managed placement or movement of pollinators to support crop production. In commercial agriculture this often involves contracts covering the number and strength of colonies, timing, placement, access, pesticide communication, and removal. The service being purchased is not simply the presence of hive boxes; it is the activity of sufficiently strong, healthy colonies during the relevant flowering period.
 
-The term may refer to:
+### Managed Pollinator and Wild Pollinator
 
-- a natural ecosystem service;
-- the contribution of resident wild pollinators;
-- a managed agricultural service provided under agreement;
-- movement of colonies to a crop during flowering.
+A **managed pollinator** is maintained or moved by people for production or pollination purposes. Honey bees are the most widely managed pollinators, but some bumble bees and solitary bees are also managed commercially.
 
-### Managed Pollinator
+A **wild pollinator** lives without routine management by a beekeeper. Wild populations can contribute greatly to crop and wild-plant pollination. Managed honey bees and wild pollinators may overlap in the flowers they use, but they are not interchangeable. Good agricultural and conservation planning considers both.
 
-A **managed pollinator** is maintained, housed, transported, propagated, or otherwise handled by people for production or pollination.
+### Fruit Set, Seed Set, and Pollination Deficit
 
-Managed honey bee colonies are among the most portable and numerous managed pollination units.
+**Fruit set** describes the proportion of flowers that develop into fruit. **Seed set** describes the successful development of seeds. Both may be influenced by pollination, but also by weather, nutrition, water, disease, cultivar compatibility, and other plant factors.
 
-### Wild Pollinator
-
-A **wild pollinator** lives and reproduces without being managed as a beekeeper's colony.
-
-Wild pollinators include many:
-
-- solitary bees;
-- bumblebees;
-- flies;
-- butterflies;
-- moths;
-- beetles;
-- wasps;
-- birds;
-- bats.
-
-### Fruit Set
-
-**Fruit set** is the proportion of flowers that begin developing into fruit.
-
-Initial fruit set does not always equal final harvest because fruit may later abort or be damaged.
-
-### Seed Set
-
-**Seed set** describes the successful formation of seeds following pollination and fertilisation.
-
-### Pollination Deficit
-
-A **pollination deficit** occurs when insufficient suitable pollen transfer limits production compared with what the crop could achieve under adequate pollination and other favourable conditions.
-
-Low yield alone does not prove a pollination deficit. Nutrition, water, temperature, disease, pruning, cultivar compatibility, and other factors must also be considered.
+A **pollination deficit** exists when insufficient or ineffective pollen transfer limits production compared with what the crop could achieve under better pollination. Demonstrating a deficit requires more than counting bees. It usually requires comparison of flower visitation, pollen deposition, fruit or seed set, and relevant controls.
 
 ### Ecosystem Service
 
-An **ecosystem service** is a benefit that people receive from ecological processes.
-
-Pollination is one such service, but its value is ecological and social as well as financial.
-
----
-
-![Honey bee contacting the reproductive structures of a flower while foraging](../assets/photos/a-core/source-candidates/p03-01-honey-bee-on-flower.jpg)
-
-*Photo 3.1 — Honey bee on a flower. The photograph shows a real foraging bee in floral contact; flower visitation can transfer loose pollen, but visitation alone does not guarantee successful pollination. Photo by Peggy Greb, USDA Agricultural Research Service; public domain.*
+An **ecosystem service** is a benefit that people obtain from ecological processes. Pollination is one such service because animal activity can support agricultural yield, food diversity, seed production, and the reproduction of many wild plants. The term does not imply that every pollinator contribution can be reduced to a single monetary value; ecological and cultural value may also matter.
 
 ## How Flower Visitation Becomes Pollination
 
@@ -218,289 +158,95 @@ These characteristics make the honey bee highly useful, but not necessarily the 
 
 ## Honey Bees Are Part of a Larger Pollinator Community
 
-The importance of honey bees should not be explained by erasing the importance of other pollinators.
+The importance of honey bees should not be explained by diminishing the importance of other pollinators. A flowering landscape is visited by species that differ in body size, tongue length, hair structure, daily and seasonal activity, temperature tolerance, flower-handling behaviour, flight distance, and nesting requirements. These differences allow pollinators to use flowers in different ways and at different times.
 
-Different pollinators vary in:
-
-- body size;
-- tongue length;
-- hair structure;
-- daily activity;
-- seasonal activity;
-- temperature tolerance;
-- flower-handling behaviour;
-- flight distance;
-- nesting requirements.
-
-Some bees can perform buzz pollination, during which vibration releases pollen from specialised flowers. Honey bees generally do not perform this behaviour effectively.
-
-Other pollinators may remain active:
-
-- at lower temperatures;
-- during light rain;
-- earlier or later in the day;
-- on flowers that honey bees visit infrequently;
-- in habitats far from managed apiaries.
-
-Research indicates that wild pollinator diversity can improve crop pollination even when managed honey bees are abundant.
+Some bees, for example, can perform buzz pollination, in which vibration releases pollen from flowers that do not readily release it through ordinary contact. Honey bees generally do not perform this behaviour. Other pollinators may remain active under cooler, cloudier, or windier conditions than honey bees, or may be more effective on flowers whose structure matches their body shape.
 
 ### Complementary Activity
 
-Different pollinators may complement one another by visiting:
+Where several effective pollinator groups are present, their activity can be complementary. Honey bees may provide large numbers of foragers, while wild bees or flies contribute visits under different weather conditions or interact with flowers differently. The practical outcome can be more reliable pollination than dependence on a single pollinator group.
 
-- different parts of the crop;
-- different flower varieties;
-- different times of day;
-- different weather conditions;
-- flowers at different heights.
+This does not mean that more pollinators are always better without limit. Pollinator abundance must be considered alongside floral resources, disease risk, conservation goals, and local ecology. In sensitive habitats or forage-limited landscapes, adding managed colonies can increase competition for flowers.
 
-A resilient pollination system normally depends on habitat, plant diversity, suitable nesting sites, and multiple pollinator groups rather than a single managed species.
-
-[Figure placeholder: comparison chart showing honey bee, bumblebee, solitary bee, hoverfly, butterfly, moth, beetle, bird, and bat with different activity periods and floral traits]
-
----
+For the beekeeper, the correct conclusion is that managed honey bees are valuable participants in a larger ecological network. Responsible apiary planning should support crop needs while respecting wild pollinator habitat and avoiding claims that hive numbers alone measure biodiversity.
 
 ## Crops Differ in Their Need for Animal Pollination
 
-Not all crops depend on animal pollination to the same degree.
-
-The contribution can range from essential to minor.
+Not all crops depend on animal pollination to the same degree. Some require animal visitors for commercially useful production, some can set fruit or seed without them but perform better with adequate pollination, and others rely mainly on wind or self-pollination. The contribution can also vary between cultivars of the same crop.
 
 ### Highly Dependent Crops
 
-For some crops or varieties, animal pollination is necessary or nearly necessary for commercial production.
+In strongly pollinator-dependent crops, inadequate animal visitation can sharply reduce fruit or seed production. The important management question is not simply whether bees are present, but whether compatible pollen is being moved between flowers at the right time and in sufficient quantity.
 
 ### Strongly Benefiting Crops
 
-Some crops can produce without animal pollination but achieve better:
-
-- fruit set;
-- seed set;
-- uniformity;
-- size;
-- shape;
-- oil content;
-- market quality.
+Many crops can produce some yield without animal pollination but may achieve better fruit set, seed set, uniformity, size, shape, oil content, or market quality when pollination is adequate. In these crops, the economic value of pollination may come partly from improved quality rather than only from a larger number of fruits.
 
 ### Partially Benefiting Crops
 
-Other crops receive a moderate or variable benefit depending on:
-
-- cultivar;
-- location;
-- weather;
-- pollinator community;
-- planting arrangement;
-- production objective.
+Some crops receive a smaller but still useful benefit. The response may depend on variety, weather, field layout, surrounding habitat, or the abundance of alternative pollinators. A grower should therefore avoid assuming that a general crop category predicts the exact response of every field.
 
 ### Predominantly Wind-Pollinated Crops
 
-Major staple crops such as wheat, rice, and maize are predominantly wind-pollinated and do not depend mainly on honey bees for grain formation.
-
-This distinction matters because statements such as “one in every three mouthfuls exists because of honey bees” are usually too simplified to function as precise scientific claims.
+Major staples such as wheat, rice, and maize rely mainly on wind or self-pollination rather than honey bee visits. This is important when discussing food security. Pollinators are extremely important for many fruits, nuts, vegetables, oilseeds, spices, and seed crops, but it is inaccurate to claim that all human food production would stop without honey bees.
 
 ### Crop Examples
 
-| Crop or crop group | General pollination relationship | Important qualification |
-|---|---|---|
-| Almond | Commercial production depends heavily on insect-mediated cross-pollination | Requirements vary by cultivar and orchard design |
-| Apple | Usually benefits strongly from compatible cross-pollination | Cultivar compatibility and flowering overlap are critical |
-| Pear | Often benefits from insect pollination | Flowers may provide relatively weak rewards for honey bees |
-| Cherry | Many varieties benefit from insect-mediated cross-pollination | Self-fertility varies |
-| Blueberry | Benefits from bee pollination | Other bee species may be particularly effective |
-| Raspberry and blackberry | Bee visits may improve drupelet formation and fruit shape | Wild and managed pollinators may contribute |
-| Cucumber | Insect visitation supports fruit formation in many production systems | Some protected-crop varieties are parthenocarpic |
-| Pumpkin and squash | Usually require pollen transfer between separate male and female flowers | Adequate pollen deposition may require repeated visits |
-| Melon | Bee visitation often supports fruit set and quality | Requirements vary among varieties and systems |
-| Sunflower | Insect visitation may improve seed set and yield | Self-fertility and hybrid type vary |
-| Oilseed rape or canola | Can set seed without insects but may benefit from insect visitation | Benefit depends on variety and environment |
-| Clover seed crops | Often depend strongly on insect pollination | Different bee species vary in effectiveness |
-| Tomato | Generally self-fertile, with pollen released effectively by vibration | Bumblebees are commonly used in protected crops |
-| Wheat | Predominantly wind-pollinated | Honey bee visits are not central to grain production |
-| Rice | Predominantly wind-pollinated | Animal pollination is not normally required |
-| Maize | Predominantly wind-pollinated | Bees may collect pollen without providing the main pollination mechanism |
-
-This table provides broad guidance, not a basis for calculating colony numbers for a particular farm.
-
-Local crop advice should consider:
-
-- cultivar;
-- field size;
-- resident pollinators;
-- competing bloom;
-- weather;
-- colony strength;
-- placement;
-- grower objectives.
-
----
+The practical value of a pollination service should be judged crop by crop. Orchard fruits, berries, oilseed crops, vegetable seed crops, nuts, and horticultural crops differ in flower structure, compatibility, bloom duration, and the number and type of visits needed. Local crop guidance and grower experience should be used together with colony-strength and weather observations.
 
 ## Pollination and Crop Quality
 
-Pollination may influence more than the number of fruits produced.
-
-Depending on the crop, adequate compatible pollen transfer may affect:
-
-- fruit shape;
-- fruit size;
-- symmetry;
-- seed number;
-- seed weight;
-- oil content;
-- ripening uniformity;
-- storage quality;
-- market grade.
+Pollination may influence more than the number of fruits produced. In many crops, the amount and distribution of compatible pollen can affect fruit shape, size, symmetry, seed number, seed weight, oil content, ripening uniformity, storage characteristics, and market grade.
 
 ### Example: Fruit Shape
 
-Some fruits develop around multiple fertilised structures.
-
-When sections receive inadequate compatible pollen, growth can become uneven, producing misshapen fruit.
+Some fruits develop from structures containing many potential seeds. If compatible pollen reaches only part of the flower, seed development can be uneven. The surrounding fruit tissue may then grow unevenly as well, producing misshapen fruit. A bee visit can therefore influence quality only if the visit results in useful pollen transfer to the appropriate parts of the flower.
 
 ### Example: Seed Production
 
-A crop grown for seed requires successful flower reproduction even when the vegetative part of the same plant can be harvested without pollination.
-
-For example, pollination may be important to produce seed for the next crop generation even when people normally eat leaves, stems, or roots.
+Seed crops require successful fertilisation rather than flower visitation alone. Poor weather during bloom, incompatible pollen, insufficient pollinator movement between varieties, or low pollinator activity can reduce seed set even when flowers appear busy.
 
 ### Pollination Is Only One Production Factor
 
-Good pollination cannot compensate fully for:
-
-- incompatible cultivars;
-- frost damage;
-- drought;
-- nutrient deficiency;
-- disease;
-- poor soil;
-- unsuitable pruning;
-- waterlogging;
-- heat damage;
-- weak plants.
-
-When a crop performs poorly, pollination should be investigated as one possible limiting factor rather than assumed to be the only cause.
-
----
+Good pollination cannot compensate for every other problem. Water stress, frost, nutrient deficiency, disease, poor pruning, unsuitable cultivar combinations, or later fruit loss can all reduce yield after pollination has occurred. When a crop performs poorly, pollination should be investigated as one factor within the production system rather than assumed to be the sole cause.
 
 ## Measuring Pollination Success
 
-Counting bees in a field is not enough to prove successful pollination.
+Counting bees in a field can be useful, but it does not by itself demonstrate successful pollination. A meaningful assessment connects pollinator activity with the biological outcome the crop needs.
 
-A useful assessment may include:
-
-- flower density;
-- number of pollinator visits;
-- pollinator identity;
-- pollen deposited on stigmas;
-- compatible pollen availability;
-- initial fruit set;
-- final fruit set;
-- seed number;
-- fruit shape;
-- yield;
-- comparison with controlled flowers.
+Researchers and growers may examine flower density, visitor identity and visit rate, compatible pollen deposited on stigmas, initial and final fruit set, seed number, fruit shape, yield, and the condition of flowers protected from animal visitors. The exact measurements depend on the crop and the question being asked.
 
 ### Possible Comparisons
 
-Researchers or growers may compare:
-
-- flowers open to all visitors;
-- flowers protected from animal visitors;
-- flowers hand-pollinated;
-- areas near and far from colonies;
-- fields with different habitat conditions.
-
-Each method has limitations. Bags, cages, handling, and hand pollination may alter flower conditions.
+One useful experimental approach is to compare flowers open to all visitors with flowers from which animal pollinators are excluded. In some studies, hand-pollinated flowers provide an additional comparison representing a high-pollen treatment. These comparisons help separate pollination limitation from later plant or environmental factors.
 
 ### Practical Beekeeper Boundary
 
-A beekeeper can report:
-
-- number of colonies delivered;
-- colony strength;
-- arrival and removal dates;
-- visible foraging activity;
-- weather;
-- colony health.
-
-The beekeeper should not guarantee a specific crop yield unless the contractual method and all other production variables are clearly defined.
-
----
+A beekeeper providing pollination services should monitor colony strength, activity, placement, weather, and communication with the grower. The beekeeper should not claim that a particular yield increase was caused by their colonies unless the evidence supports that conclusion. Agricultural outcomes are influenced by many variables, and professional credibility depends on describing the contribution accurately.
 
 ## Pollination Services as an Agricultural Activity
 
-Under a pollination agreement, colonies are positioned to support a flowering crop.
-
-This is different from placing colonies primarily for honey production.
+Under a pollination agreement, colonies are positioned primarily to support a flowering crop rather than to maximise honey production. This changes the beekeeper's priorities. Colonies may need to be moved at night, placed in multiple field locations, assessed for strength, supplied with water, protected from pesticide exposure, and removed promptly when bloom ends.
 
 ### Responsibilities Commonly Requiring Agreement
 
-The grower and beekeeper may need to agree on:
-
-- number of colonies;
-- minimum colony strength;
-- delivery date;
-- removal date;
-- placement locations;
-- access routes;
-- water availability;
-- pesticide communication;
-- theft or damage risk;
-- inspection method;
-- payment;
-- responsibility for crop or colony losses;
-- emergency contact details.
+A useful agreement clarifies the number of colonies, minimum colony strength, delivery and removal dates, placement locations, vehicle access, water, inspection rights, pesticide communication, theft or damage risk, payment, and the procedure if weather or crop development changes the schedule. Ambiguity is most costly when the crop is already in bloom and there is little time to solve a disagreement.
 
 ### Colony Strength Matters
 
-Ten weak colonies are not automatically equivalent to ten strong colonies.
-
-Pollination value depends partly on:
-
-- adult bee population;
-- brood area;
-- queen status;
-- health;
-- food reserves;
-- number of active foragers;
-- weather;
-- distance to flowers.
+A hive box is not itself a pollination unit. A weak colony with few foragers cannot provide the same field activity as a populous, healthy colony. Strength criteria should therefore describe the biological colony rather than merely count delivered hives.
 
 ### Placement Matters
 
-Colonies should be placed where they can operate without creating unnecessary danger to:
-
-- workers;
-- livestock;
-- roads;
-- machinery;
-- neighbouring properties;
-- the public.
-
-Entrances should not normally face directly into heavily used paths or work areas.
+Pollinator distribution can be affected by field shape, competing flowers, shelter, wind, obstacles, and the attractiveness of different crop areas. Several placement points may sometimes give more even coverage than a single large cluster, but the best arrangement depends on the crop, site, access, and local advice.
 
 ### Timing Matters
 
-Colonies delivered too early may forage on competing plants or become exposed to crop treatments.
-
-Colonies delivered too late may miss the period when flowers are receptive.
+Colonies need to be present when flowers are receptive and useful pollen is available. Arrival too early may encourage bees to establish strong preferences for alternative forage; arrival too late can miss a significant part of bloom. Grower and beekeeper communication is therefore a biological requirement as well as a contractual one.
 
 ### Communication About Pesticides
 
-The grower and beekeeper should exchange information before and during flowering.
-
-They should follow:
-
-- applicable pesticide labels;
-- local law;
-- pollinator-protection requirements;
-- crop-specific professional guidance.
-
-A beekeeper should not rely on an informal promise that a product is “bee safe” without identifying the product, use, timing, formulation, and label restrictions.
-
-[Figure placeholder: pollination-service workflow from pre-contract site assessment through colony preparation, delivery, monitoring, pesticide communication, removal, and post-service colony inspection]
-
----
+Pesticide exposure can damage colonies and pollination performance. The beekeeper and grower should exchange current information about planned applications and follow the relevant label, legal, and pollinator-protection requirements. A pollination contract cannot override pesticide law or product instructions.
 
 ## Economic Importance of Honey Bees
 
@@ -571,120 +317,37 @@ The value added to agricultural production may be much greater than the pollinat
 
 ## Honey Bees and Food Security
 
-Food security exists when people have reliable access to sufficient, safe, and nutritious food.
-
-Pollinators contribute especially to the production of many:
-
-- fruits;
-- nuts;
-- vegetables;
-- oilseeds;
-- spices;
-- stimulant crops;
-- seed crops.
-
-Many of these foods provide:
-
-- vitamins;
-- minerals;
-- beneficial fats;
-- dietary diversity;
-- flavour;
-- cultural value.
+Food security means reliable access to sufficient, safe, and nutritious food. Pollinators contribute especially to many fruits, nuts, vegetables, oilseeds, spices, and seed crops. These foods often provide vitamins, minerals, beneficial fats, dietary diversity, flavour, and cultural value.
 
 ### Calories and Nutritional Diversity
 
-The largest global calorie-producing staples are generally not dependent mainly on animal pollination.
-
-Therefore, loss of animal pollination would not mean the immediate disappearance of all human food.
-
-However, it could reduce:
-
-- availability of many nutrient-rich foods;
-- dietary diversity;
-- crop quality;
-- farmer income;
-- agricultural resilience.
-
-Pollination is consequently important to food security and nutrition without being the sole basis of food production.
+Many of the world's largest calorie-producing staples, including major cereals, depend mainly on wind or self-pollination. Pollinator decline would therefore not eliminate all calories from the food system. Its effects would be more complex: reduced availability or higher cost of many nutrient-rich foods, altered crop choices, lower production of some seeds and oils, and pressure on agricultural diversity.
 
 ### Indirect Contributions
 
-Pollinators may also support:
-
-- seed production for forage plants;
-- livestock-feed systems;
-- crop breeding;
-- genetic diversity;
-- wild plants used by communities;
-- rural employment.
-
-[Figure placeholder: two-part diagram distinguishing calorie staples largely pollinated by wind from diverse fruits, vegetables, nuts, and oilseeds that often benefit from animal pollination]
-
----
+Pollination can also affect crops grown for animal feed, seed multiplication, breeding, and future planting. The economic and nutritional consequences therefore extend beyond the fruit or seed visible at harvest. The importance of pollinators is best described in terms of food diversity, nutritional quality, agricultural resilience, and the production of many high-value crops rather than through exaggerated claims that all food depends on honey bees.
 
 ## Honey Bees and Biodiversity
 
-Honey bees visit a wide range of flowering plants and may contribute to seed or fruit production in some wild species.
-
-Those plants may provide:
-
-- food for wildlife;
-- nesting material;
-- shelter;
-- soil cover;
-- structural habitat.
-
-However, the ecological role of managed honey bees is context-dependent.
+Honey bees visit a wide range of flowering plants and can contribute to seed or fruit production in some wild species. Those plants may in turn provide food, shelter, soil cover, nesting material, or other habitat functions. This ecological role is real, but it is strongly dependent on place.
 
 ### Managed Honey Bees Are Not Automatically a Conservation Tool
 
-Adding colonies to an area does not automatically increase biodiversity.
+Adding managed colonies to an area does not automatically increase biodiversity. Honey bees are livestock as well as pollinators, and a dense apiary can place substantial demand on floral resources. In landscapes with scarce forage or sensitive wild bee populations, competition may become relevant.
 
-In some environments, high densities of managed colonies may create competition for nectar or pollen with wild flower visitors.
-
-Possible effects depend on:
-
-- colony density;
-- floral abundance;
-- season;
-- habitat condition;
-- local pollinator species;
-- distance from the apiary;
-- disease interactions;
-- duration of colony placement.
+Conservation should therefore focus first on habitat: a diversity of flowering plants through the season, nesting opportunities, connected landscapes, and reduced avoidable pesticide exposure. Managed colonies may fit within that system, but they cannot substitute for it.
 
 ### Conservation Areas
 
-Before placing colonies in or near a protected area, the beekeeper should consult:
-
-- land managers;
-- conservation authorities;
-- relevant law;
-- local ecological guidance.
-
-An apparently flower-rich area may already support specialist wild pollinators.
+Protected or semi-natural habitats may have objectives that differ from agricultural production. Before placing large numbers of managed colonies near sensitive areas, beekeepers should consider local conservation policy, forage capacity, disease interactions, and the needs of resident pollinator communities.
 
 ### Native Range and Introduced Range
 
-The ecological context differs between places where a honey bee species is native and places where it has been introduced.
-
-A statement about ecological benefit in one region cannot automatically be transferred to another.
+The ecological role of *Apis mellifera* also differs geographically. In parts of its native range it is a naturally occurring pollinator as well as a managed species. In regions where it has been introduced, management decisions may need to consider different ecological relationships.
 
 ### Responsible Principle
 
-Managed honey bee health and wild pollinator conservation should be treated as related but distinct objectives.
-
-Supporting both may require:
-
-- more flowering habitat;
-- reduced pesticide risk;
-- nesting sites for wild species;
-- disease control in managed colonies;
-- appropriate apiary density;
-- monitoring.
-
----
+The safest general principle is to avoid presenting honey bee abundance as a direct measure of ecosystem health. Healthy managed colonies and healthy wild pollinator communities are both valuable, but they require partly different management and conservation strategies.
 
 ## Threats and Pressures Affecting Honey Bees
 
@@ -814,88 +477,25 @@ Management must be species-specific and lawful.
 
 ## Honey Bees as Environmental Indicators
 
-Honey bees interact with a large area around the apiary and can bring pollen, nectar, water, dust, and contaminants into the hive.
+Honey bees forage across a broad area and bring pollen, nectar, water, dust, and other material back to the colony. For this reason, researchers can analyse hive products or bee samples to investigate pollen diversity, pesticide residues, heavy metals, plant DNA, pathogens, and seasonal forage use.
 
-For this reason, colonies and hive materials may be studied in environmental monitoring.
+A colony is not, however, a neutral measuring instrument. What appears in a sample is influenced by colony strength, foraging preference, weather, distance, flower attractiveness, season, and the availability of alternative resources. A contaminant that is absent from a hive sample may still exist in the landscape if bees did not visit the relevant location.
 
-Researchers may analyse:
-
-- pollen diversity;
-- pesticide residues;
-- heavy metals;
-- plant DNA;
-- pathogens;
-- seasonal forage.
-
-However, a colony is not a simple measuring instrument.
-
-Results are influenced by:
-
-- foraging preference;
-- colony strength;
-- distance;
-- weather;
-- competing flowers;
-- sample type;
-- sampling method;
-- laboratory method.
-
-The presence or absence of a substance in a sample must therefore be interpreted scientifically.
-
----
+Environmental monitoring with honey bees is therefore useful when the sampling design and limitations are understood. It should not be interpreted as a complete survey of everything present around an apiary.
 
 ## Cultural and Educational Importance
 
-Honey bees have influenced:
+Honey bees have influenced language, symbolism, religion, art, agriculture, architecture, medicine, trade, folklore, and community identity. This long cultural relationship helps explain why public interest in bees often extends far beyond the economic value of honey.
 
-- language;
-- symbolism;
-- religion;
-- art;
-- agriculture;
-- architecture;
-- medicine;
-- trade;
-- folklore;
-- community identity.
-
-Apiaries can support education about:
-
-- insect biology;
-- food systems;
-- ecology;
-- observation;
-- seasonal change;
-- responsible animal management.
+Apiaries and observation hives can also support education about insect biology, food systems, ecology, seasonal change, and responsible animal management. Their educational value is strongest when the demonstration explains both the abilities and the limitations of honey bees rather than presenting them as symbols for every pollinator issue.
 
 ### Public Demonstrations
 
-Public education should use:
-
-- safe barriers;
-- controlled access;
-- appropriate protective equipment;
-- emergency planning;
-- clear factual explanations;
-- suitable observation colonies where appropriate.
-
-Visitors should not be encouraged to approach active entrances without supervision.
+Public demonstrations require the same safety planning as other apiary work. Access should be controlled, barriers and protective equipment used where appropriate, emergency procedures prepared, and visitors given clear factual information about sting risk. Demonstrations should avoid encouraging people to approach unmanaged swarms, open hives, or copy techniques without training.
 
 ### Avoiding Exaggeration
 
-Education becomes less credible when promotional claims are presented as science.
-
-Avoid absolute statements such as:
-
-- “Humanity would survive only four years without bees.”
-- “Honey bees pollinate every third bite of food.”
-- “All plants need bees.”
-- “Adding beehives always increases biodiversity.”
-- “Natural products from a hive cure disease.”
-
-Use qualified, evidence-based explanations instead.
-
----
+Public enthusiasm for bees can sometimes produce claims that are memorable but inaccurate. Statements about food security, medicine, biodiversity, or colony collapse should be proportional to the evidence. Trust is strengthened when beekeepers explain uncertainty clearly instead of using dramatic simplifications.
 
 ## Comparing Common Claims with Better Explanations
 
@@ -1056,31 +656,11 @@ Do not decide only from the number of flowers visible.
 
 ## Limits of What a Beekeeper Can Claim
 
-A beekeeper can reasonably state that:
+A beekeeper can reasonably explain that managed honey bees are important pollinators of many crops, that healthy colonies can support agricultural production, that hive products and pollination services can support livelihoods, and that bee health depends on multiple interacting biological and environmental pressures.
 
-- managed honey bees are important pollinators of many crops;
-- healthy colonies can support agricultural production;
-- hive products can support livelihoods;
-- pollination contributes to food diversity and nutrition;
-- bee health depends on multiple interacting factors.
+The boundary becomes important when moving from general knowledge to claims about a particular farm, product, or ecological outcome. Without specific evidence, a beekeeper should not claim that their colonies caused a particular increase in yield, that every observed fruit resulted from honey bee visits, that more hives necessarily improved biodiversity, or that a hive product provides a medical benefit.
 
-A beekeeper should avoid claiming without specific evidence that:
-
-- their colonies caused a particular increase in yield;
-- all observed fruit resulted from honey bee activity;
-- adding colonies improved biodiversity;
-- one substance caused a colony loss;
-- a hive product prevents or cures a disease;
-- every flower within flying distance was pollinated by their bees.
-
-Accurate claims protect:
-
-- the reader;
-- the customer;
-- the beekeeper;
-- the credibility of the handbook.
-
----
+Responsible communication distinguishes contribution from proof. Pollination is often one factor among several, and the effects of managed colonies must be interpreted in the context of other pollinators, plant biology, weather, and farm management.
 
 ## Key Takeaways
 
@@ -1105,19 +685,15 @@ Accurate claims protect:
 
 ## Chapter Summary
 
-Honey bees are important because they provide much more than honey. Managed colonies contribute to the pollination of many agricultural crops, produce valuable hive products, support rural livelihoods, enable research and education, and form part of cultural traditions.
+Honey bees are important because their value extends well beyond honey. Managed colonies can provide pollination services, hive products, biological stock, educational opportunities, and income. Their usefulness as managed pollinators comes from a combination of large colony populations, perennial social organisation, recruitment, flower constancy, stored food, portability, and the beekeeper's ability to inspect and prepare colonies.
 
-Their usefulness as managed pollinators comes from their large colony populations, social recruitment, flower constancy, stored food, portability, and the beekeeper's ability to inspect and prepare colonies.
+Pollination is not the same as fertilisation, and flower visitation is not the same as effective pollen transfer. Crop response depends on compatible pollen, flower biology, pollinator behaviour, weather, cultivar, and later plant development. This is why professional pollination work requires more than delivering hive boxes.
 
-Their importance must nevertheless be described accurately. Honey bees do not pollinate every crop, and they do not replace wild pollinators. Wheat, rice, and maize are primarily wind-pollinated, while many fruits, vegetables, nuts, oilseeds, and seed crops benefit to varying degrees from animal pollination.
+Honey bees also operate within a larger pollinator community. Wild bees, flies, butterflies, moths, beetles, birds, bats, and other animals can make important contributions, sometimes under conditions or on flowers where honey bees are less effective. Managed colonies should therefore be integrated into agricultural and conservation planning without treating them as substitutes for habitat or wild-pollinator diversity.
 
-Pollinator diversity increases resilience. Bumblebees, solitary bees, flies, butterflies, moths, beetles, birds, bats, and other animals contribute according to their biology and habitat.
+The contribution of pollinators to food security is substantial but should be described accurately. Many nutrient-rich crops benefit from animal pollination, whereas major cereal staples are largely wind- or self-pollinated. Pollinator loss would affect food diversity, nutrition, agricultural economics, and many high-value crops rather than causing all food production to cease.
 
-Managed honey bee colonies also face interacting pressures, particularly Varroa mites and viruses, other diseases, nutritional limitations, pesticide exposure, extreme weather, habitat change, poor queen performance, transport, and management failures.
-
-Responsible beekeeping therefore involves more than keeping colonies alive or collecting products. It requires evidence-based health management, suitable apiary density, communication with land managers and farmers, honest economic claims, protection of food safety, and respect for the wider pollinator community.
-
----
+For the beekeeper, the practical lesson is to combine strong colony management with honest communication. Pollination services require suitable colony strength, placement, timing, pesticide coordination, and clear agreements. Claims about yield, biodiversity, or environmental impact should remain within the evidence. Honey bees are valuable precisely because their real contributions are significant enough that they do not need exaggeration.
 
 ## Knowledge Check
 
