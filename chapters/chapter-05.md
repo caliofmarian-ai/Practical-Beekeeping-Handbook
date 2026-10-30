@@ -343,6 +343,8 @@ Beekeepers must also follow current national and local rules governing hive regi
 
 **Manuscript status:** Narrative-first editorial revision completed for Wave 01; technical and release review remain separate.
 
+**Wave:** 01 — Chapters 1–5.
+
 **Issue addressed:** GitHub Issue #228 — P0 Editorial rewrite.
 
 **Duplication control:** Historical development is intentionally summarised rather than repeated from Chapter 2. Pollination biology is deferred to Chapter 3, hive-product detail to Chapter 4, and procedural subjects to their dedicated later chapters.
