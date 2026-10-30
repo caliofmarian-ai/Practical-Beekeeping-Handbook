@@ -16,9 +16,9 @@ This chapter focuses on the features that distinguish a well-organised contempor
 
 Modern beekeeping did not replace observation with technology. It made observation easier to repeat, compare, and record.
 
-The key practical change was access to the inside of the colony without destroying the nest. Movable combs and frames allowed a beekeeper to inspect brood, assess queen performance, redistribute suitable resources, remove honey selectively, replace damaged comb, and monitor disease over time. This made colony management more deliberate and less dependent on destructive harvest or external signs alone.
+Chapter 2 explains how movable-comb and movable-frame systems developed. Their importance to modern management can be stated more simply here: they made the internal condition of a colony repeatedly observable without dismantling the nest.
 
-Contemporary practice builds on that access by adding organisation. Colonies are identified, inspections have a purpose, treatments and feeding are recorded, equipment is standardised where possible, and decisions are linked to evidence. The apiary becomes a system in which information can be compared between colonies and across seasons.
+Contemporary practice builds on that access through organisation. Colonies are identified, observations are recorded, equipment is standardised where useful, and management decisions can be compared between colonies and across seasons. The distinctive modern step is not the frame itself, but the repeatable information-and-action system built around the colony.
 
 The modern principle is therefore not “intervene more”. It is “know more before intervening”. A well-managed colony may sometimes need less disturbance because the beekeeper has enough information to recognise when opening the hive is unnecessary.
 
@@ -82,13 +82,9 @@ This does not mean trying to prevent every natural event. Colonies swarm, queens
 
 ### Planned Inspections
 
-An inspection should begin with a question. The question may concern queen status, brood quality, available space, food reserves, swarm preparation, disease signs, treatment response, or readiness for a management action.
+Chapter 1 establishes the principle of observation before intervention, and the later inspection chapters provide the field procedure. The modern-management issue here is operational consistency: inspections should be scheduled and recorded so that important questions are not forgotten while unnecessary hive openings are avoided.
 
-Purpose changes what must be inspected. A beekeeper checking whether a colony needs more space may not need to search for the queen. A beekeeper checking queen acceptance may focus on brood age and colony behaviour. A disease investigation may require stricter tool hygiene and a slower examination of brood.
-
-This approach reduces disturbance and improves records because the observation can be linked to the decision that followed.
-
-Detailed inspection technique is covered later in the handbook. At this stage, the important modern principle is that inspection frequency should respond to colony condition and season, not to habit alone.
+In a larger apiary this becomes a prioritisation problem. A colony awaiting queen confirmation, a treatment check, or a food reassessment should not be managed in the same way as a stable colony with no pending action. Modern inspection planning is therefore as much about deciding **which colony needs attention next** as about how to open a hive.
 
 ### Preventive Management
 
@@ -142,9 +138,9 @@ Some modern operations move colonies to follow nectar flows, provide crop pollin
 
 Movement increases flexibility, but it also adds logistical and biological risk. Colonies must be ventilated and secured, transport must occur safely, loading and unloading must be planned, and water and access must be available at the destination. Movement may also increase contact between apiaries and therefore increase the importance of health controls.
 
-Pollination contracts introduce an additional management layer. Colony strength, arrival and removal dates, placement, access, pesticide communication, payment, and responsibility for damage should be agreed clearly.
+The biology, colony-strength requirements, placement questions, and contract elements of pollination services are covered in Chapter 3. Chapter 5 needs only the operational consequence: migratory pollination turns the apiary into a timed logistics system in which health status, transport, labour, access, and communication must remain coordinated across locations.
 
-The biology and limitations of pollination are covered in Chapter 3. In a modern management system, the important point is that pollination work is a coordinated service, not simply the delivery of hive boxes to a field.
+Every movement should therefore be treated as both a transport event and a biosecurity event, with records that allow the colony's origin, destination, timing, and relevant management history to be reconstructed.
 
 ---
 
@@ -194,13 +190,9 @@ Buying a device before understanding the decision it will support often produces
 
 Records are the memory of a modern apiary.
 
-A colony record should be brief enough to maintain consistently and detailed enough to support the next decision. Typical information includes colony identification, inspection date, queen status, brood condition, food reserves, strength, swarm signs, pest or disease observations, feeding, treatment, supers added or removed, harvest, and required follow-up.
+Chapter 1 explains why records matter, Chapter 36 develops colony records, and Chapter 67 covers traceability in depth. Their role in modern beekeeping is broader than any individual form: records connect events over time.
 
-The most important field is often the final one: **what happens next**. A record that says “brood normal, queen not seen, add space next visit if outer frame filled” is more useful than a long narrative with no decision attached.
-
-Traceability extends the same principle from colony management into product handling. Harvest date, apiary identity, batch code, processing date, storage container, and packaging information allow a beekeeper to investigate a problem without treating every jar or every colony as equally affected.
-
-Chapter 36 develops record keeping in depth, and Chapter 67 deals specifically with traceability. Here the important point is that modern management depends on recoverable information rather than memory.
+A scalable system should allow the beekeeper to reconstruct what happened without relying on memory. The practical test is whether a later decision can recover the relevant history—previous action, date, outcome, and next requirement. As colony numbers or product batches increase, this continuity becomes one of the main differences between organised management and repeatedly rediscovering the same information.
 
 ---
 
