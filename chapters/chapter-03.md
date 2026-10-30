@@ -76,6 +76,10 @@ A **pollination deficit** exists when insufficient or ineffective pollen transfe
 
 An **ecosystem service** is a benefit that people obtain from ecological processes. Pollination is one such service because animal activity can support agricultural yield, food diversity, seed production, and the reproduction of many wild plants. The term does not imply that every pollinator contribution can be reduced to a single monetary value; ecological and cultural value may also matter.
 
+![Honey bee contacting the reproductive structures of a flower while foraging](../assets/photos/a-core/source-candidates/p03-01-honey-bee-on-flower.jpg)
+
+*Photo 3.1 — Honey bee on a flower. The photograph shows a real foraging bee in floral contact; flower visitation can transfer loose pollen, but visitation alone does not guarantee successful pollination. Photo by Peggy Greb, USDA Agricultural Research Service; public domain.*
+
 ## How Flower Visitation Becomes Pollination
 
 A worker honey bee usually visits flowers to collect nectar, pollen, water, or plant resins rather than to pollinate them deliberately.
