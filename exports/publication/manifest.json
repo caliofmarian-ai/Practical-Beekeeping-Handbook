@@ -6,35 +6,35 @@
       "number": 1,
       "title": "Chapter 1 — Introduction to Beekeeping",
       "source": "chapters/chapter-01.md",
-      "source_sha256": "5de9d18422f8419c02eb9d774569854e43813eaa88d0629040f886b956a8ea07",
+      "source_sha256": "0c9e8e440402aab983e475ba6ae4e65ca0595574bcb8ee1ad138b67aba851d6c",
       "asset_plan": "docs/illustration-plans/chapter-01-illustration-plan.md"
     },
     {
       "number": 2,
       "title": "Chapter 2 — History of Beekeeping",
       "source": "chapters/chapter-02.md",
-      "source_sha256": "119c228c764151ada87439dceb01479cfda1f03e7fb646e7600b73cafe85253a",
+      "source_sha256": "9a1e9d88fa85c8595c49846d6d1eef9a46476b36f6eabbe69269d260310f4f81",
       "asset_plan": "docs/illustration-plans/chapter-02-illustration-plan.md"
     },
     {
       "number": 3,
       "title": "Chapter 3 — Importance of Honey Bees",
       "source": "chapters/chapter-03.md",
-      "source_sha256": "83bd50dfec45e861af6c4a31b94d6f18603d4d8a87ce25f8e9676a31fa458ebe",
+      "source_sha256": "2cd4aa60c14ff4cfc6c0c800434978ff12107578ca5bec22c5ff5af4e0c07e1a",
       "asset_plan": "docs/illustration-plans/chapter-03-illustration-plan.md"
     },
     {
       "number": 4,
       "title": "Chapter 4 — Products of the Hive",
       "source": "chapters/chapter-04.md",
-      "source_sha256": "a372c4ef5db53aadce7c327416d41f346a91cfe75b270385048187451c2f1754",
+      "source_sha256": "7764aded84f1389438a79fd2b39e1512b775b777adfbb639e49d23a00b38c08c",
       "asset_plan": "docs/illustration-plans/chapter-04-illustration-plan.md"
     },
     {
       "number": 5,
       "title": "Chapter 5 — Modern Beekeeping",
       "source": "chapters/chapter-05.md",
-      "source_sha256": "d6b26bd65f404a6e18804164291e3b649e9e5b0e76cc8d6eba0904b06fb80148",
+      "source_sha256": "eb303dc26d8e8873b31b87d951f12003de9647e40985a5b8276380acf216e402",
       "asset_plan": "docs/illustration-plans/chapter-05-illustration-plan.md"
     },
     {
@@ -671,6 +671,7 @@
     "Chapter 3: Review Notes",
     "Chapter 4: Review Notes",
     "Chapter 5: Figure Placeholders",
+    "Chapter 5: Review Notes",
     "Chapter 6: Figure Placeholders",
     "Chapter 7: Figure Placeholders",
     "Chapter 8: Figure Placeholders",
@@ -688,7 +689,7 @@
     "Chapter 20: Figure Placeholders",
     "Chapter 21: Figure Placeholders"
   ],
-  "inline_figure_placeholders_excluded": 42,
+  "inline_figure_placeholders_excluded": 39,
   "draft_handoffs_excluded": 1,
   "editorial_blocks_excluded": [
     "Chapter 1: Inline figure placeholder",
@@ -708,9 +709,6 @@
     "Chapter 3: Inline figure placeholder",
     "Chapter 3: Inline figure placeholder",
     "Chapter 3: Inline figure placeholder",
-    "Chapter 3: Inline figure placeholder",
-    "Chapter 3: Inline figure placeholder",
-    "Chapter 3: Inline figure placeholder",
     "Chapter 3: Review Notes",
     "Chapter 4: Inline figure placeholder",
     "Chapter 4: Inline figure placeholder",
@@ -722,6 +720,7 @@
     "Chapter 4: Inline figure placeholder",
     "Chapter 4: Review Notes",
     "Chapter 5: Figure Placeholders",
+    "Chapter 5: Review Notes",
     "Chapter 6: Figure Placeholders",
     "Chapter 7: Figure Placeholders",
     "Chapter 8: Figure Placeholders",
@@ -757,7 +756,7 @@
     "Chapter 21: Figure Placeholders"
   ],
   "generated_file": "exports/publication/Practical-Beekeeping-Handbook.md",
-  "generated_sha256": "014c36e552bc5b5efab10fed0ba87577477479a5698e81e3cf8e54404caa3535",
+  "generated_sha256": "5ab6a3a47a9ce43af6143bc7e692ee29b0e3176ac8689e6073638db3a5eb5867",
   "chapter_count": 74,
   "reference_count": 11,
   "asset_plan_count": 74

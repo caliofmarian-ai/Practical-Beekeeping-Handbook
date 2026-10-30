@@ -157,6 +157,66 @@ Repeated generic headings such as “Other Information” or “More Details” 
 
 ---
 
+# Narrative-First Editorial Standard
+
+The handbook must read as a developed book, not as an outline expanded with bullet points. Lists, tables, checklists and procedures remain important practical tools, but they must support explanation rather than replace it.
+
+For every conceptual section, the prose should normally establish five things before or around any list:
+
+1. **What the subject is.** Define the concept in plain professional language and locate it within colony biology or practical beekeeping.
+2. **How it works.** Explain the mechanism, sequence, relationship, or cause-and-effect logic that makes the subject understandable.
+3. **Why it matters.** Connect the information to colony welfare, beekeeper decisions, safety, product quality, economics, law, or environmental context as relevant.
+4. **What the reader should observe or do.** Translate the explanation into practical field judgement without turning every paragraph into a procedure.
+5. **What the limits are.** State important seasonal, regional, biological, evidential, or legal boundaries and avoid false universality.
+
+A section should not consist of a one-sentence introduction followed by a long list unless the subject is genuinely an inventory, checklist, set of symptoms, equipment list, or ordered procedure. Where a list contains ideas that need interpretation, first explain the relationships in prose and then use the list as a compact reference.
+
+Narrative development must add understanding, not volume for its own sake. Writers must not pad chapters with repetition, generic transitions, decorative anecdotes, unsupported claims, or invented examples. Additional prose must contribute mechanism, context, decision logic, field interpretation, or a meaningful example.
+
+Paragraphs should vary naturally in length. Short paragraphs are useful for emphasis, but repeated one-sentence paragraphs create a fragmented manual-like rhythm and should be consolidated when ideas belong together.
+
+Transitions should show how one topic leads to the next. A chapter should feel like a guided progression of ideas rather than a stack of independent reference cards.
+
+## Narrative Treatment of Practical Lists
+
+Retain bullet lists when they improve scanning for:
+
+- equipment and materials;
+- warning signs and observations;
+- advantages and disadvantages;
+- inspection findings;
+- preparation items;
+- legal or record fields;
+- concise comparison points.
+
+Before a substantial list, explain why the items belong together and how the reader should interpret them. After the list, explain the decision or practical conclusion when that is not self-evident.
+
+Use numbered steps only when order matters. Do not turn a biological explanation, historical development, or conceptual comparison into numbered steps merely for visual structure.
+
+## Field Examples and Decision Context
+
+Use brief field examples where they help the reader connect principles with apiary reality. A useful example should clarify a decision, contrast two plausible interpretations, or show why timing and context matter.
+
+Examples must remain biologically plausible and must not introduce fabricated statistics, legal requirements, treatment thresholds, or claims of certainty. High-stakes examples involving disease, medicines, food safety, severe allergy, or law must remain within the verified evidence and jurisdiction boundaries already established by the chapter.
+
+## Chapter-Level Narrative Gate
+
+Before a chapter is accepted for publication, an editor must confirm that:
+
+- the introduction explains the chapter's practical significance rather than merely announcing topics;
+- major sections contain developed explanatory paragraphs;
+- lists are supplementary rather than the dominant teaching method;
+- cause-and-effect relationships are explained where relevant;
+- practical consequences follow from the scientific explanation;
+- transitions connect major ideas;
+- examples add understanding without becoming filler;
+- the conclusion synthesises the chapter instead of merely repeating a bullet list;
+- no useful technical content, safety boundary, citation, table, checklist, or procedure was lost during narrative revision.
+
+A chapter can pass structural, technical, language and build checks and still fail this narrative gate. Publication readiness requires both.
+
+---
+
 # Paragraphs, Lists, and Procedures
 
 Paragraphs should normally be concise and readable on both mobile screens and printed pages.
