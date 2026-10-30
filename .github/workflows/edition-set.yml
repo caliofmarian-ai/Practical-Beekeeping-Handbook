@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - publishing/edition-architecture-230
+      - publishing/narrative-wave-01-ch01-05
     paths:
       - 'chapters/**'
       - 'references/**'
@@ -50,7 +51,7 @@ permissions:
 
 jobs:
   refresh:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/publishing/edition-architecture-230'
+    if: github.event_name == 'push' && (github.ref == 'refs/heads/publishing/edition-architecture-230' || github.ref == 'refs/heads/publishing/narrative-wave-01-ch01-05')
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
