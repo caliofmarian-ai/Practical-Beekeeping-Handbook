@@ -6,7 +6,7 @@ The owner approved a complete digital book plus a multi-volume print edition. Th
 
 | Print volume | Chapters | Approx. chapter word tokens | Core figures | Core photographs |
 |---|---:|---:|---:|---:|
-| Foundations, Honey Bee Biology and Starting an Apiary | 1–23 | 135,590 | 72 | 7 |
+| Foundations, Honey Bee Biology and Starting an Apiary | 1–23 | 142,007 | 72 | 7 |
 | Colony Management | 24–38 | 93,445 | 49 | 3 |
 | Bee Health | 39–46 | 40,845 | 40 | 13 |
 | Honey Production and Other Hive Products | 47–59 | 69,789 | 39 | 13 |
@@ -28,11 +28,11 @@ The following structural counts guide inspection only. Lists may be appropriate 
 
 | Chapter | Volume | Word tokens | Body bullet lines | Body numbered lines | Prose paragraphs | Paragraphs with 40+ tokens |
 |---:|---|---:|---:|---:|---:|---:|
-| 1 | volume-01 | 4341 | 436 | 24 | 132 | 1 |
-| 2 | volume-01 | 6217 | 357 | 8 | 220 | 11 |
-| 3 | volume-01 | 5597 | 392 | 29 | 171 | 6 |
-| 4 | volume-01 | 6341 | 339 | 31 | 192 | 15 |
-| 5 | volume-01 | 2579 | 152 | 14 | 85 | 4 |
+| 1 | volume-01 | 7091 | 63 | 14 | 129 | 80 |
+| 2 | volume-01 | 7599 | 147 | 0 | 219 | 45 |
+| 3 | volume-01 | 6201 | 151 | 29 | 127 | 50 |
+| 4 | volume-01 | 6947 | 81 | 10 | 157 | 46 |
+| 5 | volume-01 | 3654 | 13 | 14 | 84 | 33 |
 | 6 | volume-01 | 3715 | 78 | 0 | 99 | 17 |
 | 7 | volume-01 | 4156 | 228 | 17 | 176 | 2 |
 | 8 | volume-01 | 4505 | 445 | 23 | 187 | 1 |
@@ -103,6 +103,6 @@ The following structural counts guide inspection only. Lists may be appropriate 
 | 73 | volume-05 | 5323 | 349 | 10 | 264 | 6 |
 | 74 | volume-05 | 5275 | 442 | 10 | 248 | 5 |
 
-Source fingerprint: `a345e4964a0bc63fdd687ddb16f2ca91a516f548a1ffea3412d973a9cf86b02f`
+Source fingerprint: `def7193ec8f2979659413b27b9cffd0d3e4b2cc5455ab409c9c6d614c4de4268`
 
 Rebuild with `python scripts/build_edition_set.py`; verify with `--check`. `--release-check` exits 2 while gates are pending or approval evidence is stale.
